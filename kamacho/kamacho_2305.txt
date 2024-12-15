@@ -1,0 +1,44 @@
+Model: kamacho
+Plate Style: 0
+Plate Text:   FOXI  
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 83
+Wheel Type: 8
+Spoiler: 9
+Front Bumper: 12
+Rear Bumper: 8
+Sideskirt: 4
+Exhaust: 4
+Chassis: 5
+Grille: 3
+Hood: 8
+Fender: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 35
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 65
+Tyres Mode: 1
+Extra 1: Yes

@@ -1,0 +1,40 @@
+Model: tempesta
+Plate Style: 0
+Plate Text: 44YVN572
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 122
+Wheel Type: 8
+Spoiler: 4
+Front Bumper: 2
+Sideskirt: 3
+Exhaust: 1
+Chassis: 1
+Hood: 8
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 118
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #bd77ef
+Custom Secondary Colour: #bd77ef
+Neon Colour: #bd77ef
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

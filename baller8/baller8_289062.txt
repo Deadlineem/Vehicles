@@ -1,0 +1,46 @@
+Model: baller8
+Plate Style: 5
+Plate Text:   K3Y   
+Primary Colour: 93
+Secondary Colour: 0
+Pearl Colour: 4
+Wheel Colour: 8
+Wheel Type: 3
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Chassis: 2
+Grille: 0
+Hood: 1
+Fender: 4
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 3
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Trim2: 2
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: #3a3633
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 99
+Dashboard Colour: 6
+Tyres Mode: 2

@@ -1,0 +1,52 @@
+Model: nero2
+Plate Style: 1
+Plate Text: 69IZM617
+Primary Colour: 73
+Secondary Colour: 141
+Pearl Colour: 70
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 1
+Front Bumper: 3
+Rear Bumper: 1
+Exhaust: 2
+Chassis: 0
+Grille: 3
+Hood: 0
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Vanity Plates: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 0
+Aerials: 1
+Trim2: 1
+Windows: 1
+Livery: 1
+Tyre Smoke Colour: #00aeef
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 70
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No

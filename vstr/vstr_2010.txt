@@ -1,0 +1,44 @@
+Model: vstr
+Plate Style: 0
+Plate Text: 80FED380
+Primary Colour: 131
+Secondary Colour: 131
+Pearl Colour: 0
+Wheel Colour: 122
+Wheel Type: 7
+Spoiler: 0
+Front Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 10
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

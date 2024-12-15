@@ -1,0 +1,45 @@
+Model: dominator3
+Plate Style: 5
+Plate Text:   UWU   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 2
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 3
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 11
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: #093313
+Custom Secondary Colour: #093313
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

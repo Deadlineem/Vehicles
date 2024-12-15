@@ -1,0 +1,59 @@
+Model: jester4
+Plate Style: 0
+Plate Text: 22YIM854
+Primary Colour: 3
+Secondary Colour: 28
+Pearl Colour: 28
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 9
+Front Bumper: 11
+Rear Bumper: 10
+Sideskirt: 8
+Exhaust: 11
+Chassis: 9
+Grille: 5
+Hood: 8
+Fender: 0
+Right Fender: 2
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: Yes
+Turbo: No
+Unk19: Yes
+Tiresmoke: No
+Unk21: Yes
+Headlights: 0
+Front Wheels: 0
+Vanity Plates: 3
+Trim: 10
+Ornaments: 2
+Dashboard: 1
+Dial: 4
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 4
+Air Filter: 8
+Struts: 0
+Arch Cover: 2
+Trim2: 1
+Tank: 0
+Livery: 8
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #292c2e
+Custom Secondary Colour: #8a0b00
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 27
+Dashboard Colour: 156
+Tyres Mode: 1

@@ -1,0 +1,44 @@
+Model: paragon
+Plate Style: 0
+Plate Text: 00VQL213
+Primary Colour: 0
+Secondary Colour: 57
+Pearl Colour: 89
+Wheel Colour: 13
+Wheel Type: 9
+Spoiler: 2
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 124
+Livery: 12
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #160d00
+Custom Secondary Colour: #000000
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1

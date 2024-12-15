@@ -1,0 +1,45 @@
+Model: cerberus2
+Plate Style: 0
+Plate Text: 07NPS179
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 89
+Wheel Colour: 151
+Wheel Type: 10
+Rear Bumper: 3
+Exhaust: 7
+Chassis: 3
+Grille: 5
+Hood: 5
+Right Fender: 5
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 41
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 7
+Front Wheels: 101
+Plaques: 4
+Air Filter: 4
+Struts: 3
+Arch Cover: 6
+Aerials: 1
+Livery: 0
+Tyre Smoke Colour: #e20606
+Window Tint: 1
+Custom Primary Colour: #0f1610
+Custom Secondary Colour: #0f1610
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 27
+Tyres Mode: 1

@@ -1,0 +1,42 @@
+Model: torero
+Plate Style: 0
+Plate Text: 00DTT884
+Primary Colour: 141
+Secondary Colour: 36
+Pearl Colour: 65
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 4
+Front Bumper: 0
+Rear Bumper: 0
+Exhaust: 1
+Grille: 0
+Hood: 1
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #141414
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 2

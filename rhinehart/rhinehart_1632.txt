@@ -1,0 +1,44 @@
+Model: rhinehart
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 12
+Pearl Colour: 127
+Wheel Colour: 62
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 1
+Rear Bumper: 5
+Sideskirt: 8
+Exhaust: 5
+Chassis: 1
+Grille: 1
+Hood: 7
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 124
+Livery: 2
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #020e47
+Custom Secondary Colour: #b2dfff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

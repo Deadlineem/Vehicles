@@ -1,0 +1,45 @@
+Model: z190
+Plate Style: 0
+Plate Text: KHOTHOS 
+Primary Colour: 153
+Secondary Colour: 110
+Pearl Colour: 116
+Wheel Colour: 64
+Wheel Type: 8
+Spoiler: 21
+Front Bumper: 8
+Rear Bumper: 14
+Sideskirt: 17
+Exhaust: 14
+Chassis: 12
+Grille: 0
+Hood: 16
+Fender: 8
+Right Fender: 9
+Roof: 12
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 50
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 35
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 109
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,35 @@
+Model: casco
+Plate Style: 5
+Plate Text:   777   
+Primary Colour: 8
+Secondary Colour: 8
+Pearl Colour: 134
+Wheel Colour: 134
+Wheel Type: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 39
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 104
+Livery: -1
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #fffffe
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 134
+Dashboard Colour: 134
+Tyres Mode: 1
+Extra 2: Yes

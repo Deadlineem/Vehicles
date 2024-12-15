@@ -1,0 +1,45 @@
+Model: sultan2
+Plate Style: 5
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 161
+Wheel Colour: 90
+Wheel Type: 5
+Spoiler: 16
+Front Bumper: 4
+Rear Bumper: 4
+Sideskirt: 4
+Exhaust: 9
+Chassis: 3
+Grille: 4
+Hood: 11
+Fender: 2
+Right Fender: 1
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 15
+Livery: 10
+Tyre Smoke Colour: #7200ff
+Window Tint: 1
+Custom Primary Colour: #002047
+Custom Secondary Colour: #002047
+Neon Colour: #7200ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 160
+Tyres Mode: 1

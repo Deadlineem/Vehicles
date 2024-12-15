@@ -1,0 +1,46 @@
+Model: buffalo
+Plate Style: 0
+Plate Text: 28PWI576
+Primary Colour: 33
+Secondary Colour: 0
+Pearl Colour: 38
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 1
+Rear Bumper: 1
+Sideskirt: 1
+Exhaust: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 209
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #abfc26
+Custom Secondary Colour: #50fe81
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 10: Yes
+Extra 11: No

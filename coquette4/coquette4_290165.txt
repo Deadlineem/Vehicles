@@ -1,0 +1,44 @@
+Model: coquette4
+Plate Style: 0
+Plate Text: 07PXQ488
+Primary Colour: 77
+Secondary Colour: 121
+Pearl Colour: 74
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 2
+Chassis: 0
+Grille: 2
+Hood: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #275190
+Custom Secondary Colour: #eae6de
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 16
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: Yes

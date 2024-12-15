@@ -1,0 +1,56 @@
+Model: slamvan3
+Plate Style: 0
+Plate Text: 85VVX241
+Primary Colour: 12
+Secondary Colour: 13
+Pearl Colour: 20
+Wheel Colour: 156
+Wheel Type: 1
+Spoiler: 0
+Front Bumper: 1
+Exhaust: 5
+Grille: 5
+Hood: 4
+Roof: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 30
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 3
+Ornaments: 1
+Dashboard: 2
+Dial: 14
+Door Speaker: 4
+Steering Wheel: 1
+Shifter Leavers: 1
+Plaques: 2
+Hydraulics: 4
+Engine Block: 4
+Air Filter: 5
+Tank: 1
+Windows: 0
+Livery: 9
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

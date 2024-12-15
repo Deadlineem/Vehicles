@@ -1,0 +1,34 @@
+Model: bullet
+Plate Style: 9
+Plate Text:  SPICY  
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 132
+Wheel Type: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 30
+Livery: -1
+Tyre Smoke Colour: #c40909
+Window Tint: 1
+Custom Primary Colour: #c40909
+Custom Secondary Colour: #d0d4d8
+Neon Colour: #c40909
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

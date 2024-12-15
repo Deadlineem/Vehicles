@@ -1,0 +1,54 @@
+Ford Fiesta ST '17 WRC Hoonigan
+Original model: Forza, Rally tires are made by me
+Taken from gamemodels.ru
+Converting: Wanted188 (me)
+
+Brought to you by: Anxo Rh - Who has supported me on patreon and requested this car
+
+Special thanks to:
+Eddlm for handling and testing
+Ashton for testing
+
+You probably didn't expect this one from me did you?
+
+Ive spent countless hours making these mods. If you like what i do, feel free to support me via PayPal or Patreon!
+
+Ive been asked to be more specific about the features of my cars so:
+Features: 
+- LODs
+- Paintable interior
+Paint 1 - Main body
+Paint 2 - Seats and some parts of the spoiler
+Paint 4 - Wheels
+Paint 6 - The inner part of the interior
+Paint 7 - Seat padding and a few other details
+
+- Breakable glass (even the Hoonigan livery extras shatter like regular glass)
+- Alternative liveries (one of a french WRC team and the other is a street one just for lolz)
+- Custom rally tires that were specifically made just for this car by me (Have LODs and all the proper textures)
+- Custom Dirt map
+- License plates as extras 
+- Realistic handling by Eddlm
+- AO Map
+
+- This car has multiple HQ textures that may affect your performance so ive included a folder with resized textures that you could import to the fiestawrc.ytd to reduce the car's impact on your PC
+to do this, simply open the fiestawrc.ytd in OpenIV and import all (or you can just choose some if you want) of the textures that ive included in the folder called "Resized textures for low vram" and voila!
+Also, to disable some liveries, use the same steps as mentioned above but simply import the textures from a folder called "disable liveries" into the fiestawrc.ytd
+- There are a few alternative Handling settings provided with this mod Most of them aim to make the car behave realistically. i would recommend you to try each one of them to see what you like best.
+
+Bugs:
+ATTENTION: you may think that this is a bug but it isn't, this car only has a reverse-light on it's left side. The light on the right is a rear foglight so it turns on when you press the lights button again.
+Other than that, This car has no known bugs.
+
+Installation:
+
+Grand Theft Auto V\mods\update\update.rpf\common\data\dlclist.xml
+
+Open dlclist.xml add the following line:
+
+		<Item>dlcpacks:/fiestawrc/</Item>
+
+Use a trainer to spawn the car ingame
+The car's name is: fiestawrc
+
+To disable liveries, just open the fiestawrc.ytd archive via OpenIV and import the textures from a folder called "Disable Liveries"

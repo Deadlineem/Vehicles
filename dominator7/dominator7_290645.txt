@@ -1,0 +1,60 @@
+Model: dominator7
+Plate Style: 5
+Plate Text:   K3Y   
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 44
+Wheel Colour: 5
+Wheel Type: 12
+Spoiler: 3
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 1
+Chassis: 0
+Grille: 2
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 29
+Trim: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 0
+Air Filter: 16
+Struts: 10
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 1
+Left Door: 0
+Right Door: 8
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 4
+Custom Primary Colour: #280404
+Custom Secondary Colour: #280404
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 111
+Tyres Mode: 2

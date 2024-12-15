@@ -1,0 +1,44 @@
+Model: jugular
+Plate Style: 1
+Plate Text: SNB ATHN
+Primary Colour: 92
+Secondary Colour: 92
+Pearl Colour: 92
+Wheel Colour: 156
+Wheel Type: 12
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 2
+Sideskirt: 3
+Exhaust: 2
+Grille: 1
+Hood: 4
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 0
+Transmission: 4
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 29
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: #004178
+Custom Secondary Colour: #004178
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No

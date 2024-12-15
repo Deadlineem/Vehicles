@@ -1,0 +1,52 @@
+Model: polgauntlet
+Plate Style: 4
+Plate Text: KHOTHOS 
+Primary Colour: 0
+Secondary Colour: 111
+Pearl Colour: 0
+Wheel Colour: 83
+Wheel Type: 8
+Spoiler: 10
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 2
+Exhaust: 5
+Chassis: 6
+Grille: 6
+Hood: 5
+Fender: 6
+Right Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 35
+Arch Cover: 7
+Aerials: 6
+Trim2: 6
+Livery: 4
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 2
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: Yes
+Extra 3: No
+Extra 4: No

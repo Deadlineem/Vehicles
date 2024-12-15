@@ -1,0 +1,58 @@
+Model: sultanrs
+Plate Style: 0
+Plate Text: 22JJT063
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 70
+Wheel Colour: 156
+Wheel Type: 11
+Spoiler: 2
+Front Bumper: 15
+Rear Bumper: 3
+Sideskirt: 4
+Exhaust: 5
+Chassis: 5
+Grille: 0
+Hood: 5
+Fender: 6
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 53
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 19
+Trim: 1
+Ornaments: 7
+Dashboard: 4
+Dial: 5
+Seats: 1
+Door Speaker: 12
+Steering Wheel: 15
+Engine Block: 3
+Air Filter: 7
+Struts: 6
+Arch Cover: 1
+Aerials: 0
+Trim2: 0
+Left Door: 1
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #00001e
+Custom Secondary Colour: #00001e
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 4
+Tyres Mode: 1

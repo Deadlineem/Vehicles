@@ -1,0 +1,38 @@
+Model: veto2
+Plate Style: 0
+Plate Text: 02FNX809
+Primary Colour: 158
+Secondary Colour: 12
+Pearl Colour: 159
+Wheel Colour: 122
+Wheel Type: 0
+Spoiler: 0
+Exhaust: 12
+Chassis: 3
+Grille: 12
+Right Fender: 4
+Engine: 4
+Brakes: 3
+Transmission: 0
+Horns: 45
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

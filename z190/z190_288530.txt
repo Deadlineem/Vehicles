@@ -1,0 +1,45 @@
+Model: z190
+Plate Style: 11
+Plate Text:   UWU   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 136
+Wheel Colour: 122
+Wheel Type: 5
+Spoiler: 3
+Front Bumper: 3
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Grille: 9
+Hood: 3
+Fender: 4
+Right Fender: 8
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 28
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #3f313a
+Custom Secondary Colour: #3f313a
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 112
+Dashboard Colour: 0
+Tyres Mode: 2

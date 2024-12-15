@@ -1,0 +1,41 @@
+Model: tahoma
+Plate Style: 0
+Plate Text: KHOTHOS 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 9
+Front Bumper: 3
+Rear Bumper: 3
+Exhaust: 9
+Grille: 0
+Hood: 3
+Fender: 7
+Roof: 8
+Engine: 5
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 212
+Livery: 7
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 99
+Dashboard Colour: 134
+Tyres Mode: 1

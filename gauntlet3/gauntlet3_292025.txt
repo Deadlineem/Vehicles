@@ -1,0 +1,45 @@
+Model: gauntlet3
+Plate Style: 5
+Plate Text:   K3Y   
+Primary Colour: 93
+Secondary Colour: 0
+Pearl Colour: 1
+Wheel Colour: 13
+Wheel Type: 1
+Spoiler: 2
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 3
+Chassis: 0
+Grille: 2
+Hood: 1
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 29
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: 
+Custom Secondary Colour: #57514b
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 2

@@ -1,0 +1,39 @@
+Model: brioso
+Plate Style: 0
+Plate Text: 88LLQ309
+Primary Colour: 64
+Secondary Colour: 42
+Pearl Colour: 64
+Wheel Colour: 42
+Wheel Type: 11
+Spoiler: 1
+Front Bumper: 2
+Rear Bumper: 1
+Hood: 2
+Roof: 3
+Engine: 4
+Brakes: 0
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 0
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 25
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1

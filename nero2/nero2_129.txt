@@ -1,0 +1,52 @@
+Model: nero2
+Plate Style: 0
+Plate Text:  BY KIX 
+Primary Colour: 111
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 2
+Exhaust: 5
+Chassis: 3
+Grille: 3
+Hood: 0
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 0
+Vanity Plates: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 3
+Steering Wheel: 0
+Engine Block: 2
+Aerials: 3
+Trim2: 1
+Windows: 3
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #f0f0f0
+Custom Secondary Colour: #080808
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 33
+Dashboard Colour: 65
+Tyres Mode: 1
+Extra 1: Yes

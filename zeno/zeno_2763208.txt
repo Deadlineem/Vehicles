@@ -1,0 +1,42 @@
+Model: zeno
+Plate Style: 5
+Plate Text: ILLUS1ON
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 3
+Spoiler: 3
+Front Bumper: 0
+Rear Bumper: 8
+Sideskirt: 2
+Exhaust: 18
+Hood: 4
+Fender: 3
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 38
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 5
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #40e0d0
+Window Tint: 6
+Custom Primary Colour: #40e0d0
+Custom Secondary Colour: #40e0d0
+Neon Colour: #40e0d0
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 134
+Tyres Mode: 1

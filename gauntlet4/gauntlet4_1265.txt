@@ -1,0 +1,45 @@
+Model: gauntlet4
+Plate Style: 5
+Plate Text:         
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 89
+Wheel Colour: 42
+Wheel Type: 10
+Spoiler: 9
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 2
+Exhaust: 3
+Chassis: 1
+Grille: 6
+Hood: 4
+Fender: 2
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 41
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 7
+Front Wheels: 8
+Livery: 7
+Tyre Smoke Colour: #f9bf00
+Window Tint: 5
+Custom Primary Colour: #ffa100
+Custom Secondary Colour: #000000
+Neon Colour: #ffb600
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 42
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,44 @@
+Model: italigto
+Plate Style: 0
+Plate Text: 26SGL871
+Primary Colour: 32
+Secondary Colour: 0
+Pearl Colour: 7
+Wheel Colour: 111
+Wheel Type: 7
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 6
+Exhaust: 3
+Chassis: 0
+Grille: 1
+Hood: 0
+Fender: 3
+Roof: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 28
+Dashboard Colour: 0
+Tyres Mode: 1

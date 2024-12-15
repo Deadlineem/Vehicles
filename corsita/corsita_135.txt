@@ -1,0 +1,45 @@
+Model: corsita
+Plate Style: 1
+Plate Text:         
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 89
+Wheel Colour: 64
+Wheel Type: 9
+Spoiler: 1
+Front Bumper: 5
+Rear Bumper: 3
+Sideskirt: 2
+Exhaust: 0
+Chassis: 0
+Grille: 5
+Hood: 4
+Fender: 0
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 177
+Livery: 7
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #c49a27
+Custom Secondary Colour: #c49a27
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 154
+Dashboard Colour: 156
+Tyres Mode: 1

@@ -1,0 +1,44 @@
+Model: brioso2
+Plate Style: 0
+Plate Text:  BLEHH  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 159
+Wheel Colour: 0
+Wheel Type: 1
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 2
+Sideskirt: 0
+Exhaust: 1
+Chassis: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 28
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: #686664
+Custom Secondary Colour: #686664
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Dashboard Colour: 156
+Tyres Mode: 2

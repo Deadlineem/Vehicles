@@ -1,0 +1,44 @@
+Model: savestra
+Plate Style: 1
+Plate Text: 66WTTO92
+Primary Colour: 111
+Secondary Colour: 111
+Pearl Colour: 140
+Wheel Colour: 109
+Wheel Type: 12
+Spoiler: 4
+Front Bumper: 11
+Rear Bumper: 6
+Sideskirt: 2
+Exhaust: 2
+Chassis: 6
+Grille: 5
+Hood: 6
+Fender: 4
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 11
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: #20588a
+Custom Secondary Colour: #20588a
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

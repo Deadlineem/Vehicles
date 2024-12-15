@@ -1,0 +1,62 @@
+Model: tailgater2
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 88
+Wheel Colour: 89
+Wheel Type: 8
+Spoiler: 3
+Front Bumper: 10
+Rear Bumper: 1
+Sideskirt: 2
+Exhaust: 3
+Chassis: 3
+Grille: 0
+Hood: 20
+Fender: 0
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 120
+Plate Holder: 2
+Vanity Plates: 0
+Trim: 1
+Dashboard: 2
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 3
+Air Filter: 2
+Struts: 2
+Arch Cover: 0
+Aerials: 0
+Trim2: 3
+Tank: 0
+Right Door: 2
+Livery: 9
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #371c25
+Custom Secondary Colour: #000000
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 8
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No

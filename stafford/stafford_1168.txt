@@ -1,0 +1,34 @@
+Model: stafford
+Plate Style: 2
+Plate Text: FJB 111C
+Primary Colour: 21
+Secondary Colour: 21
+Pearl Colour: 8
+Wheel Colour: 122
+Wheel Type: 8
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 11
+Livery: 8
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #efb420
+Custom Secondary Colour: #efb420
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 8
+Dashboard Colour: 0
+Tyres Mode: 1

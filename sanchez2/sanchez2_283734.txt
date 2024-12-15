@@ -1,0 +1,33 @@
+Model: sanchez2
+Plate Style: 5
+Plate Text:         
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 70
+Wheel Colour: 111
+Wheel Type: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 51
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 107
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 5
+Custom Primary Colour: #2f2f44
+Custom Secondary Colour: #2f2f44
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

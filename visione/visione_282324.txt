@@ -1,0 +1,39 @@
+Model: visione
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 1
+Pearl Colour: 161
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 4
+Front Bumper: 5
+Rear Bumper: 5
+Exhaust: 4
+Hood: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 47
+Livery: 7
+Tyre Smoke Colour: #ff3300
+Window Tint: 1
+Custom Primary Colour: #ff0a0a
+Custom Secondary Colour: #000000
+Neon Colour: #ff3300
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

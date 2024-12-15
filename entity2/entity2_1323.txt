@@ -1,0 +1,39 @@
+Model: entity2
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 117
+Pearl Colour: 140
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 6
+Rear Bumper: 2
+Exhaust: 3
+Hood: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 30
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #140023
+Custom Secondary Colour: #140023
+Neon Colour: #0f00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

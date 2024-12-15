@@ -1,0 +1,53 @@
+Model: brioso3
+Plate Style: 0
+Plate Text: 38EKD661
+Primary Colour: 29
+Secondary Colour: 29
+Pearl Colour: 6
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 13
+Front Bumper: 11
+Rear Bumper: 7
+Sideskirt: 3
+Exhaust: 5
+Chassis: 5
+Grille: 7
+Hood: 11
+Fender: 8
+Right Fender: 6
+Roof: 14
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 36
+Trim: 10
+Dashboard: 5
+Seats: 0
+Door Speaker: 14
+Steering Wheel: 16
+Trunk: 11
+Engine Block: 8
+Arch Cover: 9
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #7f0558
+Custom Secondary Colour: #8b0f99
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Dashboard Colour: 156
+Tyres Mode: 1

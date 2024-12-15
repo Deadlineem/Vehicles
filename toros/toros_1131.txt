@@ -1,0 +1,43 @@
+Model: toros
+Plate Style: 1
+Plate Text:         
+Primary Colour: 117
+Secondary Colour: 12
+Pearl Colour: 124
+Wheel Colour: 41
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 3
+Sideskirt: 2
+Exhaust: 12
+Grille: 1
+Hood: 3
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 28
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 59
+Livery: 2
+Tyre Smoke Colour: #140002
+Window Tint: 1
+Custom Primary Colour: #140002
+Custom Secondary Colour: #140002
+Neon Colour: #421300
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 145
+Dashboard Colour: 0
+Tyres Mode: 1

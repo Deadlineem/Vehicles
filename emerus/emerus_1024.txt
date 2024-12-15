@@ -1,0 +1,40 @@
+Model: emerus
+Plate Style: 1
+Plate Text:  TYRANT 
+Primary Colour: 12
+Secondary Colour: 111
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 22
+Sideskirt: 11
+Exhaust: 5
+Grille: 6
+Fender: 2
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 116
+Livery: 6
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No

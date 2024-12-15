@@ -1,0 +1,47 @@
+Model: vigero2
+Plate Style: 1
+Plate Text:   BEE   
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 5
+Front Bumper: 3
+Rear Bumper: 6
+Sideskirt: 10
+Exhaust: 7
+Chassis: 3
+Grille: 6
+Hood: 26
+Fender: 0
+Right Fender: 5
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 27
+Shifter Leavers: 0
+Speakers: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ff8c00
+Custom Secondary Colour: #000000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

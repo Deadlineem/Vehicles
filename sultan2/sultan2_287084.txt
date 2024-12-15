@@ -1,0 +1,45 @@
+Model: sultan2
+Plate Style: 1
+Plate Text: 0CJZD968
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 70
+Wheel Type: 0
+Spoiler: 15
+Front Bumper: 5
+Rear Bumper: 3
+Sideskirt: 4
+Exhaust: 9
+Chassis: 4
+Grille: 4
+Hood: 11
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 4
+Front Wheels: 22
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: #0064ff
+Custom Secondary Colour: #0064ff
+Neon Colour: #0064ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

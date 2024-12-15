@@ -1,0 +1,39 @@
+Model: bestiagts
+Plate Style: 5
+Plate Text:   UWU   
+Primary Colour: 56
+Secondary Colour: 0
+Pearl Colour: 56
+Wheel Colour: 156
+Wheel Type: 3
+Spoiler: 1
+Front Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: #0f1f15
+Neon Colour: #000000
+Neon Front: No
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

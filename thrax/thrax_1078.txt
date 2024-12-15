@@ -1,0 +1,42 @@
+Model: thrax
+Plate Style: 1
+Plate Text: 03FEO164
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 23
+Wheel Colour: 112
+Wheel Type: 2
+Spoiler: 9
+Front Bumper: 0
+Rear Bumper: 3
+Sideskirt: 5
+Exhaust: 10
+Chassis: 0
+Grille: 0
+Hood: 9
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 2
+Front Wheels: 7, Custom
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #160000
+Custom Secondary Colour: #000c2d
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 112
+Dashboard Colour: 112
+Tyres Mode: 1

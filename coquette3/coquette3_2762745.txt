@@ -1,0 +1,41 @@
+Model: coquette3
+Plate Style: 0
+Plate Text: 42ZUN341
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 24
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 2
+Exhaust: 3
+Chassis: 1
+Hood: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 46
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #fa6060
+Custom Secondary Colour: #fa6060
+Neon Colour: #fa6060
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: No

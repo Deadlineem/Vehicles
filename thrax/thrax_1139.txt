@@ -1,0 +1,42 @@
+Model: thrax
+Plate Style: 0
+Plate Text: POPSTAR 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 120
+Wheel Colour: 111
+Wheel Type: 7
+Spoiler: 4
+Front Bumper: 3
+Rear Bumper: 3
+Sideskirt: 2
+Exhaust: 10
+Chassis: 3
+Grille: 2
+Hood: 14
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: No
+Unk21: Yes
+Headlights: 1
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #f92d4b
+Custom Secondary Colour: #f92d4b
+Neon Colour: #8c0023
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 65
+Tyres Mode: 1

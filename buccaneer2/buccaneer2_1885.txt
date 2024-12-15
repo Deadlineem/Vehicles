@@ -1,0 +1,58 @@
+Model: buccaneer2
+Plate Style: 0
+Plate Text: SEX GTA 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 9
+Front Bumper: 1
+Rear Bumper: 1
+Exhaust: 1
+Grille: 0
+Hood: 1
+Fender: 0
+Engine: 2
+Brakes: 3
+Transmission: 0
+Horns: 45
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 115
+Back Wheels: 0
+Plate Holder: 8
+Vanity Plates: 2
+Trim: 4
+Ornaments: 2
+Dial: 11
+Steering Wheel: 6
+Shifter Leavers: 10
+Plaques: 22
+Speakers: 4
+Trunk: 7
+Hydraulics: 4
+Engine Block: 5
+Air Filter: 4
+Tank: 2
+Livery: 4
+Tyre Smoke Colour: #8466e2
+Window Tint: 0
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #c60900
+Neon Colour: #5703ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 112
+Dashboard Colour: 4
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes
+Extra 3: Yes
+Extra 4: Yes

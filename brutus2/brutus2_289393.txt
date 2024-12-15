@@ -1,0 +1,48 @@
+Model: brutus2
+Plate Style: 1
+Plate Text: 46OHB311
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 27
+Wheel Type: 12
+Front Bumper: 1
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 0
+Chassis: 3
+Grille: 1
+Hood: 2
+Fender: 1
+Right Fender: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 3
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 138
+Air Filter: 4
+Struts: 3
+Arch Cover: 5
+Trim2: 0
+Tank: 2
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 29
+Tyres Mode: 1

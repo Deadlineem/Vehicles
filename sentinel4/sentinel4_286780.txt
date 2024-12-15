@@ -1,0 +1,58 @@
+Model: sentinel4
+Plate Style: 5
+Plate Text:   UWU   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 36
+Wheel Colour: 3
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 9
+Sideskirt: 1
+Exhaust: 4
+Chassis: 0
+Grille: 2
+Hood: 1
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 11
+Trim: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Left Door: 0
+Right Door: 0
+Livery: 0
+Tyre Smoke Colour: #000011
+Window Tint: 4
+Custom Primary Colour: #5b1c13
+Custom Secondary Colour: #5b1c13
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 2

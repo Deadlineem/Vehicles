@@ -1,0 +1,43 @@
+Model: furia
+Plate Style: 0
+Plate Text: 70MZR608
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 112
+Wheel Type: 8
+Front Bumper: 8
+Rear Bumper: 8
+Sideskirt: 6
+Exhaust: 14
+Chassis: 2
+Grille: 9
+Hood: 14
+Right Fender: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 107
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #ffffff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 33
+Dashboard Colour: 65
+Tyres Mode: 1

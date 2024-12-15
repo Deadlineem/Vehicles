@@ -1,0 +1,60 @@
+Model: remus
+Plate Style: 1
+Plate Text:  SOPHIE 
+Primary Colour: 0
+Secondary Colour: 27
+Pearl Colour: 111
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 10
+Front Bumper: 6
+Rear Bumper: 5
+Sideskirt: 4
+Exhaust: 4
+Chassis: 5
+Grille: 6
+Hood: 9
+Fender: 4
+Right Fender: 1
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 46
+Vanity Plates: 7
+Trim: 3
+Dashboard: 5
+Dial: 15
+Seats: 7
+Door Speaker: 14
+Steering Wheel: 12
+Trunk: 0
+Engine Block: 4
+Air Filter: 10
+Struts: 12
+Arch Cover: 4
+Trim2: 5
+Tank: 5
+Right Door: 1
+Livery: 1
+Tyre Smoke Colour: #fcee00
+Window Tint: 1
+Custom Primary Colour: #ffd859
+Custom Secondary Colour: #ffd859
+Neon Colour: #ff9605
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 132
+Tyres Mode: 1

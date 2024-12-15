@@ -1,0 +1,43 @@
+Model: entity3
+Plate Style: 1
+Plate Text:         
+Primary Colour: 118
+Secondary Colour: 120
+Pearl Colour: 28
+Wheel Colour: 40
+Wheel Type: 10
+Spoiler: 21
+Front Bumper: 13
+Rear Bumper: 1
+Sideskirt: 9
+Exhaust: 14
+Grille: 2
+Hood: 18
+Fender: 1
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 35
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 88
+Livery: 6
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: 
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

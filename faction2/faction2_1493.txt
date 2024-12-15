@@ -1,0 +1,51 @@
+Model: faction2
+Plate Style: 5
+Plate Text:  FUCKYOU
+Primary Colour: 29
+Secondary Colour: 29
+Pearl Colour: 28
+Wheel Colour: 156
+Wheel Type: 8
+Exhaust: 0
+Hood: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dial: 0
+Steering Wheel: 0
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 0
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 35
+Dashboard Colour: 35
+Tyres Mode: 1
+Extra 2: No
+Extra 3: Yes

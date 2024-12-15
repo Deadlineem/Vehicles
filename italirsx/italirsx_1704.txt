@@ -1,0 +1,44 @@
+Model: italirsx
+Plate Style: 4
+Plate Text:  RARIII 
+Primary Colour: 117
+Secondary Colour: 111
+Pearl Colour: 18
+Wheel Colour: 122
+Wheel Type: 11
+Spoiler: 19
+Front Bumper: 4
+Rear Bumper: 13
+Sideskirt: 8
+Exhaust: 8
+Chassis: 4
+Grille: 7
+Hood: 12
+Right Fender: 1
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 38
+Suspension: 2
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 14
+Front Wheels: 75
+Livery: 5
+Tyre Smoke Colour: #6e00ff
+Window Tint: 1
+Custom Primary Colour: #3200ff
+Custom Secondary Colour: 
+Neon Colour: #0f03ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 0
+Tyres Mode: 1

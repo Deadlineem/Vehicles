@@ -1,0 +1,36 @@
+Model: tyrus
+Plate Style: 0
+Plate Text:   LIFE  
+Primary Colour: 107
+Secondary Colour: 0
+Pearl Colour: 107
+Wheel Colour: 122
+Wheel Type: 10
+Spoiler: 2
+Exhaust: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 80
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: #ff0000
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1

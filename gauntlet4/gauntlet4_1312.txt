@@ -1,0 +1,45 @@
+Model: gauntlet4
+Plate Style: 0
+Plate Text: MOODYMAN
+Primary Colour: 111
+Secondary Colour: 111
+Pearl Colour: 0
+Wheel Colour: 122
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 0
+Sideskirt: 1
+Exhaust: 1
+Chassis: 0
+Grille: 3
+Hood: 4
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 1
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 15
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

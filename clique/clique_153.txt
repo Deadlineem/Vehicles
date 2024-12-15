@@ -1,0 +1,42 @@
+Model: clique
+Plate Style: 3
+Plate Text: 20VHA004
+Primary Colour: 117
+Secondary Colour: 118
+Pearl Colour: 27
+Wheel Colour: 81
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 1
+Chassis: 0
+Grille: 7
+Hood: 1
+Fender: 2
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 6
+Livery: 11
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #3c00ff
+Custom Secondary Colour: #3c00ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 2
+Dashboard Colour: 0
+Tyres Mode: 1

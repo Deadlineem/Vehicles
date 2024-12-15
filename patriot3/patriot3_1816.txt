@@ -1,0 +1,48 @@
+Model: patriot3
+Plate Style: 5
+Plate Text:  TIKTOK 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 53
+Wheel Type: 10
+Spoiler: 3
+Front Bumper: 10
+Rear Bumper: 7
+Sideskirt: 10
+Exhaust: 6
+Chassis: 1
+Grille: 16
+Hood: 3
+Fender: 7
+Right Fender: 1
+Roof: 9
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 140
+Ornaments: 3
+Trim2: 2
+Tank: 1
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #a2e49b
+Custom Secondary Colour: #916733
+Neon Colour: #65ff7f
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 134
+Tyres Mode: 1

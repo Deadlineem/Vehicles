@@ -1,0 +1,71 @@
+Model: cypher
+Plate Style: 0
+Plate Text:  WQ200  
+Primary Colour: 54
+Secondary Colour: 36
+Pearl Colour: 60
+Wheel Colour: 122
+Wheel Type: 11
+Spoiler: 13
+Front Bumper: 11
+Rear Bumper: 4
+Sideskirt: 8
+Exhaust: 8
+Chassis: 9
+Grille: 1
+Hood: 14
+Fender: 2
+Right Fender: 5
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 53
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 120
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 2
+Trim: 5
+Ornaments: 2
+Dashboard: 4
+Dial: 1
+Seats: 2
+Door Speaker: 9
+Steering Wheel: 14
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 12
+Air Filter: 0
+Struts: 17
+Arch Cover: 8
+Aerials: 0
+Trim2: 0
+Tank: 3
+Windows: 0
+Unk47: 0
+Livery: 0
+Unk49: 2
+Tyre Smoke Colour: #00aeef
+Window Tint: 1
+Custom Primary Colour: #45ffff
+Custom Secondary Colour: #45ffff
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Roof Livery: 0
+Dashboard Colour: 0
+Tyres Mode: 1

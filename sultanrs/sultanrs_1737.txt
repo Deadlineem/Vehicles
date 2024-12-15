@@ -1,0 +1,58 @@
+Model: sultanrs
+Plate Style: 0
+Plate Text: 41CMF473
+Primary Colour: 62
+Secondary Colour: 62
+Pearl Colour: 68
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 10
+Front Bumper: 14
+Rear Bumper: 8
+Sideskirt: 2
+Exhaust: 5
+Chassis: 5
+Grille: 4
+Hood: 9
+Fender: 6
+Roof: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 50
+Trim: 1
+Ornaments: 3
+Dashboard: 2
+Dial: 3
+Seats: 3
+Door Speaker: 14
+Steering Wheel: 13
+Engine Block: 4
+Air Filter: 6
+Struts: 12
+Arch Cover: 4
+Aerials: 2
+Trim2: 1
+Windows: 1
+Livery: 7
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

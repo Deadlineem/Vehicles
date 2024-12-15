@@ -1,0 +1,35 @@
+Model: apc
+Plate Style: 0
+Plate Text:         
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 147
+Wheel Type: 8
+Right Fender: 0
+Roof: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #7bffff
+Window Tint: 1
+Custom Primary Colour: #7bffff
+Custom Secondary Colour: #7bffff
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

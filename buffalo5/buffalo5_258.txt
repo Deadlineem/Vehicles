@@ -1,0 +1,47 @@
+Model: buffalo5
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 12
+Pearl Colour: 140
+Wheel Colour: 62
+Wheel Type: 8
+Spoiler: 6
+Front Bumper: 7
+Rear Bumper: 3
+Sideskirt: 11
+Chassis: 1
+Grille: 2
+Hood: 0
+Fender: 7
+Right Fender: 1
+Roof: 7
+Engine: 0
+Brakes: 3
+Transmission: 3
+Horns: 39
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 4
+Front Wheels: 117
+Ornaments: 1
+Trim2: 1
+Right Door: 1
+Livery: 3
+Tyre Smoke Colour: #ffff00
+Window Tint: 1
+Custom Primary Colour: #00183d
+Custom Secondary Colour: #ffffff
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

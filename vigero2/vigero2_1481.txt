@@ -1,0 +1,47 @@
+Model: vigero2
+Plate Style: 0
+Plate Text:  GHOST  
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 23
+Wheel Type: 8
+Spoiler: 7
+Front Bumper: 14
+Rear Bumper: 13
+Sideskirt: 5
+Exhaust: 6
+Chassis: 1
+Grille: 2
+Hood: 16
+Fender: 12
+Right Fender: 4
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 42
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 10
+Front Wheels: 170
+Shifter Leavers: 0
+Speakers: 0
+Livery: 10
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #780000
+Custom Secondary Colour: #780000
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

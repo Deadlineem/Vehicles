@@ -1,0 +1,35 @@
+Model: radi
+Plate Style: 5
+Plate Text:         
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 111
+Wheel Type: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 51
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 1
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 5
+Custom Primary Colour: #ff0000
+Custom Secondary Colour: #ff0000
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes

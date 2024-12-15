@@ -1,0 +1,42 @@
+Model: thrax
+Plate Style: 7
+Plate Text: 25EBI702
+Primary Colour: 87
+Secondary Colour: 85
+Pearl Colour: 0
+Wheel Colour: 26
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 1
+Exhaust: 3
+Chassis: 0
+Grille: 0
+Hood: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #74b5d8
+Custom Secondary Colour: #4c5f81
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

@@ -1,0 +1,46 @@
+Model: sentinel
+Plate Style: 1
+Plate Text: 0CJZD968
+Primary Colour: 71
+Secondary Colour: 71
+Pearl Colour: 70
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 28
+Front Bumper: 13
+Rear Bumper: 1
+Sideskirt: 2
+Exhaust: 2
+Chassis: 0
+Hood: 9
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 19
+Speakers: 0
+Livery: 6
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 10: No

@@ -1,0 +1,46 @@
+Model: dubsta
+Plate Style: 8
+Plate Text: 87RUG389
+Primary Colour: 21
+Secondary Colour: 21
+Pearl Colour: 17
+Wheel Colour: 40
+Wheel Type: 3
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 2
+Exhaust: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #1e232f
+Custom Secondary Colour: #1e232f
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 10: No
+Extra 11: No
+Extra 12: Yes

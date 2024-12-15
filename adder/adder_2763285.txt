@@ -1,0 +1,37 @@
+Model: adder
+Plate Style: 4
+Plate Text:   JIRB  
+Primary Colour: 120
+Secondary Colour: 0
+Pearl Colour: 18
+Wheel Colour: 122
+Wheel Type: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 77
+Livery: 5
+Tyre Smoke Colour: #141414
+Window Tint: 0
+Custom Primary Colour: #c600d8
+Custom Secondary Colour: #c600d8
+Neon Colour: #ff9605
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 10: Yes
+Extra 12: Yes

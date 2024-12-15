@@ -1,0 +1,46 @@
+Model: champion
+Plate Style: 1
+Plate Text: 45CQM984
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 88
+Wheel Colour: 0
+Wheel Type: 9
+Spoiler: 1
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 1
+Chassis: 0
+Grille: 0
+Hood: 0
+Right Fender: 0
+Roof: 2
+Engine: 2
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 1
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 119
+Trim2: 0
+Tank: 0
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #140000
+Custom Secondary Colour: #140000
+Neon Colour: #7f0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 134
+Tyres Mode: 1

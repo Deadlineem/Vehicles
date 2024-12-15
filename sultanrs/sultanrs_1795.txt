@@ -1,0 +1,58 @@
+Model: sultanrs
+Plate Style: 5
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 161
+Wheel Colour: 28
+Wheel Type: 0
+Spoiler: 15
+Front Bumper: 15
+Rear Bumper: 8
+Sideskirt: 4
+Exhaust: 1
+Chassis: 0
+Grille: 4
+Hood: 9
+Fender: 6
+Roof: 1
+Engine: 5
+Brakes: 3
+Transmission: 4
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 21
+Trim: 1
+Ornaments: 1
+Dashboard: 5
+Dial: 6
+Seats: 1
+Door Speaker: 12
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 8
+Struts: 12
+Arch Cover: 2
+Aerials: 2
+Trim2: 2
+Left Door: 2
+Livery: 6
+Tyre Smoke Colour: #ff00d4
+Window Tint: 1
+Custom Primary Colour: #fffcd1
+Custom Secondary Colour: #fffcd1
+Neon Colour: #ff00d4
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 31
+Dashboard Colour: 134
+Tyres Mode: 1

@@ -1,0 +1,39 @@
+Model: tulip
+Plate Style: 0
+Plate Text:  YO KEY 
+Primary Colour: 0
+Secondary Colour: 120
+Pearl Colour: 145
+Wheel Colour: 0
+Wheel Type: 1
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Exhaust: 2
+Hood: 1
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 32
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #080000
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 2
+Dashboard Colour: 156
+Tyres Mode: 2

@@ -1,0 +1,41 @@
+Model: manchez3
+Plate Style: 5
+Plate Text:         
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 111
+Wheel Colour: 156
+Wheel Type: 8
+Front Bumper: 0
+Rear Bumper: 1
+Exhaust: 8
+Chassis: 1
+Grille: 0
+Hood: 3
+Fender: 1
+Roof: 0
+Engine: 5
+Brakes: 3
+Transmission: 4
+Horns: 51
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 149
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 5
+Custom Primary Colour: #ff0000
+Custom Secondary Colour: #ff0000
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

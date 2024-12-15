@@ -1,0 +1,44 @@
+Model: xa21
+Plate Style: 0
+Plate Text: DQKM8MAZ
+Primary Colour: 12
+Secondary Colour: 38
+Pearl Colour: 11
+Wheel Colour: 36
+Wheel Type: 0
+Spoiler: 4
+Front Bumper: 1
+Rear Bumper: 1
+Sideskirt: 4
+Exhaust: 12
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #17191c
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 38
+Dashboard Colour: 0
+Tyres Mode: 2

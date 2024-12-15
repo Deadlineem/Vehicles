@@ -1,0 +1,46 @@
+Model: club
+Plate Style: 1
+Plate Text: SNB ATHN
+Primary Colour: 68
+Secondary Colour: 36
+Pearl Colour: 92
+Wheel Colour: 115
+Wheel Type: 0
+Spoiler: 2
+Front Bumper: 1
+Rear Bumper: 1
+Sideskirt: 2
+Exhaust: 5
+Chassis: 0
+Grille: 0
+Hood: 7
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 19
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes

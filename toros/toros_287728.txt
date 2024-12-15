@@ -1,0 +1,43 @@
+Model: toros
+Plate Style: 11
+Plate Text:  C477M3 
+Primary Colour: 62
+Secondary Colour: 9
+Pearl Colour: 67
+Wheel Colour: 87
+Wheel Type: 3
+Spoiler: 3
+Front Bumper: 3
+Rear Bumper: 3
+Sideskirt: 4
+Exhaust: 8
+Grille: 11
+Hood: 9
+Fender: 1
+Roof: 4
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 17
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

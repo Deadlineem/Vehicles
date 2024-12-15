@@ -1,0 +1,33 @@
+Model: scramjet
+Plate Style: 0
+Plate Text: 20EQD731
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 135
+Wheel Colour: 145
+Wheel Type: 10
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 24
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 14
+Front Wheels: 69
+Livery: 10
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #000000
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 158
+Dashboard Colour: 134
+Tyres Mode: 1

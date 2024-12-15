@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 0
+Plate Text: PAULWLKR
+Primary Colour: 4
+Secondary Colour: 4
+Pearl Colour: 111
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 14
+Front Bumper: 5
+Rear Bumper: 0
+Sideskirt: 4
+Exhaust: 6
+Chassis: 5
+Grille: 1
+Hood: 6
+Fender: 3
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 29
+Plate Holder: 1
+Vanity Plates: 1
+Trim: 1
+Dashboard: 5
+Dial: 15
+Seats: 7
+Door Speaker: 12
+Steering Wheel: 6
+Engine Block: 4
+Air Filter: 6
+Struts: 12
+Arch Cover: 0
+Aerials: 1
+Trim2: 1
+Tank: 5
+Windows: 1
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 63
+Dashboard Colour: 134
+Tyres Mode: 2

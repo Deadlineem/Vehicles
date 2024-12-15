@@ -1,0 +1,40 @@
+Model: coquette2
+Plate Style: 5
+Plate Text:   NYSL  
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 88
+Wheel Colour: 32
+Wheel Type: 10
+Front Bumper: 3
+Rear Bumper: 3
+Exhaust: 4
+Chassis: 0
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 42
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 114
+Livery: 6
+Tyre Smoke Colour: #1379bf
+Window Tint: 1
+Custom Primary Colour: #230000
+Custom Secondary Colour: #d3d300
+Neon Colour: #d3d300
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No

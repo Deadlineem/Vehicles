@@ -1,0 +1,39 @@
+Model: specter
+Plate Style: 0
+Plate Text: 48UBQ873
+Primary Colour: 0
+Secondary Colour: 3
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 8
+Dashboard Colour: 11
+Tyres Mode: 1

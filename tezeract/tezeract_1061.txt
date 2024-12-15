@@ -1,0 +1,36 @@
+Model: tezeract
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 135
+Wheel Colour: 121
+Wheel Type: 8
+Spoiler: 6
+Front Bumper: 9
+Rear Bumper: 4
+Chassis: 4
+Engine: 4
+Brakes: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #7370ff
+Custom Secondary Colour: #7370ff
+Neon Colour: #3700ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

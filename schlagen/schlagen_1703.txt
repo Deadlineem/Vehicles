@@ -1,0 +1,45 @@
+Model: schlagen
+Plate Style: 0
+Plate Text: 60RXB359
+Primary Colour: 64
+Secondary Colour: 64
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 6
+Front Bumper: 9
+Rear Bumper: 6
+Sideskirt: 0
+Exhaust: 4
+Chassis: 0
+Grille: 5
+Hood: 1
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 206
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #00ff00
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

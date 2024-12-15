@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 5
+Plate Text:  MISSY  
+Primary Colour: 0
+Secondary Colour: 91
+Pearl Colour: 145
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 4
+Front Bumper: 16
+Rear Bumper: 6
+Sideskirt: 10
+Exhaust: 5
+Hood: 10
+Roof: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 2
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 2
+Front Wheels: 30
+Livery: 1
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: #0f0714
+Custom Secondary Colour: #0f0714
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

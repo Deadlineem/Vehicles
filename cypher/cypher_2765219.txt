@@ -1,0 +1,86 @@
+Model: cypher
+Plate Style: 1
+Plate Text:         
+Primary Colour: 147
+Secondary Colour: 147
+Pearl Colour: 111
+Wheel Colour: 1
+Wheel Type: 7
+Spoiler: 14
+Front Bumper: 12
+Rear Bumper: 5
+Sideskirt: 9
+Exhaust: 8
+Chassis: 8
+Grille: 13
+Hood: 14
+Fender: 2
+Right Fender: 5
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 33
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 20
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 2
+Trim: 0
+Ornaments: 2
+Dashboard: 1
+Dial: 1
+Seats: 6
+Door Speaker: 11
+Steering Wheel: 15
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 11
+Air Filter: 0
+Struts: 17
+Arch Cover: 9
+Aerials: 7
+Trim2: 7
+Tank: 0
+Left Door: 0
+Right Door: 0
+Livery: 0
+Lightbar: 2
+Tyre Smoke Colour: #e20606
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 28
+Roof Livery: 0
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

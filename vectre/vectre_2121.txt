@@ -1,0 +1,56 @@
+Model: vectre
+Plate Style: 1
+Plate Text:   HEVO  
+Primary Colour: 111
+Secondary Colour: 111
+Pearl Colour: 0
+Wheel Colour: 122
+Wheel Type: 10
+Spoiler: 18
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 2
+Chassis: 8
+Hood: 18
+Fender: 0
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 75
+Vanity Plates: 5
+Trim: 1
+Dashboard: 3
+Seats: 0
+Door Speaker: 15
+Steering Wheel: 12
+Engine Block: 4
+Air Filter: 10
+Struts: 20
+Arch Cover: 0
+Aerials: 0
+Trim2: 3
+Right Door: 0
+Livery: 15
+Tyre Smoke Colour: #8466e2
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #2301ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 112
+Tyres Mode: 2

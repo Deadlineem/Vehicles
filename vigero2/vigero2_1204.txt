@@ -1,0 +1,45 @@
+Model: vigero2
+Plate Style: 0
+Plate Text:  THEBEE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 159
+Wheel Type: 5
+Spoiler: 1
+Front Bumper: 7
+Rear Bumper: 5
+Sideskirt: 5
+Exhaust: 5
+Chassis: 2
+Grille: 1
+Hood: 10
+Fender: 5
+Right Fender: 4
+Roof: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 8
+Front Wheels: 14
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #f7c436
+Custom Secondary Colour: #f7c436
+Neon Colour: #f7c436
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

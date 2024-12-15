@@ -1,0 +1,36 @@
+Model: cheetah
+Plate Style: 5
+Plate Text:   UWU   
+Primary Colour: 34
+Secondary Colour: 29
+Pearl Colour: 47
+Wheel Colour: 109
+Wheel Type: 0
+Spoiler: 0
+Exhaust: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 36
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

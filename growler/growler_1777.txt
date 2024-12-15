@@ -1,0 +1,55 @@
+Model: growler
+Plate Style: 3
+Plate Text:  TERROR 
+Primary Colour: 5
+Secondary Colour: 5
+Pearl Colour: 5
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 15
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 33
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Struts: 0
+Aerials: 0
+Windows: 0
+Unk47: 0
+Livery: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 33
+Dashboard Colour: 111
+Tyres Mode: 1

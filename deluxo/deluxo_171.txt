@@ -1,0 +1,41 @@
+Model: deluxo
+Plate Style: 0
+Plate Text: 08JKE297
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 140
+Wheel Colour: 70
+Wheel Type: 8
+Spoiler: 8
+Front Bumper: 2
+Sideskirt: 2
+Exhaust: 3
+Grille: 3
+Hood: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 34
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 107
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #4271e1
+Custom Secondary Colour: #4271e1
+Neon Colour: #4372e0
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 19
+Dashboard Colour: 156
+Tyres Mode: 1

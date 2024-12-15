@@ -1,0 +1,44 @@
+Model: coquette4
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 38
+Secondary Colour: 111
+Pearl Colour: 88
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 1
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 3
+Exhaust: 6
+Chassis: 3
+Grille: 3
+Hood: 0
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 39
+Livery: 0
+Tyre Smoke Colour: #00f6ff
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #00f6ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 38
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: Yes

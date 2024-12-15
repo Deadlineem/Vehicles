@@ -1,0 +1,39 @@
+Model: zorrusso
+Plate Style: 1
+Plate Text:  CANIS  
+Primary Colour: 117
+Secondary Colour: 12
+Pearl Colour: 140
+Wheel Colour: 131
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 0
+Exhaust: 4
+Grille: 1
+Hood: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 179
+Livery: 9
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #00244c
+Custom Secondary Colour: 
+Neon Colour: #003eff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,36 @@
+Model: cheetah
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 88
+Pearl Colour: 88
+Wheel Colour: 0
+Wheel Type: 9
+Spoiler: 1
+Exhaust: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 59
+Livery: -1
+Tyre Smoke Colour: #141414
+Window Tint: 2
+Custom Primary Colour: #190f00
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

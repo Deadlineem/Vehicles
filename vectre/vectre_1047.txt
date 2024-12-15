@@ -1,0 +1,71 @@
+Model: vectre
+Plate Style: 0
+Plate Text: 61FPR359
+Primary Colour: 100
+Secondary Colour: 112
+Pearl Colour: 100
+Wheel Colour: 122
+Wheel Type: 11
+Spoiler: 18
+Front Bumper: 6
+Rear Bumper: 0
+Sideskirt: 14
+Exhaust: 4
+Chassis: 7
+Grille: 0
+Hood: 15
+Fender: 0
+Right Fender: 0
+Roof: 5
+Engine: 4
+Brakes: 0
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 25
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 1
+Trim: 1
+Ornaments: 0
+Dashboard: 2
+Dial: 0
+Seats: 0
+Door Speaker: 12
+Steering Wheel: 15
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 3
+Air Filter: 10
+Struts: 19
+Arch Cover: 0
+Aerials: 0
+Trim2: 11
+Tank: 0
+Windows: 0
+Unk47: 0
+Livery: 10
+Unk49: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #2301ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Roof Livery: 0
+Dashboard Colour: 89
+Tyres Mode: 0

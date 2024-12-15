@@ -1,0 +1,53 @@
+Model: postlude
+Plate Style: 1
+Plate Text: 60HDU268
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 135
+Wheel Colour: 132
+Wheel Type: 8
+Spoiler: 5
+Front Bumper: 5
+Rear Bumper: 5
+Exhaust: 17
+Chassis: 0
+Hood: 19
+Fender: 4
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 11
+Front Wheels: 107
+Vanity Plates: 7
+Trim: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 14
+Engine Block: 2
+Struts: 5
+Arch Cover: 5
+Left Door: 1
+Right Door: 1
+Livery: 11
+Tyre Smoke Colour: #cb3694
+Window Tint: 1
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #000000
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 112
+Dashboard Colour: 135
+Tyres Mode: 1

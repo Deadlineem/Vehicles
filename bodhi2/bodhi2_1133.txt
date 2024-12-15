@@ -1,0 +1,44 @@
+Model: bodhi2
+Plate Style: 3
+Plate Text: TPHILIPS
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 156
+Wheel Type: 10
+Front Bumper: 0
+Rear Bumper: 0
+Chassis: 3
+Grille: 4
+Hood: 6
+Fender: 4
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 8
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #39bfbd
+Custom Secondary Colour: #39bfbd
+Neon Colour: #00ffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 5: Yes
+Extra 10: Yes
+Extra 11: Yes
+Extra 12: Yes

@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 11
+Front Bumper: 16
+Rear Bumper: 17
+Sideskirt: 14
+Exhaust: 22
+Grille: 0
+Hood: 1
+Fender: 7
+Right Fender: 7
+Roof: 9
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 0
+Vanity Plates: 16
+Trim: 7
+Dashboard: 4
+Seats: 0
+Door Speaker: 12
+Steering Wheel: 7
+Arch Cover: 0
+Aerials: 0
+Trim2: 6
+Livery: 0
+Tyre Smoke Colour: #94ff00
+Window Tint: 1
+Custom Primary Colour: #111111
+Custom Secondary Colour: #111111
+Neon Colour: #94ff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 156
+Tyres Mode: 1

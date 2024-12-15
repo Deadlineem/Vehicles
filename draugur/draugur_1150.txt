@@ -1,0 +1,44 @@
+Model: draugur
+Plate Style: 0
+Plate Text: 44OBI150
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 148
+Wheel Colour: 132
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 2
+Rear Bumper: 2
+Sideskirt: 0
+Exhaust: 0
+Chassis: 1
+Grille: 4
+Fender: 2
+Right Fender: 6
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 39
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: 8
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #235f91
+Custom Secondary Colour: #235f91
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 133
+Dashboard Colour: 131
+Tyres Mode: 1

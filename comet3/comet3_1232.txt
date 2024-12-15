@@ -1,0 +1,86 @@
+Model: comet3
+Plate Style: 3
+Plate Text:    X    
+Primary Colour: 77
+Secondary Colour: 77
+Pearl Colour: 132
+Wheel Colour: 122
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 0
+Sideskirt: 9
+Exhaust: 3
+Chassis: 5
+Grille: 0
+Hood: 5
+Fender: 2
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 2
+Suspension: 0
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 107
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 2
+Ornaments: 0
+Dashboard: 5
+Dial: 8
+Seats: 6
+Door Speaker: 14
+Steering Wheel: 16
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 12
+Arch Cover: 0
+Aerials: 3
+Trim2: 0
+Tank: 0
+Left Door: 0
+Right Door: 0
+Livery: 0
+Lightbar: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #ffffff
+Neon Colour: #dedeff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Roof Livery: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

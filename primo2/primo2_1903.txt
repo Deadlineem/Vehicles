@@ -1,0 +1,57 @@
+Model: primo2
+Plate Style: 1
+Plate Text: 04VCN933
+Primary Colour: 32
+Secondary Colour: 0
+Pearl Colour: 25
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 1
+Exhaust: 3
+Grille: 3
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 20
+Back Wheels: 0
+Plate Holder: 13
+Vanity Plates: 0
+Trim: 4
+Ornaments: 0
+Dial: 5
+Steering Wheel: 8
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 2
+Trunk: 7
+Hydraulics: 4
+Engine Block: 6
+Air Filter: 5
+Aerials: 1
+Trim2: 3
+Tank: 3
+Livery: 9
+Tyre Smoke Colour: #8466e2
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 32
+Dashboard Colour: 28
+Tyres Mode: 1

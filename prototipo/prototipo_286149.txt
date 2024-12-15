@@ -1,0 +1,38 @@
+Model: prototipo
+Plate Style: 0
+Plate Text:  BLUGTA 
+Primary Colour: 138
+Secondary Colour: 36
+Pearl Colour: 160
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 3
+Front Bumper: 3
+Sideskirt: 3
+Exhaust: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 0
+Front Wheels: 40
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 112
+Dashboard Colour: 112
+Tyres Mode: 2

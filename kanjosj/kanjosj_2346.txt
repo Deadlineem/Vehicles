@@ -1,0 +1,57 @@
+Model: kanjosj
+Plate Style: 0
+Plate Text: KHOTHOS 
+Primary Colour: 1
+Secondary Colour: 1
+Pearl Colour: 7
+Wheel Colour: 83
+Wheel Type: 8
+Spoiler: 18
+Front Bumper: 7
+Rear Bumper: 8
+Sideskirt: 8
+Exhaust: 7
+Chassis: 8
+Grille: 15
+Hood: 11
+Fender: 5
+Right Fender: 3
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 35
+Trim: 3
+Dashboard: 5
+Seats: 0
+Door Speaker: 15
+Steering Wheel: 16
+Engine Block: 6
+Air Filter: 4
+Struts: 20
+Aerials: 6
+Trim2: 8
+Right Door: 0
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 27
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 3: No

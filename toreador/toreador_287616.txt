@@ -1,0 +1,39 @@
+Model: toreador
+Plate Style: 0
+Plate Text:   666   
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 25
+Wheel Type: 10
+Spoiler: 10
+Front Bumper: 9
+Rear Bumper: 9
+Grille: 10
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 81
+Livery: 0
+Tyre Smoke Colour: #ffc1fa
+Window Tint: 1
+Custom Primary Colour: #ffc1fa
+Custom Secondary Colour: #ffc1fa
+Neon Colour: #ffc1fa
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 19
+Dashboard Colour: 156
+Tyres Mode: 1

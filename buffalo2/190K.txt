@@ -1,0 +1,45 @@
+Model: buffalo2
+Plate Style: 4
+Plate Text: 190KSELL
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 1
+Wheel Type: 9
+Spoiler: 5
+Front Bumper: 5
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Grille: 0
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 14
+Front Wheels: 205
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 6
+Custom Primary Colour: #5500ff
+Custom Secondary Colour: #5500ff
+Neon Colour: #1100ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 11: Yes
+Extra 12: Yes

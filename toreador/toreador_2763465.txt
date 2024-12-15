@@ -1,0 +1,39 @@
+Model: toreador
+Plate Style: 1
+Plate Text: 81MHC631
+Primary Colour: 28
+Secondary Colour: 147
+Pearl Colour: 52
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 9
+Front Bumper: 0
+Rear Bumper: 0
+Grille: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: 3
+Tyre Smoke Colour: #141414
+Window Tint: 0
+Custom Primary Colour: #060f06
+Custom Secondary Colour: #060f06
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 98
+Dashboard Colour: 132
+Tyres Mode: 1

@@ -1,0 +1,37 @@
+Model: ztype
+Plate Style: 5
+Plate Text:         
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 70
+Wheel Colour: 70
+Wheel Type: 8
+Front Bumper: 0
+Sideskirt: 1
+Grille: 0
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 51
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 4
+Front Wheels: 91
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 5
+Custom Primary Colour: #0550ff
+Custom Secondary Colour: #0550ff
+Neon Colour: #0550ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

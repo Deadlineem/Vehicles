@@ -1,0 +1,37 @@
+Model: gt500
+Plate Style: 1
+Plate Text:   2YW8  
+Primary Colour: 62
+Secondary Colour: 111
+Pearl Colour: 70
+Wheel Colour: 0
+Wheel Type: 2
+Front Bumper: 0
+Exhaust: 0
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 111
+Tyres Mode: 1

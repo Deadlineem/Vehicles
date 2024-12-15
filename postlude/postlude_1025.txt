@@ -1,0 +1,53 @@
+Model: postlude
+Plate Style: 1
+Plate Text: 9FLXS275
+Primary Colour: 99
+Secondary Colour: 0
+Pearl Colour: 99
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 10
+Front Bumper: 1
+Rear Bumper: 1
+Exhaust: 5
+Chassis: 1
+Hood: 8
+Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 0
+Horns: 0
+Suspension: 1
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 15
+Vanity Plates: 4
+Trim: 2
+Dashboard: 2
+Seats: 1
+Door Speaker: 2
+Steering Wheel: 0
+Engine Block: 3
+Struts: 14
+Arch Cover: 0
+Windows: 2
+Unk47: 5
+Livery: 13
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

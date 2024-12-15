@@ -1,0 +1,44 @@
+Model: gp1
+Plate Style: 5
+Plate Text:   K3Y   
+Primary Colour: 36
+Secondary Colour: 161
+Pearl Colour: 36
+Wheel Colour: 111
+Wheel Type: 5
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 1
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: #802800
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 124
+Dashboard Colour: 0
+Tyres Mode: 2

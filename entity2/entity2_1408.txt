@@ -1,0 +1,39 @@
+Model: entity2
+Plate Style: 0
+Plate Text: 26VGY215
+Primary Colour: 38
+Secondary Colour: 8
+Pearl Colour: 5
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 5
+Front Bumper: 7
+Rear Bumper: 3
+Exhaust: 3
+Hood: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 1
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #79b6e3
+Custom Secondary Colour: #065182
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 7
+Dashboard Colour: 89
+Tyres Mode: 1

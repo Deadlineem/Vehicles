@@ -1,0 +1,45 @@
+Model: tenf
+Plate Style: 2
+Plate Text: DERROCE 
+Primary Colour: 158
+Secondary Colour: 0
+Pearl Colour: 140
+Wheel Colour: 81
+Wheel Type: 10
+Spoiler: 18
+Front Bumper: 18
+Rear Bumper: 14
+Sideskirt: 12
+Exhaust: 12
+Chassis: 0
+Grille: 4
+Hood: 8
+Fender: 1
+Right Fender: 1
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 1
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #6966cc
+Custom Secondary Colour: #6966cc
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Dashboard Colour: 0
+Tyres Mode: 1

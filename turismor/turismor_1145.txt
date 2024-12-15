@@ -1,0 +1,41 @@
+Model: turismor
+Plate Style: 0
+Plate Text:  CUWUTE 
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 28
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 3
+Front Bumper: 6
+Rear Bumper: 1
+Sideskirt: 2
+Exhaust: 5
+Chassis: 2
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 151
+Livery: 9
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #35080b
+Custom Secondary Colour: #35080b
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

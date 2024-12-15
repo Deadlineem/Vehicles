@@ -1,0 +1,39 @@
+Model: shinobi
+Plate Style: 1
+Plate Text:   LIX   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 4
+Wheel Colour: 139
+Wheel Type: 6
+Front Bumper: 3
+Sideskirt: 3
+Exhaust: 4
+Chassis: 3
+Hood: 3
+Engine: 5
+Brakes: 4
+Transmission: 4
+Horns: 58
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 72
+Back Wheels: 72
+Livery: 7
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

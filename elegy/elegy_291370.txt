@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 3
+Plate Text: 85XYM300
+Primary Colour: 50
+Secondary Colour: 50
+Pearl Colour: 137
+Wheel Colour: 153
+Wheel Type: 0
+Spoiler: 8
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 2
+Chassis: 1
+Grille: 2
+Hood: 2
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 11
+Plate Holder: 1
+Vanity Plates: 3
+Trim: 0
+Dashboard: 1
+Dial: 1
+Seats: 3
+Door Speaker: 1
+Steering Wheel: 13
+Engine Block: 3
+Air Filter: 2
+Struts: 12
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 2
+Left Door: 0
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 3
+Custom Primary Colour: #100b11
+Custom Secondary Colour: #100b11
+Neon Colour: #a0238f
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 4
+Tyres Mode: 1

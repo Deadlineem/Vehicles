@@ -1,0 +1,41 @@
+Model: coquette3
+Plate Style: 11
+Plate Text: H1T3RUN 
+Primary Colour: 137
+Secondary Colour: 107
+Pearl Colour: 3
+Wheel Colour: 90
+Wheel Type: 1
+Spoiler: 2
+Front Bumper: 0
+Exhaust: 1
+Chassis: 0
+Hood: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 3
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 10
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: No

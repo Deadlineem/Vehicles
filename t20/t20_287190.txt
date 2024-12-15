@@ -1,0 +1,39 @@
+Model: t20
+Plate Style: 1
+Plate Text:   2TZT  
+Primary Colour: 150
+Secondary Colour: 29
+Pearl Colour: 42
+Wheel Colour: 2
+Wheel Type: 11
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 2
+Hood: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

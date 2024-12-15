@@ -1,0 +1,39 @@
+Model: deveste
+Plate Style: 0
+Plate Text: PBYLOOPB
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 42
+Wheel Colour: 42
+Wheel Type: 9
+Spoiler: 6
+Front Bumper: 2
+Rear Bumper: 5
+Exhaust: 8
+Chassis: 2
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 114
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #140014
+Custom Secondary Colour: #dabaff
+Neon Colour: #ff00e5
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

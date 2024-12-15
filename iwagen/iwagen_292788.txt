@@ -1,0 +1,37 @@
+Model: iwagen
+Plate Style: 7
+Plate Text: 05SXY032
+Primary Colour: 79
+Secondary Colour: 0
+Pearl Colour: 111
+Wheel Colour: 5
+Wheel Type: 3
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 0
+Hood: 1
+Engine: 4
+Brakes: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #2446a8
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

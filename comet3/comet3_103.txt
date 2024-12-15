@@ -1,0 +1,50 @@
+Model: comet3
+Plate Style: 5
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 12
+Pearl Colour: 89
+Wheel Colour: 28
+Wheel Type: 9
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 3
+Sideskirt: 1
+Exhaust: 3
+Chassis: 2
+Hood: 1
+Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 150
+Trim: 2
+Dashboard: 5
+Dial: 4
+Seats: 3
+Door Speaker: 0
+Steering Wheel: 3
+Struts: 0
+Aerials: 0
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ff5e00
+Custom Secondary Colour: #c60000
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 4
+Tyres Mode: 1

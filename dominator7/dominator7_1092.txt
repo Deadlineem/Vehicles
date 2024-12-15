@@ -1,0 +1,60 @@
+Model: dominator7
+Plate Style: 1
+Plate Text: SNAKEBIT
+Primary Colour: 82
+Secondary Colour: 82
+Pearl Colour: 28
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 13
+Front Bumper: 11
+Rear Bumper: 13
+Sideskirt: 18
+Exhaust: 8
+Chassis: 5
+Grille: 3
+Hood: 19
+Fender: 1
+Right Fender: 5
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 108
+Trim: 3
+Dashboard: 4
+Dial: 6
+Seats: 6
+Door Speaker: 14
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 25
+Struts: 16
+Arch Cover: 4
+Aerials: 2
+Trim2: 3
+Tank: 1
+Windows: 0
+Unk47: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 6
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 5
+Dashboard Colour: 111
+Tyres Mode: 1

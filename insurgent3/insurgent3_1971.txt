@@ -1,0 +1,38 @@
+Model: insurgent3
+Plate Style: 0
+Plate Text: 73CEC757
+Primary Colour: 132
+Secondary Colour: 0
+Pearl Colour: 18
+Wheel Colour: 112
+Wheel Type: 8
+Chassis: 3
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 91
+Livery: 37
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #fffffb
+Custom Secondary Colour: #fffffb
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes

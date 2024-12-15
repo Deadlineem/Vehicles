@@ -1,0 +1,44 @@
+Model: dynasty
+Plate Style: 0
+Plate Text: FAKETAXI
+Primary Colour: 42
+Secondary Colour: 42
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 2
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 3
+Sideskirt: 3
+Exhaust: 1
+Grille: 6
+Hood: 1
+Fender: 0
+Right Fender: 0
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 3
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 11, Custom
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #de7e00
+Custom Secondary Colour: #de7e00
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

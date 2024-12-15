@@ -1,0 +1,56 @@
+Model: euros
+Plate Style: 0
+Plate Text: 46EEK572
+Primary Colour: 111
+Secondary Colour: 111
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 14
+Front Bumper: 1
+Rear Bumper: 1
+Sideskirt: 11
+Exhaust: 2
+Chassis: 0
+Hood: 7
+Fender: 6
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: No
+Unk21: Yes
+Headlights: 1
+Front Wheels: 25
+Vanity Plates: 0
+Trim: 0
+Dashboard: 1
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 9
+Struts: 18
+Arch Cover: 8
+Aerials: 0
+Trim2: 0
+Unk47: 0
+Livery: 13
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: #f0f0f0
+Custom Secondary Colour: #f0f0f0
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 7
+Dashboard Colour: 156
+Tyres Mode: 1

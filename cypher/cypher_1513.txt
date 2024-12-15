@@ -1,0 +1,59 @@
+Model: cypher
+Plate Style: 0
+Plate Text:  MODDER 
+Primary Colour: 62
+Secondary Colour: 62
+Pearl Colour: 112
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 14
+Front Bumper: 12
+Rear Bumper: 5
+Sideskirt: 8
+Exhaust: 7
+Chassis: 0
+Grille: 13
+Hood: 14
+Fender: 2
+Right Fender: 0
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 6, Custom
+Vanity Plates: 2
+Trim: 0
+Ornaments: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 10
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 5
+Tank: 3
+Livery: 13
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1

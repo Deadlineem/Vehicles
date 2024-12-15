@@ -1,0 +1,35 @@
+Model: oppressor2
+Plate Style: 0
+Plate Text: 6BUHTRZT
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 112
+Wheel Type: 6
+Chassis: 1
+Grille: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 1
+Back Wheels: 1
+Livery: 0
+Tyre Smoke Colour: #ffe799
+Window Tint: 2
+Custom Primary Colour: #280be5
+Custom Secondary Colour: #000000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 93
+Tyres Mode: 1

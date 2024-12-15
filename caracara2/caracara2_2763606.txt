@@ -1,0 +1,42 @@
+Model: caracara2
+Plate Style: 1
+Plate Text: POPSTAR 
+Primary Colour: 2
+Secondary Colour: 120
+Pearl Colour: 6
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 6
+Front Bumper: 7
+Rear Bumper: 1
+Exhaust: 2
+Grille: 0
+Hood: 3
+Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 49
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 13
+Front Wheels: 75
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #6a17ec
+Custom Secondary Colour: #6a17ec
+Neon Colour: #6a17ec
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 156
+Tyres Mode: 1

@@ -1,0 +1,45 @@
+Model: tenf
+Plate Style: 0
+Plate Text: 27PKY086
+Primary Colour: 73
+Secondary Colour: 27
+Pearl Colour: 0
+Wheel Colour: 153
+Wheel Type: 12
+Spoiler: 15
+Front Bumper: 1
+Rear Bumper: 2
+Sideskirt: 1
+Exhaust: 10
+Chassis: 0
+Grille: 9
+Hood: 3
+Fender: 1
+Right Fender: 0
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 21
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 2

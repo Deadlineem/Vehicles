@@ -1,0 +1,57 @@
+Model: calico
+Plate Style: 0
+Plate Text: KHOTHOS 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 64
+Wheel Type: 8
+Spoiler: 22
+Front Bumper: 26
+Rear Bumper: 7
+Sideskirt: 23
+Exhaust: 10
+Chassis: 7
+Grille: 2
+Hood: 25
+Fender: 2
+Roof: 19
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 50
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 35
+Plate Holder: 2
+Dashboard: 4
+Seats: 0
+Door Speaker: 15
+Steering Wheel: 17
+Engine Block: 4
+Air Filter: 8
+Struts: 11
+Arch Cover: 3
+Aerials: 6
+Trim2: 1
+Tank: 5
+Right Door: 0
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 5
+Dashboard Colour: 111
+Tyres Mode: 1

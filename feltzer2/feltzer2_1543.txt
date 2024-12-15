@@ -1,0 +1,39 @@
+Model: feltzer2
+Plate Style: 5
+Plate Text:         
+Primary Colour: 28
+Secondary Colour: 28
+Pearl Colour: 36
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 1
+Rear Bumper: 1
+Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 50
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #7a69f6
+Custom Secondary Colour: #6c683c
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

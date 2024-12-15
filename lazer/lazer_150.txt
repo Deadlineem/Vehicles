@@ -1,0 +1,28 @@
+Model: lazer
+Plate Style: 4
+Plate Text: 07CYL711
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 8
+Wheel Colour: 0
+Wheel Type: 8
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 119
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #feffff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

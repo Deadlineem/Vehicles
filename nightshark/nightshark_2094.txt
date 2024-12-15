@@ -1,0 +1,41 @@
+Model: nightshark
+Plate Style: 0
+Plate Text: 2OR6WOYU
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 18
+Wheel Colour: 1
+Wheel Type: 11
+Front Bumper: 3
+Rear Bumper: 3
+Exhaust: 2
+Chassis: 3
+Grille: 9
+Hood: 10
+Fender: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 23
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #545668
+Custom Secondary Colour: #080808
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

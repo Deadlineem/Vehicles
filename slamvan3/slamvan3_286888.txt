@@ -1,0 +1,56 @@
+Model: slamvan3
+Plate Style: 5
+Plate Text:   UWU   
+Primary Colour: 74
+Secondary Colour: 120
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 0
+Exhaust: 0
+Grille: 5
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 0
+Back Wheels: 1
+Plate Holder: 5
+Vanity Plates: 3
+Trim: 0
+Ornaments: 1
+Dashboard: 0
+Dial: 2
+Door Speaker: 4
+Steering Wheel: 0
+Shifter Leavers: 15
+Plaques: 19
+Hydraulics: 4
+Engine Block: 4
+Air Filter: 5
+Tank: 0
+Left Door: 0
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: #6ea3c6
+Custom Secondary Colour: #5870a1
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 106
+Dashboard Colour: 111
+Tyres Mode: 2

@@ -1,0 +1,30 @@
+Model: tractor
+Plate Style: 0
+Plate Text: CQN8R8FE
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 0
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #00ef27
+Custom Secondary Colour: #00ef27
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 8: No

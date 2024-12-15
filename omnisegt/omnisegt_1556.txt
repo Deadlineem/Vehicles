@@ -1,0 +1,44 @@
+Model: omnisegt
+Plate Style: 1
+Plate Text: DEEZNUTS
+Primary Colour: 51
+Secondary Colour: 51
+Pearl Colour: 66
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 2
+Sideskirt: 1
+Chassis: 1
+Grille: 2
+Hood: 0
+Fender: 1
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Horns: 9
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 26
+Trim2: 2
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

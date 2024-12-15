@@ -1,0 +1,34 @@
+Model: rallytruck
+Plate Style: 5
+Plate Text:  HITLER 
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 134
+Wheel Type: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 42
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 13
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #010101
+Custom Secondary Colour: #010101
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

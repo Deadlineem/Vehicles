@@ -1,0 +1,42 @@
+Model: everon
+Plate Style: 5
+Plate Text: SYSURIA 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 0
+Wheel Type: 9
+Spoiler: 1
+Front Bumper: 10
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 2
+Hood: 23
+Right Fender: 7
+Roof: 17
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 84
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #3b006e
+Custom Secondary Colour: #3b0033
+Neon Colour: #dedeff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 0
+Plate Text: 80CMF372
+Primary Colour: 21
+Secondary Colour: 21
+Pearl Colour: 102
+Wheel Colour: 90
+Wheel Type: 12
+Spoiler: 0
+Front Bumper: 5
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 1
+Hood: 0
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #313428
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 90
+Dashboard Colour: 0
+Tyres Mode: 1

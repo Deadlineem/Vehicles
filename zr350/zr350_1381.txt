@@ -1,0 +1,60 @@
+Model: zr350
+Plate Style: 5
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 135
+Wheel Colour: 137
+Wheel Type: 8
+Spoiler: 5
+Front Bumper: 5
+Rear Bumper: 0
+Sideskirt: 7
+Exhaust: 4
+Chassis: 2
+Grille: 5
+Hood: 3
+Fender: 0
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 1
+Horns: 3
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 86
+Vanity Plates: 3
+Trim: 1
+Dashboard: 4
+Dial: 4
+Seats: 6
+Door Speaker: 14
+Steering Wheel: 4
+Engine Block: 2
+Air Filter: 8
+Struts: 12
+Arch Cover: 1
+Aerials: 0
+Trim2: 1
+Left Door: 2
+Right Door: 1
+Livery: 15
+Tyre Smoke Colour: #e500c8
+Window Tint: 1
+Custom Primary Colour: #7295ff
+Custom Secondary Colour: #ff0000
+Neon Colour: #ff0291
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 104
+Dashboard Colour: 112
+Tyres Mode: 1

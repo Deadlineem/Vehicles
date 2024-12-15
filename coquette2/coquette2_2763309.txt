@@ -1,0 +1,40 @@
+Model: coquette2
+Plate Style: 0
+Plate Text: 09JLC322
+Primary Colour: 88
+Secondary Colour: 88
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 2
+Front Bumper: 0
+Rear Bumper: 0
+Exhaust: 1
+Chassis: 0
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 19
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #ad9b4b
+Custom Secondary Colour: #ad9b4b
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 2
+Extra 1: No
+Extra 2: Yes

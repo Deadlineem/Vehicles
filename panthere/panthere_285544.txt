@@ -1,0 +1,45 @@
+Model: panthere
+Plate Style: 5
+Plate Text:   UWU   
+Primary Colour: 122
+Secondary Colour: 122
+Pearl Colour: 122
+Wheel Colour: 2
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 4
+Rear Bumper: 0
+Sideskirt: 1
+Exhaust: 1
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 5
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 11
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 107
+Dashboard Colour: 134
+Tyres Mode: 2

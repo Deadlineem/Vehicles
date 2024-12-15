@@ -1,0 +1,43 @@
+Model: sugoi
+Plate Style: 7
+Plate Text:   UWU   
+Primary Colour: 0
+Secondary Colour: 161
+Pearl Colour: 0
+Wheel Colour: 132
+Wheel Type: 8
+Spoiler: 3
+Front Bumper: 5
+Rear Bumper: 5
+Sideskirt: 5
+Exhaust: 7
+Grille: 2
+Hood: 6
+Fender: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 107
+Livery: 2
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0550ff
+Custom Secondary Colour: #d8d8d8
+Neon Colour: #0550ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 4
+Dashboard Colour: 0
+Tyres Mode: 1

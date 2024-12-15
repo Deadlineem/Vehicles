@@ -1,0 +1,45 @@
+Model: issi7
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 28
+Wheel Type: 0
+Spoiler: 5
+Front Bumper: 6
+Rear Bumper: 3
+Sideskirt: 6
+Exhaust: 7
+Grille: 3
+Hood: 3
+Fender: 4
+Right Fender: 2
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 24
+Livery: 3
+Tyre Smoke Colour: #00ffa1
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #00ffa1
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 112
+Dashboard Colour: 112
+Tyres Mode: 1
+Extra 1: Yes

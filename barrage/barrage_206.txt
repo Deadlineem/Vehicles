@@ -1,0 +1,45 @@
+Model: barrage
+Plate Style: 0
+Plate Text: 23CQQ333
+Primary Colour: 0
+Secondary Colour: 11
+Pearl Colour: 10
+Wheel Colour: 111
+Wheel Type: 10
+Spoiler: 2
+Front Bumper: 10
+Rear Bumper: 10
+Sideskirt: 4
+Exhaust: 20
+Chassis: 30
+Grille: 8
+Hood: 22
+Fender: 12
+Right Fender: 9
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 140
+Vanity Plates: 1
+Livery: 37
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 155
+Dashboard Colour: 0
+Tyres Mode: 1

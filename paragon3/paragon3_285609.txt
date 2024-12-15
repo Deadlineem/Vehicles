@@ -1,0 +1,46 @@
+Model: paragon3
+Plate Style: 11
+Plate Text:  STRONG 
+Primary Colour: 111
+Secondary Colour: 0
+Pearl Colour: 111
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 14
+Rear Bumper: 7
+Sideskirt: 9
+Exhaust: 0
+Chassis: 0
+Grille: 0
+Hood: 16
+Fender: 2
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 35
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 11
+Front Wheels: 0
+Trim2: 0
+Livery: 2
+Tyre Smoke Colour: #ed1568
+Window Tint: 1
+Custom Primary Colour: #ef1566
+Custom Secondary Colour: #ed1568
+Neon Colour: #ed1568
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

@@ -1,0 +1,44 @@
+Model: italigto
+Plate Style: 5
+Plate Text:   UWU   
+Primary Colour: 0
+Secondary Colour: 147
+Pearl Colour: 136
+Wheel Colour: 116
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 1
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 58
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 47
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #51455b
+Custom Secondary Colour: 
+Neon Colour: #ffa000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 28
+Dashboard Colour: 0
+Tyres Mode: 2

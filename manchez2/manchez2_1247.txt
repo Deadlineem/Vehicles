@@ -1,0 +1,39 @@
+Model: manchez2
+Plate Style: 0
+Plate Text: 20YJG344
+Primary Colour: 117
+Secondary Colour: 12
+Pearl Colour: 135
+Wheel Colour: 81
+Wheel Type: 6
+Spoiler: 2
+Front Bumper: 1
+Exhaust: 0
+Chassis: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 9
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 36
+Back Wheels: 36
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #6565ff
+Custom Secondary Colour: #3f3fff
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

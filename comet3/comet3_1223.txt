@@ -1,0 +1,50 @@
+Model: comet3
+Plate Style: 0
+Plate Text:   RWB   
+Primary Colour: 103
+Secondary Colour: 103
+Pearl Colour: 138
+Wheel Colour: 103
+Wheel Type: 3
+Spoiler: 0
+Front Bumper: 6
+Rear Bumper: 3
+Sideskirt: 2
+Exhaust: 1
+Chassis: 5
+Hood: 0
+Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 9
+Front Wheels: 16
+Trim: 2
+Dashboard: 5
+Dial: 5
+Seats: 2
+Door Speaker: 3
+Steering Wheel: 2
+Struts: 1
+Aerials: 1
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: #46231a
+Custom Secondary Colour: #46231a
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 158
+Dashboard Colour: 134
+Tyres Mode: 1

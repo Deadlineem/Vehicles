@@ -1,0 +1,86 @@
+Model: cypher
+Plate Style: 0
+Plate Text: 26ZAK262
+Primary Colour: 134
+Secondary Colour: 134
+Pearl Colour: 120
+Wheel Colour: 156
+Wheel Type: 11
+Spoiler: 10
+Front Bumper: 11
+Rear Bumper: 5
+Sideskirt: 8
+Exhaust: 7
+Chassis: 0
+Grille: 13
+Hood: 9
+Fender: 1
+Right Fender: 5
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 29
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 1
+Trim: 5
+Ornaments: 0
+Dashboard: 1
+Dial: 0
+Seats: 2
+Door Speaker: 0
+Steering Wheel: 11
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 11
+Air Filter: 0
+Struts: 16
+Arch Cover: 2
+Aerials: 0
+Trim2: 6
+Tank: 2
+Left Door: 0
+Right Door: 0
+Livery: 7
+Lightbar: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 27
+Roof Livery: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

@@ -1,0 +1,86 @@
+Model: asbo
+Plate Style: 1
+Plate Text:   BRO   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 122
+Wheel Type: 9
+Spoiler: 15
+Front Bumper: 6
+Rear Bumper: 0
+Sideskirt: 11
+Exhaust: 8
+Chassis: 4
+Grille: 0
+Hood: 10
+Fender: 1
+Right Fender: 4
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 9
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 110
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Windows: 0
+Unk47: 0
+Livery: 0
+Unk49: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #45a9a9
+Custom Secondary Colour: #45a9a9
+Neon Colour: #00ff8c
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Roof Livery: 0
+Dashboard Colour: 132
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

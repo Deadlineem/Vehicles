@@ -1,0 +1,44 @@
+Model: gb200
+Plate Style: 1
+Plate Text:   1GY0  
+Primary Colour: 64
+Secondary Colour: 12
+Pearl Colour: 68
+Wheel Colour: 37
+Wheel Type: 11
+Spoiler: 1
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 1
+Chassis: 4
+Grille: 0
+Hood: 8
+Fender: 0
+Roof: 0
+Engine: 0
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 26
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

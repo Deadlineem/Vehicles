@@ -1,0 +1,42 @@
+Model: zeno
+Plate Style: 1
+Plate Text: 43MZD090
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 137
+Wheel Colour: 12
+Wheel Type: 8
+Spoiler: 15
+Front Bumper: 14
+Rear Bumper: 14
+Sideskirt: 11
+Exhaust: 9
+Hood: 12
+Fender: 2
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 108
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #7d0000
+Custom Secondary Colour: #7d0000
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

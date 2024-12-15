@@ -1,0 +1,38 @@
+Model: tropos
+Plate Style: 5
+Plate Text: DERROCE 
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 89
+Wheel Colour: 0
+Wheel Type: 9
+Spoiler: 2
+Exhaust: 2
+Grille: 1
+Hood: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 42
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 155
+Livery: 0
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #63000d
+Custom Secondary Colour: #000000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1

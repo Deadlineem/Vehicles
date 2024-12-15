@@ -1,0 +1,86 @@
+Model: tenf2
+Plate Style: 1
+Plate Text:  T3N6RZ 
+Primary Colour: 0
+Secondary Colour: 131
+Pearl Colour: 0
+Wheel Colour: 122
+Wheel Type: 12
+Spoiler: 9
+Front Bumper: 15
+Rear Bumper: 2
+Sideskirt: 5
+Exhaust: 10
+Chassis: 0
+Grille: 1
+Hood: 8
+Fender: 2
+Right Fender: 3
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 26
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 9
+Trim: 0
+Ornaments: 0
+Dashboard: 1
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 1
+Aerials: 0
+Trim2: 0
+Tank: 0
+Left Door: 0
+Right Door: 0
+Livery: 14
+Lightbar: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #27729e
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 112
+Roof Livery: 0
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

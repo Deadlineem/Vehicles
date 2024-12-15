@@ -1,0 +1,43 @@
+Model: taipan
+Plate Style: 1
+Plate Text:         
+Primary Colour: 120
+Secondary Colour: 12
+Pearl Colour: 88
+Wheel Colour: 41
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 1
+Sideskirt: 1
+Exhaust: 6
+Chassis: 0
+Hood: 1
+Fender: 0
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 12
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 60
+Livery: 0
+Tyre Smoke Colour: #e20606
+Window Tint: 1
+Custom Primary Colour: #ff7200
+Custom Secondary Colour: #000000
+Neon Colour: #ff6400
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

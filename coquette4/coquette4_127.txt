@@ -1,0 +1,44 @@
+Model: coquette4
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 28
+Wheel Colour: 34
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 4
+Rear Bumper: 2
+Sideskirt: 1
+Exhaust: 2
+Chassis: 0
+Grille: 2
+Hood: 1
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 124
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #1e0100
+Custom Secondary Colour: #000000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes

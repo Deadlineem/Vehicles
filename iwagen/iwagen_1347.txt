@@ -1,0 +1,37 @@
+Model: iwagen
+Plate Style: 1
+Plate Text: 20HUF168
+Primary Colour: 4
+Secondary Colour: 10
+Pearl Colour: 54
+Wheel Colour: 0
+Wheel Type: 3
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 3
+Hood: 5
+Engine: 0
+Brakes: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: 6
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #03131b
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 2

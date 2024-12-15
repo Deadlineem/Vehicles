@@ -1,0 +1,35 @@
+Model: reaper
+Plate Style: 0
+Plate Text: D34TH4U 
+Primary Colour: 118
+Secondary Colour: 28
+Pearl Colour: 3
+Wheel Colour: 156
+Wheel Type: 2
+Spoiler: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 16
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

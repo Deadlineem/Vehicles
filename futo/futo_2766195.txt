@@ -1,0 +1,44 @@
+Model: futo
+Plate Style: 2
+Plate Text: REALVAMP
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 160
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 3
+Rear Bumper: 1
+Sideskirt: 1
+Exhaust: 3
+Chassis: 0
+Grille: 0
+Hood: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 112
+Livery: 8
+Tyre Smoke Colour: #ffe502
+Window Tint: 0
+Custom Primary Colour: #fff954
+Custom Secondary Colour: #e2bb44
+Neon Colour: #ffe100
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 4
+Extra 1: No

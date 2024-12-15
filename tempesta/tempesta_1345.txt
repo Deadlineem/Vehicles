@@ -1,0 +1,40 @@
+Model: tempesta
+Plate Style: 1
+Plate Text: POPSTAR 
+Primary Colour: 36
+Secondary Colour: 36
+Pearl Colour: 88
+Wheel Colour: 12
+Wheel Type: 11
+Spoiler: 4
+Front Bumper: 1
+Sideskirt: 3
+Exhaust: 0
+Chassis: 1
+Hood: 9
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 14
+Front Wheels: 21
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: #41467d
+Custom Secondary Colour: #41467d
+Neon Colour: #8746aa
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

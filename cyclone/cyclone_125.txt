@@ -1,0 +1,36 @@
+Model: cyclone
+Plate Style: 1
+Plate Text:  MENGO  
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 41
+Wheel Colour: 132
+Wheel Type: 8
+Spoiler: 4
+Front Bumper: 3
+Sideskirt: 1
+Engine: 4
+Brakes: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 11
+Front Wheels: 108
+Livery: 2
+Tyre Smoke Colour: #f48684
+Window Tint: 0
+Custom Primary Colour: #f48684
+Custom Secondary Colour: #ffffff
+Neon Colour: #f48684
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,45 @@
+Model: schlagen
+Plate Style: 1
+Plate Text: MERCEDES
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 2
+Front Bumper: 9
+Rear Bumper: 6
+Sideskirt: 6
+Exhaust: 1
+Chassis: 4
+Grille: 5
+Hood: 9
+Fender: 0
+Right Fender: 0
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 8, Custom
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 2
+Dashboard Colour: 0
+Tyres Mode: 1

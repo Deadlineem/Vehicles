@@ -1,0 +1,62 @@
+Model: tailgater2
+Plate Style: 3
+Plate Text: 45PDD194
+Primary Colour: 89
+Secondary Colour: 89
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 24
+Front Bumper: 9
+Rear Bumper: 6
+Sideskirt: 3
+Exhaust: 6
+Chassis: 0
+Grille: 0
+Hood: 16
+Fender: 1
+Right Fender: 0
+Roof: 0
+Engine: 2
+Brakes: 1
+Transmission: 1
+Horns: 0
+Suspension: 0
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 17, Custom
+Plate Holder: 0
+Vanity Plates: 1
+Trim: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 4
+Air Filter: 6
+Struts: 0
+Arch Cover: 0
+Aerials: 1
+Trim2: 0
+Tank: 0
+Right Door: 2
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No

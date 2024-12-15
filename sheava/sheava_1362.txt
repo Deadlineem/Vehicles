@@ -1,0 +1,40 @@
+Model: sheava
+Plate Style: 0
+Plate Text: 05GBE775
+Primary Colour: 146
+Secondary Colour: 146
+Pearl Colour: 27
+Wheel Colour: 35
+Wheel Type: 10
+Spoiler: 1
+Front Bumper: 2
+Rear Bumper: 1
+Exhaust: 1
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 9
+Livery: 0
+Tyre Smoke Colour: #e20606
+Window Tint: 0
+Custom Primary Colour: #1c021e
+Custom Secondary Colour: #1c021e
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No

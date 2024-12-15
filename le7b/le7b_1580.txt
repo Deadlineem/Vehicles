@@ -1,0 +1,37 @@
+Model: le7b
+Plate Style: 0
+Plate Text: 87PUA885
+Primary Colour: 0
+Secondary Colour: 117
+Pearl Colour: 102
+Wheel Colour: 88
+Wheel Type: 10
+Spoiler: 0
+Exhaust: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 114
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #0064ff
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: Yes

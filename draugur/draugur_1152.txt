@@ -1,0 +1,44 @@
+Model: draugur
+Plate Style: 0
+Plate Text: 61WKR050
+Primary Colour: 35
+Secondary Colour: 35
+Pearl Colour: 111
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 9
+Rear Bumper: 1
+Sideskirt: 10
+Exhaust: 7
+Chassis: 5
+Grille: 2
+Fender: 1
+Right Fender: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 55
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 70
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #b60f25
+Custom Secondary Colour: #b60f25
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

@@ -1,0 +1,44 @@
+Model: italigto
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 32
+Secondary Colour: 0
+Pearl Colour: 7
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 2
+Sideskirt: 6
+Exhaust: 4
+Chassis: 1
+Grille: 0
+Hood: 2
+Fender: 3
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 49
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 10
+Livery: 0
+Tyre Smoke Colour: #f6ff00
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #f6ff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 28
+Dashboard Colour: 0
+Tyres Mode: 1

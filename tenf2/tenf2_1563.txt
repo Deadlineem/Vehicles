@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 0
+Plate Text: 56WRL317
+Primary Colour: 107
+Secondary Colour: 105
+Pearl Colour: 0
+Wheel Colour: 154
+Wheel Type: 12
+Spoiler: 18
+Front Bumper: 14
+Rear Bumper: 2
+Sideskirt: 16
+Exhaust: 14
+Grille: 2
+Hood: 17
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 59
+Vanity Plates: 5
+Trim: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Arch Cover: 1
+Aerials: 0
+Trim2: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #2301ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,43 @@
+Model: entity3
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 41
+Wheel Colour: 34
+Wheel Type: 12
+Spoiler: 24
+Front Bumper: 13
+Rear Bumper: 1
+Sideskirt: 5
+Exhaust: 5
+Grille: 0
+Hood: 9
+Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 171
+Livery: 0
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #190000
+Custom Secondary Colour: #ffc800
+Neon Colour: #ff2800
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 89
+Tyres Mode: 1

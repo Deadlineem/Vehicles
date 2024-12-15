@@ -1,0 +1,44 @@
+Model: clique2
+Plate Style: 0
+Plate Text: 27SQN568
+Primary Colour: 106
+Secondary Colour: 68
+Pearl Colour: 107
+Wheel Colour: 131
+Wheel Type: 8
+Front Bumper: 1
+Rear Bumper: 4
+Sideskirt: 2
+Exhaust: 0
+Chassis: 4
+Grille: 1
+Hood: 0
+Fender: 4
+Roof: 1
+Engine: 1
+Brakes: 0
+Transmission: 3
+Horns: 24
+Suspension: 3
+Armor: 1
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 108
+Livery: 5
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #6db15c
+Custom Secondary Colour: #5a71da
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 107
+Dashboard Colour: 0
+Tyres Mode: 2
+Extra 1: Yes

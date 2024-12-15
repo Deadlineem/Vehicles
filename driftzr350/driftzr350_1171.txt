@@ -1,0 +1,60 @@
+Model: driftzr350
+Plate Style: 0
+Plate Text: 82EQD733
+Primary Colour: 67
+Secondary Colour: 136
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 12
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 3
+Exhaust: 6
+Chassis: 3
+Grille: 3
+Hood: 3
+Fender: 1
+Right Fender: 1
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 28
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 28
+Vanity Plates: 2
+Trim: 3
+Dashboard: 4
+Dial: 2
+Seats: 8
+Door Speaker: 0
+Steering Wheel: 10
+Engine Block: 2
+Air Filter: 5
+Struts: 3
+Arch Cover: 2
+Aerials: 2
+Trim2: 0
+Left Door: 4
+Right Door: 0
+Livery: 6
+Tyre Smoke Colour: #cb3694
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff3264
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 136
+Dashboard Colour: 136
+Tyres Mode: 1

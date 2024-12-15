@@ -1,0 +1,35 @@
+Model: oppressor2
+Plate Style: 0
+Plate Text: 13AKJ893
+Primary Colour: 111
+Secondary Colour: 111
+Pearl Colour: 27
+Wheel Colour: 156
+Wheel Type: 6
+Chassis: 1
+Grille: 1
+Roof: 2
+Engine: 4
+Brakes: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 72
+Back Wheels: 72
+Livery: 30
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

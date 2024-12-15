@@ -1,0 +1,86 @@
+Model: dominator8
+Plate Style: 1
+Plate Text:         
+Primary Colour: 28
+Secondary Colour: 0
+Pearl Colour: 28
+Wheel Colour: 27
+Wheel Type: 5
+Spoiler: 2
+Front Bumper: 2
+Rear Bumper: 4
+Sideskirt: 2
+Exhaust: 4
+Chassis: 4
+Grille: 1
+Hood: 1
+Fender: 0
+Right Fender: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 28
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 13
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 1
+Trim: 0
+Ornaments: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 12
+Steering Wheel: 16
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 6
+Air Filter: 14
+Struts: 12
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 3
+Left Door: 0
+Right Door: 0
+Livery: 6
+Lightbar: 2
+Tyre Smoke Colour: #e20606
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: #000000
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 30
+Roof Livery: 0
+Dashboard Colour: 28
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

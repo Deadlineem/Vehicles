@@ -1,0 +1,45 @@
+Model: schlagen
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 154
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 2
+Front Bumper: 2
+Rear Bumper: 3
+Sideskirt: 4
+Exhaust: 0
+Chassis: 0
+Grille: 1
+Hood: 9
+Fender: 0
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 10
+Front Wheels: 30
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #0c0005
+Custom Secondary Colour: #000000
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

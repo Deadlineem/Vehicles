@@ -1,0 +1,41 @@
+Model: nightshark
+Plate Style: 1
+Plate Text: 8LMNT624
+Primary Colour: 32
+Secondary Colour: 40
+Pearl Colour: 25
+Wheel Colour: 0
+Wheel Type: 1
+Front Bumper: 2
+Rear Bumper: 2
+Exhaust: 2
+Chassis: 1
+Grille: 1
+Hood: 8
+Fender: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 1
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 14
+Livery: 4
+Tyre Smoke Colour: #e20606
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,45 @@
+Model: eudora
+Plate Style: 5
+Plate Text:   K3Y   
+Primary Colour: 93
+Secondary Colour: 161
+Pearl Colour: 4
+Wheel Colour: 0
+Wheel Type: 2
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 2
+Chassis: 1
+Grille: 0
+Hood: 2
+Fender: 0
+Right Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: 
+Custom Secondary Colour: #57514b
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 121
+Dashboard Colour: 156
+Tyres Mode: 2

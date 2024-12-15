@@ -1,0 +1,36 @@
+Model: oracle
+Plate Style: 0
+Plate Text: 82DLI912
+Primary Colour: 108
+Secondary Colour: 21
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 11
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 2
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #3a2a1b
+Custom Secondary Colour: #1e232f
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 11: Yes
+Extra 12: No

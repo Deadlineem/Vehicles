@@ -1,0 +1,40 @@
+Model: reever
+Plate Style: 1
+Plate Text: 6FLWW681
+Primary Colour: 92
+Secondary Colour: 0
+Pearl Colour: 92
+Wheel Colour: 1
+Wheel Type: 6
+Spoiler: 0
+Front Bumper: 9
+Rear Bumper: 5
+Exhaust: 4
+Chassis: 5
+Grille: 12
+Engine: 4
+Brakes: 4
+Transmission: 4
+Horns: 58
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 2, Custom
+Back Wheels: 2, Custom
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 14
+Dashboard Colour: 0
+Tyres Mode: 1

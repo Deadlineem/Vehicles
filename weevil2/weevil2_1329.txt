@@ -1,0 +1,52 @@
+Model: weevil2
+Plate Style: 4
+Plate Text:  HERBIE 
+Primary Colour: 111
+Secondary Colour: 111
+Pearl Colour: 6
+Wheel Colour: 111
+Wheel Type: 1
+Spoiler: 0
+Front Bumper: 9
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 3
+Chassis: 0
+Grille: 0
+Hood: 1
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 56
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 10
+Trim: 0
+Door Speaker: 2
+Steering Wheel: 2
+Shifter Leavers: 0
+Arch Cover: 0
+Aerials: 4
+Windows: 4
+Unk47: 0
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: #fffff6
+Custom Secondary Colour: #fffff6
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Dashboard Colour: 156
+Tyres Mode: 1

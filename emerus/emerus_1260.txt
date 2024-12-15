@@ -1,0 +1,40 @@
+Model: emerus
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 161
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 24
+Sideskirt: 12
+Exhaust: 4
+Grille: 6
+Fender: 2
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 0
+Livery: 2
+Tyre Smoke Colour: #7b00ff
+Window Tint: 1
+Custom Primary Colour: #ba6014
+Custom Secondary Colour: #ba6014
+Neon Colour: #7b00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 14
+Dashboard Colour: 131
+Tyres Mode: 1
+Extra 1: Yes

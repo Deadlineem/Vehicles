@@ -1,0 +1,50 @@
+Model: faction3
+Plate Style: 0
+Plate Text: 47VWH089
+Primary Colour: 28
+Secondary Colour: 0
+Pearl Colour: 28
+Wheel Colour: 27
+Wheel Type: 8
+Exhaust: 2
+Hood: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 140
+Back Wheels: 4
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 1
+Dial: 9
+Steering Wheel: 5
+Shifter Leavers: 10
+Plaques: 0
+Speakers: 2
+Trunk: 2
+Engine Block: 1
+Air Filter: 4
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2
+Extra 2: No
+Extra 3: No

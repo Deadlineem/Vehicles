@@ -1,0 +1,36 @@
+Model: tezeract
+Plate Style: 0
+Plate Text: FROGGER 
+Primary Colour: 111
+Secondary Colour: 38
+Pearl Colour: 50
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 5
+Front Bumper: 0
+Rear Bumper: 0
+Chassis: 3
+Engine: 4
+Brakes: 3
+Horns: 2
+Armor: 5
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: 5
+Tyre Smoke Colour: #141414
+Window Tint: 0
+Custom Primary Colour: #001117
+Custom Secondary Colour: 
+Neon Colour: #ff3e00
+Neon Front: No
+Neon Back: No
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 38
+Dashboard Colour: 0
+Tyres Mode: 1

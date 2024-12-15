@@ -1,0 +1,46 @@
+Model: vorschlaghammer
+Plate Style: 0
+Plate Text: 41MEV479
+Primary Colour: 141
+Secondary Colour: 64
+Pearl Colour: 70
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 8
+Front Bumper: 4
+Rear Bumper: 0
+Sideskirt: 3
+Exhaust: 8
+Chassis: 0
+Grille: 2
+Hood: 1
+Fender: 3
+Right Fender: 0
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 22, Custom
+Trim: 1
+Livery: 9
+Tyre Smoke Colour: #00aeef
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

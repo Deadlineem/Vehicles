@@ -1,0 +1,38 @@
+Model: krieger
+Plate Style: 0
+Plate Text: 89VOH995
+Primary Colour: 96
+Secondary Colour: 0
+Pearl Colour: 27
+Wheel Colour: 28
+Wheel Type: 10
+Spoiler: 3
+Sideskirt: 1
+Exhaust: 1
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 34
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 100
+Livery: 8
+Tyre Smoke Colour: #ff0019
+Window Tint: 1
+Custom Primary Colour: #221b19
+Custom Secondary Colour: 
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No

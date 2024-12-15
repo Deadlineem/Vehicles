@@ -1,0 +1,40 @@
+Model: tempesta
+Plate Style: 1
+Plate Text:  0 KMH  
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 111
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 2
+Sideskirt: 3
+Exhaust: 1
+Chassis: 1
+Hood: 6
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 55
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 107
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 6
+Custom Primary Colour: #c3ffc1
+Custom Secondary Colour: #fcc1ff
+Neon Colour: #fcc1ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

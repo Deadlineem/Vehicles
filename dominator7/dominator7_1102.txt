@@ -1,0 +1,60 @@
+Model: dominator7
+Plate Style: 5
+Plate Text: TERMIN8R
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 135
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 2
+Front Bumper: 1
+Rear Bumper: 12
+Sideskirt: 4
+Exhaust: 8
+Chassis: 5
+Grille: 1
+Hood: 0
+Fender: 0
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 53
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 5
+Trim: 3
+Dashboard: 4
+Dial: 5
+Seats: 0
+Door Speaker: 9
+Steering Wheel: 5
+Engine Block: 4
+Air Filter: 0
+Struts: 5
+Arch Cover: 0
+Aerials: 3
+Trim2: 1
+Tank: 0
+Left Door: 1
+Right Door: 10
+Livery: 2
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: #1e001e
+Custom Secondary Colour: 
+Neon Colour: #640064
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 111
+Tyres Mode: 1

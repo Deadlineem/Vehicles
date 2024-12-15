@@ -1,0 +1,41 @@
+Model: deluxo
+Plate Style: 0
+Plate Text: 04FXQ885
+Primary Colour: 158
+Secondary Colour: 120
+Pearl Colour: 38
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Grille: 0
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 6
+Front Wheels: 87
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #1a350c
+Custom Secondary Colour: #1a350c
+Neon Colour: #33ff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

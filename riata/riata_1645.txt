@@ -1,0 +1,41 @@
+Model: riata
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 88
+Wheel Colour: 3
+Wheel Type: 9
+Front Bumper: 10
+Rear Bumper: 3
+Sideskirt: 4
+Exhaust: 2
+Grille: 0
+Hood: 5
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 10
+Front Wheels: 124
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #1e000b
+Custom Secondary Colour: #1e000b
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

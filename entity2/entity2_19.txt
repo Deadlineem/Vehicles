@@ -1,0 +1,39 @@
+Model: entity2
+Plate Style: 1
+Plate Text:   1R30  
+Primary Colour: 38
+Secondary Colour: 111
+Pearl Colour: 37
+Wheel Colour: 2
+Wheel Type: 11
+Spoiler: 1
+Front Bumper: 3
+Rear Bumper: 3
+Exhaust: 0
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 28
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

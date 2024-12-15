@@ -1,0 +1,42 @@
+Model: yosemite
+Plate Style: 0
+Plate Text: 50EMD221
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 10
+Front Bumper: 8
+Rear Bumper: 1
+Sideskirt: 9
+Chassis: 0
+Grille: 1
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 13
+Front Wheels: 16
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #413370
+Custom Secondary Colour: #413370
+Neon Colour: #413370
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1

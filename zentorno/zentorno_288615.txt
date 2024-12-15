@@ -1,0 +1,44 @@
+Model: zentorno
+Plate Style: 0
+Plate Text: 67ERL599
+Primary Colour: 0
+Secondary Colour: 10
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 1
+Sideskirt: 5
+Exhaust: 5
+Chassis: 1
+Grille: 1
+Hood: 0
+Fender: 0
+Right Fender: 2
+Roof: 0
+Engine: 3
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 4
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 6
+Tyre Smoke Colour: #00aeef
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

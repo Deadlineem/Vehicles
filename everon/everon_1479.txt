@@ -1,0 +1,42 @@
+Model: everon
+Plate Style: 4
+Plate Text: 88DTR914
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 4
+Spoiler: 1
+Front Bumper: 10
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 1
+Hood: 17
+Right Fender: 7
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 1
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 4, Custom
+Livery: 4
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

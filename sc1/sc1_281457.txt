@@ -1,0 +1,41 @@
+Model: sc1
+Plate Style: 5
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 161
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 3
+Sideskirt: 1
+Exhaust: 3
+Hood: 2
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 4
+Front Wheels: 47
+Livery: -1
+Tyre Smoke Colour: #f2ff00
+Window Tint: 1
+Custom Primary Colour: #3278c8
+Custom Secondary Colour: #000000
+Neon Colour: #f2ff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 65
+Tyres Mode: 1

@@ -1,0 +1,48 @@
+Model: patriot3
+Plate Style: 0
+Plate Text: 46TRH507
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 18
+Wheel Colour: 122
+Wheel Type: 8
+Spoiler: 3
+Front Bumper: 10
+Rear Bumper: 6
+Sideskirt: 8
+Exhaust: 6
+Chassis: 1
+Grille: 16
+Hood: 5
+Fender: 7
+Right Fender: 1
+Roof: 9
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 106
+Ornaments: 7
+Trim2: 2
+Tank: 1
+Livery: 6
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #00ffff
+Custom Secondary Colour: #00ffff
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 0
+Tyres Mode: 1

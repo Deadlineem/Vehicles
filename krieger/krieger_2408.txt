@@ -1,0 +1,38 @@
+Model: krieger
+Plate Style: 0
+Plate Text: FNG3VF6T
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 112
+Wheel Type: 10
+Spoiler: 13
+Sideskirt: 1
+Exhaust: 5
+Hood: 2
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 58
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 40
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #05abff
+Custom Secondary Colour: #05abff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 33
+Dashboard Colour: 65
+Tyres Mode: 1
+Extra 1: No

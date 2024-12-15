@@ -1,0 +1,40 @@
+Model: sheava
+Plate Style: 0
+Plate Text: NIGHTFAL
+Primary Colour: 71
+Secondary Colour: 120
+Pearl Colour: 137
+Wheel Colour: 156
+Wheel Type: 3
+Spoiler: 4
+Front Bumper: 1
+Rear Bumper: 1
+Exhaust: 0
+Hood: 0
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 33
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #1a182e
+Custom Secondary Colour: #000000
+Neon Colour: #00ff8c
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No

@@ -1,0 +1,71 @@
+Model: sultan2
+Plate Style: 1
+Plate Text: 60BHL389
+Primary Colour: 89
+Secondary Colour: 89
+Pearl Colour: 88
+Wheel Colour: 99
+Wheel Type: 0
+Spoiler: 16
+Front Bumper: 5
+Rear Bumper: 4
+Sideskirt: 3
+Exhaust: 6
+Chassis: 1
+Grille: 4
+Hood: 8
+Fender: 2
+Right Fender: 4
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 2
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 46
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Windows: 0
+Unk47: 0
+Livery: 2
+Unk49: 2
+Tyre Smoke Colour: #e20606
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Roof Livery: 0
+Dashboard Colour: 0
+Tyres Mode: 1

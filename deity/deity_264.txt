@@ -1,0 +1,47 @@
+Model: deity
+Plate Style: 5
+Plate Text:   REAL  
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 18
+Front Bumper: 8
+Rear Bumper: 5
+Sideskirt: 12
+Exhaust: 11
+Chassis: 1
+Grille: 11
+Hood: 13
+Fender: 3
+Right Fender: 1
+Roof: 9
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 42
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 119
+Trim2: 2
+Tank: 1
+Livery: 2
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #ff00be
+Custom Secondary Colour: #ff00be
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

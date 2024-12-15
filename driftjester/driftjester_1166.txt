@@ -1,0 +1,59 @@
+Model: driftjester
+Plate Style: 0
+Plate Text: KHOTHOS 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 64
+Wheel Type: 8
+Spoiler: 14
+Front Bumper: 12
+Rear Bumper: 11
+Sideskirt: 1
+Exhaust: 13
+Chassis: 9
+Grille: 8
+Hood: 12
+Fender: 2
+Right Fender: 5
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 50
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 35
+Vanity Plates: 3
+Trim: 11
+Ornaments: 2
+Dashboard: 4
+Dial: 4
+Seats: 0
+Door Speaker: 11
+Steering Wheel: 16
+Engine Block: 5
+Air Filter: 9
+Struts: 17
+Arch Cover: 3
+Trim2: 2
+Tank: 8
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 27
+Dashboard Colour: 156
+Tyres Mode: 1

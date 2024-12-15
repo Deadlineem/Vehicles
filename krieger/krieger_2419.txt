@@ -1,0 +1,38 @@
+Model: krieger
+Plate Style: 1
+Plate Text:   ZORO  
+Primary Colour: 27
+Secondary Colour: 33
+Pearl Colour: 18
+Wheel Colour: 112
+Wheel Type: 8
+Spoiler: 12
+Sideskirt: 1
+Exhaust: 5
+Hood: 4
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 58
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 6
+Front Wheels: 116
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #3cfd5a
+Custom Secondary Colour: #3cfd5a
+Neon Colour: #3cfd5a
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 22
+Dashboard Colour: 65
+Tyres Mode: 1
+Extra 1: No

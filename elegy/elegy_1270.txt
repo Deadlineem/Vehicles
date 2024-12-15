@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 1
+Plate Text:  MELVIN 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 149
+Wheel Type: 10
+Spoiler: 14
+Front Bumper: 3
+Rear Bumper: 0
+Sideskirt: 4
+Exhaust: 0
+Chassis: 5
+Grille: 3
+Hood: 6
+Fender: 3
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 3
+Plate Holder: 1
+Vanity Plates: 1
+Trim: 1
+Dashboard: 5
+Dial: 14
+Seats: 7
+Door Speaker: 14
+Steering Wheel: 15
+Engine Block: 4
+Air Filter: 8
+Struts: 12
+Arch Cover: 0
+Aerials: 0
+Trim2: 1
+Tank: 5
+Windows: 2
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 63
+Dashboard Colour: 134
+Tyres Mode: 1

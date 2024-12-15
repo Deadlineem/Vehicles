@@ -1,0 +1,39 @@
+Model: neon
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 0
+Pearl Colour: 161
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 0
+Front Bumper: 6
+Rear Bumper: 2
+Sideskirt: 9
+Hood: 1
+Fender: 5
+Engine: 4
+Brakes: 3
+Horns: 49
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 8
+Livery: -1
+Tyre Smoke Colour: #a1ff00
+Window Tint: 1
+Custom Primary Colour: #fa6300
+Custom Secondary Colour: #000000
+Neon Colour: #a1ff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 65
+Tyres Mode: 1

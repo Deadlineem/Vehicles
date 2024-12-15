@@ -1,0 +1,57 @@
+Model: calico
+Plate Style: 1
+Plate Text: 48SDI206
+Primary Colour: 158
+Secondary Colour: 0
+Pearl Colour: 160
+Wheel Colour: 153
+Wheel Type: 11
+Spoiler: 4
+Front Bumper: 16
+Rear Bumper: 7
+Sideskirt: 22
+Exhaust: 9
+Chassis: 6
+Grille: 0
+Hood: 0
+Fender: 0
+Roof: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 25
+Plate Holder: 1
+Dashboard: 4
+Seats: 7
+Door Speaker: 15
+Steering Wheel: 12
+Engine Block: 4
+Air Filter: 4
+Struts: 3
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Unk47: 1
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #00ff50
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 102
+Dashboard Colour: 89
+Tyres Mode: 1

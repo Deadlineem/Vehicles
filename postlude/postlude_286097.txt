@@ -1,0 +1,53 @@
+Model: postlude
+Plate Style: 0
+Plate Text: KHOTHOS 
+Primary Colour: 1
+Secondary Colour: 1
+Pearl Colour: 10
+Wheel Colour: 83
+Wheel Type: 8
+Spoiler: 11
+Front Bumper: 5
+Rear Bumper: 5
+Exhaust: 8
+Chassis: 5
+Hood: 16
+Fender: 5
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 35
+Vanity Plates: 7
+Trim: 1
+Dashboard: 5
+Seats: 0
+Door Speaker: 14
+Steering Wheel: 16
+Engine Block: 6
+Struts: 15
+Arch Cover: 5
+Left Door: 0
+Right Door: 0
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

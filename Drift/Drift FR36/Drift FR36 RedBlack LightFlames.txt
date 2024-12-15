@@ -1,0 +1,46 @@
+Model: driftfr36
+Plate Style: 2
+Plate Text:  DKARME 
+Primary Colour: 31
+Secondary Colour: 31
+Pearl Colour: 28
+Wheel Colour: 67
+Wheel Type: 9
+Spoiler: 13
+Front Bumper: 13
+Rear Bumper: 16
+Sideskirt: 15
+Exhaust: 7
+Chassis: 1
+Grille: 7
+Hood: 5
+Fender: 7
+Right Fender: 6
+Roof: 17
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 115
+Ornaments: 4
+Livery: 6
+Tyre Smoke Colour: #4600ff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0f03ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 137
+Dashboard Colour: 0
+Tyres Mode: 1

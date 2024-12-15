@@ -1,0 +1,39 @@
+Model: visione
+Plate Style: 0
+Plate Text: 65IAH575
+Primary Colour: 61
+Secondary Colour: 61
+Pearl Colour: 51
+Wheel Colour: 0
+Wheel Type: 2
+Spoiler: 4
+Front Bumper: 3
+Rear Bumper: 4
+Exhaust: 2
+Hood: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 20
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: 1
+Tyre Smoke Colour: #e20606
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

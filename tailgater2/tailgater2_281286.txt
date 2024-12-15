@@ -1,0 +1,62 @@
+Model: tailgater2
+Plate Style: 5
+Plate Text:  SPICY  
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 35
+Wheel Type: 11
+Spoiler: 20
+Front Bumper: 15
+Rear Bumper: 10
+Sideskirt: 19
+Exhaust: 8
+Chassis: 6
+Grille: 3
+Hood: 0
+Fender: 2
+Right Fender: 1
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 21
+Plate Holder: 1
+Vanity Plates: 0
+Trim: 3
+Dashboard: 2
+Seats: 1
+Door Speaker: 13
+Steering Wheel: 17
+Engine Block: 5
+Air Filter: 9
+Struts: 12
+Arch Cover: 3
+Aerials: 0
+Trim2: 5
+Tank: 3
+Right Door: 2
+Livery: 0
+Tyre Smoke Colour: #00ff88
+Window Tint: 1
+Custom Primary Colour: #191919
+Custom Secondary Colour: #191919
+Neon Colour: #00ff88
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 5
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No

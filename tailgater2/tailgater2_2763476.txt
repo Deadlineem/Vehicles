@@ -1,0 +1,62 @@
+Model: tailgater2
+Plate Style: 1
+Plate Text: 82RTL702
+Primary Colour: 2
+Secondary Colour: 11
+Pearl Colour: 5
+Wheel Colour: 27
+Wheel Type: 10
+Spoiler: 20
+Front Bumper: 15
+Rear Bumper: 9
+Sideskirt: 19
+Exhaust: 6
+Chassis: 6
+Grille: 0
+Hood: 20
+Fender: 4
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 1
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 20
+Plate Holder: 3
+Vanity Plates: 2
+Trim: 3
+Dashboard: 2
+Seats: 1
+Door Speaker: 0
+Steering Wheel: 17
+Engine Block: 5
+Air Filter: 9
+Struts: 12
+Arch Cover: 0
+Aerials: 5
+Trim2: 1
+Tank: 3
+Unk47: 2
+Livery: 6
+Tyre Smoke Colour: #e20606
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 150
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No

@@ -1,0 +1,55 @@
+Model: sultan3
+Plate Style: 0
+Plate Text: INDICCA 
+Primary Colour: 120
+Secondary Colour: 12
+Pearl Colour: 18
+Wheel Colour: 156
+Wheel Type: 2
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 3
+Sideskirt: 0
+Exhaust: 8
+Chassis: 5
+Grille: 3
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 17
+Trim: 0
+Dashboard: 3
+Dial: 5
+Seats: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Livery: 0
+Tyre Smoke Colour: #6432ff
+Window Tint: 1
+Custom Primary Colour: #6432ff
+Custom Secondary Colour: #6432ff
+Neon Colour: #6432ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 160
+Tyres Mode: 1

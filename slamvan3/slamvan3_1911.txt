@@ -1,0 +1,56 @@
+Model: slamvan3
+Plate Style: 1
+Plate Text: 62WVR212
+Primary Colour: 68
+Secondary Colour: 158
+Pearl Colour: 68
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 1
+Exhaust: 4
+Grille: 4
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 112
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dashboard: 0
+Dial: 0
+Door Speaker: 6
+Steering Wheel: 7
+Shifter Leavers: 0
+Plaques: 0
+Hydraulics: 4
+Engine Block: 4
+Air Filter: 5
+Tank: 0
+Windows: 0
+Livery: 6
+Tyre Smoke Colour: #00aeef
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 74
+Dashboard Colour: 70
+Tyres Mode: 1

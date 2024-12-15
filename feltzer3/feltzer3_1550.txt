@@ -1,0 +1,43 @@
+Model: feltzer3
+Plate Style: 0
+Plate Text:  0 KMH  
+Primary Colour: 161
+Secondary Colour: 0
+Pearl Colour: 161
+Wheel Colour: 160
+Wheel Type: 8
+Spoiler: 2
+Rear Bumper: 0
+Exhaust: 2
+Chassis: 3
+Grille: 2
+Hood: 7
+Roof: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 14
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 7
+Front Wheels: 107
+Shifter Leavers: 0
+Speakers: 0
+Livery: 16
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #ffee00
+Custom Secondary Colour: #ffee00
+Neon Colour: #ffee00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

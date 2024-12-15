@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 1
+Plate Text: 86LIP904
+Primary Colour: 2
+Secondary Colour: 12
+Pearl Colour: 91
+Wheel Colour: 92
+Wheel Type: 9
+Spoiler: 11
+Front Bumper: 16
+Rear Bumper: 6
+Sideskirt: 12
+Exhaust: 5
+Hood: 16
+Roof: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 28
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 124
+Livery: 7
+Tyre Smoke Colour: #ffff00
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #ffff00
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

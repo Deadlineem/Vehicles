@@ -1,0 +1,43 @@
+Model: neo
+Plate Style: 0
+Plate Text: 89SVF485
+Primary Colour: 134
+Secondary Colour: 70
+Pearl Colour: 127
+Wheel Colour: 127
+Wheel Type: 11
+Spoiler: 4
+Front Bumper: 1
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 13
+Chassis: 5
+Grille: 11
+Hood: 4
+Fender: 1
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 20
+Armor: 0
+Unk17: Yes
+Turbo: No
+Unk19: Yes
+Tiresmoke: No
+Unk21: Yes
+Headlights: 0
+Front Wheels: 0
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #195a96
+Neon Colour: #1effff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 13
+Dashboard Colour: 65
+Tyres Mode: 1

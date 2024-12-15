@@ -1,0 +1,46 @@
+Model: imperator2
+Plate Style: 1
+Plate Text: 08UYX845
+Primary Colour: 112
+Secondary Colour: 38
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 0
+Exhaust: 4
+Chassis: 3
+Hood: 0
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 0
+Ornaments: 0
+Air Filter: 3
+Struts: 3
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff3e00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 112
+Tyres Mode: 1

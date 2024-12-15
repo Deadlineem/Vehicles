@@ -1,0 +1,41 @@
+Model: pfister811
+Plate Style: 0
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 124
+Wheel Colour: 132
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 4
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 0
+Roof: 0
+Engine: 2
+Brakes: 2
+Transmission: 1
+Horns: 58
+Suspension: 3
+Armor: 4
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 108
+Livery: -1
+Tyre Smoke Colour: #1a131c
+Window Tint: 1
+Custom Primary Colour: #1a131c
+Custom Secondary Colour: #1a131c
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes

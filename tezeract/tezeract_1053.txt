@@ -1,0 +1,36 @@
+Model: tezeract
+Plate Style: 0
+Plate Text: 47HNU017
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 135
+Wheel Colour: 121
+Wheel Type: 8
+Spoiler: 6
+Front Bumper: 9
+Rear Bumper: 4
+Chassis: 4
+Engine: 4
+Brakes: 3
+Horns: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #7370ff
+Custom Secondary Colour: #7370ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

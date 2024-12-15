@@ -1,0 +1,44 @@
+Model: gb200
+Plate Style: 1
+Plate Text: MCQUEEN 
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 88
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 1
+Sideskirt: 1
+Exhaust: 1
+Chassis: 1
+Grille: 0
+Hood: 1
+Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 153
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #611009
+Custom Secondary Colour: #611009
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

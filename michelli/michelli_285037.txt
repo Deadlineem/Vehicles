@@ -1,0 +1,44 @@
+Model: michelli
+Plate Style: 5
+Plate Text:   UWU   
+Primary Colour: 30
+Secondary Colour: 30
+Pearl Colour: 36
+Wheel Colour: 2
+Wheel Type: 5
+Spoiler: 3
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 5
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 3
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 37
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

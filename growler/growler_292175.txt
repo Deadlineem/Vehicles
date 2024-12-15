@@ -1,0 +1,57 @@
+Model: growler
+Plate Style: 1
+Plate Text:  STRONG 
+Primary Colour: 145
+Secondary Colour: 12
+Pearl Colour: 137
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 2
+Front Bumper: 0
+Rear Bumper: 5
+Sideskirt: 2
+Exhaust: 17
+Chassis: 0
+Grille: 2
+Hood: 14
+Fender: 2
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 108
+Plate Holder: 0
+Vanity Plates: 2
+Trim: 2
+Dashboard: 1
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Struts: 15
+Aerials: 6
+Left Door: 0
+Right Door: 4
+Livery: 6
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #2301ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 111
+Tyres Mode: 1

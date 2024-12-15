@@ -1,0 +1,42 @@
+Model: sm722
+Plate Style: 0
+Plate Text:  ST4ND  
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 32
+Wheel Type: 8
+Spoiler: 21
+Front Bumper: 2
+Rear Bumper: 7
+Sideskirt: 2
+Exhaust: 4
+Chassis: 1
+Grille: 8
+Hood: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 29
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 65
+Livery: 9
+Tyre Smoke Colour: #ff6593
+Window Tint: 0
+Custom Primary Colour: #a0586f
+Custom Secondary Colour: #ff0047
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 156
+Tyres Mode: 1

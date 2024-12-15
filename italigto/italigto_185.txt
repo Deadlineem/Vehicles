@@ -1,0 +1,44 @@
+Model: italigto
+Plate Style: 1
+Plate Text: FERRARI 
+Primary Colour: 27
+Secondary Colour: 21
+Pearl Colour: 27
+Wheel Colour: 29
+Wheel Type: 7
+Spoiler: 8
+Front Bumper: 9
+Rear Bumper: 3
+Sideskirt: 6
+Exhaust: 5
+Chassis: 1
+Grille: 3
+Hood: 9
+Fender: 3
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 1, Custom
+Livery: 0
+Tyre Smoke Colour: #e20606
+Window Tint: 1
+Custom Primary Colour: #c00e1a
+Custom Secondary Colour: #1e232f
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 28
+Dashboard Colour: 0
+Tyres Mode: 1

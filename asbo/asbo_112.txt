@@ -1,0 +1,44 @@
+Model: asbo
+Plate Style: 1
+Plate Text:  SOPHIE 
+Primary Colour: 27
+Secondary Colour: 27
+Pearl Colour: 111
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 3
+Front Bumper: 6
+Sideskirt: 12
+Exhaust: 8
+Chassis: 4
+Grille: 1
+Hood: 10
+Fender: 4
+Right Fender: 4
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 46
+Livery: 0
+Tyre Smoke Colour: #fcee00
+Window Tint: 1
+Custom Primary Colour: #ffd859
+Custom Secondary Colour: #ffd859
+Neon Colour: #ff9605
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 111
+Tyres Mode: 1

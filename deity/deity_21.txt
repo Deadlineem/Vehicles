@@ -1,0 +1,47 @@
+Model: deity
+Plate Style: 0
+Plate Text:  27TT1  
+Primary Colour: 35
+Secondary Colour: 0
+Pearl Colour: 28
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 1
+Front Bumper: 5
+Rear Bumper: 3
+Sideskirt: 7
+Exhaust: 10
+Chassis: 0
+Grille: 5
+Hood: 6
+Fender: 3
+Right Fender: 0
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 28
+Trim2: 0
+Tank: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 5
+Plate Text: 00UNH009
+Primary Colour: 0
+Secondary Colour: 30
+Pearl Colour: 0
+Wheel Colour: 68
+Wheel Type: 8
+Spoiler: 20
+Front Bumper: 10
+Rear Bumper: 17
+Sideskirt: 16
+Exhaust: 8
+Grille: 0
+Hood: 14
+Fender: 3
+Right Fender: 7
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 1
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 141
+Vanity Plates: 17
+Trim: 1
+Dashboard: 4
+Seats: 4
+Door Speaker: 14
+Steering Wheel: 7
+Arch Cover: 1
+Aerials: 0
+Trim2: 7
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ff0000
+Custom Secondary Colour: 
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 156
+Tyres Mode: 1

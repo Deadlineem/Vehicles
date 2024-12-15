@@ -1,0 +1,71 @@
+Model: penumbra2
+Plate Style: 1
+Plate Text: 09KYJ022
+Primary Colour: 38
+Secondary Colour: 38
+Pearl Colour: 37
+Wheel Colour: 153
+Wheel Type: 0
+Spoiler: 3
+Front Bumper: 8
+Rear Bumper: 0
+Sideskirt: 14
+Exhaust: 4
+Chassis: 2
+Grille: 16
+Hood: 10
+Fender: 1
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 45
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Windows: 0
+Unk47: 0
+Livery: 2
+Unk49: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff3e00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Roof Livery: 0
+Dashboard Colour: 0
+Tyres Mode: 1

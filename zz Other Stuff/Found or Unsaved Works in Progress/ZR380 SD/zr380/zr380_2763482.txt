@@ -1,0 +1,48 @@
+Model: zr380
+Plate Style: 1
+Plate Text: 07BQS040
+Primary Colour: 7
+Secondary Colour: 7
+Pearl Colour: 111
+Wheel Colour: 0
+Wheel Type: 5
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Exhaust: 0
+Chassis: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Engine: 4
+Brakes: 0
+Transmission: 4
+Horns: 0
+Armor: 0
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 15
+Ornaments: 0
+Air Filter: 3
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

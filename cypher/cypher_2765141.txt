@@ -1,0 +1,59 @@
+Model: cypher
+Plate Style: 0
+Plate Text: GOLDSTAR
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 134
+Wheel Type: 9
+Spoiler: 14
+Front Bumper: 11
+Rear Bumper: 4
+Sideskirt: 2
+Exhaust: 0
+Chassis: 7
+Grille: 12
+Hood: 13
+Fender: 0
+Right Fender: 0
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 115
+Vanity Plates: 1
+Trim: 0
+Ornaments: 2
+Dashboard: 1
+Dial: 1
+Seats: 1
+Door Speaker: 11
+Steering Wheel: 16
+Engine Block: 12
+Struts: 17
+Arch Cover: 8
+Aerials: 0
+Trim2: 7
+Tank: 1
+Livery: 7
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #b38d22
+Custom Secondary Colour: #ffffff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 27
+Dashboard Colour: 156
+Tyres Mode: 1

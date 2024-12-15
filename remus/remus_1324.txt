@@ -1,0 +1,60 @@
+Model: remus
+Plate Style: 1
+Plate Text: 35CJG197
+Primary Colour: 0
+Secondary Colour: 36
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 16
+Front Bumper: 6
+Rear Bumper: 1
+Sideskirt: 3
+Exhaust: 3
+Chassis: 4
+Grille: 6
+Hood: 6
+Fender: 3
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 50, Custom
+Vanity Plates: 0
+Trim: 1
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Trunk: 0
+Engine Block: 1
+Air Filter: 7
+Struts: 12
+Arch Cover: 0
+Trim2: 0
+Tank: 5
+Right Door: 1
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #000032
+Custom Secondary Colour: 
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 8
+Dashboard Colour: 0
+Tyres Mode: 1

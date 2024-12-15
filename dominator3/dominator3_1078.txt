@@ -1,0 +1,45 @@
+Model: dominator3
+Plate Style: 0
+Plate Text: 18EEK079
+Primary Colour: 79
+Secondary Colour: 0
+Pearl Colour: 131
+Wheel Colour: 132
+Wheel Type: 8
+Spoiler: 17
+Front Bumper: 0
+Rear Bumper: 3
+Sideskirt: 12
+Exhaust: 10
+Chassis: 5
+Grille: 10
+Hood: 15
+Fender: 1
+Right Fender: 1
+Roof: 19
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 91
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #9749d8
+Custom Secondary Colour: #9749d8
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,43 @@
+Model: massacro
+Plate Style: 0
+Plate Text: 22DEK823
+Primary Colour: 17
+Secondary Colour: 1
+Pearl Colour: 0
+Wheel Colour: 90
+Wheel Type: 7
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 3
+Exhaust: 0
+Chassis: 0
+Hood: 2
+Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 14
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #333a3c
+Custom Secondary Colour: #1c1d21
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 10: No
+Extra 11: No

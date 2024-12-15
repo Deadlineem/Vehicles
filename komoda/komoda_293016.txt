@@ -1,0 +1,43 @@
+Model: komoda
+Plate Style: 0
+Plate Text: 22WCY005
+Primary Colour: 51
+Secondary Colour: 0
+Pearl Colour: 54
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 3
+Front Bumper: 6
+Rear Bumper: 0
+Sideskirt: 9
+Exhaust: 2
+Hood: 6
+Fender: 0
+Right Fender: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 14
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

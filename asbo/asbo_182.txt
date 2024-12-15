@@ -1,0 +1,44 @@
+Model: asbo
+Plate Style: 0
+Plate Text: 81TWZ826
+Primary Colour: 139
+Secondary Colour: 139
+Pearl Colour: 0
+Wheel Colour: 148
+Wheel Type: 11
+Spoiler: 1
+Front Bumper: 4
+Sideskirt: 10
+Exhaust: 1
+Chassis: 1
+Grille: 2
+Hood: 9
+Fender: 0
+Right Fender: 2
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 2
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 6
+Custom Primary Colour: #b0ee6e
+Custom Secondary Colour: #b0ee6e
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 160
+Tyres Mode: 1

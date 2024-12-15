@@ -1,0 +1,57 @@
+Model: calico
+Plate Style: 5
+Plate Text: 42QTW174
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 18
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 21
+Front Bumper: 25
+Rear Bumper: 7
+Sideskirt: 22
+Exhaust: 10
+Chassis: 7
+Grille: 0
+Hood: 24
+Fender: 1
+Roof: 18
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 53
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 29
+Plate Holder: 3
+Dashboard: 4
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 17
+Engine Block: 3
+Air Filter: 7
+Struts: 5
+Arch Cover: 0
+Aerials: 6
+Trim2: 0
+Tank: 2
+Right Door: 1
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #ff6400
+Custom Secondary Colour: #000000
+Neon Colour: #ff0000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 4

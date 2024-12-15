@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 1
+Plate Text: FT8F6NFO
+Primary Colour: 89
+Secondary Colour: 0
+Pearl Colour: 88
+Wheel Colour: 122
+Wheel Type: 7
+Spoiler: 0
+Front Bumper: 13
+Rear Bumper: 6
+Sideskirt: 9
+Exhaust: 0
+Hood: 16
+Roof: 9
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 15
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

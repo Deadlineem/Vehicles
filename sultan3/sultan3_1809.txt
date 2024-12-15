@@ -1,0 +1,55 @@
+Model: sultan3
+Plate Style: 4
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 5
+Wheel Type: 10
+Spoiler: 13
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 3
+Exhaust: 2
+Chassis: 0
+Grille: 2
+Hood: 12
+Fender: 0
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 96
+Trim: 1
+Dashboard: 5
+Dial: 4
+Seats: 0
+Engine Block: 0
+Air Filter: 4
+Struts: 12
+Arch Cover: 1
+Aerials: 0
+Trim2: 3
+Livery: 7
+Tyre Smoke Colour: #260700
+Window Tint: 1
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #ff0000
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 148
+Dashboard Colour: 132
+Tyres Mode: 1

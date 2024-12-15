@@ -1,0 +1,37 @@
+Model: ratel
+Plate Style: 0
+Plate Text: 61LWK435
+Primary Colour: 111
+Secondary Colour: 147
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 1
+Exhaust: 1
+Chassis: 0
+Roof: 0
+Engine: 3
+Brakes: 0
+Transmission: 3
+Horns: 49
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 112
+Livery: 6
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #5f9fe8
+Custom Secondary Colour: #c1e0f0
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 28
+Dashboard Colour: 0
+Tyres Mode: 1

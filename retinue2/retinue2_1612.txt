@@ -1,0 +1,43 @@
+Model: retinue2
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 89
+Wheel Colour: 89
+Wheel Type: 8
+Spoiler: 6
+Front Bumper: 3
+Rear Bumper: 1
+Chassis: 0
+Grille: 2
+Hood: 5
+Fender: 0
+Right Fender: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 0
+Front Wheels: 122
+Livery: 5
+Tyre Smoke Colour: #ffef89
+Window Tint: 1
+Custom Primary Colour: #ffef89
+Custom Secondary Colour: #000000
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

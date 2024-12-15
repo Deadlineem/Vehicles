@@ -1,0 +1,41 @@
+Model: kalahari
+Plate Style: 5
+Plate Text:         
+Primary Colour: 6
+Secondary Colour: 6
+Pearl Colour: 55
+Wheel Colour: 62
+Wheel Type: 10
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 51
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 133
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 5
+Custom Primary Colour: #060037
+Custom Secondary Colour: #180037
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No

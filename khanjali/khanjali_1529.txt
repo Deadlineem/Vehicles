@@ -1,0 +1,36 @@
+Model: khanjali
+Plate Style: 0
+Plate Text: LRTCTTIW
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 18
+Wheel Colour: 111
+Wheel Type: 10
+Chassis: 1
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Horns: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 9
+Vanity Plates: 0
+Livery: 0
+Tyre Smoke Colour: #b7ff99
+Window Tint: 0
+Custom Primary Colour: #ff89f4
+Custom Secondary Colour: #ffffff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 155
+Dashboard Colour: 134
+Tyres Mode: 1

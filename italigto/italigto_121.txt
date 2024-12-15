@@ -1,0 +1,44 @@
+Model: italigto
+Plate Style: 1
+Plate Text:  5N697  
+Primary Colour: 73
+Secondary Colour: 73
+Pearl Colour: 73
+Wheel Colour: 122
+Wheel Type: 11
+Spoiler: 1
+Front Bumper: 1
+Rear Bumper: 2
+Sideskirt: 0
+Exhaust: 2
+Chassis: 0
+Grille: 1
+Hood: 0
+Fender: 2
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 21
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

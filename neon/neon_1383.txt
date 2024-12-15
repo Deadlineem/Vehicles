@@ -1,0 +1,39 @@
+Model: neon
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 81
+Wheel Colour: 71
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 5
+Rear Bumper: 1
+Sideskirt: 8
+Hood: 0
+Fender: 0
+Engine: 4
+Brakes: 3
+Horns: 54
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 124
+Livery: -1
+Tyre Smoke Colour: #ff2600
+Window Tint: 1
+Custom Primary Colour: #06001e
+Custom Secondary Colour: #06001e
+Neon Colour: #ff2c00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 147
+Dashboard Colour: 147
+Tyres Mode: 1

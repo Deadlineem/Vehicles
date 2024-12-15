@@ -1,0 +1,43 @@
+Model: furia
+Plate Style: 0
+Plate Text: NYOOOOOM
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 1
+Wheel Type: 11
+Front Bumper: 1
+Rear Bumper: 7
+Sideskirt: 3
+Exhaust: 4
+Chassis: 2
+Grille: 0
+Hood: 8
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 17
+Livery: 0
+Tyre Smoke Colour: #99ffa8
+Window Tint: 3
+Custom Primary Colour: #5e1600
+Custom Secondary Colour: #0d1116
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 113
+Dashboard Colour: 111
+Tyres Mode: 1

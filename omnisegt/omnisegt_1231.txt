@@ -1,0 +1,44 @@
+Model: omnisegt
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 140
+Wheel Colour: 64
+Wheel Type: 8
+Spoiler: 4
+Front Bumper: 1
+Rear Bumper: 1
+Sideskirt: 2
+Chassis: 1
+Grille: 1
+Hood: 1
+Fender: 1
+Right Fender: 1
+Roof: 4
+Engine: 4
+Brakes: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 177
+Trim2: 2
+Livery: 14
+Tyre Smoke Colour: #ffccff
+Window Tint: 1
+Custom Primary Colour: #004cff
+Custom Secondary Colour: #004cff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 154
+Dashboard Colour: 156
+Tyres Mode: 1

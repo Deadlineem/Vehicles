@@ -1,0 +1,41 @@
+Model: nightshark
+Plate Style: 0
+Plate Text: 31TKZ819
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 122
+Wheel Type: 8
+Front Bumper: 3
+Rear Bumper: 3
+Exhaust: 2
+Chassis: 3
+Grille: 9
+Hood: 10
+Fender: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 108
+Livery: 26
+Tyre Smoke Colour: #000000
+Window Tint: 3
+Custom Primary Colour: #039a91
+Custom Secondary Colour: #8ea1ff
+Neon Colour: #ff0c00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

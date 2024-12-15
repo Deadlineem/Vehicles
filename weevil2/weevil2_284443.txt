@@ -1,0 +1,86 @@
+Model: weevil2
+Plate Style: 1
+Plate Text: 60HXR935
+Primary Colour: 112
+Secondary Colour: 112
+Pearl Colour: 0
+Wheel Colour: 145
+Wheel Type: 12
+Spoiler: 6
+Front Bumper: 13
+Rear Bumper: 0
+Sideskirt: 5
+Exhaust: 14
+Chassis: 4
+Grille: 10
+Hood: 8
+Fender: 7
+Right Fender: 0
+Roof: 16
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 36
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 9
+Ornaments: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 8
+Steering Wheel: 10
+Shifter Leavers: 14
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 2
+Aerials: 9
+Trim2: 0
+Tank: 0
+Left Door: 7
+Right Door: 2
+Livery: 2
+Lightbar: 2
+Tyre Smoke Colour: #8466e2
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 28
+Roof Livery: 0
+Dashboard Colour: 4
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

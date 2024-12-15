@@ -1,0 +1,38 @@
+Model: bifta
+Plate Style: 5
+Plate Text: CRIMINAL
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 91
+Wheel Colour: 134
+Wheel Type: 12
+Spoiler: 2
+Sideskirt: 1
+Exhaust: 3
+Chassis: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 39
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 5
+Front Wheels: 120
+Livery: 0
+Tyre Smoke Colour: #72cc72
+Window Tint: 0
+Custom Primary Colour: #609377
+Custom Secondary Colour: #609377
+Neon Colour: #609377
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

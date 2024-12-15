@@ -1,0 +1,49 @@
+Model: italigtb2
+Plate Style: 0
+Plate Text:  0 MPH  
+Primary Colour: 50
+Secondary Colour: 50
+Pearl Colour: 70
+Wheel Colour: 0
+Wheel Type: 4
+Spoiler: 2
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 2
+Exhaust: 4
+Chassis: 3
+Hood: 0
+Fender: 2
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 13
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Aerials: 0
+Livery: 0
+Tyre Smoke Colour: #e60303
+Window Tint: 1
+Custom Primary Colour: #e60303
+Custom Secondary Colour: #e60303
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 4
+Tyres Mode: 1

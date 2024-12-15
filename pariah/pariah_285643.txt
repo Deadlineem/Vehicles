@@ -1,0 +1,40 @@
+Model: pariah
+Plate Style: 5
+Plate Text:   UWU   
+Primary Colour: 142
+Secondary Colour: 142
+Pearl Colour: 16
+Wheel Colour: 8
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 1
+Sideskirt: 1
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 34
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: #0c0d18
+Custom Secondary Colour: #0c0d18
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 65
+Tyres Mode: 2

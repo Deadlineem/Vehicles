@@ -1,0 +1,42 @@
+Model: zeno
+Plate Style: 5
+Plate Text:  QUIDAM 
+Primary Colour: 64
+Secondary Colour: 0
+Pearl Colour: 40
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 9
+Front Bumper: 10
+Rear Bumper: 14
+Sideskirt: 19
+Exhaust: 19
+Hood: 12
+Fender: 0
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 40
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 2
+Front Wheels: 117
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #fefeff
+Custom Secondary Colour: #fefeff
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

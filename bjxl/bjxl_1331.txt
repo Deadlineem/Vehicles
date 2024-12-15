@@ -1,0 +1,40 @@
+Model: bjxl
+Plate Style: 2
+Plate Text:  GH3ST  
+Primary Colour: 132
+Secondary Colour: 154
+Pearl Colour: 140
+Wheel Colour: 122
+Wheel Type: 10
+Front Bumper: 1
+Sideskirt: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 5
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #6c54ff
+Custom Secondary Colour: #6c54ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 5: Yes
+Extra 10: Yes
+Extra 11: Yes

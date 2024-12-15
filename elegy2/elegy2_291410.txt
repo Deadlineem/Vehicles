@@ -1,0 +1,46 @@
+Model: elegy2
+Plate Style: 1
+Plate Text: NSMO ARP
+Primary Colour: 3
+Secondary Colour: 3
+Pearl Colour: 111
+Wheel Colour: 11
+Wheel Type: 0
+Spoiler: 1
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 2
+Exhaust: 1
+Chassis: 0
+Grille: 1
+Hood: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 14
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 10: No
+Extra 11: No

@@ -1,0 +1,42 @@
+Model: ninef
+Plate Style: 5
+Plate Text:  BLEHH  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 73
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 33
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 4
+Custom Primary Colour: #0c2c51
+Custom Secondary Colour: #0c2c51
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 2
+Extra 10: Yes
+Extra 12: Yes

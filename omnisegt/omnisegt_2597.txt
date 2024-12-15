@@ -1,0 +1,44 @@
+Model: omnisegt
+Plate Style: 0
+Plate Text:   BALI  
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 18
+Wheel Colour: 111
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 2
+Rear Bumper: 3
+Sideskirt: 3
+Chassis: 0
+Grille: 0
+Hood: 1
+Fender: 2
+Right Fender: 1
+Roof: 6
+Engine: 4
+Brakes: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 88
+Trim2: 2
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #002eff
+Custom Secondary Colour: #002eff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 70
+Dashboard Colour: 156
+Tyres Mode: 1

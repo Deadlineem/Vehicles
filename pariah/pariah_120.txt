@@ -1,0 +1,40 @@
+Model: pariah
+Plate Style: 1
+Plate Text:  83ZO14 
+Primary Colour: 38
+Secondary Colour: 12
+Pearl Colour: 89
+Wheel Colour: 8
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 2
+Hood: 3
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 28
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 65
+Dashboard Colour: 0
+Tyres Mode: 1

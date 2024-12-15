@@ -1,0 +1,37 @@
+Model: fmj
+Plate Style: 1
+Plate Text: 66ZBM778
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 137
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 3
+Front Bumper: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #190000
+Custom Secondary Colour: #000000
+Neon Colour: #1e0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

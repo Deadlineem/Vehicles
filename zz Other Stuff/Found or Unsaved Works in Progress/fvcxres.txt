@@ -1,0 +1,39 @@
+Model: toreador
+Plate Style: 0
+Plate Text: 0WHMF725
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 0
+Wheel Colour: 142
+Wheel Type: 12
+Spoiler: 5
+Front Bumper: 7
+Rear Bumper: 7
+Grille: 10
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 5
+Livery: 1
+Tyre Smoke Colour: #cb3694
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0f03ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 143
+Dashboard Colour: 132
+Tyres Mode: 1

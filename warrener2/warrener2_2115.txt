@@ -1,0 +1,58 @@
+Model: warrener2
+Plate Style: 1
+Plate Text: 0CJZD968
+Primary Colour: 1
+Secondary Colour: 1
+Pearl Colour: 112
+Wheel Colour: 122
+Wheel Type: 12
+Spoiler: 8
+Front Bumper: 10
+Rear Bumper: 1
+Exhaust: 7
+Chassis: 0
+Grille: 1
+Hood: 7
+Fender: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 6
+Vanity Plates: 6
+Trim: 0
+Dashboard: 0
+Dial: 4
+Seats: 0
+Door Speaker: 2
+Steering Wheel: 8
+Engine Block: 0
+Air Filter: 0
+Struts: 12
+Arch Cover: 0
+Aerials: 0
+Trim2: 1
+Tank: 3
+Right Door: 0
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 111
+Tyres Mode: 1

@@ -1,0 +1,30 @@
+Model: cargobob2
+Plate Style: 4
+Plate Text: 60OQA895
+Primary Colour: 13
+Secondary Colour: 46
+Pearl Colour: 0
+Wheel Colour: 46
+Wheel Type: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes

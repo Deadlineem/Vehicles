@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 5
+Plate Text: 87RCN404
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 73
+Wheel Colour: 111
+Wheel Type: 10
+Spoiler: 15
+Front Bumper: 17
+Rear Bumper: 6
+Sideskirt: 12
+Exhaust: 5
+Hood: 16
+Roof: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 61
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #002aff
+Custom Secondary Colour: #ff00ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 17
+Dashboard Colour: 156
+Tyres Mode: 1

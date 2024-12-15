@@ -1,0 +1,58 @@
+Model: tornado5
+Plate Style: 3
+Plate Text: 01RHK182
+Primary Colour: 0
+Secondary Colour: 111
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 8
+Front Bumper: 0
+Rear Bumper: 1
+Exhaust: 3
+Hood: 5
+Right Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 100
+Back Wheels: 5
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dashboard: 0
+Dial: 0
+Steering Wheel: 8
+Shifter Leavers: 0
+Plaques: 0
+Trunk: 2
+Hydraulics: 6
+Engine Block: 4
+Air Filter: 3
+Arch Cover: 3
+Aerials: 1
+Trim2: 0
+Tank: 2
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #59b39c
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 107
+Roof Livery: 0
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 12: No

@@ -1,0 +1,59 @@
+Model: futo2
+Plate Style: 3
+Plate Text:   UWU   
+Primary Colour: 111
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 5
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Grille: 2
+Hood: 2
+Fender: 0
+Right Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 21
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Dashboard: 0
+Door Speaker: 0
+Steering Wheel: 1
+Engine Block: 4
+Air Filter: 5
+Struts: 0
+Arch Cover: 0
+Trim2: 0
+Tank: 1
+Left Door: 0
+Right Door: 3
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 32
+Dashboard Colour: 111
+Tyres Mode: 1

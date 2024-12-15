@@ -1,0 +1,39 @@
+Model: kuruma
+Plate Style: 0
+Plate Text:  V4MP   
+Primary Colour: 120
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 67
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 2
+Sideskirt: 5
+Exhaust: 3
+Chassis: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 88
+Livery: 13
+Tyre Smoke Colour: #000000
+Window Tint: 6
+Custom Primary Colour: #01ff42
+Custom Secondary Colour: #00ff33
+Neon Colour: #00ff96
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 4

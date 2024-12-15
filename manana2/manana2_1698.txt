@@ -1,0 +1,56 @@
+Model: manana2
+Plate Style: 0
+Plate Text: 27ALX620
+Primary Colour: 53
+Secondary Colour: 0
+Pearl Colour: 59
+Wheel Colour: 0
+Wheel Type: 0
+Front Bumper: 3
+Exhaust: 1
+Grille: 0
+Fender: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 18
+Back Wheels: 3
+Plate Holder: 6
+Vanity Plates: 15
+Trim: 2
+Ornaments: 16
+Dial: 7
+Steering Wheel: 0
+Shifter Leavers: 0
+Plaques: 21
+Trunk: 4
+Hydraulics: 4
+Engine Block: 3
+Air Filter: 4
+Arch Cover: 0
+Tank: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #5eff01
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: Yes

@@ -1,0 +1,44 @@
+Model: italirsx
+Plate Style: 1
+Plate Text: ROCKSTAR
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 15
+Front Bumper: 3
+Rear Bumper: 6
+Sideskirt: 7
+Exhaust: 6
+Chassis: 5
+Grille: 2
+Hood: 6
+Right Fender: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 14
+Front Wheels: 0
+Livery: 5
+Tyre Smoke Colour: #0050ff
+Window Tint: 1
+Custom Primary Colour: #4203ff
+Custom Secondary Colour: #4203ff
+Neon Colour: #0f03ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

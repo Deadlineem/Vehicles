@@ -1,0 +1,43 @@
+Model: sugoi
+Plate Style: 1
+Plate Text: REALVAMP
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 111
+Wheel Type: 8
+Spoiler: 13
+Front Bumper: 9
+Rear Bumper: 5
+Sideskirt: 6
+Exhaust: 6
+Grille: 0
+Hood: 0
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 77
+Livery: 0
+Tyre Smoke Colour: #c300ff
+Window Tint: 0
+Custom Primary Colour: #a470ff
+Custom Secondary Colour: #a678ff
+Neon Colour: #c700ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 4
+Dashboard Colour: 0
+Tyres Mode: 4

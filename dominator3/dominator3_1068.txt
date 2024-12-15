@@ -1,0 +1,45 @@
+Model: dominator3
+Plate Style: 1
+Plate Text: 82SHJ717
+Primary Colour: 0
+Secondary Colour: 23
+Pearl Colour: 10
+Wheel Colour: 141
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 4
+Rear Bumper: 3
+Sideskirt: 14
+Exhaust: 10
+Chassis: 5
+Grille: 10
+Hood: 15
+Fender: 1
+Right Fender: 0
+Roof: 18
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 1
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

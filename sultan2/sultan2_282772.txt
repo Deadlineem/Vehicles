@@ -1,0 +1,45 @@
+Model: sultan2
+Plate Style: 1
+Plate Text: LIDE  SL
+Primary Colour: 32
+Secondary Colour: 141
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 5
+Spoiler: 13
+Front Bumper: 5
+Rear Bumper: 4
+Sideskirt: 3
+Exhaust: 9
+Chassis: 0
+Grille: 4
+Hood: 15
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 35
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 4

@@ -1,0 +1,31 @@
+Model: hydra
+Plate Style: 0
+Plate Text: 64CWR686
+Primary Colour: 120
+Secondary Colour: 121
+Pearl Colour: 0
+Wheel Colour: 41
+Wheel Type: 9
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 82
+Back Wheels: 4
+Livery: -1
+Tyre Smoke Colour: #ff4500
+Window Tint: 0
+Custom Primary Colour: #ff4500
+Custom Secondary Colour: 
+Neon Colour: #ff4500
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2
+Extra 1: Yes
+Extra 2: Yes

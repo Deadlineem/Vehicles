@@ -1,0 +1,50 @@
+Model: banshee2
+Plate Style: 0
+Plate Text: 81TTR412
+Primary Colour: 158
+Secondary Colour: 159
+Pearl Colour: 160
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 2
+Front Bumper: 2
+Sideskirt: 4
+Exhaust: 2
+Grille: 4
+Hood: 9
+Fender: 2
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 47
+Ornaments: 12
+Dashboard: 1
+Seats: 1
+Door Speaker: 11
+Steering Wheel: 7
+Engine Block: 2
+Struts: 6
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2
+Extra 1: No
+Extra 2: Yes

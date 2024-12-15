@@ -1,0 +1,41 @@
+Model: swinger
+Plate Style: 0
+Plate Text: 70RPV528
+Primary Colour: 0
+Secondary Colour: 4
+Pearl Colour: 140
+Wheel Colour: 74
+Wheel Type: 11
+Front Bumper: 0
+Sideskirt: 3
+Exhaust: 4
+Chassis: 7
+Grille: 3
+Hood: 4
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 44
+Livery: 6
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #75aeff
+Custom Secondary Colour: #000000
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 4
+Dashboard Colour: 0
+Tyres Mode: 1

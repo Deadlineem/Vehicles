@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 3
+Plate Text: EMBOY ON
+Primary Colour: 89
+Secondary Colour: 89
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 10
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 2
+Chassis: 3
+Grille: 0
+Hood: 0
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 0
+Horns: 0
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 44
+Plate Holder: 1
+Vanity Plates: 3
+Trim: 0
+Dashboard: 0
+Dial: 1
+Seats: 0
+Door Speaker: 1
+Steering Wheel: 2
+Engine Block: 4
+Air Filter: 4
+Struts: 2
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Windows: 0
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 70
+Dashboard Colour: 4
+Tyres Mode: 1

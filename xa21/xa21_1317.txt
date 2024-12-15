@@ -1,0 +1,44 @@
+Model: xa21
+Plate Style: 1
+Plate Text: 81PGZ074
+Primary Colour: 141
+Secondary Colour: 146
+Pearl Colour: 73
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 5
+Front Bumper: 2
+Rear Bumper: 5
+Sideskirt: 7
+Exhaust: 14
+Chassis: 1
+Grille: 14
+Hood: 4
+Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #141414
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0f03ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 146
+Dashboard Colour: 0
+Tyres Mode: 1

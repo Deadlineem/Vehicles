@@ -1,0 +1,43 @@
+Model: sugoi
+Plate Style: 0
+Plate Text: 28FJN643
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 28
+Wheel Colour: 88
+Wheel Type: 8
+Spoiler: 6
+Front Bumper: 7
+Rear Bumper: 5
+Sideskirt: 2
+Exhaust: 3
+Grille: 5
+Hood: 2
+Fender: 3
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 146
+Livery: 10
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #070000
+Custom Secondary Colour: #ff0000
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 4
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,46 @@
+Model: fr36
+Plate Style: 5
+Plate Text:   UWU   
+Primary Colour: 78
+Secondary Colour: 78
+Pearl Colour: 16
+Wheel Colour: 2
+Wheel Type: 0
+Spoiler: 5
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 4
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 1
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 34
+Ornaments: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: #608592
+Custom Secondary Colour: #608592
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 28
+Dashboard Colour: 25
+Tyres Mode: 2

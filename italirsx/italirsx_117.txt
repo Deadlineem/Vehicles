@@ -1,0 +1,44 @@
+Model: italirsx
+Plate Style: 0
+Plate Text: 81PAW972
+Primary Colour: 0
+Secondary Colour: 131
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 16
+Front Bumper: 3
+Rear Bumper: 12
+Sideskirt: 8
+Exhaust: 8
+Chassis: 4
+Grille: 6
+Hood: 11
+Right Fender: 0
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 8
+Suspension: 0
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 10
+Front Wheels: 0
+Livery: 11
+Tyre Smoke Colour: #e20606
+Window Tint: 1
+Custom Primary Colour: #080808
+Custom Secondary Colour: #d9d9d9
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 18
+Dashboard Colour: 156
+Tyres Mode: 1

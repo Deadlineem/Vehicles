@@ -1,0 +1,86 @@
+Model: zr350
+Plate Style: 0
+Plate Text: 64KDC188
+Primary Colour: 111
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 122
+Wheel Type: 11
+Spoiler: 15
+Front Bumper: 5
+Rear Bumper: 0
+Sideskirt: 3
+Exhaust: 6
+Chassis: 0
+Grille: 4
+Hood: 11
+Fender: 0
+Right Fender: 3
+Roof: 0
+Engine: 4
+Brakes: 0
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 26
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 3
+Trim: 0
+Ornaments: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Left Door: 0
+Right Door: 0
+Livery: 0
+Lightbar: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Roof Livery: 0
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

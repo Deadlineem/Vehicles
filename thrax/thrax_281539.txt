@@ -1,0 +1,42 @@
+Model: thrax
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 27
+Secondary Colour: 33
+Pearl Colour: 18
+Wheel Colour: 112
+Wheel Type: 7
+Spoiler: 1
+Front Bumper: 4
+Rear Bumper: 3
+Sideskirt: 5
+Exhaust: 8
+Chassis: 3
+Grille: 1
+Hood: 6
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 0
+Livery: 3
+Tyre Smoke Colour: #00ff00
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #00ff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 33
+Dashboard Colour: 65
+Tyres Mode: 1

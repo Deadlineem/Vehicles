@@ -1,0 +1,48 @@
+Model: btype3
+Plate Style: 3
+Plate Text: KHOTHOS 
+Primary Colour: 5
+Secondary Colour: 2
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 9
+Spoiler: 1
+Front Bumper: 2
+Rear Bumper: 2
+Sideskirt: 1
+Chassis: 3
+Grille: 2
+Hood: 0
+Fender: 2
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 3
+Front Wheels: 217
+Arch Cover: 1
+Aerials: 1
+Trim2: 3
+Left Door: 2
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

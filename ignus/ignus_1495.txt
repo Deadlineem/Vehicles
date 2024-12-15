@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 1
+Plate Text: 24CPK914
+Primary Colour: 159
+Secondary Colour: 134
+Pearl Colour: 160
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 14
+Front Bumper: 17
+Rear Bumper: 6
+Sideskirt: 9
+Exhaust: 5
+Hood: 16
+Roof: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 107
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #4750ff
+Custom Secondary Colour: 
+Neon Colour: #000aff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 17
+Dashboard Colour: 156
+Tyres Mode: 1

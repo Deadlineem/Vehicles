@@ -1,0 +1,45 @@
+Model: l35
+Plate Style: 0
+Plate Text: 28WFL019
+Primary Colour: 0
+Secondary Colour: 10
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 4
+Spoiler: 4
+Front Bumper: 8
+Rear Bumper: 2
+Sideskirt: 7
+Exhaust: 3
+Chassis: 3
+Grille: 5
+Hood: 5
+Fender: 1
+Right Fender: 6
+Roof: 6
+Engine: 4
+Brakes: 0
+Transmission: 3
+Horns: 55
+Suspension: 0
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 9, Custom
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

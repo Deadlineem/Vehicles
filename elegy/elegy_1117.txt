@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 0
+Plate Text: RIFT LEG
+Primary Colour: 142
+Secondary Colour: 142
+Pearl Colour: 61
+Wheel Colour: 158
+Wheel Type: 3
+Spoiler: 11
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 6
+Chassis: 5
+Grille: 2
+Hood: 10
+Fender: 2
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 3
+Plate Holder: 1
+Vanity Plates: 1
+Trim: 1
+Dashboard: 5
+Dial: 1
+Seats: 3
+Door Speaker: 14
+Steering Wheel: 4
+Engine Block: 4
+Air Filter: 8
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 2
+Tank: 0
+Windows: 1
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #0c0d18
+Custom Secondary Colour: #0c0d18
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 142
+Dashboard Colour: 142
+Tyres Mode: 1

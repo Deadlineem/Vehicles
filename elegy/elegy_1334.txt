@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 0
+Plate Text: 27GLZ820
+Primary Colour: 88
+Secondary Colour: 88
+Pearl Colour: 88
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 20
+Front Bumper: 6
+Rear Bumper: 3
+Sideskirt: 3
+Exhaust: 9
+Chassis: 5
+Grille: 3
+Hood: 6
+Fender: 2
+Roof: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 28, Custom
+Plate Holder: 0
+Vanity Plates: 1
+Trim: 1
+Dashboard: 5
+Dial: 0
+Seats: 7
+Door Speaker: 14
+Steering Wheel: 7
+Engine Block: 4
+Air Filter: 6
+Struts: 12
+Arch Cover: 6
+Aerials: 11
+Trim2: 0
+Tank: 5
+Windows: 0
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

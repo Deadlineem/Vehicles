@@ -1,0 +1,42 @@
+Model: torero
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 161
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 1
+Front Bumper: 2
+Rear Bumper: 3
+Exhaust: 1
+Grille: 5
+Hood: 0
+Right Fender: 3
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #99ff00
+Window Tint: 6
+Custom Primary Colour: #993d00
+Custom Secondary Colour: #993d00
+Neon Colour: #99ff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,59 @@
+Model: gauntlet5
+Plate Style: 5
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 28
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 6
+Front Bumper: 10
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 1
+Chassis: 0
+Grille: 2
+Hood: 12
+Fender: 1
+Right Fender: 2
+Roof: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 10
+Front Wheels: 137
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dashboard: 4
+Dial: 2
+Seats: 2
+Door Speaker: 2
+Steering Wheel: 5
+Plaques: 0
+Engine Block: 8
+Arch Cover: 4
+Aerials: 0
+Trim2: 2
+Tank: 5
+Livery: 8
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

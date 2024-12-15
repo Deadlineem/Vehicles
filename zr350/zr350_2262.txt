@@ -1,0 +1,60 @@
+Model: zr350
+Plate Style: 1
+Plate Text: 4CBO626
+Primary Colour: 30
+Secondary Colour: 30
+Pearl Colour: 38
+Wheel Colour: 156
+Wheel Type: 3
+Spoiler: 3
+Front Bumper: 5
+Rear Bumper: 0
+Sideskirt: 11
+Exhaust: 4
+Chassis: 0
+Grille: 3
+Hood: 3
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 0
+Front Wheels: 30
+Vanity Plates: 0
+Trim: 0
+Dashboard: 4
+Dial: 4
+Seats: 8
+Door Speaker: 14
+Steering Wheel: 16
+Engine Block: 1
+Air Filter: 8
+Struts: 12
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Left Door: 0
+Right Door: 0
+Livery: 13
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 7
+Dashboard Colour: 0
+Tyres Mode: 1

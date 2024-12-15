@@ -1,0 +1,59 @@
+Model: futo2
+Plate Style: 1
+Plate Text: 0CJZD968
+Primary Colour: 135
+Secondary Colour: 135
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 4
+Front Bumper: 0
+Rear Bumper: 2
+Sideskirt: 3
+Exhaust: 4
+Chassis: 0
+Grille: 0
+Hood: 10
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 14
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Dashboard: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 3
+Air Filter: 7
+Struts: 11
+Arch Cover: 6
+Trim2: 0
+Tank: 3
+Left Door: 0
+Right Door: 7
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ff0023
+Custom Secondary Colour: #ff0023
+Neon Colour: #ff05be
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 111
+Tyres Mode: 1

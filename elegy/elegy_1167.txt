@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 1
+Plate Text:   GTR   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 145
+Wheel Type: 7
+Spoiler: 12
+Front Bumper: 6
+Rear Bumper: 3
+Sideskirt: 4
+Exhaust: 9
+Chassis: 5
+Grille: 3
+Hood: 5
+Fender: 4
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 5
+Plate Holder: 2
+Vanity Plates: 0
+Trim: 1
+Dashboard: 0
+Dial: 15
+Seats: 0
+Door Speaker: 14
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 8
+Struts: 12
+Arch Cover: 0
+Aerials: 1
+Trim2: 1
+Tank: 4
+Windows: 1
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 63
+Dashboard Colour: 0
+Tyres Mode: 1

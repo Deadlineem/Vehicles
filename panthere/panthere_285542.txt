@@ -1,0 +1,45 @@
+Model: panthere
+Plate Style: 1
+Plate Text: 28ZBE410
+Primary Colour: 0
+Secondary Colour: 38
+Pearl Colour: 28
+Wheel Colour: 138
+Wheel Type: 12
+Spoiler: 1
+Front Bumper: 6
+Rear Bumper: 7
+Sideskirt: 19
+Exhaust: 2
+Chassis: 3
+Grille: 6
+Hood: 16
+Fender: 3
+Right Fender: 9
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 39
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 116
+Livery: 2
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

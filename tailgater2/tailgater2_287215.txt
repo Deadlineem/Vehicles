@@ -1,0 +1,62 @@
+Model: tailgater2
+Plate Style: 5
+Plate Text:   UWU   
+Primary Colour: 104
+Secondary Colour: 147
+Pearl Colour: 104
+Wheel Colour: 1
+Wheel Type: 11
+Spoiler: 6
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 23
+Plate Holder: 1
+Vanity Plates: 0
+Trim: 0
+Dashboard: 0
+Seats: 1
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 5
+Air Filter: 8
+Struts: 11
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 2
+Right Door: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff3e00
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 104
+Dashboard Colour: 111
+Tyres Mode: 2
+Extra 1: Yes
+Extra 2: Yes

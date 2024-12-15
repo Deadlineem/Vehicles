@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 1
+Plate Text: 5HSLX903
+Primary Colour: 147
+Secondary Colour: 1
+Pearl Colour: 64
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 8
+Front Bumper: 5
+Rear Bumper: 3
+Sideskirt: 5
+Exhaust: 9
+Chassis: 5
+Grille: 3
+Hood: 6
+Fender: 3
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 16
+Plate Holder: 1
+Vanity Plates: 0
+Trim: 1
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 12
+Steering Wheel: 0
+Engine Block: 4
+Air Filter: 5
+Struts: 12
+Arch Cover: 0
+Aerials: 0
+Trim2: 1
+Tank: 5
+Left Door: 2
+Livery: 0
+Tyre Smoke Colour: #36e4ff
+Window Tint: 1
+Custom Primary Colour: #080b23
+Custom Secondary Colour: #080b23
+Neon Colour: #080b23
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 92
+Tyres Mode: 1

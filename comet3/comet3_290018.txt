@@ -1,0 +1,50 @@
+Model: comet3
+Plate Style: 0
+Plate Text: KHOTHOS 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 64
+Wheel Type: 8
+Spoiler: 8
+Front Bumper: 19
+Rear Bumper: 4
+Sideskirt: 7
+Exhaust: 4
+Chassis: 5
+Hood: 8
+Fender: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 50
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 35
+Trim: 2
+Dashboard: 5
+Dial: 8
+Seats: 0
+Door Speaker: 14
+Steering Wheel: 16
+Struts: 12
+Aerials: 3
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 158
+Dashboard Colour: 134
+Tyres Mode: 1

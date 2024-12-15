@@ -1,0 +1,62 @@
+Model: tailgater2
+Plate Style: 2
+Plate Text: 6RWMX831
+Primary Colour: 70
+Secondary Colour: 0
+Pearl Colour: 70
+Wheel Colour: 156
+Wheel Type: 11
+Spoiler: 22
+Front Bumper: 4
+Rear Bumper: 6
+Sideskirt: 19
+Exhaust: 8
+Chassis: 4
+Grille: 0
+Hood: 4
+Fender: 0
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 53
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 19
+Plate Holder: 3
+Vanity Plates: 1
+Trim: 2
+Dashboard: 2
+Seats: 1
+Door Speaker: 4
+Steering Wheel: 1
+Engine Block: 5
+Air Filter: 9
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 2
+Tank: 3
+Right Door: 1
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: #000000
+Neon Colour: #0064ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 5
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No

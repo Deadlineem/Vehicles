@@ -1,0 +1,39 @@
+Model: tyrant
+Plate Style: 1
+Plate Text:  BATMAN 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 4
+Wheel Colour: 89
+Wheel Type: 8
+Spoiler: 0
+Sideskirt: 1
+Exhaust: 0
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 1
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 52
+Livery: -1
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #ffcc00
+Neon Colour: #ff9605
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No

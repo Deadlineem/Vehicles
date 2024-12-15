@@ -1,0 +1,35 @@
+Model: reaper
+Plate Style: 4
+Plate Text: 2FA5T4U 
+Primary Colour: 71
+Secondary Colour: 2
+Pearl Colour: 107
+Wheel Colour: 145
+Wheel Type: 2
+Spoiler: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 3
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 1, Custom
+Livery: -1
+Tyre Smoke Colour: #8466e2
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

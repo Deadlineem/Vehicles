@@ -1,0 +1,37 @@
+Model: hunter
+Plate Style: 0
+Plate Text: 47FOE355
+Primary Colour: 14
+Secondary Colour: 14
+Pearl Colour: 111
+Wheel Colour: 122
+Wheel Type: 8
+Front Bumper: 2
+Right Fender: 4
+Roof: 1
+Engine: 4
+Brakes: 3
+Armor: 5
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 122
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #3a0014
+Custom Secondary Colour: #3a0014
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes
+Extra 7: Yes

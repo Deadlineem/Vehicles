@@ -1,0 +1,47 @@
+Model: deity
+Plate Style: 5
+Plate Text:   CGM   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 1
+Rear Bumper: 3
+Sideskirt: 2
+Exhaust: 11
+Chassis: 1
+Grille: 0
+Hood: 12
+Fender: 2
+Right Fender: 0
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 39
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 77
+Trim2: 0
+Tank: 0
+Livery: 12
+Tyre Smoke Colour: #ffffff
+Window Tint: 6
+Custom Primary Colour: #F0F8FF00
+Custom Secondary Colour: #F0F8FF00
+Neon Colour: #F0F8FF00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 134
+Tyres Mode: 1

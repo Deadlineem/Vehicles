@@ -1,0 +1,37 @@
+Model: oracle2
+Plate Style: 0
+Plate Text:  YO KEY 
+Primary Colour: 78
+Secondary Colour: 78
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 3
+Exhaust: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 23
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #608592
+Custom Secondary Colour: #608592
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2
+Extra 11: Yes
+Extra 12: No

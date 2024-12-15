@@ -1,0 +1,45 @@
+Model: sultan2
+Plate Style: 0
+Plate Text: 09XMA455
+Primary Colour: 111
+Secondary Colour: 111
+Pearl Colour: 0
+Wheel Colour: 111
+Wheel Type: 0
+Spoiler: 14
+Front Bumper: 5
+Rear Bumper: 3
+Sideskirt: 4
+Exhaust: 9
+Chassis: 0
+Grille: 3
+Hood: 4
+Fender: 1
+Right Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 55
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 13
+Livery: 9
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,55 @@
+Model: rt3000
+Plate Style: 5
+Plate Text:   JOEY  
+Primary Colour: 117
+Secondary Colour: 12
+Pearl Colour: 111
+Wheel Colour: 44
+Wheel Type: 8
+Spoiler: 8
+Front Bumper: 5
+Rear Bumper: 6
+Exhaust: 7
+Grille: 5
+Hood: 7
+Fender: 2
+Right Fender: 2
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 42
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 91
+Vanity Plates: 3
+Trim: 1
+Dashboard: 4
+Seats: 3
+Door Speaker: 14
+Steering Wheel: 12
+Engine Block: 1
+Air Filter: 9
+Struts: 7
+Arch Cover: 0
+Left Door: 2
+Right Door: 6
+Livery: 4
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #ff0000
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1

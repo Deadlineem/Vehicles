@@ -1,0 +1,41 @@
+Model: police5
+Plate Style: 5
+Plate Text:  POLICE 
+Primary Colour: 67
+Secondary Colour: 67
+Pearl Colour: 91
+Wheel Colour: 135
+Wheel Type: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 42
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 113
+Arch Cover: 7
+Aerials: 7
+Trim2: 6
+Livery: 21
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #fc0a45
+Custom Secondary Colour: #fc0a45
+Neon Colour: #dedeff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes
+Extra 3: Yes
+Extra 4: Yes

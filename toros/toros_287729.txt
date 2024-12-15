@@ -1,0 +1,43 @@
+Model: toros
+Plate Style: 1
+Plate Text: POPSTAR 
+Primary Colour: 12
+Secondary Colour: 111
+Pearl Colour: 140
+Wheel Colour: 122
+Wheel Type: 8
+Spoiler: 7
+Front Bumper: 9
+Rear Bumper: 4
+Sideskirt: 4
+Exhaust: 12
+Grille: 14
+Hood: 9
+Fender: 1
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 107
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #7d96ff
+Custom Secondary Colour: #7d96ff
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 2
+Dashboard Colour: 0
+Tyres Mode: 1

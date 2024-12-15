@@ -1,0 +1,59 @@
+Model: futo2
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 0
+Secondary Colour: 3
+Pearl Colour: 6
+Wheel Colour: 0
+Wheel Type: 5
+Spoiler: 1
+Front Bumper: 4
+Rear Bumper: 2
+Sideskirt: 3
+Exhaust: 4
+Chassis: 0
+Grille: 2
+Hood: 14
+Fender: 3
+Right Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 12
+Plate Holder: 3
+Vanity Plates: 2
+Trim: 2
+Dashboard: 5
+Door Speaker: 12
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 8
+Struts: 12
+Arch Cover: 0
+Trim2: 3
+Tank: 3
+Left Door: 3
+Right Door: 7
+Livery: 9
+Tyre Smoke Colour: #0026ff
+Window Tint: 6
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #0026ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 134
+Dashboard Colour: 134
+Tyres Mode: 1

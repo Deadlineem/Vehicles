@@ -1,0 +1,41 @@
+Model: menacer
+Plate Style: 1
+Plate Text: 82MDX904
+Primary Colour: 148
+Secondary Colour: 0
+Pearl Colour: 70
+Wheel Colour: 145
+Wheel Type: 8
+Front Bumper: 7
+Rear Bumper: 2
+Sideskirt: 1
+Exhaust: 11
+Chassis: 1
+Grille: 7
+Hood: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 108
+Livery: 29
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: #320642
+Neon Colour: #2301ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

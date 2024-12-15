@@ -1,0 +1,41 @@
+Model: nightshark
+Plate Style: 3
+Plate Text:  0 MPH  
+Primary Colour: 119
+Secondary Colour: 119
+Pearl Colour: 0
+Wheel Colour: 122
+Wheel Type: 8
+Front Bumper: 3
+Rear Bumper: 3
+Exhaust: 2
+Chassis: 1
+Grille: 3
+Hood: 8
+Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 117
+Livery: 23
+Tyre Smoke Colour: #000000
+Window Tint: 3
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #ffffff
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

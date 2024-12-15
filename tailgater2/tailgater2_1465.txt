@@ -1,0 +1,62 @@
+Model: tailgater2
+Plate Style: 0
+Plate Text: 84FYU185
+Primary Colour: 28
+Secondary Colour: 111
+Pearl Colour: 28
+Wheel Colour: 122
+Wheel Type: 11
+Spoiler: 16
+Front Bumper: 3
+Rear Bumper: 0
+Sideskirt: 3
+Exhaust: 6
+Chassis: 4
+Grille: 3
+Hood: 12
+Fender: 0
+Right Fender: 3
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 109
+Plate Holder: 3
+Vanity Plates: 0
+Trim: 0
+Dashboard: 0
+Seats: 1
+Door Speaker: 6
+Steering Wheel: 14
+Engine Block: 0
+Air Filter: 4
+Struts: 6
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 3
+Unk47: 2
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Dashboard Colour: 27
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: No

@@ -1,0 +1,59 @@
+Model: jester4
+Plate Style: 0
+Plate Text: 69XKJ505
+Primary Colour: 1
+Secondary Colour: 39
+Pearl Colour: 31
+Wheel Colour: 30
+Wheel Type: 12
+Spoiler: 6
+Front Bumper: 7
+Rear Bumper: 9
+Sideskirt: 8
+Exhaust: 13
+Chassis: 3
+Grille: 7
+Hood: 8
+Fender: 1
+Right Fender: 5
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 4
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 10
+Front Wheels: 0
+Vanity Plates: 2
+Trim: 3
+Ornaments: 1
+Dashboard: 1
+Dial: 2
+Seats: 3
+Door Speaker: 2
+Steering Wheel: 13
+Engine Block: 2
+Air Filter: 2
+Struts: 3
+Arch Cover: 2
+Trim2: 2
+Tank: 0
+Livery: 8
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #0f0f0f
+Custom Secondary Colour: #780000
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 27
+Dashboard Colour: 156
+Tyres Mode: 2

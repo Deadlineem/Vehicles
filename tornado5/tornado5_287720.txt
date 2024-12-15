@@ -1,0 +1,58 @@
+Model: tornado5
+Plate Style: 0
+Plate Text: 08CZZ731
+Primary Colour: 137
+Secondary Colour: 111
+Pearl Colour: 3
+Wheel Colour: 136
+Wheel Type: 9
+Front Bumper: 1
+Rear Bumper: 3
+Exhaust: 2
+Hood: 1
+Right Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 113
+Back Wheels: 0
+Plate Holder: 5
+Vanity Plates: 0
+Trim: 2
+Ornaments: 17
+Dashboard: 1
+Dial: 1
+Steering Wheel: 4
+Shifter Leavers: 12
+Plaques: 0
+Trunk: 3
+Hydraulics: 1
+Engine Block: 5
+Air Filter: 3
+Arch Cover: 6
+Aerials: 1
+Trim2: 6
+Tank: 3
+Livery: 8
+Tyre Smoke Colour: #cb3694
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff3264
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Roof Livery: 1
+Dashboard Colour: 135
+Tyres Mode: 1
+Extra 12: No

@@ -1,0 +1,39 @@
+Model: entity2
+Plate Style: 0
+Plate Text: 85HEA492
+Primary Colour: 2
+Secondary Colour: 63
+Pearl Colour: 67
+Wheel Colour: 1
+Wheel Type: 0
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 3
+Exhaust: 2
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 16
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

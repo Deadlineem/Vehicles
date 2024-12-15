@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 1
+Plate Text:  LB WLK 
+Primary Colour: 44
+Secondary Colour: 44
+Pearl Colour: 44
+Wheel Colour: 156
+Wheel Type: 12
+Spoiler: 15
+Front Bumper: 13
+Rear Bumper: 2
+Sideskirt: 15
+Exhaust: 22
+Grille: 2
+Hood: 17
+Fender: 2
+Right Fender: 7
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 29
+Vanity Plates: 1
+Trim: 0
+Dashboard: 3
+Seats: 0
+Door Speaker: 12
+Steering Wheel: 7
+Arch Cover: 1
+Aerials: 1
+Trim2: 7
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: #500505
+Custom Secondary Colour: #500505
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

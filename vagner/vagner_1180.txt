@@ -1,0 +1,39 @@
+Model: vagner
+Plate Style: 0
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 140
+Wheel Colour: 54
+Wheel Type: 10
+Spoiler: 1
+Front Bumper: 3
+Exhaust: 2
+Hood: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 5
+Front Wheels: 39
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #000f03
+Custom Secondary Colour: #000f03
+Neon Colour: #00fffa
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 7
+Dashboard Colour: 54
+Tyres Mode: 1

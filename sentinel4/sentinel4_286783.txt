@@ -1,0 +1,58 @@
+Model: sentinel4
+Plate Style: 0
+Plate Text: 29DLJ344
+Primary Colour: 35
+Secondary Colour: 35
+Pearl Colour: 134
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 11
+Front Bumper: 1
+Rear Bumper: 9
+Sideskirt: 12
+Exhaust: 5
+Chassis: 5
+Grille: 3
+Hood: 8
+Fender: 2
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 27
+Trim: 1
+Dashboard: 4
+Seats: 8
+Door Speaker: 5
+Steering Wheel: 4
+Engine Block: 4
+Air Filter: 5
+Struts: 5
+Arch Cover: 0
+Aerials: 2
+Trim2: 7
+Tank: 0
+Left Door: 5
+Right Door: 2
+Livery: 14
+Tyre Smoke Colour: #ff6100
+Window Tint: 5
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff6600
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1

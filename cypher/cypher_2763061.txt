@@ -1,0 +1,66 @@
+Model: cypher
+Spoiler: 12
+Front Bumper: 10
+Rear Bumper: 5
+Sideskirt: 7
+Exhaust: 8
+Chassis: 9
+Grille: 11
+Hood: 13
+Fender: 1
+Right Fender: 3
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Xenon Lights: 1
+Front Wheels: 57
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 2
+Ornaments: 2
+Dashboard: 4
+Dial: 1
+Seats: 8
+Door Speaker: 0
+Steering Wheel: 16
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 12
+Air Filter: 0
+Struts: 17
+Arch Cover: 7
+Aerials: 5
+Trim2: 1
+Tank: 3
+Windows: 0
+Unk47: 0
+Livery: 3
+Unk49: 2
+Plate Style: 0
+Plate Text: 65CMQ603
+Primary Colour: 73
+Secondary Colour: 1
+Pearl Colour: 73
+Wheel Colour: 0
+Interior Colour: 3
+Roof Livery: -1
+Dashboard Colour: 111
+Tyres Mode: 1
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes

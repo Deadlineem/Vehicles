@@ -1,0 +1,46 @@
+Model: stingertt
+Plate Style: 0
+Plate Text: 08GSO603
+Primary Colour: 120
+Secondary Colour: 0
+Pearl Colour: 161
+Wheel Colour: 132
+Wheel Type: 8
+Spoiler: 7
+Front Bumper: 1
+Rear Bumper: 4
+Sideskirt: 13
+Exhaust: 6
+Chassis: 0
+Grille: 2
+Hood: 5
+Fender: 12
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 122
+Trim2: 0
+Livery: 0
+Tyre Smoke Colour: #e53947
+Window Tint: 0
+Custom Primary Colour: #e53947
+Custom Secondary Colour: #e53947
+Neon Colour: #e53947
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

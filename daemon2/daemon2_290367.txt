@@ -1,0 +1,45 @@
+Model: daemon2
+Plate Style: 0
+Plate Text: KHOTHOS 
+Primary Colour: 20
+Secondary Colour: 0
+Pearl Colour: 4
+Wheel Colour: 64
+Wheel Type: 6
+Spoiler: 11
+Front Bumper: 4
+Rear Bumper: 3
+Sideskirt: 9
+Exhaust: 7
+Chassis: 3
+Grille: 2
+Hood: 5
+Fender: 8
+Right Fender: 2
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 50
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 0
+Back Wheels: 0
+Livery: 18
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1

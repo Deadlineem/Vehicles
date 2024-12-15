@@ -1,0 +1,43 @@
+Model: neo
+Plate Style: 1
+Plate Text: 8BXQL715
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 42
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 6
+Front Bumper: 7
+Rear Bumper: 3
+Sideskirt: 4
+Exhaust: 13
+Chassis: 7
+Grille: 9
+Hood: 3
+Fender: 2
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 30
+Livery: 1
+Tyre Smoke Colour: #0d0063
+Window Tint: 0
+Custom Primary Colour: #1e001e
+Custom Secondary Colour: #1e001e
+Neon Colour: #1e001e
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 65
+Tyres Mode: 1

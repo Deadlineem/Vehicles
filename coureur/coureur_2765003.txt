@@ -1,0 +1,46 @@
+Model: coureur
+Plate Style: 0
+Plate Text: 22WHA489
+Primary Colour: 28
+Secondary Colour: 12
+Pearl Colour: 28
+Wheel Colour: 156
+Wheel Type: 10
+Spoiler: 16
+Front Bumper: 5
+Rear Bumper: 2
+Sideskirt: 3
+Chassis: 4
+Grille: 1
+Hood: 16
+Fender: 5
+Right Fender: 1
+Roof: 5
+Engine: 3
+Brakes: 0
+Transmission: 3
+Horns: 49
+Suspension: 2
+Armor: 1
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 7
+Front Wheels: 109
+Trim2: 1
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #dacc73
+Custom Secondary Colour: #6daad2
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No

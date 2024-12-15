@@ -1,0 +1,44 @@
+Model: italigto
+Plate Style: 0
+Plate Text: NINAS DO
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 7
+Front Bumper: 3
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 3
+Chassis: 0
+Grille: 1
+Hood: 9
+Fender: 3
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ff0000
+Custom Secondary Colour: #ff0000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 28
+Dashboard Colour: 0
+Tyres Mode: 1

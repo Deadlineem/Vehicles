@@ -1,0 +1,49 @@
+Model: kanjo
+Plate Style: 1
+Plate Text: 85SVT392
+Primary Colour: 1
+Secondary Colour: 1
+Pearl Colour: 0
+Wheel Colour: 109
+Wheel Type: 10
+Spoiler: 16
+Front Bumper: 12
+Rear Bumper: 13
+Sideskirt: 1
+Exhaust: 11
+Chassis: 4
+Grille: 5
+Hood: 13
+Fender: 8
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 20
+Trim: 2
+Arch Cover: 2
+Windows: 3
+Livery: 11
+Tyre Smoke Colour: #e20606
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes

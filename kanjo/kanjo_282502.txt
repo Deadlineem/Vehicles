@@ -1,0 +1,49 @@
+Model: kanjo
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 161
+Wheel Colour: 27
+Wheel Type: 1
+Spoiler: 8
+Front Bumper: 7
+Rear Bumper: 2
+Sideskirt: 7
+Exhaust: 8
+Chassis: 0
+Grille: 2
+Hood: 7
+Fender: 8
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 8
+Trim: 2
+Arch Cover: 6
+Left Door: 0
+Livery: 13
+Tyre Smoke Colour: #ff7f00
+Window Tint: 1
+Custom Primary Colour: #fffcd1
+Custom Secondary Colour: #fffcd1
+Neon Colour: #ff7f00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes

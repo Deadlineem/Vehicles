@@ -1,0 +1,45 @@
+Model: z190
+Plate Style: 1
+Plate Text: CLASSIC 
+Primary Colour: 54
+Secondary Colour: 12
+Pearl Colour: 53
+Wheel Colour: 8
+Wheel Type: 11
+Spoiler: 15
+Front Bumper: 15
+Rear Bumper: 14
+Sideskirt: 0
+Exhaust: 9
+Chassis: 8
+Grille: 10
+Hood: 10
+Fender: 7
+Right Fender: 7
+Roof: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 6
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 5
+Tyres Mode: 1

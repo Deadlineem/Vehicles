@@ -1,0 +1,46 @@
+Model: specter2
+Plate Style: 0
+Plate Text:  0 MPH  
+Primary Colour: 135
+Secondary Colour: 135
+Pearl Colour: 0
+Wheel Colour: 1
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 9
+Exhaust: 0
+Chassis: 4
+Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 55
+Dashboard: 4
+Dial: 0
+Seats: 1
+Door Speaker: 11
+Steering Wheel: 14
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #ffffff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 4
+Tyres Mode: 1

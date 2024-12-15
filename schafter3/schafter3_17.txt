@@ -1,0 +1,41 @@
+Model: schafter3
+Plate Style: 11
+Plate Text: 00GAY948
+Primary Colour: 123
+Secondary Colour: 130
+Pearl Colour: 10
+Wheel Colour: 16
+Wheel Type: 11
+Spoiler: 3
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 4
+Hood: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 18
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 21
+Dashboard Colour: 54
+Tyres Mode: 1

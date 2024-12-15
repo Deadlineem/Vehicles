@@ -1,0 +1,55 @@
+Model: chino2
+Plate Style: 0
+Plate Text: 42UFT602
+Primary Colour: 0
+Secondary Colour: 89
+Pearl Colour: 0
+Wheel Colour: 24
+Wheel Type: 10
+Front Bumper: 1
+Rear Bumper: 0
+Exhaust: 1
+Hood: 1
+Right Fender: 2
+Engine: 3
+Brakes: 2
+Transmission: 2
+Horns: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 1
+Back Wheels: 0
+Plate Holder: 4
+Vanity Plates: 0
+Trim: 6
+Ornaments: 0
+Dial: 3
+Steering Wheel: 10
+Shifter Leavers: 14
+Plaques: 7
+Trunk: 6
+Hydraulics: 5
+Engine Block: 2
+Air Filter: 3
+Tank: 2
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #5ce28b
+Custom Secondary Colour: #f56bcb
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes
+Extra 3: No

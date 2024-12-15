@@ -1,0 +1,34 @@
+Model: furoregt
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 63
+Secondary Colour: 63
+Pearl Colour: 5
+Wheel Colour: 156
+Wheel Type: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 39
+Livery: -1
+Tyre Smoke Colour: #00e1ff
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #00e1ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

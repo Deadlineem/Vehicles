@@ -1,0 +1,44 @@
+Model: italirsx
+Plate Style: 1
+Plate Text: 20UCT966
+Primary Colour: 61
+Secondary Colour: 111
+Pearl Colour: 64
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 15
+Front Bumper: 0
+Rear Bumper: 4
+Sideskirt: 1
+Exhaust: 4
+Chassis: 5
+Grille: 3
+Hood: 0
+Right Fender: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 55
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 0
+Tyres Mode: 1

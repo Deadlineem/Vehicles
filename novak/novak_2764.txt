@@ -1,0 +1,41 @@
+Model: novak
+Plate Style: 0
+Plate Text: 66ZAK999
+Primary Colour: 11
+Secondary Colour: 134
+Pearl Colour: 135
+Wheel Colour: 145
+Wheel Type: 8
+Spoiler: 3
+Front Bumper: 2
+Rear Bumper: 3
+Sideskirt: 3
+Exhaust: 3
+Hood: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 9
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 203
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #501950
+Custom Secondary Colour: #641950
+Neon Colour: #c8c8c8
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1

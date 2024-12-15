@@ -1,0 +1,41 @@
+Model: zion
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 161
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 0
+Exhaust: 4
+Chassis: 0
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 4
+Front Wheels: 28
+Livery: -1
+Tyre Smoke Colour: #00bfff
+Window Tint: 1
+Custom Primary Colour: #009bd8
+Custom Secondary Colour: #009bd8
+Neon Colour: #00bfff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 10: Yes
+Extra 11: Yes

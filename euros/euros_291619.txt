@@ -1,0 +1,56 @@
+Model: euros
+Plate Style: 12
+Plate Text: 45WIZ543
+Primary Colour: 92
+Secondary Colour: 117
+Pearl Colour: 92
+Wheel Colour: 1
+Wheel Type: 11
+Spoiler: 6
+Front Bumper: 0
+Rear Bumper: 1
+Sideskirt: 11
+Exhaust: 5
+Chassis: 8
+Hood: 4
+Fender: 6
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 179
+Vanity Plates: 5
+Trim: 0
+Dashboard: 3
+Seats: 8
+Door Speaker: 14
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 9
+Struts: 20
+Arch Cover: 0
+Aerials: 6
+Trim2: 4
+Right Door: 2
+Livery: 13
+Tyre Smoke Colour: #141414
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 28
+Dashboard Colour: 89
+Tyres Mode: 1

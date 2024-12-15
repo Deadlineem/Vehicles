@@ -1,0 +1,44 @@
+Model: asbo
+Plate Style: 5
+Plate Text:  TOASTY 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 0
+Wheel Colour: 145
+Wheel Type: 8
+Spoiler: 15
+Front Bumper: 6
+Sideskirt: 11
+Exhaust: 6
+Chassis: 4
+Grille: 1
+Hood: 6
+Fender: 3
+Right Fender: 3
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 41
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 89
+Livery: 3
+Tyre Smoke Colour: #7700ff
+Window Tint: 1
+Custom Primary Colour: #8d03f7
+Custom Secondary Colour: #8d03f7
+Neon Colour: #2301ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 160
+Tyres Mode: 1

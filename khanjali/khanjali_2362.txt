@@ -1,0 +1,36 @@
+Model: khanjali
+Plate Style: 0
+Plate Text: 02BQB299
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 111
+Wheel Colour: 134
+Wheel Type: 10
+Chassis: 1
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 1
+Vanity Plates: 0
+Livery: 29
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #ff3233
+Custom Secondary Colour: #ff3233
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 132
+Tyres Mode: 1

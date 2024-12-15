@@ -1,0 +1,35 @@
+Model: vigilante
+Plate Style: 0
+Plate Text:  WS VEH 
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ff4500
+Window Tint: 1
+Custom Primary Colour: #ff4500
+Custom Secondary Colour: 
+Neon Colour: #ff4500
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

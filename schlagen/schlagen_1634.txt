@@ -1,0 +1,45 @@
+Model: schlagen
+Plate Style: 1
+Plate Text: 43QXJ805
+Primary Colour: 38
+Secondary Colour: 38
+Pearl Colour: 20
+Wheel Colour: 12
+Wheel Type: 7
+Spoiler: 10
+Front Bumper: 9
+Rear Bumper: 6
+Sideskirt: 6
+Exhaust: 4
+Chassis: 4
+Grille: 5
+Hood: 10
+Fender: 3
+Right Fender: 2
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 58
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: Yes
+Headlights: 1
+Front Wheels: 40
+Livery: 10
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 2
+Dashboard Colour: 0
+Tyres Mode: 1

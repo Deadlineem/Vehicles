@@ -1,0 +1,45 @@
+Model: corsita
+Plate Style: 3
+Plate Text: 94GSP973
+Primary Colour: 12
+Secondary Colour: 120
+Pearl Colour: 0
+Wheel Colour: 1
+Wheel Type: 8
+Spoiler: 15
+Front Bumper: 11
+Rear Bumper: 10
+Sideskirt: 12
+Exhaust: 5
+Chassis: 3
+Grille: 8
+Hood: 12
+Fender: 9
+Right Fender: 4
+Roof: 18
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 108
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #aaff00
+Custom Secondary Colour: #aaff00
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

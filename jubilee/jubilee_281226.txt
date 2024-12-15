@@ -1,0 +1,44 @@
+Model: jubilee
+Plate Style: 5
+Plate Text:         
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 111
+Wheel Colour: 111
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 11
+Rear Bumper: 8
+Sideskirt: 8
+Exhaust: 6
+Chassis: 0
+Hood: 0
+Right Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 51
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 120
+Trim2: 0
+Tank: 0
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 5
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #ffffff
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

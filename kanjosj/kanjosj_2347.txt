@@ -1,0 +1,57 @@
+Model: kanjosj
+Plate Style: 0
+Plate Text: 10ZET099
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 18
+Front Bumper: 7
+Rear Bumper: 9
+Sideskirt: 9
+Exhaust: 7
+Chassis: 8
+Grille: 15
+Hood: 16
+Fender: 6
+Right Fender: 3
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 50
+Trim: 3
+Dashboard: 5
+Seats: 0
+Door Speaker: 15
+Steering Wheel: 16
+Engine Block: 6
+Air Filter: 4
+Struts: 20
+Aerials: 6
+Trim2: 8
+Unk47: 0
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #ff00aa
+Custom Secondary Colour: #7f7f00
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 27
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 3: Yes

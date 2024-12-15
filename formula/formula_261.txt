@@ -1,0 +1,46 @@
+Model: formula
+Plate Style: 0
+Plate Text: 84WED798
+Primary Colour: 55
+Secondary Colour: 42
+Pearl Colour: 89
+Wheel Colour: 88
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 0
+Sideskirt: 7
+Exhaust: 1
+Grille: 5
+Engine: 4
+Brakes: 4
+Transmission: 4
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 93
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 8
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes
+Extra 3: Yes
+Extra 4: Yes
+Extra 5: Yes
+Extra 6: Yes
+Extra 7: Yes
+Extra 8: Yes

@@ -1,0 +1,53 @@
+Model: postlude
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 12
+Pearl Colour: 18
+Wheel Colour: 0
+Wheel Type: 9
+Spoiler: 7
+Front Bumper: 3
+Rear Bumper: 4
+Exhaust: 12
+Chassis: 0
+Hood: 15
+Fender: 1
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 11
+Front Wheels: 51
+Vanity Plates: 1
+Trim: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 14
+Engine Block: 2
+Struts: 5
+Arch Cover: 5
+Left Door: 0
+Right Door: 1
+Livery: 4
+Tyre Smoke Colour: #ff6400
+Window Tint: 1
+Custom Primary Colour: #ff6400
+Custom Secondary Colour: #000000
+Neon Colour: #ff6400
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 112
+Dashboard Colour: 135
+Tyres Mode: 1

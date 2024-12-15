@@ -1,0 +1,58 @@
+Model: sentinel4
+Plate Style: 0
+Plate Text: REALVAMP
+Primary Colour: 117
+Secondary Colour: 112
+Pearl Colour: 18
+Wheel Colour: 122
+Wheel Type: 8
+Spoiler: 17
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 9
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 111
+Trim: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Left Door: 0
+Right Door: 0
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #6700c1
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 4

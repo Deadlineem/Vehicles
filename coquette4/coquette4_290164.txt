@@ -1,0 +1,44 @@
+Model: coquette4
+Plate Style: 0
+Plate Text:   K3Y   
+Primary Colour: 161
+Secondary Colour: 147
+Pearl Colour: 65
+Wheel Colour: 2
+Wheel Type: 12
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 1
+Chassis: 0
+Grille: 1
+Hood: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 27
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #0e316d
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 73
+Dashboard Colour: 111
+Tyres Mode: 2
+Extra 1: Yes

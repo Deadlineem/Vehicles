@@ -1,0 +1,145 @@
+ok so the first thing you need to do is go to your bottom Stand tab
+
+
+click on Lua Scripts
+
+
+click on Repository
+
+
+tell it to install LazScript
+
+
+then back up out of that menu, all the way back to where it says Lua Scripts
+
+
+ok now click lua scripts
+
+
+lazscript should appear in the list
+
+
+click it and click start script
+
+
+ok now click Vehicle Appearance
+
+
+this is where you set Pearls as well as Accent and Trim (interiors and stuff that aren't on all cars), Stand doesn't let you set those afaik
+
+
+now in Stand go to Vehicles tab -> Los Santos Customs -> Appearances
+
+
+the Primary and Secondary paints, the neons, license plate, the tire smoke, all those are usually done here in Stand, in the LS Customs tab
+
+
+The reason you will usually do Primary and Secondary here is because they have RGB sliders, which LazScript doesn't, so you can do custom paints here
+
+
+your first goal is to get acquainted with these two sections - the LS Customs tab in Stand, and the paint options within LazScript
+
+
+one weird thing about lazscript is that it bugs a lot and can bug and switch your textures
+
+
+since we are going to be using Stand Los Santos Customs for applying our Primary and Secondary Paints (because Stand LSC has RGB sliders) you won't have to deal with LazScript changing your textures very often, just be aware that it does
+
+
+for now what you need to know is that IN LAZSCRIPT ONLY (this doesn't happen in the Stand LS Customs tab) if you have a paint selected for both the Primary and Secondary paints, when you apply a paint color it will also apply the texture of the other, and sometimes also apply the paint color of the other
+
+
+and when you apply a Pearlescent in LazScript, whatever your Wheel color is set to in LazScript also gets applied, and vice versa, so, when you tell lazscript to apply a pearl OR a wheel color, it applies BOTH
+
+
+that means anytime you apply a pearl without changing the wheel color, your wheels will turn black, and anytime you apply a wheel color without first changing the pearl color, your pearl will be removed (because it defaults to applying a Black Pearl, which basically removes all Pearl effects)
+
+
+this may seem complex at first, but it's actually very simple, and if you spend some time applying different Metal, Matte, etc Primary and Secondary Paints in lazscript, you will soon see exactly what I mean
+
+
+as far as making cars there are two ways to start - either go to Spawner and spawn a new one (i suggest making sure your spawning settings are set correctly, such as telling it to spawn all cars maxed out, and things like this) or going to your Stand Garage and finding something I've made to use as a starting point
+
+
+everything in the Garage should be maxed already, but it's possible there are one or two I've missed, so it's still a good idea to have it to do a Full Performance Upgrade before you save it
+
+
+one thing that people tend to miss at first is that you can change the textures
+
+
+in the LSC tab, Appearances tab, select Primary
+
+
+rainbow mode is stupid and everyone gets tired of it
+
+
+Finish is super important, this is where you change textures
+
+
+your textures will reset every time you restart game/stand
+
+
+you will HAVE TO LEARN TO REMEMBER to reset these textures before you start making cars EVERY TIME
+
+
+otherwise you will make a bunch of shit with the worst glossy texture in the game without noticing
+
+
+the next really important one that most ppl overlook is Value
+
+
+this is a proportion slider
+
+
+to see what that means, let's paint a car gold
+
+
+spawn any car and sit in it, then come back here to this Primary RGB in Los Santos Customs -> Appearances tab
+
+
+set your red to 71, green to 57, and blue to 27
+
+
+this is rockstar's default gold, it needs a metal texture and a pearl to look right, it will look like mud for now, but that's fine
+
+
+once you have 71, 57, 27, scroll up to Value and push left or right
+
+
+you will see that the mud-gold color becomes lighter and darker but stays in the same basic proportion, meaning its the same shade (or hue or something, i'm not an art-nerd) of gold, just brighter and darker
+
+
+this is very useful for making matching paints quickly
+
+
+you can set any RGB in your primary, then set the same RGB as secondary, and use value to scroll one of them darker or brighter while remaining the same basic color, so they will match, like colors rhyming with each other
+
+
+now, there are 6 tabs you will need to change here in LS Customs tab for every car, if you care that much, to make their colors fully modded, those are Primary, Secondary, Neon, Wheels, License Plate, Headlights
+
+
+if you are only doing paint, you can ignore all the other tabs for now
+
+
+primary and secondary are obvious, neons are your underglow, wheels have 2 color settings - the rims and the tire smoke, the license plate can often be switched to compliment the rest of the car, and then ofc the headlights
+
+
+then down at LazScript you have your Pearls, Accent and Trim
+
+
+most cars don't have accent or trim so you wont need those that much
+
+
+so now lets talk about textures
+
+
+there are 4 that you will use a lot - Chameleon, Chrome, Metal, and Matte (I also use the terms Colored Chrome and Colored Metal a lot, but those are just Chrome and Metal with a changed RGB)
+
+
+Normal, Metallic, and Pearlescent i basically never use 
+
+
+one thing you need to know is that when you make or modify a car you need to save it to your Stand Garage, then re-spawn it, before you save it in your own in-game garage 
+
+
+if you modify a car, but don't save it to your Stand Garage and then re-spawn it before saving it to your in-game garage, whatever you modified may not won't save right

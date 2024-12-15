@@ -1,0 +1,86 @@
+Model: remus
+Plate Style: 4
+Plate Text: 87HBV688
+Primary Colour: 112
+Secondary Colour: 112
+Pearl Colour: 0
+Wheel Colour: 122
+Wheel Type: 12
+Spoiler: 9
+Front Bumper: 6
+Rear Bumper: 1
+Sideskirt: 3
+Exhaust: 3
+Chassis: 0
+Grille: 4
+Hood: 9
+Fender: 2
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 8
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 116
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 7
+Trim: 1
+Ornaments: 0
+Dashboard: 2
+Dial: 5
+Seats: 1
+Door Speaker: 11
+Steering Wheel: 12
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 1
+Air Filter: 10
+Struts: 7
+Arch Cover: 5
+Aerials: 0
+Trim2: 0
+Tank: 5
+Windows: 0
+Unk47: 1
+Livery: 0
+Unk49: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 112
+Roof Livery: 0
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

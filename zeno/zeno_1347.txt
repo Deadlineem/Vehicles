@@ -1,0 +1,42 @@
+Model: zeno
+Plate Style: 0
+Plate Text: 62IIM121
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 137
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 14
+Front Bumper: 14
+Rear Bumper: 14
+Sideskirt: 20
+Exhaust: 20
+Hood: 0
+Fender: 3
+Roof: 9
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 11
+Front Wheels: 0
+Livery: 7
+Tyre Smoke Colour: #bf0036
+Window Tint: 1
+Custom Primary Colour: #bf0036
+Custom Secondary Colour: #bf0036
+Neon Colour: #ff0048
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

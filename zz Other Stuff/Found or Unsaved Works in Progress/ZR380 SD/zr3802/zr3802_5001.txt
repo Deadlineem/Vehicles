@@ -1,0 +1,50 @@
+Model: zr3802
+Plate Style: 0
+Plate Text: 05NGT487
+Primary Colour: 107
+Secondary Colour: 159
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 1
+Spoiler: 4
+Front Bumper: 2
+Rear Bumper: 1
+Exhaust: 0
+Chassis: 1
+Grille: 3
+Hood: 0
+Fender: 4
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 0
+Ornaments: 3
+Air Filter: 0
+Struts: 3
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Livery: 14
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #06536f
+Custom Secondary Colour: #c3af2f
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 160
+Dashboard Colour: 160
+Tyres Mode: 1

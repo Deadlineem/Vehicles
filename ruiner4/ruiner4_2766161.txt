@@ -1,0 +1,48 @@
+Model: ruiner4
+Plate Style: 5
+Plate Text: 33QMJ464
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 5
+Wheel Colour: 111
+Wheel Type: 10
+Spoiler: 21
+Front Bumper: 19
+Rear Bumper: 11
+Sideskirt: 15
+Exhaust: 11
+Chassis: 3
+Grille: 1
+Hood: 19
+Fender: 6
+Right Fender: 0
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 61
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #7fff00
+Custom Secondary Colour: #7fff00
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 156
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No

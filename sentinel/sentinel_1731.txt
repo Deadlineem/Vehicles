@@ -1,0 +1,45 @@
+Model: sentinel
+Plate Style: 0
+Plate Text: 40IOL934
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 30
+Front Bumper: 13
+Rear Bumper: 8
+Sideskirt: 13
+Exhaust: 6
+Chassis: 8
+Hood: 21
+Fender: 3
+Right Fender: 3
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 50
+Livery: 7
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #000032
+Custom Secondary Colour: #ffffff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 10: No

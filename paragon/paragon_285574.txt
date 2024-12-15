@@ -1,0 +1,44 @@
+Model: paragon
+Plate Style: 1
+Plate Text:  JAMBO  
+Primary Colour: 1
+Secondary Colour: 70
+Pearl Colour: 49
+Wheel Colour: 70
+Wheel Type: 12
+Spoiler: 4
+Front Bumper: 7
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 4
+Chassis: 6
+Grille: 1
+Hood: 8
+Fender: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 108
+Livery: 10
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1

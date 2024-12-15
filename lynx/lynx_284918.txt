@@ -1,0 +1,41 @@
+Model: lynx
+Plate Style: 8
+Plate Text:   K3Y   
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 83
+Wheel Colour: 119
+Wheel Type: 12
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 3
+Sideskirt: 0
+Exhaust: 3
+Chassis: 0
+Hood: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 2
+Suspension: 5
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 24
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: #24294c
+Custom Secondary Colour: #24294c
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 2

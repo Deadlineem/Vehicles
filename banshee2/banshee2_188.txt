@@ -1,0 +1,50 @@
+Model: banshee2
+Plate Style: 5
+Plate Text:         
+Primary Colour: 27
+Secondary Colour: 27
+Pearl Colour: 28
+Wheel Colour: 27
+Wheel Type: 10
+Spoiler: 2
+Front Bumper: 4
+Sideskirt: 2
+Exhaust: 4
+Grille: 0
+Hood: 3
+Fender: 0
+Engine: 3
+Brakes: 0
+Transmission: 2
+Horns: 0
+Suspension: 3
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 39
+Ornaments: 20
+Dashboard: 1
+Seats: 4
+Door Speaker: 8
+Steering Wheel: 13
+Engine Block: 4
+Struts: 1
+Livery: 3
+Tyre Smoke Colour: #ff0000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1
+Extra 1: No
+Extra 2: Yes

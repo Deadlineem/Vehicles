@@ -1,0 +1,40 @@
+Model: slamtruck
+Plate Style: 0
+Plate Text: 08HDI527
+Primary Colour: 111
+Secondary Colour: 145
+Pearl Colour: 0
+Wheel Colour: 145
+Wheel Type: 8
+Front Bumper: 5
+Sideskirt: 0
+Exhaust: 3
+Grille: 1
+Hood: 4
+Right Fender: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 81
+Back Wheels: 0
+Livery: 14
+Tyre Smoke Colour: #00ffbb
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #4c00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 0
+Tyres Mode: 1

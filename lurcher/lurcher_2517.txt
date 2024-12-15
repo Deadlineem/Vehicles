@@ -1,0 +1,40 @@
+Model: lurcher
+Plate Style: 5
+Plate Text:  BYSDBD 
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 39
+Wheel Type: 10
+Front Bumper: 1
+Rear Bumper: 1
+Exhaust: 3
+Grille: 1
+Hood: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 42
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 11
+Ornaments: 45
+Livery: 2
+Tyre Smoke Colour: #000000
+Window Tint: 6
+Custom Primary Colour: #0a0021
+Custom Secondary Colour: #0a0021
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 156
+Dashboard Colour: 73
+Tyres Mode: 1

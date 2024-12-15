@@ -1,0 +1,44 @@
+Model: sentinel3
+Plate Style: 2
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 70
+Wheel Colour: 62
+Wheel Type: 10
+Spoiler: 12
+Front Bumper: 9
+Rear Bumper: 1
+Sideskirt: 1
+Exhaust: 4
+Chassis: 4
+Grille: 0
+Hood: 5
+Fender: 1
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 4
+Front Wheels: 37
+Livery: 6
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #00377f
+Custom Secondary Colour: #00377f
+Neon Colour: #3bff00
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1

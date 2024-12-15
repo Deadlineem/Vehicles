@@ -1,0 +1,40 @@
+Model: lurcher
+Plate Style: 0
+Plate Text: 68XWZ575
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 18
+Wheel Colour: 0
+Wheel Type: 9
+Front Bumper: 1
+Rear Bumper: 1
+Exhaust: 3
+Grille: 1
+Hood: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 145
+Ornaments: 38
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #160000
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 156
+Dashboard Colour: 73
+Tyres Mode: 1

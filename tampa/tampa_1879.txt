@@ -1,0 +1,42 @@
+Model: tampa
+Plate Style: 0
+Plate Text: 41DLF810
+Primary Colour: 1
+Secondary Colour: 1
+Pearl Colour: 145
+Wheel Colour: 0
+Wheel Type: 1
+Spoiler: 2
+Front Bumper: 3
+Rear Bumper: 0
+Exhaust: 0
+Chassis: 0
+Grille: 0
+Hood: 2
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 6
+Livery: -1
+Tyre Smoke Colour: #8466e2
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,42 @@
+Model: freecrawler
+Plate Style: 1
+Plate Text: 41GPJ548
+Primary Colour: 151
+Secondary Colour: 100
+Pearl Colour: 0
+Wheel Colour: 95
+Wheel Type: 4
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 1
+Exhaust: 3
+Chassis: 1
+Grille: 1
+Hood: 0
+Fender: 1
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 1
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 3
+Livery: 3
+Tyre Smoke Colour: #141414
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 2

@@ -1,0 +1,45 @@
+Model: yosemite2
+Plate Style: 0
+Plate Text: 84ALD216
+Primary Colour: 56
+Secondary Colour: 1
+Pearl Colour: 134
+Wheel Colour: 0
+Wheel Type: 1
+Spoiler: 0
+Front Bumper: 9
+Rear Bumper: 1
+Sideskirt: 5
+Exhaust: 1
+Chassis: 3
+Grille: 3
+Hood: 0
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: Yes

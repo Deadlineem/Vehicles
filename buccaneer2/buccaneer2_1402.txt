@@ -1,0 +1,58 @@
+Model: buccaneer2
+Plate Style: 5
+Plate Text: DISCO 08
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 90
+Wheel Type: 10
+Front Bumper: 1
+Rear Bumper: 1
+Exhaust: 1
+Grille: 0
+Hood: 4
+Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 4
+Front Wheels: 36
+Back Wheels: 0
+Plate Holder: 5
+Vanity Plates: 15
+Trim: 6
+Ornaments: 45
+Dial: 2
+Steering Wheel: 7
+Shifter Leavers: 15
+Plaques: 22
+Speakers: 4
+Trunk: 7
+Hydraulics: 4
+Engine Block: 5
+Air Filter: 4
+Tank: 2
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #7bffff
+Custom Secondary Colour: #7bffff
+Neon Colour: #7bffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 156
+Dashboard Colour: 27
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes
+Extra 3: Yes
+Extra 4: Yes

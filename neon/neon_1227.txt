@@ -1,0 +1,39 @@
+Model: neon
+Plate Style: 1
+Plate Text: 82WFQ406
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 6
+Rear Bumper: 2
+Sideskirt: 9
+Hood: 2
+Fender: 2
+Engine: 4
+Brakes: 3
+Horns: 47
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 4
+Front Wheels: 8
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 65
+Tyres Mode: 1

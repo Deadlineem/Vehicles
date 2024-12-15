@@ -1,0 +1,45 @@
+Model: penumbra2
+Plate Style: 4
+Plate Text: RNO263
+Primary Colour: 92
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 10
+Front Bumper: 8
+Rear Bumper: 0
+Sideskirt: 8
+Exhaust: 3
+Chassis: 1
+Grille: 0
+Hood: 9
+Fender: 0
+Right Fender: 1
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 28
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 40
+Livery: 6
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #5eff01
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

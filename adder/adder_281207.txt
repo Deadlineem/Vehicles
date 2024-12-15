@@ -1,0 +1,37 @@
+Model: adder
+Plate Style: 5
+Plate Text:         
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 157
+Wheel Colour: 120
+Wheel Type: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 177
+Livery: 17
+Tyre Smoke Colour: #ff6900
+Window Tint: 1
+Custom Primary Colour: #000b19
+Custom Secondary Colour: #000b19
+Neon Colour: #e57274
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 4
+Extra 1: Yes
+Extra 10: Yes
+Extra 12: No

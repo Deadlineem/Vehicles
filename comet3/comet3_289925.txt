@@ -1,0 +1,50 @@
+Model: comet3
+Plate Style: 11
+Plate Text:   UWU   
+Primary Colour: 63
+Secondary Colour: 63
+Pearl Colour: 84
+Wheel Colour: 144
+Wheel Type: 3
+Spoiler: 2
+Front Bumper: 0
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 3
+Chassis: 0
+Hood: 0
+Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 23
+Trim: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 9
+Struts: 5
+Aerials: 0
+Livery: 0
+Tyre Smoke Colour: #a9c9e8
+Window Tint: 4
+Custom Primary Colour: #304c7e
+Custom Secondary Colour: #304c7e
+Neon Colour: #383838
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 9
+Dashboard Colour: 134
+Tyres Mode: 2

@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 1
+Plate Text:   WE42  
+Primary Colour: 111
+Secondary Colour: 111
+Pearl Colour: 91
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 4
+Rear Bumper: 6
+Sideskirt: 11
+Exhaust: 4
+Hood: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #31420d
+Custom Secondary Colour: #31420d
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

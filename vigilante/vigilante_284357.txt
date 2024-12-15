@@ -1,0 +1,35 @@
+Model: vigilante
+Plate Style: 0
+Plate Text: 21LLQ511
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 111
+Wheel Colour: 122
+Wheel Type: 8
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 122
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #3a0014
+Custom Secondary Colour: #3a0014
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

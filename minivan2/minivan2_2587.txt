@@ -1,0 +1,52 @@
+Model: minivan2
+Plate Style: 1
+Plate Text: 47LQA370
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 73
+Wheel Type: 12
+Spoiler: 1
+Exhaust: 1
+Grille: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 56
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 3
+Front Wheels: 30
+Back Wheels: 0
+Plate Holder: 13
+Vanity Plates: 16
+Trim: 4
+Ornaments: 7
+Dial: 9
+Seats: 5
+Door Speaker: 1
+Steering Wheel: 13
+Shifter Leavers: 9
+Plaques: 8
+Trunk: 9
+Hydraulics: 4
+Engine Block: 4
+Air Filter: 3
+Livery: 9
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #0032ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 73
+Dashboard Colour: 73
+Tyres Mode: 1

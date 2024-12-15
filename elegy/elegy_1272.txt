@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 3
+Plate Text: 21FXY929
+Primary Colour: 119
+Secondary Colour: 119
+Pearl Colour: 5
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 14
+Front Bumper: 3
+Rear Bumper: 0
+Sideskirt: 4
+Exhaust: 2
+Chassis: 1
+Grille: 0
+Hood: 0
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 49
+Plate Holder: 1
+Vanity Plates: 3
+Trim: 0
+Dashboard: 0
+Dial: 5
+Seats: 0
+Door Speaker: 12
+Steering Wheel: 2
+Engine Block: 1
+Air Filter: 1
+Struts: 1
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 3
+Windows: 0
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 73
+Dashboard Colour: 70
+Tyres Mode: 1

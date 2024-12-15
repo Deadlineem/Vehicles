@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 1
+Plate Text: 66TDB439
+Primary Colour: 4
+Secondary Colour: 4
+Pearl Colour: 4
+Wheel Colour: 156
+Wheel Type: 9
+Spoiler: 16
+Front Bumper: 6
+Rear Bumper: 3
+Sideskirt: 5
+Exhaust: 9
+Chassis: 5
+Grille: 3
+Hood: 0
+Fender: 6
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 29
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 185
+Plate Holder: 2
+Vanity Plates: 4
+Trim: 1
+Dashboard: 5
+Dial: 15
+Seats: 7
+Door Speaker: 14
+Steering Wheel: 15
+Engine Block: 4
+Air Filter: 7
+Struts: 12
+Arch Cover: 6
+Aerials: 11
+Trim2: 1
+Tank: 5
+Windows: 2
+Livery: 4
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 146
+Dashboard Colour: 35
+Tyres Mode: 1

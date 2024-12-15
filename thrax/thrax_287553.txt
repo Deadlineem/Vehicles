@@ -1,0 +1,42 @@
+Model: thrax
+Plate Style: 1
+Plate Text: 14RTETR 
+Primary Colour: 7
+Secondary Colour: 147
+Pearl Colour: 5
+Wheel Colour: 2
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 3
+Sideskirt: 1
+Exhaust: 7
+Chassis: 0
+Grille: 0
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 28
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

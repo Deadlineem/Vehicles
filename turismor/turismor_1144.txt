@@ -1,0 +1,41 @@
+Model: turismor
+Plate Style: 2
+Plate Text: 69HGV923
+Primary Colour: 32
+Secondary Colour: 88
+Pearl Colour: 89
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 2
+Front Bumper: 5
+Rear Bumper: 0
+Sideskirt: 2
+Exhaust: 6
+Chassis: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 88
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,71 @@
+Model: dominator7
+Plate Style: 0
+Plate Text: CRWDKLLR
+Primary Colour: 11
+Secondary Colour: 11
+Pearl Colour: 51
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 12
+Front Bumper: 0
+Rear Bumper: 2
+Sideskirt: 3
+Exhaust: 2
+Chassis: 1
+Grille: 3
+Hood: 15
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 29
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dashboard: 0
+Dial: 1
+Seats: 0
+Door Speaker: 4
+Steering Wheel: 5
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 1
+Struts: 14
+Arch Cover: 0
+Aerials: 1
+Trim2: 0
+Tank: 1
+Windows: 1
+Unk47: 10
+Livery: 0
+Unk49: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: #0b0314
+Custom Secondary Colour: #0b0314
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 9
+Roof Livery: 0
+Dashboard Colour: 111
+Tyres Mode: 3

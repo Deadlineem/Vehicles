@@ -1,0 +1,40 @@
+Model: sheava
+Plate Style: 5
+Plate Text:         
+Primary Colour: 71
+Secondary Colour: 120
+Pearl Colour: 137
+Wheel Colour: 148
+Wheel Type: 8
+Spoiler: 4
+Front Bumper: 0
+Rear Bumper: 1
+Exhaust: 0
+Hood: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 47
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #1a182e
+Custom Secondary Colour: #000000
+Neon Colour: #6100ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No

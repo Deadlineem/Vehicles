@@ -1,0 +1,59 @@
+Model: jester4
+Plate Style: 0
+Plate Text:  GHOSTS 
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 18
+Wheel Colour: 4
+Wheel Type: 8
+Spoiler: 14
+Front Bumper: 11
+Rear Bumper: 0
+Sideskirt: 8
+Exhaust: 5
+Chassis: 9
+Grille: 8
+Hood: 0
+Fender: 1
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 0
+Vanity Plates: 2
+Trim: 6
+Ornaments: 2
+Dashboard: 4
+Dial: 4
+Seats: 6
+Door Speaker: 11
+Steering Wheel: 15
+Engine Block: 1
+Air Filter: 9
+Struts: 7
+Arch Cover: 1
+Trim2: 1
+Tank: 2
+Livery: 7
+Tyre Smoke Colour: #0000ff
+Window Tint: 1
+Custom Primary Colour: #000031
+Custom Secondary Colour: #040058
+Neon Colour: #00007d
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 27
+Dashboard Colour: 156
+Tyres Mode: 1

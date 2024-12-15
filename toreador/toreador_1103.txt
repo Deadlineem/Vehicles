@@ -1,0 +1,39 @@
+Model: toreador
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 41
+Wheel Colour: 28
+Wheel Type: 9
+Spoiler: 10
+Front Bumper: 6
+Rear Bumper: 9
+Grille: 5
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 155
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #350400
+Custom Secondary Colour: #350400
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 19
+Dashboard Colour: 156
+Tyres Mode: 1

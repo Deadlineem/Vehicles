@@ -1,0 +1,43 @@
+Model: neo
+Plate Style: 5
+Plate Text:    RG   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 158
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 9
+Front Bumper: 0
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 12
+Chassis: 8
+Grille: 12
+Hood: 3
+Fender: 1
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 41
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 11
+Front Wheels: 113
+Livery: 0
+Tyre Smoke Colour: #b76e79
+Window Tint: 6
+Custom Primary Colour: #b76e79
+Custom Secondary Colour: #b76e79
+Neon Colour: #b56e7a
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 65
+Tyres Mode: 1

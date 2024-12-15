@@ -1,0 +1,55 @@
+Model: comet6
+Plate Style: 1
+Plate Text: GT3 RS
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 15
+Front Bumper: 0
+Rear Bumper: 5
+Sideskirt: 9
+Exhaust: 3
+Chassis: 0
+Hood: 11
+Fender: 2
+Right Fender: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 9
+Plate Holder: 1
+Vanity Plates: 2
+Trim: 0
+Dashboard: 1
+Seats: 0
+Door Speaker: 3
+Steering Wheel: 3
+Arch Cover: 5
+Aerials: 0
+Trim2: 0
+Left Door: 3
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #f7ca02
+Custom Secondary Colour: #f7ca02
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

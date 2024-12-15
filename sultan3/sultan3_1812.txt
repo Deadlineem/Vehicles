@@ -1,0 +1,55 @@
+Model: sultan3
+Plate Style: 0
+Plate Text: 15TGY453
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 139
+Wheel Colour: 121
+Wheel Type: 10
+Spoiler: 15
+Front Bumper: 1
+Rear Bumper: 2
+Sideskirt: 4
+Exhaust: 8
+Chassis: 2
+Grille: 1
+Hood: 11
+Fender: 0
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 131
+Trim: 0
+Dashboard: 3
+Dial: 3
+Seats: 0
+Engine Block: 0
+Air Filter: 4
+Struts: 6
+Arch Cover: 0
+Aerials: 1
+Trim2: 0
+Livery: 12
+Tyre Smoke Colour: #a7e5a8
+Window Tint: 1
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #000000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 148
+Dashboard Colour: 132
+Tyres Mode: 1

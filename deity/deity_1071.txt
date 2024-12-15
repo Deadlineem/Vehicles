@@ -1,0 +1,47 @@
+Model: deity
+Plate Style: 1
+Plate Text: 86NCX521
+Primary Colour: 106
+Secondary Colour: 0
+Pearl Colour: 107
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 4
+Front Bumper: 8
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 4
+Chassis: 1
+Grille: 6
+Hood: 12
+Fender: 0
+Right Fender: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Trim2: 0
+Tank: 0
+Livery: 3
+Tyre Smoke Colour: #141414
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Dashboard Colour: 0
+Tyres Mode: 2

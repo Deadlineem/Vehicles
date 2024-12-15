@@ -1,0 +1,41 @@
+Model: boor
+Plate Style: 0
+Plate Text: 48SXN255
+Primary Colour: 133
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 4
+Spoiler: 4
+Front Bumper: 0
+Rear Bumper: 1
+Exhaust: 3
+Hood: 1
+Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #81844c
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

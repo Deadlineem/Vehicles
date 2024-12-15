@@ -1,0 +1,48 @@
+Model: buffalo4
+Plate Style: 1
+Plate Text:  WS VEH 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 88
+Wheel Colour: 41
+Wheel Type: 8
+Spoiler: 10
+Front Bumper: 7
+Rear Bumper: 2
+Sideskirt: 4
+Exhaust: 5
+Chassis: 1
+Grille: 4
+Hood: 3
+Fender: 1
+Right Fender: 1
+Roof: 13
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 35
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 86
+Ornaments: 5
+Trim2: 2
+Tank: 1
+Livery: 2
+Tyre Smoke Colour: #ff4500
+Window Tint: 1
+Custom Primary Colour: #ff4500
+Custom Secondary Colour: 
+Neon Colour: #ff4500
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,38 @@
+Model: krieger
+Plate Style: 5
+Plate Text: BLESSED 
+Primary Colour: 0
+Secondary Colour: 33
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 0
+Sideskirt: 0
+Exhaust: 3
+Hood: 2
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 17
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 5
+Front Wheels: 30
+Livery: 1
+Tyre Smoke Colour: #05ff9b
+Window Tint: 1
+Custom Primary Colour: #05ff9b
+Custom Secondary Colour: #03eeff
+Neon Colour: #00ff8c
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 65
+Tyres Mode: 1
+Extra 1: Yes

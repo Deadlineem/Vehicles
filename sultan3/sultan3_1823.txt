@@ -1,0 +1,55 @@
+Model: sultan3
+Plate Style: 0
+Plate Text:   VAP3  
+Primary Colour: 0
+Secondary Colour: 9
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 16
+Front Bumper: 0
+Rear Bumper: 1
+Sideskirt: 3
+Exhaust: 7
+Chassis: 1
+Grille: 0
+Hood: 10
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 36
+Trim: 0
+Dashboard: 5
+Dial: 1
+Seats: 0
+Engine Block: 3
+Air Filter: 7
+Struts: 12
+Arch Cover: 5
+Aerials: 0
+Trim2: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: #76ccbf
+Custom Secondary Colour: 
+Neon Colour: #f08080
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Dashboard Colour: 160
+Tyres Mode: 1

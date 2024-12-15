@@ -1,0 +1,44 @@
+Model: italirsx
+Plate Style: 1
+Plate Text:  DULION 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 6
+Sideskirt: 1
+Exhaust: 6
+Chassis: 4
+Grille: 2
+Hood: 12
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 2
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 7
+Front Wheels: 175
+Livery: 6
+Tyre Smoke Colour: #e20606
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #ffff00
+Neon Colour: #ff0101
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 18
+Dashboard Colour: 156
+Tyres Mode: 1

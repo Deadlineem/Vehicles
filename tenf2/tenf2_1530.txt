@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 0
+Plate Text: 00ZNW925
+Primary Colour: 12
+Secondary Colour: 131
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 5
+Rear Bumper: 9
+Sideskirt: 5
+Exhaust: 15
+Grille: 0
+Hood: 14
+Fender: 1
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 28
+Vanity Plates: 16
+Trim: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Livery: 13
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 156
+Tyres Mode: 1

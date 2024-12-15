@@ -1,0 +1,58 @@
+Model: sultanrs
+Plate Style: 2
+Plate Text: 40NDG618
+Primary Colour: 111
+Secondary Colour: 135
+Pearl Colour: 0
+Wheel Colour: 122
+Wheel Type: 7
+Spoiler: 8
+Front Bumper: 8
+Rear Bumper: 6
+Sideskirt: 2
+Exhaust: 4
+Chassis: 1
+Grille: 2
+Hood: 7
+Fender: 3
+Roof: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 4
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 13
+Trim: 0
+Ornaments: 0
+Dashboard: 2
+Dial: 6
+Seats: 4
+Door Speaker: 2
+Steering Wheel: 12
+Engine Block: 2
+Air Filter: 2
+Struts: 12
+Arch Cover: 6
+Aerials: 1
+Trim2: 1
+Windows: 3
+Livery: 8
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

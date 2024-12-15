@@ -1,0 +1,58 @@
+Model: sultanrs
+Plate Style: 0
+Plate Text: 15HBW365
+Primary Colour: 92
+Secondary Colour: 92
+Pearl Colour: 92
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 11
+Front Bumper: 9
+Rear Bumper: 6
+Sideskirt: 2
+Exhaust: 4
+Chassis: 1
+Grille: 0
+Hood: 1
+Fender: 1
+Roof: 0
+Engine: 3
+Brakes: 2
+Transmission: 2
+Horns: 0
+Suspension: 2
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 49
+Trim: 0
+Ornaments: 0
+Dashboard: 3
+Dial: 5
+Seats: 4
+Door Speaker: 5
+Steering Wheel: 6
+Engine Block: 1
+Air Filter: 4
+Struts: 6
+Arch Cover: 0
+Aerials: 0
+Trim2: 1
+Windows: 0
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

@@ -1,0 +1,33 @@
+Model: chernobog
+Plate Style: 0
+Plate Text: 55IWQ650
+Primary Colour: 153
+Secondary Colour: 13
+Pearl Colour: 6
+Wheel Colour: 0
+Wheel Type: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 50
+Livery: 40
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 8
+Dashboard Colour: 156
+Tyres Mode: 1

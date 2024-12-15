@@ -1,0 +1,38 @@
+Model: krieger
+Plate Style: 0
+Plate Text: E2HED8SK
+Primary Colour: 71
+Secondary Colour: 131
+Pearl Colour: 89
+Wheel Colour: 142
+Wheel Type: 12
+Spoiler: 13
+Sideskirt: 1
+Exhaust: 5
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 164
+Livery: 6
+Tyre Smoke Colour: #4203ff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 65
+Tyres Mode: 1
+Extra 1: No

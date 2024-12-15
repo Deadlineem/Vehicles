@@ -1,0 +1,41 @@
+Model: novak
+Plate Style: 0
+Plate Text: 89EPW853
+Primary Colour: 49
+Secondary Colour: 49
+Pearl Colour: 51
+Wheel Colour: 156
+Wheel Type: 3
+Spoiler: 1
+Front Bumper: 5
+Rear Bumper: 3
+Sideskirt: 0
+Exhaust: 0
+Hood: 3
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 1
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 31
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #000f0d
+Custom Secondary Colour: #000f0d
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 2

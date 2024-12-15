@@ -1,0 +1,40 @@
+Model: tampa3
+Plate Style: 5
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 89
+Wheel Colour: 28
+Wheel Type: 9
+Front Bumper: 1
+Rear Bumper: 1
+Chassis: 0
+Hood: 0
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 41
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 146
+Livery: 28
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #190000
+Custom Secondary Colour: #000000
+Neon Colour: #ff6400
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

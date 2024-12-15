@@ -1,0 +1,33 @@
+Model: scramjet
+Plate Style: 0
+Plate Text: 75AQI853
+Primary Colour: 30
+Secondary Colour: 0
+Pearl Colour: 3
+Wheel Colour: 158
+Wheel Type: 10
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 58
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 3
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #0eebf5
+Custom Secondary Colour: #690189
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 158
+Dashboard Colour: 134
+Tyres Mode: 1

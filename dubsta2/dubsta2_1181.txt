@@ -1,0 +1,41 @@
+Model: dubsta2
+Plate Style: 0
+Plate Text: 36KQC836
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 136
+Wheel Type: 8
+Front Bumper: 0
+Exhaust: 0
+Hood: 0
+Fender: 0
+Roof: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 12
+Suspension: 4
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 11
+Front Wheels: 24
+Livery: -1
+Tyre Smoke Colour: #ffb0b0
+Window Tint: 6
+Custom Primary Colour: #ffb0b0
+Custom Secondary Colour: 
+Neon Colour: #ffb0b0
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1
+Extra 11: No
+Extra 12: No

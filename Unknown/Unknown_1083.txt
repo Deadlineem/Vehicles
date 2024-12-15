@@ -1,0 +1,23 @@
+Model Gauntlet Hellfire
+Headlights 1
+Wimdow Tint 3
+Horns 57
+Livery 5
+Side Skirt 1
+Suspension 3
+Exhaust 2
+Frame 5
+Front Bumper/Countermeasures 1
+Rear Bumper -1
+Hood 1
+Roof/Weapons 0 
+Fender 2
+Right Fender 8
+Grille 5
+Spoilers 7
+Primary Colour lime green
+secondary color Carbon black
+Neon Lights green
+Wheels Category 0
+Front Wheels 23
+wheels Color 0

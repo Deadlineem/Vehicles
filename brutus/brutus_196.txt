@@ -1,0 +1,50 @@
+Model: brutus
+Plate Style: 0
+Plate Text: 46JET539
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 145
+Wheel Colour: 0
+Wheel Type: 2
+Front Bumper: 1
+Rear Bumper: 2
+Sideskirt: 0
+Exhaust: 5
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 10, Custom
+Plaques: 2
+Air Filter: 4
+Struts: 3
+Arch Cover: 0
+Trim2: 0
+Tank: 2
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0f03ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

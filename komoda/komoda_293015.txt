@@ -1,0 +1,43 @@
+Model: komoda
+Plate Style: 1
+Plate Text: SNB ATHN
+Primary Colour: 64
+Secondary Colour: 64
+Pearl Colour: 44
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 10
+Front Bumper: 9
+Rear Bumper: 2
+Sideskirt: 9
+Exhaust: 1
+Hood: 10
+Fender: 0
+Right Fender: 0
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 15
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 2
+Custom Primary Colour: #b5e5ff
+Custom Secondary Colour: #b5e5ff
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,33 @@
+Model: dune4
+Plate Style: 0
+Plate Text: 80GVV614
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 5
+Wheel Type: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 42
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 17
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #0017ff
+Custom Secondary Colour: #00ff00
+Neon Colour: #00ffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,62 @@
+Model: tailgater2
+Plate Style: 4
+Plate Text: K1FFLOM 
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 88
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 28
+Front Bumper: 7
+Rear Bumper: 6
+Sideskirt: 0
+Exhaust: 8
+Chassis: 0
+Grille: 0
+Hood: 9
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 53
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 4
+Front Wheels: 30
+Plate Holder: 1
+Vanity Plates: 0
+Trim: 1
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 5
+Air Filter: 9
+Struts: 12
+Arch Cover: 0
+Aerials: 2
+Trim2: 2
+Tank: 3
+Right Door: 0
+Livery: 0
+Tyre Smoke Colour: #afd6e4
+Window Tint: 1
+Custom Primary Colour: #16093d
+Custom Secondary Colour: #16093d
+Neon Colour: #3b00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 134
+Dashboard Colour: 134
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes

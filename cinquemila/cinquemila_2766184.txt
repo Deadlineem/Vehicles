@@ -1,0 +1,45 @@
+Model: cinquemila
+Plate Style: 5
+Plate Text: 10LBS175
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 73
+Wheel Colour: 111
+Wheel Type: 10
+Spoiler: 17
+Front Bumper: 14
+Rear Bumper: 4
+Sideskirt: 14
+Exhaust: 8
+Chassis: 3
+Grille: 7
+Hood: 16
+Fender: 3
+Right Fender: 2
+Roof: 7
+Engine: 5
+Brakes: 4
+Transmission: 4
+Horns: 58
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 61
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #ff00ff
+Custom Secondary Colour: #ff00ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 64
+Dashboard Colour: 134
+Tyres Mode: 1

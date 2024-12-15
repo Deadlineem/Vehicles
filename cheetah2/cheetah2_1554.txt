@@ -1,0 +1,43 @@
+Model: cheetah2
+Plate Style: 0
+Plate Text: 80JZQ862
+Primary Colour: 29
+Secondary Colour: 29
+Pearl Colour: 28
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 8
+Front Bumper: 6
+Rear Bumper: 0
+Sideskirt: 3
+Exhaust: 1
+Hood: 2
+Fender: 0
+Right Fender: 4
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 13
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

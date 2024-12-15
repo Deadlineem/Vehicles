@@ -1,0 +1,45 @@
+Model: l35
+Plate Style: 0
+Plate Text: 87JPV335
+Primary Colour: 116
+Secondary Colour: 120
+Pearl Colour: 111
+Wheel Colour: 0
+Wheel Type: 4
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 4
+Exhaust: 3
+Chassis: 0
+Grille: 2
+Hood: 2
+Fender: 0
+Right Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 12
+Livery: 6
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #726c57
+Custom Secondary Colour: #5870a1
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

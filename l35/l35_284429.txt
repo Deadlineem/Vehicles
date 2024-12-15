@@ -1,0 +1,45 @@
+Model: l35
+Plate Style: 5
+Plate Text:         
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 70
+Wheel Colour: 63
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 0
+Sideskirt: 1
+Exhaust: 2
+Chassis: 2
+Grille: 5
+Hood: 1
+Fender: 1
+Right Fender: 1
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 51
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 77
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 5
+Custom Primary Colour: #001bff
+Custom Secondary Colour: #001bff
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 2

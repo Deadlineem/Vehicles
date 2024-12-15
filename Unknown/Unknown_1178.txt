@@ -1,0 +1,32 @@
+Headlights 0
+Wimdow Tint 0
+Horns 57
+Livery 4
+Side Skirt -1
+Suspension 0
+Exhaust 2
+Frame 4
+Front Bumper/Countermeasures 7
+Rear Bumper 0
+Hood 6
+Roof/Weapons -1
+Fender 0
+Grille -1
+Trim Design 0
+Ormaments -1
+Dashboard 4
+Dial Design 5
+Seats -1
+Door Speaker 13
+Streering Wheel 14 
+Engine Block 3
+Boost/Air Filter 6
+Struts 11
+Arch Cover -1
+Aerials -1
+Trim -1
+Windows-1
+Spoilers 12
+Primary Colour Red 107
+secondary color Red 107
+Neon Lights Red 

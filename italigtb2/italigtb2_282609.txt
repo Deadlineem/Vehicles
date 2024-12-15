@@ -1,0 +1,86 @@
+Model: italigtb2
+Plate Style: 1
+Plate Text: 4HBLL808
+Primary Colour: 71
+Secondary Colour: 71
+Pearl Colour: 70
+Wheel Colour: 140
+Wheel Type: 8
+Spoiler: 9
+Front Bumper: 16
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 1
+Chassis: 3
+Grille: 0
+Hood: 12
+Fender: 1
+Right Fender: 6
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 108
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dashboard: 5
+Dial: 2
+Seats: 2
+Door Speaker: 12
+Steering Wheel: 3
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Left Door: 0
+Right Door: 0
+Livery: 0
+Lightbar: 2
+Tyre Smoke Colour: #00aeef
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Roof Livery: 0
+Dashboard Colour: 4
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

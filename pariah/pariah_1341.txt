@@ -1,0 +1,40 @@
+Model: pariah
+Plate Style: 5
+Plate Text:  SUNDAY 
+Primary Colour: 24
+Secondary Colour: 32
+Pearl Colour: 134
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 4
+Front Bumper: 6
+Rear Bumper: 1
+Sideskirt: 2
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 30
+Suspension: 3
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 2
+Front Wheels: 124
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 5
+Custom Primary Colour: #b19cd9
+Custom Secondary Colour: #b19cd9
+Neon Colour: #bf7fff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 65
+Tyres Mode: 1

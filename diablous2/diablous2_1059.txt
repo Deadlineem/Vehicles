@@ -1,0 +1,43 @@
+Model: diablous2
+Plate Style: 0
+Plate Text: KHOTHOS 
+Primary Colour: 0
+Secondary Colour: 112
+Pearl Colour: 3
+Wheel Colour: 64
+Wheel Type: 6
+Spoiler: 10
+Front Bumper: 11
+Rear Bumper: 11
+Exhaust: 6
+Right Fender: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 50
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 4
+Back Wheels: 4
+Door Speaker: 14
+Engine Block: 2
+Air Filter: 9
+Tank: 8
+Livery: 18
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 156
+Dashboard Colour: 111
+Tyres Mode: 1

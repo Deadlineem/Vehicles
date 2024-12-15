@@ -1,0 +1,41 @@
+Model: nightshark
+Plate Style: 1
+Plate Text: 87UMI060
+Primary Colour: 111
+Secondary Colour: 158
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 3
+Front Bumper: 1
+Rear Bumper: 1
+Exhaust: 2
+Chassis: 2
+Grille: 8
+Hood: 8
+Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 37, Custom
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

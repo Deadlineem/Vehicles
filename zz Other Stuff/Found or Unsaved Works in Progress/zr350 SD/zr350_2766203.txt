@@ -1,0 +1,60 @@
+Model: zr350
+Plate Style: 0
+Plate Text: REALVAMP
+Primary Colour: 117
+Secondary Colour: 6
+Pearl Colour: 18
+Wheel Colour: 122
+Wheel Type: 8
+Spoiler: 5
+Front Bumper: 6
+Rear Bumper: 2
+Sideskirt: 13
+Exhaust: 7
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 119
+Vanity Plates: 6
+Trim: 0
+Dashboard: 4
+Dial: 2
+Seats: 2
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 2
+Air Filter: 0
+Struts: 12
+Arch Cover: 2
+Aerials: 6
+Trim2: 0
+Left Door: 0
+Right Door: 0
+Livery: 8
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #ff1500
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 32
+Dashboard Colour: 156
+Tyres Mode: 4

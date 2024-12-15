@@ -1,0 +1,43 @@
+Model: cheetah2
+Plate Style: 0
+Plate Text: KHOTHOS 
+Primary Colour: 88
+Secondary Colour: 0
+Pearl Colour: 87
+Wheel Colour: 64
+Wheel Type: 8
+Spoiler: 18
+Front Bumper: 8
+Rear Bumper: 1
+Sideskirt: 5
+Exhaust: 3
+Hood: 4
+Fender: 2
+Right Fender: 4
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 50
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 35
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 93
+Tyres Mode: 1

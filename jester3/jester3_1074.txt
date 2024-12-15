@@ -1,0 +1,44 @@
+Model: jester3
+Plate Style: 0
+Plate Text: 09QBK944
+Primary Colour: 158
+Secondary Colour: 158
+Pearl Colour: 160
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 5
+Front Bumper: 11
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 4
+Chassis: 4
+Grille: 2
+Hood: 4
+Fender: 2
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 13
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #47391b
+Custom Secondary Colour: #47391b
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 7
+Dashboard Colour: 89
+Tyres Mode: 1

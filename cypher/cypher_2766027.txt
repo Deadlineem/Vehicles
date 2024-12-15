@@ -1,0 +1,86 @@
+Model: cypher
+Plate Style: 1
+Plate Text: 6XPDP996
+Primary Colour: 141
+Secondary Colour: 70
+Pearl Colour: 70
+Wheel Colour: 70
+Wheel Type: 10
+Spoiler: 10
+Front Bumper: 11
+Rear Bumper: 4
+Sideskirt: 8
+Exhaust: 2
+Chassis: 9
+Grille: 2
+Hood: 4
+Fender: 1
+Right Fender: 3
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 41
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 17
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 1
+Trim: 5
+Ornaments: 2
+Dashboard: 4
+Dial: 1
+Seats: 2
+Door Speaker: 7
+Steering Wheel: 16
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 12
+Air Filter: 0
+Struts: 17
+Arch Cover: 8
+Aerials: 0
+Trim2: 0
+Tank: 0
+Left Door: 0
+Right Door: 0
+Livery: 4
+Lightbar: 2
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 70
+Roof Livery: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

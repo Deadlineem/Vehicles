@@ -1,0 +1,48 @@
+Model: buffalo4
+Plate Style: 1
+Plate Text: 80ICM551
+Primary Colour: 111
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 89
+Wheel Type: 3
+Spoiler: 12
+Front Bumper: 8
+Rear Bumper: 2
+Sideskirt: 4
+Exhaust: 8
+Chassis: 0
+Grille: 5
+Hood: 4
+Fender: 1
+Right Fender: 0
+Roof: 13
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 33
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 4, Custom
+Ornaments: 6
+Trim2: 0
+Tank: 0
+Livery: 9
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff9605
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

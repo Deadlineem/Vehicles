@@ -1,0 +1,59 @@
+Model: cypher
+Plate Style: 0
+Plate Text:  TOASTY 
+Primary Colour: 120
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 1
+Wheel Type: 0
+Spoiler: 5
+Front Bumper: 11
+Rear Bumper: 2
+Sideskirt: 8
+Exhaust: 8
+Chassis: 9
+Grille: 12
+Hood: 8
+Fender: 0
+Right Fender: 5
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 41
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 9
+Vanity Plates: 0
+Trim: 0
+Ornaments: 2
+Dashboard: 0
+Dial: 1
+Seats: 6
+Door Speaker: 11
+Steering Wheel: 15
+Engine Block: 10
+Struts: 11
+Arch Cover: 5
+Aerials: 0
+Trim2: 0
+Tank: 0
+Livery: 0
+Tyre Smoke Colour: #00bfff
+Window Tint: 1
+Custom Primary Colour: #ff0a55
+Custom Secondary Colour: #ff0a55
+Neon Colour: #ff05be
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 27
+Dashboard Colour: 0
+Tyres Mode: 1

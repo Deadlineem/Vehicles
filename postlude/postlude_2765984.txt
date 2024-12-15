@@ -1,0 +1,86 @@
+Model: postlude
+Plate Style: 3
+Plate Text: 88VQQ153
+Primary Colour: 120
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 10
+Spoiler: 13
+Front Bumper: 5
+Rear Bumper: 5
+Sideskirt: 0
+Exhaust: 18
+Chassis: 5
+Grille: 0
+Hood: 19
+Fender: 5
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 1
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 7
+Trim: 3
+Ornaments: 0
+Dashboard: 5
+Dial: 0
+Seats: 0
+Door Speaker: 14
+Steering Wheel: 16
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 6
+Air Filter: 0
+Struts: 15
+Arch Cover: 5
+Aerials: 0
+Trim2: 0
+Tank: 0
+Left Door: 0
+Right Door: 0
+Livery: 0
+Lightbar: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #ffff00
+Custom Secondary Colour: #ffff00
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Roof Livery: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

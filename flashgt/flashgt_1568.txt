@@ -1,0 +1,42 @@
+Model: flashgt
+Plate Style: 0
+Plate Text: 80AHR050
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 140
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 5
+Front Bumper: 1
+Sideskirt: 4
+Exhaust: 2
+Chassis: 0
+Hood: 0
+Roof: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 1
+Suspension: 5
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 107
+Livery: 3
+Tyre Smoke Colour: #b2b2ff
+Window Tint: 1
+Custom Primary Colour: #b2f8ff
+Custom Secondary Colour: #080808
+Neon Colour: #7f7fff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1
+Extra 1: No

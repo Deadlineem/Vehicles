@@ -1,0 +1,44 @@
+Model: vstr
+Plate Style: 0
+Plate Text: 64SNE309
+Primary Colour: 100
+Secondary Colour: 111
+Pearl Colour: 138
+Wheel Colour: 41
+Wheel Type: 7
+Spoiler: 0
+Front Bumper: 0
+Sideskirt: 0
+Exhaust: 11
+Chassis: 3
+Grille: 0
+Hood: 12
+Fender: 0
+Right Fender: 3
+Roof: 0
+Engine: 4
+Brakes: 0
+Transmission: 3
+Horns: 55
+Suspension: 2
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 17
+Livery: 0
+Tyre Smoke Colour: #b48261
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff9605
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 138
+Dashboard Colour: 0
+Tyres Mode: 2

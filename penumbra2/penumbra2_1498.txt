@@ -1,0 +1,45 @@
+Model: penumbra2
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 71
+Pearl Colour: 136
+Wheel Colour: 136
+Wheel Type: 8
+Spoiler: 3
+Front Bumper: 6
+Rear Bumper: 0
+Sideskirt: 4
+Exhaust: 0
+Chassis: 1
+Grille: 1
+Hood: 0
+Fender: 1
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 89
+Livery: 7
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #352b33
+Custom Secondary Colour: 
+Neon Colour: #ffddff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 0
+Tyres Mode: 4

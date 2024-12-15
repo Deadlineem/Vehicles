@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 1
+Plate Text: 01ESE456
+Primary Colour: 12
+Secondary Colour: 42
+Pearl Colour: 42
+Wheel Colour: 88
+Wheel Type: 8
+Spoiler: 3
+Front Bumper: 17
+Rear Bumper: 6
+Sideskirt: 11
+Exhaust: 5
+Hood: 16
+Roof: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 62
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 17
+Dashboard Colour: 156
+Tyres Mode: 1

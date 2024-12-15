@@ -1,0 +1,35 @@
+Model: reaper
+Plate Style: 5
+Plate Text: 7VHSD266
+Primary Colour: 158
+Secondary Colour: 3
+Pearl Colour: 160
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 1
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 11
+Front Wheels: 87
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #be4cff
+Custom Secondary Colour: #be4cff
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

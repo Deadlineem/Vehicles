@@ -1,0 +1,44 @@
+Model: zentorno
+Plate Style: 0
+Plate Text: 43VRL450
+Primary Colour: 0
+Secondary Colour: 43
+Pearl Colour: 140
+Wheel Colour: 12
+Wheel Type: 9
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 1
+Sideskirt: 5
+Exhaust: 4
+Chassis: 2
+Grille: 1
+Hood: 3
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 46
+Livery: 9
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #0d1116
+Custom Secondary Colour: #9c1016
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

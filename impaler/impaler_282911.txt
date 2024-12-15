@@ -1,0 +1,40 @@
+Model: impaler
+Plate Style: 1
+Plate Text: 62CSB145
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 122
+Wheel Type: 1
+Spoiler: 1
+Front Bumper: 2
+Rear Bumper: 4
+Exhaust: 4
+Grille: 2
+Hood: 7
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 5
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 10
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #5eff01
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

@@ -1,0 +1,37 @@
+Model: seven70
+Plate Style: 1
+Plate Text:  A CAR  
+Primary Colour: 1
+Secondary Colour: 36
+Pearl Colour: 111
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 1
+Sideskirt: 1
+Exhaust: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 9
+Livery: -1
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

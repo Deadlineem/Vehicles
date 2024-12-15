@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 89
+Wheel Colour: 53
+Wheel Type: 8
+Spoiler: 14
+Front Bumper: 15
+Rear Bumper: 3
+Sideskirt: 9
+Exhaust: 4
+Hood: 11
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 6
+Front Wheels: 114
+Livery: 1
+Tyre Smoke Colour: #00ff00
+Window Tint: 1
+Custom Primary Colour: #00ff00
+Custom Secondary Colour: #00ff00
+Neon Colour: #00ff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 17
+Dashboard Colour: 156
+Tyres Mode: 1

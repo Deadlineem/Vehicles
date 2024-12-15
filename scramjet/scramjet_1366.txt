@@ -1,0 +1,33 @@
+Model: scramjet
+Plate Style: 0
+Plate Text: 86YVR83 
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 42
+Wheel Colour: 0
+Wheel Type: 8
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 41
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 50
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #00dd00
+Custom Secondary Colour: #ff6bb5
+Neon Colour: #00dd00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 158
+Dashboard Colour: 134
+Tyres Mode: 1

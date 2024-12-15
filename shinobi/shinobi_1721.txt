@@ -1,0 +1,39 @@
+Model: shinobi
+Plate Style: 0
+Plate Text: 20SEL166
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 55
+Wheel Type: 6
+Front Bumper: 2
+Sideskirt: 1
+Exhaust: 3
+Chassis: 2
+Hood: 2
+Engine: 4
+Brakes: 4
+Transmission: 4
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 12, Custom
+Back Wheels: 12, Custom
+Livery: 5
+Tyre Smoke Colour: #72cc72
+Window Tint: 0
+Custom Primary Colour: #98ff65
+Custom Secondary Colour: #98ff65
+Neon Colour: #55ff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

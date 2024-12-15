@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 1
+Plate Text:   AUDI  
+Primary Colour: 111
+Secondary Colour: 111
+Pearl Colour: 0
+Wheel Colour: 5
+Wheel Type: 10
+Spoiler: 26
+Front Bumper: 16
+Rear Bumper: 2
+Sideskirt: 14
+Exhaust: 13
+Grille: 0
+Hood: 17
+Fender: 0
+Right Fender: 5
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 67
+Vanity Plates: 16
+Trim: 2
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 156
+Tyres Mode: 1

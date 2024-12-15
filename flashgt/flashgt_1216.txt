@@ -1,0 +1,41 @@
+Model: flashgt
+Plate Style: 4
+Plate Text: 89EPW853
+Primary Colour: 38
+Secondary Colour: 0
+Pearl Colour: 138
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 8
+Front Bumper: 6
+Sideskirt: 6
+Exhaust: 0
+Chassis: 6
+Hood: 5
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 9
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

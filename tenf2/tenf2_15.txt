@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 0
+Plate Text: 84VXT144
+Primary Colour: 111
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 122
+Wheel Type: 8
+Spoiler: 25
+Front Bumper: 18
+Rear Bumper: 19
+Sideskirt: 14
+Exhaust: 22
+Grille: 2
+Hood: 17
+Fender: 0
+Right Fender: 5
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 1
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 108
+Vanity Plates: 16
+Trim: 1
+Dashboard: 4
+Seats: 4
+Door Speaker: 0
+Steering Wheel: 6
+Arch Cover: 1
+Aerials: 3
+Trim2: 7
+Livery: 6
+Tyre Smoke Colour: #e20606
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 4
+Tyres Mode: 1

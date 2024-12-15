@@ -1,0 +1,37 @@
+Model: ztype
+Plate Style: 4
+Plate Text: K1NGP1N 
+Primary Colour: 67
+Secondary Colour: 5
+Pearl Colour: 67
+Wheel Colour: 156
+Wheel Type: 1
+Front Bumper: 0
+Sideskirt: 0
+Grille: 0
+Hood: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 28
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

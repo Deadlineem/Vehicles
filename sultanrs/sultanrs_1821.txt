@@ -1,0 +1,58 @@
+Model: sultanrs
+Plate Style: 0
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 5
+Wheel Colour: 5
+Wheel Type: 8
+Spoiler: 15
+Front Bumper: 9
+Rear Bumper: 3
+Sideskirt: 3
+Exhaust: 1
+Chassis: 4
+Grille: 0
+Hood: 10
+Fender: 0
+Roof: 2
+Engine: 5
+Brakes: 3
+Transmission: 4
+Horns: 58
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 140
+Trim: 0
+Ornaments: 27
+Dashboard: 5
+Dial: 6
+Seats: 4
+Door Speaker: 3
+Steering Wheel: 16
+Engine Block: 0
+Air Filter: 4
+Struts: 4
+Arch Cover: 5
+Aerials: 1
+Trim2: 1
+Left Door: 3
+Livery: 6
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #ff0000
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

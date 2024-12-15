@@ -1,0 +1,42 @@
+Model: thrax
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 88
+Wheel Colour: 142
+Wheel Type: 12
+Spoiler: 7
+Front Bumper: 0
+Rear Bumper: 2
+Sideskirt: 1
+Exhaust: 8
+Chassis: 3
+Grille: 1
+Hood: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 0
+Livery: 1
+Tyre Smoke Colour: #141414
+Window Tint: 3
+Custom Primary Colour: #080014
+Custom Secondary Colour: #000000
+Neon Colour: #d000ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

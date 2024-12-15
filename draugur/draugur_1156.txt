@@ -1,0 +1,44 @@
+Model: draugur
+Plate Style: 0
+Plate Text: JADYELMR
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 5
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 18
+Rear Bumper: 2
+Sideskirt: 10
+Exhaust: 9
+Chassis: 6
+Grille: 6
+Fender: 5
+Right Fender: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 4
+Front Wheels: 113
+Livery: 4
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #32ffff
+Custom Secondary Colour: #32ffff
+Neon Colour: #32ffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

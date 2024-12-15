@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 4
+Plate Text:  
+Primary Colour: 5
+Secondary Colour: 5
+Pearl Colour: 111
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 13
+Front Bumper: 3
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 8
+Chassis: 4
+Grille: 2
+Hood: 0
+Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 47
+Plate Holder: 1
+Vanity Plates: 0
+Trim: 0
+Dashboard: 5
+Dial: 0
+Seats: 1
+Door Speaker: 1
+Steering Wheel: 0
+Engine Block: 1
+Air Filter: 5
+Struts: 2
+Arch Cover: 0
+Aerials: 8
+Trim2: 0
+Tank: 0
+Left Door: 0
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 150
+Dashboard Colour: 27
+Tyres Mode: 1

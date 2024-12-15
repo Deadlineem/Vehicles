@@ -1,0 +1,36 @@
+Model: tezeract
+Plate Style: 1
+Plate Text:   HEVO  
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 41
+Wheel Type: 8
+Spoiler: 5
+Front Bumper: 8
+Rear Bumper: 3
+Chassis: 3
+Engine: 4
+Brakes: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 19
+Livery: 7
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ff3b0a
+Custom Secondary Colour: #ff3b0a
+Neon Colour: #ff3b0a
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

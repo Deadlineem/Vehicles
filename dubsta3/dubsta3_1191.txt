@@ -1,0 +1,39 @@
+Model: dubsta3
+Plate Style: 0
+Plate Text: 09YEA923
+Primary Colour: 6
+Secondary Colour: 6
+Pearl Colour: 111
+Wheel Colour: 156
+Wheel Type: 10
+Front Bumper: 0
+Rear Bumper: 0
+Grille: 0
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 1
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #935ba3
+Custom Secondary Colour: #5b12c0
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

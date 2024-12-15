@@ -1,0 +1,35 @@
+Model: reaper
+Plate Style: 0
+Plate Text: 41IGW398
+Primary Colour: 38
+Secondary Colour: 138
+Pearl Colour: 37
+Wheel Colour: 138
+Wheel Type: 2
+Spoiler: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 1, Custom
+Livery: -1
+Tyre Smoke Colour: #ff7f00
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff3e00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

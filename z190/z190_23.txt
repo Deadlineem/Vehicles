@@ -1,0 +1,45 @@
+Model: z190
+Plate Style: 1
+Plate Text: ZENTORIN
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 159
+Wheel Colour: 41
+Wheel Type: 8
+Spoiler: 17
+Front Bumper: 7
+Rear Bumper: 2
+Sideskirt: 1
+Exhaust: 5
+Chassis: 11
+Grille: 4
+Hood: 3
+Fender: 9
+Right Fender: 9
+Roof: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 53
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 9
+Front Wheels: 53
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: #1e1300
+Custom Secondary Colour: #1e1300
+Neon Colour: #ff6400
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: No
+Neon Right: No
+Interior Colour: 109
+Dashboard Colour: 0
+Tyres Mode: 1

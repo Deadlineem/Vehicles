@@ -1,0 +1,43 @@
+Model: toros
+Plate Style: 0
+Plate Text: 76ZAK552
+Primary Colour: 38
+Secondary Colour: 120
+Pearl Colour: 80
+Wheel Colour: 83
+Wheel Type: 3
+Spoiler: 5
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 5
+Exhaust: 10
+Grille: 13
+Hood: 3
+Fender: 0
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 5
+Armor: 0
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 5
+Front Wheels: 0
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #ff8c00
+Custom Secondary Colour: 
+Neon Colour: #ff5a00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 2
+Dashboard Colour: 156
+Tyres Mode: 1

@@ -1,0 +1,39 @@
+Model: tulip
+Plate Style: 0
+Plate Text: 55NEH425
+Primary Colour: 7
+Secondary Colour: 120
+Pearl Colour: 7
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 0
+Exhaust: 0
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 48
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #aaff00
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 2
+Dashboard Colour: 156
+Tyres Mode: 2

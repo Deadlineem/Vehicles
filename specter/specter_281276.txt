@@ -1,0 +1,39 @@
+Model: specter
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 3
+Pearl Colour: 161
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 1
+Sideskirt: 1
+Exhaust: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #00ff48
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #00ff48
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 8
+Dashboard Colour: 11
+Tyres Mode: 1

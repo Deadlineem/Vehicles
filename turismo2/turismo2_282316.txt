@@ -1,0 +1,39 @@
+Model: turismo2
+Plate Style: 3
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 161
+Wheel Colour: 0
+Wheel Type: 3
+Spoiler: 6
+Front Bumper: 6
+Sideskirt: 2
+Exhaust: 3
+Hood: 1
+Fender: 2
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 1
+Tyre Smoke Colour: #11ff00
+Window Tint: 6
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #11ff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 43
+Dashboard Colour: 93
+Tyres Mode: 1

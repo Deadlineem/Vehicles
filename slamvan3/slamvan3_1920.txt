@@ -1,0 +1,56 @@
+Model: slamvan3
+Plate Style: 0
+Plate Text: 75GTR201
+Primary Colour: 6
+Secondary Colour: 5
+Pearl Colour: 4
+Wheel Colour: 156
+Wheel Type: 9
+Spoiler: 1
+Front Bumper: 1
+Exhaust: 1
+Grille: 1
+Hood: 1
+Roof: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 65
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 1
+Ornaments: 12
+Dashboard: 1
+Dial: 12
+Door Speaker: 9
+Steering Wheel: 14
+Shifter Leavers: 6
+Plaques: 11
+Hydraulics: 2
+Engine Block: 3
+Air Filter: 4
+Tank: 0
+Windows: 1
+Livery: 8
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

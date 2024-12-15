@@ -1,0 +1,56 @@
+Model: euros
+Plate Style: 1
+Plate Text: NISSAN
+Primary Colour: 131
+Secondary Colour: 131
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 16
+Front Bumper: 0
+Rear Bumper: 3
+Sideskirt: 11
+Exhaust: 1
+Chassis: 8
+Hood: 13
+Fender: 3
+Roof: 11
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 8
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 117
+Vanity Plates: 8
+Trim: 2
+Dashboard: 3
+Seats: 7
+Door Speaker: 11
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 9
+Struts: 18
+Arch Cover: 8
+Aerials: 3
+Trim2: 14
+Unk47: 2
+Livery: 13
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 111
+Tyres Mode: 1

@@ -1,0 +1,59 @@
+Model: jester4
+Plate Style: 1
+Plate Text: 28WVV505
+Primary Colour: 136
+Secondary Colour: 0
+Pearl Colour: 5
+Wheel Colour: 156
+Wheel Type: 5
+Spoiler: 5
+Front Bumper: 2
+Rear Bumper: 10
+Sideskirt: 8
+Exhaust: 4
+Chassis: 2
+Grille: 0
+Hood: 10
+Fender: 2
+Right Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 39
+Vanity Plates: 3
+Trim: 5
+Ornaments: 2
+Dashboard: 3
+Dial: 4
+Seats: 8
+Door Speaker: 5
+Steering Wheel: 15
+Engine Block: 5
+Air Filter: 9
+Struts: 8
+Arch Cover: 3
+Trim2: 2
+Tank: 0
+Livery: 8
+Tyre Smoke Colour: #007944
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: #007944
+Neon Colour: #007944
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 111
+Tyres Mode: 1

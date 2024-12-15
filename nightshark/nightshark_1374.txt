@@ -1,0 +1,41 @@
+Model: nightshark
+Plate Style: 0
+Plate Text: 15DMF268
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 1
+Wheel Type: 10
+Front Bumper: 3
+Rear Bumper: 3
+Exhaust: 2
+Chassis: 3
+Grille: 9
+Hood: 10
+Fender: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 92
+Livery: 26
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #3135eb
+Custom Secondary Colour: #3135eb
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

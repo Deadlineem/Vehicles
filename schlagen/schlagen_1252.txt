@@ -1,0 +1,45 @@
+Model: schlagen
+Plate Style: 5
+Plate Text:  0 KMH  
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 12
+Wheel Type: 10
+Spoiler: 2
+Front Bumper: 8
+Rear Bumper: 6
+Sideskirt: 6
+Exhaust: 1
+Chassis: 3
+Grille: 5
+Hood: 9
+Fender: 0
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 1
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 107
+Livery: 3
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #d8d8d8
+Custom Secondary Colour: #d86c00
+Neon Colour: #ff9400
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 2
+Dashboard Colour: 0
+Tyres Mode: 1

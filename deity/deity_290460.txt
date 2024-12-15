@@ -1,0 +1,47 @@
+Model: deity
+Plate Style: 1
+Plate Text: 5HSLX903
+Primary Colour: 105
+Secondary Colour: 105
+Pearl Colour: 105
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 17
+Front Bumper: 7
+Rear Bumper: 3
+Sideskirt: 11
+Exhaust: 9
+Chassis: 1
+Grille: 4
+Hood: 12
+Fender: 3
+Right Fender: 1
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 14
+Trim2: 1
+Tank: 1
+Livery: 0
+Tyre Smoke Colour: #36e4ff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff9605
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 105
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,49 @@
+Model: italigtb2
+Plate Style: 1
+Plate Text: 09VYF811
+Primary Colour: 0
+Secondary Colour: 10
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 13
+Front Bumper: 17
+Rear Bumper: 3
+Sideskirt: 2
+Exhaust: 4
+Chassis: 3
+Hood: 13
+Fender: 0
+Right Fender: 0
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Dashboard: 5
+Dial: 8
+Seats: 6
+Door Speaker: 13
+Steering Wheel: 15
+Aerials: 3
+Livery: 3
+Tyre Smoke Colour: #3f991f
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 35
+Tyres Mode: 1

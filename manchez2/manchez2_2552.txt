@@ -1,0 +1,38 @@
+Model: manchez2
+Plate Style: 0
+Plate Text: 87XVM332
+Primary Colour: 117
+Secondary Colour: 12
+Pearl Colour: 135
+Wheel Colour: 1
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 0
+Exhaust: 0
+Chassis: 4
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 8
+Livery: 0
+Tyre Smoke Colour: #a3005b
+Window Tint: 0
+Custom Primary Colour: #00043a
+Custom Secondary Colour: #00043a
+Neon Colour: #ab0053
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

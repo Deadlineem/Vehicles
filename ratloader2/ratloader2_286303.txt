@@ -1,0 +1,39 @@
+Model: ratloader2
+Plate Style: 2
+Plate Text: 03RVY097
+Primary Colour: 30
+Secondary Colour: 30
+Pearl Colour: 30
+Wheel Colour: 156
+Wheel Type: 1
+Exhaust: 2
+Chassis: 0
+Grille: 3
+Hood: 5
+Fender: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 17
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 9
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #ffecdb
+Custom Secondary Colour: #b201b2
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

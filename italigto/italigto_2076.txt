@@ -1,0 +1,44 @@
+Model: italigto
+Plate Style: 0
+Plate Text: GABLEBG 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 18
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 3
+Rear Bumper: 4
+Sideskirt: 6
+Exhaust: 4
+Chassis: 1
+Grille: 0
+Hood: 5
+Fender: 2
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 77
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #7200ff
+Custom Secondary Colour: #7200ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 28
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,45 @@
+Model: formula2
+Plate Style: 2
+Plate Text: 63UHJ941
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 148
+Wheel Colour: 64
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 0
+Sideskirt: 0
+Roof: 2
+Engine: 4
+Brakes: 4
+Transmission: 4
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 148
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #990000
+Custom Secondary Colour: #990000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 8
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes
+Extra 3: Yes
+Extra 4: Yes
+Extra 5: Yes
+Extra 6: Yes
+Extra 7: Yes
+Extra 8: Yes

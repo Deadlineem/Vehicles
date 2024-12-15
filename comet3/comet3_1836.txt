@@ -1,0 +1,50 @@
+Model: comet3
+Plate Style: 1
+Plate Text: 65LUT438
+Primary Colour: 29
+Secondary Colour: 29
+Pearl Colour: 35
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 8
+Rear Bumper: 1
+Sideskirt: 4
+Exhaust: 1
+Chassis: 1
+Hood: 0
+Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 147
+Trim: 1
+Dashboard: 5
+Dial: 2
+Seats: 2
+Door Speaker: 13
+Steering Wheel: 13
+Struts: 11
+Aerials: 0
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 150
+Dashboard Colour: 70
+Tyres Mode: 1

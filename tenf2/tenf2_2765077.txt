@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 0
+Plate Text: AQUAFINA
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 5
+Wheel Type: 8
+Spoiler: 21
+Front Bumper: 6
+Rear Bumper: 11
+Sideskirt: 16
+Exhaust: 21
+Grille: 2
+Hood: 17
+Fender: 5
+Right Fender: 7
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 108
+Vanity Plates: 11
+Trim: 7
+Dashboard: 4
+Seats: 0
+Door Speaker: 14
+Steering Wheel: 7
+Arch Cover: 0
+Aerials: 1
+Trim2: 4
+Livery: 0
+Tyre Smoke Colour: #00667f
+Window Tint: 1
+Custom Primary Colour: #00667f
+Custom Secondary Colour: #00667f
+Neon Colour: #00667f
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 0
+Tyres Mode: 1

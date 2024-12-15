@@ -1,0 +1,39 @@
+Model: kuruma2
+Plate Style: 1
+Plate Text: 83LMP713
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 13
+Wheel Colour: 112
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 107
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #8b0000 
+Custom Secondary Colour: #8b0000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

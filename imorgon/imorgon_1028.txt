@@ -1,0 +1,46 @@
+Model: imorgon
+Plate Style: 0
+Plate Text: 20QTY627
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 70
+Wheel Colour: 32
+Wheel Type: 8
+Spoiler: 9
+Front Bumper: 8
+Rear Bumper: 19
+Sideskirt: 2
+Exhaust: 5
+Chassis: 11
+Grille: 0
+Hood: 4
+Fender: 14
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 91
+Livery: 8
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #2b081d
+Custom Secondary Colour: #2b081d
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No

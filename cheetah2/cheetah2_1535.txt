@@ -1,0 +1,43 @@
+Model: cheetah2
+Plate Style: 3
+Plate Text: 88UWK457
+Primary Colour: 61
+Secondary Colour: 131
+Pearl Colour: 63
+Wheel Colour: 122
+Wheel Type: 11
+Spoiler: 9
+Front Bumper: 4
+Rear Bumper: 0
+Sideskirt: 1
+Exhaust: 2
+Hood: 4
+Fender: 2
+Right Fender: 2
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 18
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

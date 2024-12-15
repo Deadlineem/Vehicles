@@ -1,0 +1,44 @@
+Model: coquette4
+Plate Style: 0
+Plate Text: 25LEL556
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 18
+Wheel Colour: 137
+Wheel Type: 8
+Spoiler: 8
+Front Bumper: 5
+Rear Bumper: 4
+Sideskirt: 3
+Exhaust: 6
+Chassis: 3
+Grille: 3
+Hood: 6
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 50
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #ce50a2
+Custom Secondary Colour: #ce50a2
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 73
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: Yes

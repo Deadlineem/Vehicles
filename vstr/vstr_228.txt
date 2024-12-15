@@ -1,0 +1,44 @@
+Model: vstr
+Plate Style: 5
+Plate Text: SYSURIA 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 134
+Wheel Type: 10
+Spoiler: 8
+Front Bumper: 6
+Sideskirt: 4
+Exhaust: 17
+Chassis: 3
+Grille: 1
+Hood: 13
+Fender: 2
+Right Fender: 5
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 9
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #001b57
+Custom Secondary Colour: #001b57
+Neon Colour: #2301ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

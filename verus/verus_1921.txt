@@ -1,0 +1,39 @@
+Model: verus
+Plate Style: 0
+Plate Text: 63TCC346
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 147
+Wheel Type: 10
+Spoiler: 3
+Exhaust: 2
+Chassis: 0
+Grille: 2
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 10
+Front Wheels: 140
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: #fff600
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 153
+Tyres Mode: 1

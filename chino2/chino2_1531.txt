@@ -1,0 +1,52 @@
+Model: chino2
+Plate Style: 2
+Plate Text:   LOW   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 8
+Front Bumper: 1
+Rear Bumper: 0
+Exhaust: 1
+Hood: 0
+Right Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 38
+Back Wheels: 4
+Plate Holder: 7
+Vanity Plates: 0
+Trim: 6
+Ornaments: 0
+Dial: 4
+Steering Wheel: 13
+Shifter Leavers: 0
+Plaques: 0
+Trunk: 8
+Hydraulics: 5
+Engine Block: 3
+Air Filter: 1
+Tank: 2
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #820000
+Custom Secondary Colour: #820000
+Neon Colour: #9223a0
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1

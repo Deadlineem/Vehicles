@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 1
+Plate Text: SNB ATHN
+Primary Colour: 92
+Secondary Colour: 92
+Pearl Colour: 140
+Wheel Colour: 156
+Wheel Type: 11
+Spoiler: 7
+Front Bumper: 6
+Rear Bumper: 3
+Sideskirt: 3
+Exhaust: 9
+Chassis: 1
+Grille: 2
+Hood: 6
+Fender: 3
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 26
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Left Door: 0
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #004178
+Custom Secondary Colour: #004178
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 4
+Tyres Mode: 1

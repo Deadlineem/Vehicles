@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 1
+Plate Text:   HEVO  
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 112
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 18
+Front Bumper: 1
+Rear Bumper: 4
+Sideskirt: 3
+Exhaust: 1
+Grille: 0
+Hood: 6
+Fender: 0
+Right Fender: 0
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 19
+Vanity Plates: 0
+Trim: 1
+Dashboard: 4
+Seats: 0
+Door Speaker: 14
+Steering Wheel: 5
+Arch Cover: 0
+Aerials: 0
+Trim2: 3
+Livery: 6
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #cff925
+Custom Secondary Colour: #cff925
+Neon Colour: #cff925
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 92
+Tyres Mode: 1

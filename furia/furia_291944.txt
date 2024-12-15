@@ -1,0 +1,43 @@
+Model: furia
+Plate Style: 8
+Plate Text: 47HMU420
+Primary Colour: 86
+Secondary Colour: 86
+Pearl Colour: 4
+Wheel Colour: 121
+Wheel Type: 7
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 3
+Chassis: 0
+Grille: 0
+Hood: 0
+Right Fender: 2
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #58688e
+Custom Secondary Colour: #58688e
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

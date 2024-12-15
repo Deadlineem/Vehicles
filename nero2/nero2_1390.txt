@@ -1,0 +1,52 @@
+Model: nero2
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 89
+Wheel Colour: 28
+Wheel Type: 9
+Spoiler: 3
+Front Bumper: 1
+Rear Bumper: 0
+Exhaust: 3
+Chassis: 2
+Grille: 2
+Hood: 0
+Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 34
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 152
+Vanity Plates: 3
+Dashboard: 0
+Seats: 2
+Door Speaker: 3
+Steering Wheel: 16
+Engine Block: 2
+Aerials: 1
+Trim2: 0
+Left Door: 2
+Livery: 6
+Tyre Smoke Colour: #fcee00
+Window Tint: 1
+Custom Primary Colour: #282218
+Custom Secondary Colour: #280000
+Neon Colour: #ff9605
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 28
+Tyres Mode: 1
+Extra 1: No

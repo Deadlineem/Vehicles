@@ -1,0 +1,45 @@
+Model: dukes3
+Plate Style: 1
+Plate Text: 26DZR155
+Primary Colour: 13
+Secondary Colour: 5
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 1
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 7
+Chassis: 0
+Grille: 0
+Hood: 2
+Fender: 0
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 9
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 2

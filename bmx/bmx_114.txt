@@ -1,0 +1,29 @@
+Model: bmx
+Plate Style: 4
+Plate Text: 28WJZ188
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 140
+Wheel Colour: 156
+Wheel Type: 6
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Back Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #3200ff
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

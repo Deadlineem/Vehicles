@@ -1,0 +1,44 @@
+Model: italirsx
+Plate Style: 5
+Plate Text:   JAXY  
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 1
+Wheel Type: 7
+Spoiler: 20
+Front Bumper: 4
+Rear Bumper: 13
+Sideskirt: 8
+Exhaust: 8
+Chassis: 4
+Grille: 5
+Hood: 9
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 55
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 0
+Livery: 4
+Tyre Smoke Colour: #f6f6f6
+Window Tint: 1
+Custom Primary Colour: #f6f6f6
+Custom Secondary Colour: #4f0015
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 18
+Dashboard Colour: 156
+Tyres Mode: 1

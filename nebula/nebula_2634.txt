@@ -1,0 +1,45 @@
+Model: nebula
+Plate Style: 0
+Plate Text:  MODCAR 
+Primary Colour: 0
+Secondary Colour: 4
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 10
+Spoiler: 3
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 0
+Chassis: 1
+Grille: 0
+Hood: 4
+Fender: 1
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 28
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 11
+Front Wheels: 134
+Livery: 1
+Tyre Smoke Colour: #00c7ff
+Window Tint: 5
+Custom Primary Colour: #c86a8f
+Custom Secondary Colour: #c08de3
+Neon Colour: #00c3ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 160
+Dashboard Colour: 160
+Tyres Mode: 1

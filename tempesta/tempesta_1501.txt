@@ -1,0 +1,40 @@
+Model: tempesta
+Plate Style: 0
+Plate Text: 63OLC785
+Primary Colour: 118
+Secondary Colour: 120
+Pearl Colour: 139
+Wheel Colour: 0
+Wheel Type: 9
+Spoiler: 3
+Front Bumper: 2
+Sideskirt: 3
+Exhaust: 1
+Chassis: 1
+Hood: 9
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 17
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #1a1e21
+Custom Secondary Colour: #000000
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

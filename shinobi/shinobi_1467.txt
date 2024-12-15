@@ -1,0 +1,39 @@
+Model: shinobi
+Plate Style: 1
+Plate Text:    01   
+Primary Colour: 0
+Secondary Colour: 147
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 6
+Front Bumper: 3
+Sideskirt: 3
+Exhaust: 2
+Chassis: 3
+Hood: 3
+Engine: 5
+Brakes: 4
+Transmission: 4
+Horns: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 42
+Back Wheels: 42
+Livery: 6
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #0d1116
+Custom Secondary Colour: #11141a
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

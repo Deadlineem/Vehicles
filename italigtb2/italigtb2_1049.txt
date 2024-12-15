@@ -1,0 +1,49 @@
+Model: italigtb2
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 89
+Wheel Colour: 88
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 4
+Chassis: 1
+Hood: 0
+Fender: 3
+Right Fender: 2
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 3
+Front Wheels: 140
+Dashboard: 0
+Dial: 8
+Seats: 6
+Door Speaker: 1
+Steering Wheel: 16
+Aerials: 0
+Livery: 7
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: #4f4f4f
+Custom Secondary Colour: #ffff00
+Neon Colour: #3f0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 38
+Dashboard Colour: 134
+Tyres Mode: 1

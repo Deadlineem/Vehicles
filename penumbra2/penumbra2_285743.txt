@@ -1,0 +1,45 @@
+Model: penumbra2
+Plate Style: 0
+Plate Text: 27YZU960
+Primary Colour: 1
+Secondary Colour: 1
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 10
+Spoiler: 18
+Front Bumper: 6
+Rear Bumper: 7
+Sideskirt: 5
+Exhaust: 1
+Chassis: 1
+Grille: 7
+Hood: 6
+Fender: 4
+Right Fender: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 10
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 88
+Livery: 11
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #39a754
+Custom Secondary Colour: #e4220d
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

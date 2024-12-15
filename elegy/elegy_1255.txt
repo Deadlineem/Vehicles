@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 7
+Plate Text:   SKM   
+Primary Colour: 120
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 13
+Front Bumper: 0
+Rear Bumper: 3
+Sideskirt: 1
+Exhaust: 8
+Chassis: 0
+Grille: 1
+Hood: 0
+Fender: 1
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 4
+Front Wheels: 30
+Plate Holder: 0
+Vanity Plates: 2
+Trim: 0
+Dashboard: 2
+Dial: 1
+Seats: 2
+Door Speaker: 0
+Steering Wheel: 2
+Engine Block: 0
+Air Filter: 0
+Struts: 6
+Arch Cover: 4
+Aerials: 6
+Trim2: 0
+Tank: 1
+Left Door: 0
+Livery: 9
+Tyre Smoke Colour: #010101
+Window Tint: 0
+Custom Primary Colour: #001bff
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 6
+Dashboard Colour: 89
+Tyres Mode: 1

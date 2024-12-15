@@ -1,0 +1,58 @@
+Model: sentinel4
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 81
+Wheel Colour: 40
+Wheel Type: 9
+Spoiler: 1
+Front Bumper: 14
+Rear Bumper: 0
+Sideskirt: 11
+Exhaust: 2
+Chassis: 3
+Grille: 1
+Hood: 0
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 13
+Front Wheels: 147
+Trim: 1
+Dashboard: 5
+Seats: 3
+Door Speaker: 6
+Steering Wheel: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 3
+Aerials: 1
+Trim2: 0
+Tank: 0
+Left Door: 3
+Right Door: 1
+Livery: 10
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #110005
+Custom Secondary Colour: #110005
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1

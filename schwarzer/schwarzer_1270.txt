@@ -1,0 +1,43 @@
+Model: schwarzer
+Plate Style: 0
+Plate Text:   VOLT  
+Primary Colour: 120
+Secondary Colour: 67
+Pearl Colour: 111
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 1
+Sideskirt: 2
+Exhaust: 4
+Chassis: 1
+Grille: 0
+Hood: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: Yes
+Headlights: 0
+Front Wheels: 17
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #4ef3d4
+Custom Secondary Colour: #3d604a
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 107
+Tyres Mode: 2

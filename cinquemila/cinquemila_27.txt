@@ -1,0 +1,45 @@
+Model: cinquemila
+Plate Style: 5
+Plate Text:         
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 70
+Wheel Colour: 111
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 0
+Sideskirt: 1
+Exhaust: 0
+Chassis: 0
+Grille: 1
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 5
+Brakes: 4
+Transmission: 4
+Horns: 51
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 31
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 5
+Custom Primary Colour: #8072ff
+Custom Secondary Colour: #8072ff
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 64
+Dashboard Colour: 134
+Tyres Mode: 1

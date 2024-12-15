@@ -1,0 +1,86 @@
+Model: moonbeam2
+Plate Style: 1
+Plate Text:         
+Primary Colour: 29
+Secondary Colour: 7
+Pearl Colour: 28
+Wheel Colour: 27
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 1
+Chassis: 1
+Grille: 2
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 35
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 144
+Back Wheels: 0
+Plate Holder: 7
+Vanity Plates: 3
+Trim: 4
+Ornaments: 21
+Dashboard: 0
+Dial: 9
+Seats: 5
+Door Speaker: 1
+Steering Wheel: 10
+Shifter Leavers: 6
+Plaques: 14
+Speakers: 0
+Trunk: 5
+Hydraulics: 4
+Engine Block: 2
+Air Filter: 2
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Left Door: 0
+Right Door: 0
+Livery: 9
+Lightbar: 2
+Tyre Smoke Colour: #e20606
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 28
+Roof Livery: 0
+Dashboard Colour: 28
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

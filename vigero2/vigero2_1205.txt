@@ -1,0 +1,45 @@
+Model: vigero2
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 88
+Wheel Colour: 0
+Wheel Type: 9
+Spoiler: 3
+Front Bumper: 6
+Rear Bumper: 6
+Sideskirt: 6
+Exhaust: 3
+Chassis: 0
+Grille: 9
+Hood: 7
+Fender: 11
+Right Fender: 1
+Roof: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 119
+Livery: 13
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #ff6400
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

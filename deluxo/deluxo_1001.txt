@@ -1,0 +1,41 @@
+Model: deluxo
+Plate Style: 3
+Plate Text: KHOTHOS 
+Primary Colour: 19
+Secondary Colour: 10
+Pearl Colour: 23
+Wheel Colour: 156
+Wheel Type: 9
+Spoiler: 2
+Front Bumper: 1
+Sideskirt: 2
+Exhaust: 3
+Grille: 1
+Hood: 3
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 47
+Suspension: 4
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 3
+Front Wheels: 4
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

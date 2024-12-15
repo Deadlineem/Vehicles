@@ -1,0 +1,45 @@
+Model: rebla
+Plate Style: 5
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 41
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 7
+Front Bumper: 3
+Rear Bumper: 1
+Sideskirt: 4
+Exhaust: 7
+Chassis: 1
+Grille: 1
+Hood: 0
+Fender: 4
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 120
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #190011
+Custom Secondary Colour: #190011
+Neon Colour: #ff46b4
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 4
+Dashboard Colour: 0
+Tyres Mode: 4

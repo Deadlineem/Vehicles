@@ -1,0 +1,45 @@
+Model: penumbra2
+Plate Style: 0
+Plate Text: 44XUE192
+Primary Colour: 71
+Secondary Colour: 71
+Pearl Colour: 4
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 10
+Front Bumper: 4
+Rear Bumper: 7
+Sideskirt: 0
+Exhaust: 2
+Chassis: 1
+Grille: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 31
+Livery: 11
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 0
+Tyres Mode: 1

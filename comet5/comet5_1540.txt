@@ -1,0 +1,43 @@
+Model: comet5
+Plate Style: 4
+Plate Text: 01STU818
+Primary Colour: 64
+Secondary Colour: 0
+Pearl Colour: 73
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 5
+Front Bumper: 3
+Rear Bumper: 2
+Sideskirt: 0
+Exhaust: 3
+Chassis: 2
+Hood: 2
+Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 13, Custom
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

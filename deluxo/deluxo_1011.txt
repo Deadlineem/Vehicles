@@ -1,0 +1,41 @@
+Model: deluxo
+Plate Style: 0
+Plate Text: 20WZB749
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 5
+Wheel Type: 8
+Spoiler: 8
+Front Bumper: 3
+Sideskirt: 2
+Exhaust: 3
+Grille: 9
+Hood: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 116
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #3e8eff
+Custom Secondary Colour: #3e8eff
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

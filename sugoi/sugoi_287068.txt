@@ -1,0 +1,43 @@
+Model: sugoi
+Plate Style: 5
+Plate Text:  DADDY  
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 18
+Wheel Colour: 44
+Wheel Type: 8
+Spoiler: 14
+Front Bumper: 14
+Rear Bumper: 7
+Sideskirt: 9
+Exhaust: 7
+Grille: 7
+Hood: 11
+Fender: 0
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 42
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 2
+Custom Primary Colour: #ff0000
+Custom Secondary Colour: #ff0000
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 4
+Dashboard Colour: 0
+Tyres Mode: 1

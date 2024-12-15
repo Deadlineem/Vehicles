@@ -1,0 +1,31 @@
+Model: marshall
+Plate Style: 0
+Plate Text: KHOTHOS 
+Primary Colour: 53
+Secondary Colour: 89
+Pearl Colour: 4
+Wheel Colour: 83
+Wheel Type: 8
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 35
+Livery: 5
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: No
+Extra 3: No

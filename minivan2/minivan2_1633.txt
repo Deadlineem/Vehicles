@@ -1,0 +1,52 @@
+Model: minivan2
+Plate Style: 0
+Plate Text: 98EXF446
+Primary Colour: 70
+Secondary Colour: 73
+Pearl Colour: 73
+Wheel Colour: 73
+Wheel Type: 0
+Spoiler: 1
+Exhaust: 1
+Grille: 1
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 50
+Back Wheels: 6
+Plate Holder: 13
+Vanity Plates: 16
+Trim: 4
+Ornaments: 45
+Dial: 14
+Seats: 0
+Door Speaker: 1
+Steering Wheel: 16
+Shifter Leavers: 15
+Plaques: 22
+Trunk: 9
+Hydraulics: 4
+Engine Block: 4
+Air Filter: 3
+Livery: 9
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 73
+Dashboard Colour: 73
+Tyres Mode: 1

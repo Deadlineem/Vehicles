@@ -1,0 +1,55 @@
+Model: sabregt2
+Plate Style: 0
+Plate Text: GUNZ0UT 
+Primary Colour: 141
+Secondary Colour: 118
+Pearl Colour: 64
+Wheel Colour: 88
+Wheel Type: 1
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 0
+Exhaust: 1
+Chassis: 0
+Grille: 0
+Hood: 2
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Back Wheels: 1
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dial: 0
+Steering Wheel: 0
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

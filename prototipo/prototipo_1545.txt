@@ -1,0 +1,38 @@
+Model: prototipo
+Plate Style: 0
+Plate Text: 35WWP978
+Primary Colour: 0
+Secondary Colour: 118
+Pearl Colour: 0
+Wheel Colour: 3
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 3
+Sideskirt: 3
+Exhaust: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #170000
+Window Tint: 1
+Custom Primary Colour: #b8bdd1
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 134
+Dashboard Colour: 134
+Tyres Mode: 2

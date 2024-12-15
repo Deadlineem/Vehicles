@@ -1,0 +1,59 @@
+Model: jester4
+Plate Style: 0
+Plate Text: 04GQR973
+Primary Colour: 34
+Secondary Colour: 34
+Pearl Colour: 35
+Wheel Colour: 11
+Wheel Type: 11
+Spoiler: 11
+Front Bumper: 4
+Rear Bumper: 3
+Sideskirt: 1
+Exhaust: 8
+Chassis: 8
+Grille: 6
+Hood: 10
+Fender: 0
+Right Fender: 0
+Roof: 4
+Engine: 0
+Brakes: 0
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 18
+Vanity Plates: 0
+Trim: 2
+Ornaments: 2
+Dashboard: 0
+Dial: 4
+Seats: 0
+Door Speaker: 7
+Steering Wheel: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Trim2: 0
+Tank: 0
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 35
+Dashboard Colour: 35
+Tyres Mode: 1

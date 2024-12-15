@@ -1,0 +1,44 @@
+Model: asbo
+Plate Style: 0
+Plate Text: 26BKT545
+Primary Colour: 134
+Secondary Colour: 111
+Pearl Colour: 138
+Wheel Colour: 136
+Wheel Type: 9
+Spoiler: 15
+Front Bumper: 6
+Sideskirt: 12
+Exhaust: 8
+Chassis: 4
+Grille: 2
+Hood: 11
+Fender: 4
+Right Fender: 4
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: No
+Unk21: Yes
+Headlights: 1
+Front Wheels: 0
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #f0f0f0
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Dashboard Colour: 160
+Tyres Mode: 1

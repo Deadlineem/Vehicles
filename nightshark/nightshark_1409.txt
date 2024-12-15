@@ -1,0 +1,41 @@
+Model: nightshark
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 88
+Wheel Colour: 1
+Wheel Type: 9
+Front Bumper: 2
+Rear Bumper: 2
+Exhaust: 2
+Chassis: 1
+Grille: 5
+Hood: 6
+Fender: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 9
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 124
+Livery: 29
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #8c3500
+Custom Secondary Colour: #ffffff
+Neon Colour: #00ff26
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,45 @@
+Model: schlagen
+Plate Style: 0
+Plate Text: 72WHP281
+Primary Colour: 38
+Secondary Colour: 38
+Pearl Colour: 20
+Wheel Colour: 12
+Wheel Type: 10
+Spoiler: 10
+Front Bumper: 9
+Rear Bumper: 6
+Sideskirt: 6
+Exhaust: 4
+Chassis: 4
+Grille: 5
+Hood: 9
+Fender: 3
+Right Fender: 2
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 58
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 140
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0dc53c
+Custom Secondary Colour: #85d621
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 2
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,45 @@
+Model: broadway
+Plate Style: 0
+Plate Text:   FOXI  
+Primary Colour: 49
+Secondary Colour: 49
+Pearl Colour: 55
+Wheel Colour: 0
+Wheel Type: 8
+Front Bumper: 0
+Rear Bumper: 5
+Sideskirt: 4
+Exhaust: 4
+Chassis: 1
+Hood: 2
+Fender: 3
+Right Fender: 3
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 50
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 35
+Livery: 12
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffac30
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes

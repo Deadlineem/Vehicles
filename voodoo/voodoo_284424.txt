@@ -1,0 +1,86 @@
+Model: voodoo
+Plate Style: 1
+Plate Text: 4HBLL808
+Primary Colour: 0
+Secondary Colour: 131
+Pearl Colour: 0
+Wheel Colour: 122
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 2
+Chassis: 0
+Grille: 3
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 107
+Back Wheels: 0
+Plate Holder: 12
+Vanity Plates: 0
+Trim: 12
+Ornaments: 0
+Dashboard: 0
+Dial: 2
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 10
+Shifter Leavers: 0
+Plaques: 19
+Speakers: 0
+Trunk: 5
+Hydraulics: 5
+Engine Block: 3
+Air Filter: 2
+Struts: 0
+Arch Cover: 3
+Aerials: 3
+Trim2: 0
+Tank: 3
+Left Door: 0
+Right Door: 0
+Livery: 9
+Lightbar: 2
+Tyre Smoke Colour: #00aeef
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Roof Livery: 0
+Dashboard Colour: 70
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

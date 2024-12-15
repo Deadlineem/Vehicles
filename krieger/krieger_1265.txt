@@ -1,0 +1,38 @@
+Model: krieger
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 161
+Wheel Colour: 112
+Wheel Type: 7
+Spoiler: 0
+Sideskirt: 1
+Exhaust: 1
+Hood: 4
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 49
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 0
+Livery: 7
+Tyre Smoke Colour: #00ff6e
+Window Tint: 1
+Custom Primary Colour: #919191
+Custom Secondary Colour: #919191
+Neon Colour: #00ff6e
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 33
+Dashboard Colour: 65
+Tyres Mode: 1
+Extra 1: Yes

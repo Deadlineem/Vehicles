@@ -1,0 +1,42 @@
+Model: zeno
+Plate Style: 0
+Plate Text: NBT53ZEZ
+Primary Colour: 117
+Secondary Colour: 12
+Pearl Colour: 18
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 9
+Front Bumper: 11
+Rear Bumper: 13
+Sideskirt: 17
+Exhaust: 20
+Hood: 10
+Fender: 1
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 0
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: #0afafa
+Custom Secondary Colour: #0afafa
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

@@ -1,0 +1,39 @@
+Model: t20
+Plate Style: 5
+Plate Text:   UWU   
+Primary Colour: 75
+Secondary Colour: 75
+Pearl Colour: 87
+Wheel Colour: 0
+Wheel Type: 7
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Hood: 2
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 22
+Livery: -1
+Tyre Smoke Colour: #141414
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

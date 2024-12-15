@@ -1,0 +1,46 @@
+Model: stingertt
+Plate Style: 3
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 0
+Pearl Colour: 161
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 1
+Front Bumper: 2
+Rear Bumper: 4
+Sideskirt: 19
+Exhaust: 7
+Chassis: 0
+Grille: 7
+Hood: 0
+Fender: 9
+Right Fender: 1
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 0
+Trim2: 2
+Livery: 0
+Tyre Smoke Colour: #0048ff
+Window Tint: 1
+Custom Primary Colour: #ff0a0a
+Custom Secondary Colour: #000000
+Neon Colour: #0048ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

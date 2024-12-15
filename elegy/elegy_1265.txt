@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 0
+Plate Text: 86ORK712
+Primary Colour: 0
+Secondary Colour: 62
+Pearl Colour: 64
+Wheel Colour: 37
+Wheel Type: 5
+Spoiler: 9
+Front Bumper: 3
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 6
+Chassis: 0
+Grille: 0
+Hood: 12
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 0
+Front Wheels: 15, Custom
+Plate Holder: 3
+Vanity Plates: 3
+Trim: 0
+Dashboard: 1
+Dial: 2
+Seats: 0
+Door Speaker: 12
+Steering Wheel: 11
+Engine Block: 4
+Air Filter: 4
+Struts: 6
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 2
+Windows: 2
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #1e0014
+Custom Secondary Colour: #1e0014
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1

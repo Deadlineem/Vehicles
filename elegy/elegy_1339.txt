@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 1
+Plate Text: 22ITL279
+Primary Colour: 92
+Secondary Colour: 12
+Pearl Colour: 92
+Wheel Colour: 0
+Wheel Type: 5
+Spoiler: 4
+Front Bumper: 6
+Rear Bumper: 1
+Sideskirt: 3
+Exhaust: 2
+Chassis: 0
+Grille: 2
+Hood: 10
+Fender: 4
+Roof: 6
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 4
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 15
+Plate Holder: 3
+Vanity Plates: 3
+Trim: 0
+Dashboard: 2
+Dial: 11
+Seats: 1
+Door Speaker: 5
+Steering Wheel: 7
+Engine Block: 2
+Air Filter: 3
+Struts: 6
+Arch Cover: 0
+Aerials: 4
+Trim2: 0
+Tank: 3
+Windows: 2
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

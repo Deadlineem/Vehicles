@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 0
+Plate Text: 69TUX326
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 10
+Front Bumper: 6
+Rear Bumper: 14
+Sideskirt: 13
+Exhaust: 12
+Grille: 2
+Hood: 3
+Fender: 5
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 207
+Vanity Plates: 1
+Trim: 0
+Dashboard: 3
+Seats: 1
+Door Speaker: 0
+Steering Wheel: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 6
+Livery: 8
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #003d22
+Custom Secondary Colour: #003d22
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Dashboard Colour: 156
+Tyres Mode: 2

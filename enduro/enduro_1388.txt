@@ -1,0 +1,35 @@
+Model: enduro
+Plate Style: 0
+Plate Text: KHOTHOS 
+Primary Colour: 5
+Secondary Colour: 11
+Pearl Colour: 111
+Wheel Colour: 64
+Wheel Type: 6
+Exhaust: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 50
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 4
+Back Wheels: 4
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

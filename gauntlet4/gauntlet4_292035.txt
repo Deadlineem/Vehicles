@@ -1,0 +1,45 @@
+Model: gauntlet4
+Plate Style: 1
+Plate Text: 5HSLX903
+Primary Colour: 112
+Secondary Colour: 112
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 6
+Front Bumper: 6
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 3
+Chassis: 6
+Grille: 6
+Hood: 6
+Fender: 0
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 1
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 18
+Livery: 0
+Tyre Smoke Colour: #b48261
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 27
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,53 @@
+Model: moonbeam2
+Plate Style: 1
+Plate Text: 24PFP901
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 80
+Wheel Colour: 148
+Wheel Type: 8
+Spoiler: 1
+Exhaust: 1
+Chassis: 0
+Grille: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 46
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 119
+Back Wheels: 0
+Plate Holder: 1
+Vanity Plates: 1
+Trim: 4
+Ornaments: 45
+Dial: 4
+Seats: 5
+Door Speaker: 0
+Steering Wheel: 12
+Shifter Leavers: 6
+Plaques: 2
+Trunk: 5
+Hydraulics: 2
+Engine Block: 1
+Air Filter: 2
+Livery: 9
+Tyre Smoke Colour: #010101
+Window Tint: 0
+Custom Primary Colour: #190033
+Custom Secondary Colour: #120019
+Neon Colour: #330133
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 34
+Dashboard Colour: 42
+Tyres Mode: 1

@@ -1,0 +1,35 @@
+Model Gauntlet Classic
+Headlights 1
+Wimdow Tint 3
+Horns 57
+Livery -1
+Side Skirt 1
+Suspension 3
+Exhaust 4
+Frame 0
+Front Bumper/Countermeasures 11
+Rear Bumper 0
+Hood 2
+Roof/Weapons 0
+Fender -1
+right Fender -1
+Grille 4
+Vanity Plates -1
+Trim Design -1
+Ormaments 2
+Dashboard 3
+Dial Design 3
+Seats 3
+Door Speaker -1
+Streering Wheel 12
+Engine Block 4
+Arch Cover 4
+Aerials -1
+Trim -1
+Tank 0
+Spoilers 6
+Primary Colour red cabernet
+secondary color red cabernet
+Neon Lights red 
+Wheels Category 5
+Front Wheels 38 

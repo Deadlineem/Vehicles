@@ -1,0 +1,46 @@
+Model: club
+Plate Style: 5
+Plate Text:   K3Y   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 155
+Wheel Colour: 93
+Wheel Type: 12
+Spoiler: 2
+Front Bumper: 5
+Rear Bumper: 5
+Sideskirt: 0
+Exhaust: 4
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: No
+Unk21: Yes
+Headlights: 0
+Front Wheels: 29
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: #374444
+Custom Secondary Colour: #374444
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2
+Extra 1: Yes

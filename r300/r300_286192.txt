@@ -1,0 +1,48 @@
+Model: r300
+Plate Style: 1
+Plate Text: CR Q546 
+Primary Colour: 159
+Secondary Colour: 14
+Pearl Colour: 0
+Wheel Colour: 11
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 2
+Exhaust: 0
+Chassis: 0
+Hood: 6
+Fender: 1
+Right Fender: 0
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 14
+Engine Block: 7
+Air Filter: 0
+Trim2: 0
+Left Door: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: #af0637
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

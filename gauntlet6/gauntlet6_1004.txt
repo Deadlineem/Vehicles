@@ -1,0 +1,41 @@
+Model: gauntlet6
+Plate Style: 0
+Plate Text: 48JCE842
+Primary Colour: 0
+Secondary Colour: 8
+Pearl Colour: 88
+Wheel Colour: 104
+Wheel Type: 9
+Spoiler: 0
+Front Bumper: 0
+Exhaust: 0
+Chassis: 0
+Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 50
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 8
+Front Wheels: 123
+Livery: 12
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #3f1d0c
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 7
+Dashboard Colour: 89
+Tyres Mode: 1
+Extra 1: Yes

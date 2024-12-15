@@ -1,0 +1,60 @@
+Model: zr350
+Plate Style: 5
+Plate Text:  SPICY  
+Primary Colour: 0
+Secondary Colour: 161
+Pearl Colour: 10
+Wheel Colour: 118
+Wheel Type: 11
+Spoiler: 10
+Front Bumper: 6
+Rear Bumper: 2
+Sideskirt: 13
+Exhaust: 6
+Chassis: 0
+Grille: 3
+Hood: 3
+Fender: 3
+Right Fender: 3
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 20
+Vanity Plates: 8
+Trim: 8
+Dashboard: 4
+Dial: 4
+Seats: 0
+Door Speaker: 12
+Steering Wheel: 16
+Engine Block: 2
+Air Filter: 8
+Struts: 12
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Left Door: 5
+Right Door: 1
+Livery: 5
+Tyre Smoke Colour: #0055ff
+Window Tint: 1
+Custom Primary Colour: #230120
+Custom Secondary Colour: #c19b00
+Neon Colour: #0055ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 32
+Dashboard Colour: 156
+Tyres Mode: 1

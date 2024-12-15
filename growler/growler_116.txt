@@ -1,0 +1,57 @@
+Model: growler
+Plate Style: 1
+Plate Text: 8WW4533 
+Primary Colour: 88
+Secondary Colour: 12
+Pearl Colour: 88
+Wheel Colour: 122
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 2
+Exhaust: 16
+Chassis: 0
+Grille: 3
+Hood: 4
+Fender: 1
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 16
+Plate Holder: 5
+Vanity Plates: 6
+Trim: 1
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Struts: 0
+Aerials: 4
+Left Door: 0
+Right Door: 0
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 0
+Tyres Mode: 2

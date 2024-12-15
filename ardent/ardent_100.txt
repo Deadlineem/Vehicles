@@ -1,0 +1,41 @@
+Model: ardent
+Plate Style: 5
+Plate Text: 44KYJ468
+Primary Colour: 95
+Secondary Colour: 112
+Pearl Colour: 87
+Wheel Colour: 112
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 5
+Rear Bumper: 1
+Exhaust: 1
+Hood: 6
+Fender: 2
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 58
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 5
+Front Wheels: 117
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #12e896
+Custom Secondary Colour: #12e896
+Neon Colour: #12e896
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 93
+Tyres Mode: 1

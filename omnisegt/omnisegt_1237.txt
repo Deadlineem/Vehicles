@@ -1,0 +1,44 @@
+Model: omnisegt
+Plate Style: 1
+Plate Text:         
+Primary Colour: 120
+Secondary Colour: 117
+Pearl Colour: 139
+Wheel Colour: 56
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 2
+Sideskirt: 0
+Chassis: 0
+Grille: 1
+Hood: 0
+Fender: 1
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 6
+Front Wheels: 117
+Trim2: 0
+Livery: 14
+Tyre Smoke Colour: #00ff00
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #00ff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 154
+Dashboard Colour: 156
+Tyres Mode: 1

@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 161
+Wheel Colour: 38
+Wheel Type: 7
+Spoiler: 15
+Front Bumper: 17
+Rear Bumper: 4
+Sideskirt: 12
+Exhaust: 5
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #ff00c7
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #ff4800
+Neon Colour: #ff00c7
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 17
+Dashboard Colour: 156
+Tyres Mode: 1

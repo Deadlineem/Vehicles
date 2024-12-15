@@ -1,0 +1,41 @@
+Model: lynx
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 67
+Wheel Colour: 72
+Wheel Type: 12
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 2
+Sideskirt: 0
+Exhaust: 3
+Chassis: 0
+Hood: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 55
+Suspension: 2
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 30
+Livery: 0
+Tyre Smoke Colour: #05001e
+Window Tint: 3
+Custom Primary Colour: #05001e
+Custom Secondary Colour: #040016
+Neon Colour: #ff9605
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

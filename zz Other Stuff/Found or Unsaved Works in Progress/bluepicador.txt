@@ -1,0 +1,46 @@
+Model: picador
+Plate Style: 9
+Plate Text:  0 MPH  
+Primary Colour: 2
+Secondary Colour: 0
+Pearl Colour: 4
+Wheel Colour: 28
+Wheel Type: 8
+Spoiler: 6
+Front Bumper: 6
+Rear Bumper: 3
+Sideskirt: 1
+Chassis: 2
+Grille: 1
+Hood: 2
+Fender: 0
+Right Fender: 1
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 8
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 10
+Front Wheels: 153
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #004cff
+Custom Secondary Colour: #ff0000
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 11: No
+Extra 12: Yes

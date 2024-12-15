@@ -1,0 +1,41 @@
+Model: dukes
+Plate Style: 0
+Plate Text:  0 MPH  
+Primary Colour: 147
+Secondary Colour: 147
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Exhaust: 2
+Chassis: 0
+Hood: 5
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 112
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

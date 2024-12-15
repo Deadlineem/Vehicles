@@ -1,0 +1,47 @@
+Model: virtue
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 89
+Wheel Colour: 40
+Wheel Type: 10
+Spoiler: 1
+Front Bumper: 6
+Rear Bumper: 2
+Sideskirt: 8
+Chassis: 1
+Grille: 0
+Hood: 0
+Fender: 2
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 110
+Trim: 0
+Aerials: 0
+Trim2: 2
+Livery: 4
+Tyre Smoke Colour: #ffff00
+Window Tint: 1
+Custom Primary Colour: #160000
+Custom Secondary Colour: #140000
+Neon Colour: #ff0001
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

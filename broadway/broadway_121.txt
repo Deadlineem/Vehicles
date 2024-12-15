@@ -1,0 +1,45 @@
+Model: broadway
+Plate Style: 0
+Plate Text: 23KXQ715
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 89
+Wheel Colour: 0
+Wheel Type: 1
+Front Bumper: 6
+Rear Bumper: 4
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Hood: 6
+Fender: 5
+Right Fender: 3
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #58a071
+Custom Secondary Colour: #58a071
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 119
+Dashboard Colour: 21
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No

@@ -1,0 +1,39 @@
+Model: toreador
+Plate Style: 1
+Plate Text:  G3WER8 
+Primary Colour: 54
+Secondary Colour: 54
+Pearl Colour: 54
+Wheel Colour: 115
+Wheel Type: 11
+Spoiler: 9
+Front Bumper: 8
+Rear Bumper: 8
+Grille: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 24
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

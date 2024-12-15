@@ -1,0 +1,46 @@
+Model: fr36
+Plate Style: 5
+Plate Text:   K3Y   
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 8
+Wheel Colour: 5
+Wheel Type: 3
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 4
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 1
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 3
+Ornaments: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: #202224
+Custom Secondary Colour: #202224
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 28
+Dashboard Colour: 25
+Tyres Mode: 2

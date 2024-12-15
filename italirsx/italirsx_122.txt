@@ -1,0 +1,44 @@
+Model: italirsx
+Plate Style: 1
+Plate Text: 7MQ5697 
+Primary Colour: 63
+Secondary Colour: 63
+Pearl Colour: 36
+Wheel Colour: 122
+Wheel Type: 11
+Spoiler: 6
+Front Bumper: 2
+Rear Bumper: 5
+Sideskirt: 3
+Exhaust: 1
+Chassis: 2
+Grille: 0
+Hood: 9
+Right Fender: 0
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 28
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

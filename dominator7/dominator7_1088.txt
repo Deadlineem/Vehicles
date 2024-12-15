@@ -1,0 +1,60 @@
+Model: dominator7
+Plate Style: 0
+Plate Text: 44POC716
+Primary Colour: 64
+Secondary Colour: 36
+Pearl Colour: 68
+Wheel Colour: 0
+Wheel Type: 1
+Spoiler: 12
+Front Bumper: 11
+Rear Bumper: 12
+Sideskirt: 3
+Exhaust: 2
+Chassis: 0
+Grille: 0
+Hood: 14
+Fender: 0
+Right Fender: 4
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 3, Custom
+Trim: 0
+Dashboard: 3
+Dial: 0
+Seats: 0
+Door Speaker: 6
+Steering Wheel: 5
+Engine Block: 2
+Air Filter: 24
+Struts: 15
+Arch Cover: 0
+Aerials: 0
+Trim2: 3
+Tank: 0
+Windows: 0
+Unk47: 0
+Livery: 0
+Tyre Smoke Colour: #00aeef
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 111
+Tyres Mode: 1

@@ -1,0 +1,42 @@
+Model: comet7
+Plate Style: 5
+Plate Text: 73UBP473
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 1
+Front Bumper: 1
+Rear Bumper: 8
+Sideskirt: 10
+Exhaust: 0
+Hood: 10
+Fender: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 11
+Front Wheels: 138
+Vanity Plates: 4
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 5
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: 
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

@@ -1,0 +1,37 @@
+Model: nero
+Plate Style: 5
+Plate Text: 66HOU761
+Primary Colour: 7
+Secondary Colour: 16
+Pearl Colour: 5
+Wheel Colour: 2
+Wheel Type: 3
+Front Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 34
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: #637380
+Custom Secondary Colour: #1e2429
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 18
+Dashboard Colour: 0
+Tyres Mode: 2

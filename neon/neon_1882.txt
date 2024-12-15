@@ -1,0 +1,39 @@
+Model: neon
+Plate Style: 5
+Plate Text:  PR1NCE 
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 42
+Wheel Colour: 38
+Wheel Type: 8
+Spoiler: 5
+Front Bumper: 5
+Rear Bumper: 1
+Sideskirt: 8
+Hood: 0
+Fender: 0
+Engine: 4
+Brakes: 3
+Horns: 54
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 85
+Livery: -1
+Tyre Smoke Colour: #ff2600
+Window Tint: 6
+Custom Primary Colour: #ff2600
+Custom Secondary Colour: #ff2600
+Neon Colour: #ff2c00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 147
+Dashboard Colour: 147
+Tyres Mode: 1

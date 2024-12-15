@@ -1,0 +1,59 @@
+Model: cypher
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 131
+Pearl Colour: 67
+Wheel Colour: 81
+Wheel Type: 10
+Spoiler: 10
+Front Bumper: 11
+Rear Bumper: 1
+Sideskirt: 1
+Exhaust: 4
+Chassis: 0
+Grille: 12
+Hood: 4
+Fender: 1
+Right Fender: 5
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 48
+Vanity Plates: 0
+Trim: 0
+Ornaments: 2
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 9
+Steering Wheel: 0
+Engine Block: 10
+Struts: 16
+Arch Cover: 5
+Aerials: 0
+Trim2: 0
+Tank: 1
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #0d0d21
+Custom Secondary Colour: #4545a9
+Neon Colour: #21204c
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

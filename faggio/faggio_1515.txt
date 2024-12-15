@@ -1,0 +1,34 @@
+Model: faggio
+Plate Style: 0
+Plate Text: BOUGNOUL
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 134
+Wheel Type: 6
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 52
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 43
+Back Wheels: 43
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #b38d22
+Custom Secondary Colour: #b38d22
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

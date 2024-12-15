@@ -1,0 +1,86 @@
+Model: tenf2
+Plate Style: 0
+Plate Text: 64ZTB290
+Primary Colour: 120
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 1
+Wheel Type: 8
+Spoiler: 21
+Front Bumper: 12
+Rear Bumper: 19
+Sideskirt: 10
+Exhaust: 21
+Chassis: 0
+Grille: 2
+Hood: 11
+Fender: 1
+Right Fender: 3
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 89
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 3
+Trim: 3
+Ornaments: 0
+Dashboard: 1
+Dial: 0
+Seats: 2
+Door Speaker: 13
+Steering Wheel: 7
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 1
+Aerials: 0
+Trim2: 4
+Tank: 0
+Left Door: 0
+Right Door: 0
+Livery: 10
+Lightbar: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #bfff00
+Custom Secondary Colour: #bfff00
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Roof Livery: 0
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

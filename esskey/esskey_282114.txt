@@ -1,0 +1,40 @@
+Model: esskey
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 120
+Pearl Colour: 161
+Wheel Colour: 131
+Wheel Type: 6
+Spoiler: 1
+Front Bumper: 3
+Rear Bumper: 2
+Exhaust: 2
+Hood: 0
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 0
+Back Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #00f2ff
+Window Tint: 1
+Custom Primary Colour: #ff2600
+Custom Secondary Colour: #000000
+Neon Colour: #00f2ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 131
+Dashboard Colour: 131
+Tyres Mode: 1

@@ -1,0 +1,47 @@
+Model: vigero2
+Plate Style: 1
+Plate Text: 0CJZD968
+Primary Colour: 138
+Secondary Colour: 138
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 9
+Front Bumper: 0
+Rear Bumper: 13
+Sideskirt: 0
+Exhaust: 6
+Chassis: 3
+Grille: 0
+Hood: 19
+Fender: 0
+Right Fender: 5
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 9
+Shifter Leavers: 0
+Speakers: 0
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

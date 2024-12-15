@@ -1,0 +1,37 @@
+Model: turismor
+Plate Style: 1
+Plate Text: 2ZJKT327
+Primary Colour: 154
+Secondary Colour: 154
+Pearl Colour: 92
+Wheel Colour: 122
+Wheel Type: 8
+Spoiler: 2
+Exhaust: 3
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 39
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 6
+Front Wheels: 77
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #5eff01
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

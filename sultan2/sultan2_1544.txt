@@ -1,0 +1,45 @@
+Model: sultan2
+Plate Style: 0
+Plate Text: 64TBW283
+Primary Colour: 53
+Secondary Colour: 89
+Pearl Colour: 59
+Wheel Colour: 89
+Wheel Type: 0
+Spoiler: 14
+Front Bumper: 2
+Rear Bumper: 2
+Sideskirt: 1
+Exhaust: 6
+Chassis: 8
+Grille: 3
+Hood: 5
+Fender: 0
+Right Fender: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 12, Custom
+Livery: 10
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

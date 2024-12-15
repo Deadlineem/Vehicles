@@ -1,0 +1,71 @@
+Model: elegy
+Plate Style: 1
+Plate Text: 28LJH862
+Primary Colour: 146
+Secondary Colour: 146
+Pearl Colour: 145
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 6
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 3
+Chassis: 0
+Grille: 0
+Hood: 3
+Fender: 2
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 2
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 45
+Back Wheels: 0
+Plate Holder: 1
+Vanity Plates: 3
+Trim: 1
+Ornaments: 0
+Dashboard: 0
+Dial: 6
+Seats: 1
+Door Speaker: 12
+Steering Wheel: 12
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 1
+Air Filter: 8
+Struts: 6
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 5
+Windows: 1
+Unk47: 0
+Livery: 0
+Unk49: 2
+Tyre Smoke Colour: #8466e2
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0f03ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Roof Livery: 0
+Dashboard Colour: 28
+Tyres Mode: 1

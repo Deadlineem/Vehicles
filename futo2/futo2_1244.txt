@@ -1,0 +1,59 @@
+Model: futo2
+Plate Style: 0
+Plate Text: 46EEK572
+Primary Colour: 131
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 122
+Wheel Type: 11
+Spoiler: 2
+Front Bumper: 1
+Rear Bumper: 1
+Sideskirt: 1
+Exhaust: 8
+Chassis: 0
+Grille: 2
+Hood: 15
+Fender: 2
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 106
+Plate Holder: 4
+Vanity Plates: 0
+Trim: 0
+Dashboard: 1
+Door Speaker: 2
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 7
+Struts: 11
+Arch Cover: 5
+Trim2: 1
+Tank: 1
+Windows: 0
+Unk47: 6
+Livery: 9
+Tyre Smoke Colour: #e20606
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

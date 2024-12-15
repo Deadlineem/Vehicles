@@ -1,0 +1,86 @@
+Model: warrener2
+Plate Style: 0
+Plate Text: 48FLQ673
+Primary Colour: 2
+Secondary Colour: 6
+Pearl Colour: 6
+Wheel Colour: 156
+Wheel Type: 9
+Spoiler: 8
+Front Bumper: 10
+Rear Bumper: 2
+Sideskirt: 0
+Exhaust: 8
+Chassis: 2
+Grille: 3
+Hood: 3
+Fender: 1
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 15
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 6
+Trim: 1
+Ornaments: 0
+Dashboard: 4
+Dial: 0
+Seats: 8
+Door Speaker: 8
+Steering Wheel: 14
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 4
+Air Filter: 4
+Struts: 8
+Arch Cover: 0
+Aerials: 2
+Trim2: 2
+Tank: 5
+Left Door: 0
+Right Door: 0
+Livery: 0
+Lightbar: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #43468e
+Custom Secondary Colour: #43468e
+Neon Colour: #b600ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 32
+Roof Livery: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

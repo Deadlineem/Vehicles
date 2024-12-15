@@ -1,0 +1,50 @@
+Model: comet3
+Plate Style: 1
+Plate Text: 46EEK572
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 9
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 2
+Front Bumper: 14
+Rear Bumper: 1
+Sideskirt: 7
+Exhaust: 3
+Chassis: 5
+Hood: 4
+Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 30
+Trim: 2
+Dashboard: 5
+Dial: 8
+Seats: 6
+Door Speaker: 14
+Steering Wheel: 7
+Struts: 11
+Aerials: 1
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 158
+Dashboard Colour: 134
+Tyres Mode: 1

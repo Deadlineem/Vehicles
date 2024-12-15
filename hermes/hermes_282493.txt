@@ -1,0 +1,39 @@
+Model: hermes
+Plate Style: 5
+Plate Text:  HERMS  
+Primary Colour: 0
+Secondary Colour: 89
+Pearl Colour: 89
+Wheel Colour: 89
+Wheel Type: 10
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 1
+Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 41
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 101
+Livery: 0
+Tyre Smoke Colour: #ff0303
+Window Tint: 6
+Custom Primary Colour: #1a0000
+Custom Secondary Colour: 
+Neon Colour: #ff9605
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1

@@ -1,0 +1,39 @@
+Model: zorrusso
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 158
+Pearl Colour: 140
+Wheel Colour: 149
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 2
+Exhaust: 1
+Grille: 0
+Hood: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 179
+Livery: 7
+Tyre Smoke Colour: #8466e2
+Window Tint: 1
+Custom Primary Colour: #29003f
+Custom Secondary Colour: 
+Neon Colour: #3000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

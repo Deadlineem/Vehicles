@@ -1,0 +1,39 @@
+Model: s80
+Plate Style: 0
+Plate Text: 27OOP564
+Primary Colour: 54
+Secondary Colour: 12
+Pearl Colour: 92
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 1
+Exhaust: 3
+Hood: 2
+Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2
+Extra 1: No

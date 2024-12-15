@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 1
+Plate Text: NX82BUQO
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 7
+Front Bumper: 17
+Rear Bumper: 6
+Sideskirt: 10
+Exhaust: 5
+Hood: 7
+Roof: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 27
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #278946
+Custom Secondary Colour: #278946
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 111
+Tyres Mode: 1

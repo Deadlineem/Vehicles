@@ -1,0 +1,45 @@
+Model: panthere
+Plate Style: 1
+Plate Text: 74BMQ153
+Primary Colour: 1
+Secondary Colour: 70
+Pearl Colour: 5
+Wheel Colour: 30
+Wheel Type: 7
+Spoiler: 1
+Front Bumper: 15
+Rear Bumper: 8
+Sideskirt: 19
+Exhaust: 6
+Chassis: 2
+Grille: 9
+Hood: 19
+Fender: 6
+Right Fender: 9
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 2
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 16, Custom
+Livery: 4
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

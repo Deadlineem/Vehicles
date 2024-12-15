@@ -1,0 +1,47 @@
+Model: buffalo5
+Plate Style: 1
+Plate Text: 3VFHQ546
+Primary Colour: 100
+Secondary Colour: 12
+Pearl Colour: 91
+Wheel Colour: 0
+Wheel Type: 1
+Spoiler: 4
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 0
+Chassis: 0
+Grille: 0
+Hood: 1
+Fender: 4
+Right Fender: 0
+Roof: 0
+Engine: 3
+Brakes: 3
+Transmission: 0
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Ornaments: 0
+Trim2: 0
+Right Door: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffffff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

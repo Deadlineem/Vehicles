@@ -1,0 +1,44 @@
+Model: draugur
+Plate Style: 5
+Plate Text: 72UKT330
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 134
+Wheel Type: 10
+Spoiler: 3
+Front Bumper: 18
+Rear Bumper: 2
+Sideskirt: 10
+Exhaust: 9
+Chassis: 6
+Grille: 6
+Fender: 5
+Right Fender: 6
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 42
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 5
+Front Wheels: 13
+Livery: 4
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #00ffc8
+Custom Secondary Colour: #00ffc8
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

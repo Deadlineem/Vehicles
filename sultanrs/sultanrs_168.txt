@@ -1,0 +1,58 @@
+Model: sultanrs
+Plate Style: 1
+Plate Text: 2FAST4U 
+Primary Colour: 91
+Secondary Colour: 91
+Pearl Colour: 51
+Wheel Colour: 156
+Wheel Type: 12
+Spoiler: 11
+Front Bumper: 9
+Rear Bumper: 3
+Sideskirt: 0
+Exhaust: 3
+Chassis: 1
+Grille: 0
+Hood: 1
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 8
+Trim: 0
+Ornaments: 21
+Dashboard: 1
+Dial: 6
+Seats: 1
+Door Speaker: 5
+Steering Wheel: 11
+Engine Block: 1
+Air Filter: 1
+Struts: 12
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Windows: 0
+Livery: 4
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 73
+Tyres Mode: 1

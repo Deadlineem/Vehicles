@@ -1,0 +1,41 @@
+Model: oppressor
+Plate Style: 3
+Plate Text: GEESPAWN
+Primary Colour: 11
+Secondary Colour: 0
+Pearl Colour: 87
+Wheel Colour: 156
+Wheel Type: 6
+Spoiler: 1
+Front Bumper: 1
+Rear Bumper: 1
+Chassis: 1
+Hood: 1
+Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 23
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 46, Custom
+Back Wheels: 46
+Livery: 30
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #0000ff
+Custom Secondary Colour: #0000ff
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

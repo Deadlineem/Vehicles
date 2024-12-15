@@ -1,0 +1,37 @@
+Model: adder
+Plate Style: 1
+Plate Text:  1GT30  
+Primary Colour: 66
+Secondary Colour: 66
+Pearl Colour: 70
+Wheel Colour: 0
+Wheel Type: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 19
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2
+Extra 1: Yes
+Extra 10: Yes
+Extra 12: No

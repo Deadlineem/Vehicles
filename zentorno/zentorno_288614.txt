@@ -1,0 +1,44 @@
+Model: zentorno
+Plate Style: 5
+Plate Text: 24USO111
+Primary Colour: 3
+Secondary Colour: 41
+Pearl Colour: 5
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 7
+Front Bumper: 3
+Rear Bumper: 1
+Sideskirt: 5
+Exhaust: 8
+Chassis: 0
+Grille: 1
+Hood: 4
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #d00467
+Window Tint: 5
+Custom Primary Colour: #d00467
+Custom Secondary Colour: #000000
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,46 @@
+Model: elegy2
+Plate Style: 0
+Plate Text: 21LLL779
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 42
+Wheel Colour: 0
+Wheel Type: 9
+Spoiler: 3
+Front Bumper: 0
+Rear Bumper: 3
+Sideskirt: 3
+Exhaust: 2
+Chassis: 0
+Grille: 0
+Hood: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 68
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #110a00
+Custom Secondary Colour: #000000
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 10: Yes
+Extra 11: No

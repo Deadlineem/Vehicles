@@ -1,0 +1,39 @@
+Model: hermes
+Plate Style: 0
+Plate Text: 82XLN123
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 136
+Wheel Colour: 103
+Wheel Type: 8
+Front Bumper: 6
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 1
+Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 13
+Front Wheels: 122
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #44180f
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1

@@ -1,0 +1,40 @@
+Model: pariah
+Plate Style: 4
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 81
+Wheel Colour: 71
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 4
+Rear Bumper: 2
+Sideskirt: 2
+Hood: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 84
+Livery: 0
+Tyre Smoke Colour: #a189ff
+Window Tint: 1
+Custom Primary Colour: #161629
+Custom Secondary Colour: #161629
+Neon Colour: #1200ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 65
+Tyres Mode: 1

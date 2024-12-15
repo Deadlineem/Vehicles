@@ -1,0 +1,35 @@
+Model: vigilante
+Plate Style: 0
+Plate Text:   BALI  
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 18
+Wheel Colour: 139
+Wheel Type: 8
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 53
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 108
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #1dff00
+Custom Secondary Colour: #1dff00
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 8
+Dashboard Colour: 156
+Tyres Mode: 1

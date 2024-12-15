@@ -1,0 +1,43 @@
+Model: komoda
+Plate Style: 5
+Plate Text: DERROCE 
+Primary Colour: 31
+Secondary Colour: 147
+Pearl Colour: 27
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 23
+Front Bumper: 11
+Rear Bumper: 3
+Sideskirt: 17
+Exhaust: 4
+Hood: 0
+Fender: 2
+Right Fender: 1
+Roof: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 10
+Front Wheels: 148
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

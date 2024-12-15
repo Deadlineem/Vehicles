@@ -1,0 +1,43 @@
+Model: police3
+Plate Style: 5
+Plate Text:   ANAL  
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 2
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 1
+Chassis: 2
+Hood: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 42
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 116
+Livery: 6
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #3b006e
+Custom Secondary Colour: #3b006e
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 12: No

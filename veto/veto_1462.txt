@@ -1,0 +1,39 @@
+Model: veto
+Plate Style: 1
+Plate Text: 51QKA120
+Primary Colour: 0
+Secondary Colour: 120
+Pearl Colour: 10
+Wheel Colour: 57
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 0
+Exhaust: 11
+Chassis: 0
+Grille: 12
+Right Fender: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 108
+Livery: 6
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #00ff7b
+Custom Secondary Colour: #00ff83
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 35
+Tyres Mode: 1

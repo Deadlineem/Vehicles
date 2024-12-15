@@ -1,0 +1,59 @@
+Model: futo2
+Plate Style: 4
+Plate Text:  DIABLO 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 67
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 8
+Front Bumper: 1
+Rear Bumper: 0
+Sideskirt: 3
+Exhaust: 5
+Chassis: 4
+Grille: 2
+Hood: 0
+Fender: 1
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 1
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 30
+Plate Holder: 4
+Vanity Plates: 1
+Trim: 1
+Dashboard: 1
+Door Speaker: 12
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 7
+Struts: 12
+Arch Cover: 0
+Trim2: 0
+Tank: 0
+Windows: 0
+Unk47: 7
+Livery: 2
+Tyre Smoke Colour: #e20606
+Window Tint: 1
+Custom Primary Colour: #202026
+Custom Secondary Colour: #202026
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 111
+Tyres Mode: 1

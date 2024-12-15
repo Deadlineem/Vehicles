@@ -1,0 +1,45 @@
+Model: cinquemila
+Plate Style: 1
+Plate Text: 61PXQ500
+Primary Colour: 160
+Secondary Colour: 111
+Pearl Colour: 38
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 17
+Front Bumper: 14
+Rear Bumper: 4
+Sideskirt: 14
+Exhaust: 8
+Chassis: 3
+Grille: 7
+Hood: 17
+Fender: 3
+Right Fender: 2
+Roof: 11
+Engine: 5
+Brakes: 4
+Transmission: 4
+Horns: 58
+Suspension: 3
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 2
+Front Wheels: 140
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

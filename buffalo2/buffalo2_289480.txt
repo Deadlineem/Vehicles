@@ -1,0 +1,45 @@
+Model: buffalo2
+Plate Style: 1
+Plate Text:  1G4830 
+Primary Colour: 31
+Secondary Colour: 32
+Pearl Colour: 145
+Wheel Colour: 8
+Wheel Type: 11
+Spoiler: 1
+Front Bumper: 5
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 3
+Chassis: 0
+Grille: 3
+Hood: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2
+Extra 11: Yes
+Extra 12: No

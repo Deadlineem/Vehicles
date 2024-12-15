@@ -1,0 +1,37 @@
+Model: ratel
+Plate Style: 5
+Plate Text:         
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 28
+Wheel Colour: 27
+Wheel Type: 9
+Spoiler: 0
+Exhaust: 3
+Chassis: 2
+Roof: 3
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 47
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 122
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 5
+Custom Primary Colour: #ff0000
+Custom Secondary Colour: #ff0000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 29
+Dashboard Colour: 134
+Tyres Mode: 2

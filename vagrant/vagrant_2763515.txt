@@ -1,0 +1,40 @@
+Model: vagrant
+Plate Style: 0
+Plate Text: 09QBH141
+Primary Colour: 13
+Secondary Colour: 38
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 4
+Exhaust: 4
+Chassis: 1
+Grille: 1
+Hood: 0
+Fender: 0
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 22, Custom
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

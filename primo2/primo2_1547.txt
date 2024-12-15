@@ -1,0 +1,57 @@
+Model: primo2
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 32
+Secondary Colour: 0
+Pearl Colour: 89
+Wheel Colour: 31
+Wheel Type: 9
+Spoiler: 2
+Front Bumper: 4
+Rear Bumper: 1
+Sideskirt: 1
+Exhaust: 4
+Grille: 5
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 144
+Back Wheels: 4
+Plate Holder: 13
+Vanity Plates: 16
+Trim: 4
+Ornaments: 45
+Dial: 7
+Steering Wheel: 16
+Shifter Leavers: 15
+Plaques: 22
+Speakers: 4
+Trunk: 2
+Hydraulics: 4
+Engine Block: 6
+Air Filter: 5
+Aerials: 4
+Trim2: 3
+Tank: 3
+Livery: 9
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 32
+Dashboard Colour: 28
+Tyres Mode: 1

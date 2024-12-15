@@ -1,0 +1,41 @@
+Model: baller
+Plate Style: 1
+Plate Text: FK Rstar
+Primary Colour: 158
+Secondary Colour: 0
+Pearl Colour: 160
+Wheel Colour: 135
+Wheel Type: 11
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 1
+Exhaust: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Suspension: 4
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 14
+Front Wheels: 120
+Livery: 2
+Tyre Smoke Colour: #2000ff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: #2100ff
+Neon Colour: #2000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: #2000ff
+Dashboard Colour: #2000ff
+Tyres Mode: 1
+Extra 10: Yes
+Extra 11: Yes
+Extra 12: Yes

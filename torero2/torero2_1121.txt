@@ -1,0 +1,44 @@
+Model: torero2
+Plate Style: 0
+Plate Text:  DREAM  
+Primary Colour: 120
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 76
+Wheel Type: 7
+Spoiler: 1
+Front Bumper: 7
+Rear Bumper: 2
+Sideskirt: 11
+Exhaust: 10
+Chassis: 1
+Grille: 1
+Hood: 3
+Fender: 1
+Roof: 9
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 2
+Livery: 3
+Tyre Smoke Colour: #ff0000
+Window Tint: 1
+Custom Primary Colour: #0011ff
+Custom Secondary Colour: #0011ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

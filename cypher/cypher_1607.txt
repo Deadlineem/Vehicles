@@ -1,0 +1,59 @@
+Model: cypher
+Plate Style: 1
+Plate Text:   BMW   
+Primary Colour: 8
+Secondary Colour: 92
+Pearl Colour: 5
+Wheel Colour: 144
+Wheel Type: 0
+Spoiler: 14
+Front Bumper: 11
+Rear Bumper: 0
+Sideskirt: 8
+Exhaust: 0
+Chassis: 9
+Grille: 0
+Hood: 4
+Fender: 2
+Right Fender: 0
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Vanity Plates: 1
+Trim: 7
+Ornaments: 2
+Dashboard: 1
+Dial: 1
+Seats: 0
+Door Speaker: 10
+Steering Wheel: 0
+Engine Block: 0
+Struts: 15
+Arch Cover: 2
+Aerials: 2
+Trim2: 1
+Tank: 3
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 111
+Tyres Mode: 1

@@ -1,0 +1,42 @@
+Model: zeno
+Plate Style: 1
+Plate Text: 46RAR047
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 12
+Front Bumper: 13
+Rear Bumper: 14
+Sideskirt: 20
+Exhaust: 3
+Hood: 8
+Fender: 0
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #4203ff
+Custom Secondary Colour: #4203ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 72
+Dashboard Colour: 0
+Tyres Mode: 2

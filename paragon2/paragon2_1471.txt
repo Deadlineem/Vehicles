@@ -1,0 +1,44 @@
+Model: paragon2
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 64
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 1
+Sideskirt: 1
+Exhaust: 3
+Chassis: 0
+Grille: 1
+Hood: 0
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 41
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 58
+Livery: 8
+Tyre Smoke Colour: #190600
+Window Tint: 1
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #000fe2
+Neon Colour: #7f0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 81
+Dashboard Colour: 0
+Tyres Mode: 1

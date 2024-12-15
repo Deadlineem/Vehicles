@@ -1,0 +1,55 @@
+Model: comet6
+Plate Style: 0
+Plate Text:  TERROR 
+Primary Colour: 0
+Secondary Colour: 147
+Pearl Colour: 11
+Wheel Colour: 11
+Wheel Type: 12
+Spoiler: 6
+Front Bumper: 0
+Rear Bumper: 6
+Sideskirt: 2
+Exhaust: 0
+Chassis: 0
+Hood: 3
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 18
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Windows: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #c59309
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 8
+Dashboard Colour: 106
+Tyres Mode: 1

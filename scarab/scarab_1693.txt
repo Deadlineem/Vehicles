@@ -1,0 +1,46 @@
+Model: scarab
+Plate Style: 0
+Plate Text: 20HVU284
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 88
+Wheel Colour: 88
+Wheel Type: 10
+Front Bumper: 0
+Sideskirt: 4
+Exhaust: 4
+Chassis: 0
+Grille: 1
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Horns: 58
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 102
+Ornaments: 0
+Plaques: 0
+Air Filter: 4
+Struts: 1
+Arch Cover: 0
+Aerials: 0
+Tank: 2
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #160000
+Custom Secondary Colour: #351200
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 156
+Tyres Mode: 1

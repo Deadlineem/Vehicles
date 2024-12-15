@@ -1,0 +1,39 @@
+Model: raiden
+Plate Style: 0
+Plate Text: LA TESLA
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 112
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 1
+Rear Bumper: 0
+Sideskirt: 1
+Hood: 0
+Fender: 0
+Engine: 4
+Brakes: 3
+Horns: 47
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 45
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ededed
+Custom Secondary Colour: #000505
+Neon Colour: #004cff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 65
+Tyres Mode: 1

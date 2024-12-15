@@ -1,0 +1,44 @@
+Model: winky
+Plate Style: 3
+Plate Text:         
+Primary Colour: 158
+Secondary Colour: 158
+Pearl Colour: 89
+Wheel Colour: 89
+Wheel Type: 10
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 2
+Sideskirt: 3
+Exhaust: 0
+Chassis: 0
+Grille: 0
+Hood: 6
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 39
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 118
+Livery: 26
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #494429
+Custom Secondary Colour: #494429
+Neon Colour: #ffc800
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

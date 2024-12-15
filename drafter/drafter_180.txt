@@ -1,0 +1,45 @@
+Model: drafter
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 123
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 3
+Sideskirt: 3
+Exhaust: 5
+Chassis: 3
+Grille: 4
+Hood: 0
+Fender: 1
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 49
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 18
+Livery: 0
+Tyre Smoke Colour: #00ff44
+Window Tint: 1
+Custom Primary Colour: #140030
+Custom Secondary Colour: #140030
+Neon Colour: #1e00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1

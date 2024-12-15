@@ -1,0 +1,46 @@
+Model: elegy2
+Plate Style: 1
+Plate Text: 04YWO345
+Primary Colour: 61
+Secondary Colour: 61
+Pearl Colour: 73
+Wheel Colour: 64
+Wheel Type: 0
+Spoiler: 3
+Front Bumper: 2
+Rear Bumper: 2
+Sideskirt: 3
+Exhaust: 2
+Chassis: 1
+Grille: 1
+Hood: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 21, Custom
+Livery: -1
+Tyre Smoke Colour: #00aeef
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 10: No
+Extra 11: No

@@ -1,0 +1,44 @@
+Model: paragon2
+Plate Style: 5
+Plate Text:   711   
+Primary Colour: 12
+Secondary Colour: 117
+Pearl Colour: 140
+Wheel Colour: 81
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 5
+Chassis: 6
+Grille: 0
+Hood: 7
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 41
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 117
+Livery: 10
+Tyre Smoke Colour: #001bef
+Window Tint: 6
+Custom Primary Colour: #001bef
+Custom Secondary Colour: #001bef
+Neon Colour: #001bef
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 81
+Dashboard Colour: 0
+Tyres Mode: 1

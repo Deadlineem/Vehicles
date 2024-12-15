@@ -1,0 +1,36 @@
+Model: tyrus
+Plate Style: 1
+Plate Text:  GH3ST  
+Primary Colour: 158
+Secondary Colour: 160
+Pearl Colour: 89
+Wheel Colour: 88
+Wheel Type: 10
+Spoiler: 1
+Exhaust: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 3
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 52
+Livery: 0
+Tyre Smoke Colour: #ff7f00
+Window Tint: 1
+Custom Primary Colour: #ff3e00
+Custom Secondary Colour: #ff3e00
+Neon Colour: #ff3e00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1

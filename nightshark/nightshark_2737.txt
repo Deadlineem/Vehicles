@@ -1,0 +1,41 @@
+Model: nightshark
+Plate Style: 1
+Plate Text: 03IYO877
+Primary Colour: 0
+Secondary Colour: 120
+Pearl Colour: 10
+Wheel Colour: 30
+Wheel Type: 2
+Front Bumper: 3
+Rear Bumper: 3
+Exhaust: 2
+Chassis: 3
+Grille: 9
+Hood: 10
+Fender: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 30, Custom
+Livery: 26
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #600f09
+Custom Secondary Colour: #ffffff
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

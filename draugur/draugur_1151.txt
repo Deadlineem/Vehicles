@@ -1,0 +1,44 @@
+Model: draugur
+Plate Style: 0
+Plate Text: 60DXD788
+Primary Colour: 118
+Secondary Colour: 5
+Pearl Colour: 3
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 3
+Front Bumper: 17
+Rear Bumper: 2
+Sideskirt: 4
+Exhaust: 8
+Chassis: 3
+Grille: 6
+Fender: 5
+Right Fender: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 41
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

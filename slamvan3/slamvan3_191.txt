@@ -1,0 +1,56 @@
+Model: slamvan3
+Plate Style: 3
+Plate Text: 23VIB302
+Primary Colour: 82
+Secondary Colour: 23
+Pearl Colour: 0
+Wheel Colour: 122
+Wheel Type: 0
+Spoiler: 1
+Front Bumper: 1
+Exhaust: 0
+Grille: 3
+Hood: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 17
+Back Wheels: 1
+Plate Holder: 5
+Vanity Plates: 1
+Trim: 2
+Ornaments: 19
+Dashboard: 0
+Dial: 0
+Door Speaker: 9
+Steering Wheel: 9
+Shifter Leavers: 1
+Plaques: 22
+Hydraulics: 0
+Engine Block: 4
+Air Filter: 4
+Tank: 0
+Windows: 0
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

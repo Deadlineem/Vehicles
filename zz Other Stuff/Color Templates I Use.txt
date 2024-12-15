@@ -1,0 +1,909 @@
+*Color Templates I Use*
+
+All of these will be Chameleon texture except the ones that specify that they are Chrome, Metal, Matte, etc. However, you can experiment with other textures to find what you like.
+
+Some paints look like crap on certain cars. The longer ago it was that a car was released, the worse Chameleon and similar textures will look. Newer cars like the Gauntlet Interceptor, that are based on cars released a long time ago, are also some of the worst for Chameleon textures. For cars that look like crap with Chameleon, try using Metal, Chrome, and Matte textures instead.
+
+Values may need to be higher or lower on certain vehicles, find what looks good
+
+---
+
+
+*Color Changing Paint*
+
+Color Changing Paint is made by using two paints that are connected to each other, in the way that Orange and Green are both connected to Yellow. Make the brightest Yellow your Primary, and the brightest Orange or brightest Green your Secondary. When proportioned correctly, direct sunlight will bleach away the opposing color of your Secondary paint, making it seem to disappear. If this sounds confusing, take a look in the Color Changing Examples folder.
+
+
+---
+
+
+*Quick Reference Guide for Matching Neons, Wheel Color, Tire Smoke, License Plates, and Headlights*
+
+These are what I tend to use when I'm in a hurry. When I want to make really something nice I try to match the colors up better than what is listed here. A general rule of thumb is to move the RGB numbers by about 30 points to change a color noticeably, for example RGB 255, 255, 0 is a Yellow that is tinted slightly Green, this color pairs with Yellow Bird Pearl. If you reduce the green by 30 points, it becomes just Yellow, and pairs with Race Yellow Pearl. Reduce Green by another 30 points and it begins to start tinting Orange, and pairs with Metallic Taxi Yellow Pearl. You can use this 30 point guideline to quickly estimate how much you need to adjust colors, then dial it in from there.
+
+Note that for Wheel color, White usually goes with just about anything (except Gold or maybe Rust and other off-beat stuff). If you want to make something look crisp and fresh, White Wheel color is usually an easy way to start. If you are making a lot of cars in a hurry, pick a set of rims that look good in White, set it to the brightest White, and just let it auto-apply every time you apply your Pearl in LazScript.
+
+
+---
+
+
+*To Create Many Cars Quickly*
+
+If you are in a hurry and don't know what to make, this is what I use as a baseline to churn out a lot of cars very quickly. 
+
+For quick matching neons and tire smoke set them to the RGB of your Primary or Secondary paint and then use the Value slider to find something nice.
+
+First consider making the basics - an all-White, an all-Black, an all-Black Chrome with White Pearl, an all-Black Metal with White Pearl, a Gold Metal 71 with Worn Yellow Pearl, an all-Salmon Pink, dark Gold Metals and Colored Chromes, and any other basic colors you like - Blue, Red, Orange, Yellow and so on. You might also consider making different textured versions of all of these.
+
+Then save each of your basic all-Black, all-White, all-Pink etc cars with every Livery that looks good on them.
+
+After those, you might consider making any of the rest on this list - to do these quickly, first input a set of matching Pearl, Neons, License Plate, and Tire Smoke colors, say for example, Hot Pink, so RGB 255, 0, 255 (or whatever you prefer) in all those categories, then change your Primary and Secondary RGB's to whatever you want, apply the Pearl and all the rest, and save it. Now change the Paint color to another RGB you want to combine with Hot Pink, apply your Pearl and everything else again, and save it, then change to another Paint color and another until you're done with Hot Pink. Then change the color of everything to match something else, let's say Metallic Orange Pearl - set Pearl/Neons/Tire Smoke etc to match that, then pick an RGB to apply it all to, save it, change Paint, save it. By doing it like this you only have to change the Paint color and not everything else every time, which is what really slows you down when you're trying to make many nice cars fast.
+
+
+---
+
+
+Template to Copy/Paste to Add More:
+
+R
+G
+B
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons
+Wheels
+Tire Smoke
+Plates
+Headlights
+Interiors 
+
+Pearling suggestions:
+
+
+------------------
+
+
+Aquas (equal Parts Blue and Green)
+
+
+------------------
+
+
+Aqua18
+R 7
+G 16
+B 18
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 0, 170, 255
+Wheels White, Blue (the brightest Blue), Gasoline Green Blue
+Tire Smoke 0, 220, 255
+Plates 7
+Headlights 4
+Interiors 
+
+Pearling suggestions:
+Blue Pearl
+
+
+---
+
+
+Aqua255
+R 0
+G 255
+B 255
+
+Neons 0, 255, 255
+Wheels White, Blue (the brightest Blue)
+Tire Smoke 0, 255, 255
+Plates 7
+Headlights 4
+Interiors 
+
+
+------------------
+
+
+Blacks
+
+
+------------------
+
+
+Black0
+R 0
+G 0
+B 0
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 255, 255, 255
+Wheels White, Black, Red (anything, really)
+Tire Smoke 255, 255, 255
+Plates 7
+Headlights 2
+Interiors 
+
+
+---
+
+
+Blacklight25 / 30 / 33 / 255 etc is
+R 2
+G 0
+B Usually between 15 - 25 (but can be 30 or 33 or 255, or whatever)
+
+Blacklight is mixed at a ratio of around 7 - 14 parts blue for every 1 part of red. The blue to red mixture should be in between blue and purple, but closer to the blue side than purple (R 25, G 0, B 255 is a highly-visible example of this). For dark blacklight colors, the blue/red base should be so dark that you can just barely tell what color it is. The easiest way to do it is to turn the blue up just enough that you can tell it is definitely a very dark blue color, and either stay there or turn the blue down by one to three points. The goal is for it to look distinct from both vanilla dark blues, dark purples, and black. When it looks something like a twilight sky of colored poison, you've done it right
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 15, 3, 255 (When using with a Pearl, match these to the Pearl's color instead)
+Wheels White, Metallic Blue, or Pearl color
+Tire Smoke 60, 9, 255, or Pearl color
+Plates 7
+Headlights 14
+Interiors 
+
+Pearling suggestions:
+Any Pink Pearl
+
+Matte Orange Pearl
+
+Purple Pearl
+
+Util Bright Red Pearl
+
+
+------------------
+
+
+Blues
+
+
+------------------
+
+
+Blue145 is usually
+R 25 (or less)
+G 0
+B 145
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 0, 0, 255
+Wheels White, Metallic Blue
+Tire Smoke 0, 0, 255
+Plates 7
+Headlights 3
+Interiors 
+
+Pearling suggestions:
+Blue Pearl
+
+Metallic Orange Pearl
+
+White Pearl
+
+Util Bright Red Pearl (makes a Hotter Pink than Hot Pink Pearl)
+
+Any Pink Pearl
+
+
+---
+
+
+Blue0,160,255 - Color Changing
+R 0
+G 160
+B 255
+
+Paints to use as a Primary/Secondary alongside this:
+Aqua 255, White, Black, Black Chrome with White Pearl
+
+Neons 0, 90, 255
+Wheels White, 
+Tire Smoke 60, 180, 255
+Plate 7
+Headlights 4
+Interiors 
+
+Pearling suggestions:
+So bright that most Pearls won't show up well anyway
+
+Color Changing:
+Make your Primary paint Aqua 255, 255, 0, and make your Secondary a Blue 0, 160, 255, with the Red set around 140 - 160. 140 is more visible Blue, 160 is less visible Blue, You can do this without the Aqua Primary but it won't look as noticeable. To maximize this effect it needs to be done on a car with very visible Primary and Secondary paints, when done properly the Blue will look very Aqua in sunlight and very Blue in darkness
+
+
+------------------
+
+
+Chrome - Default or Black 0
+Neons 255, 255, 255 (or you can try to make it a silvery color but this tends to just make darker White)
+Wheels White, Greys/Silvers
+Tire Smoke 170, 176, 191
+Plates 7
+Headlights 2
+Interiors 
+
+
+------------------
+
+
+Golds
+
+
+------------------
+
+
+Gold5 / 15 / 30 aka dark Gold
+R 5 (or 15, or 30, or whatever)
+G 4 (or 12, or 24, or whatever)
+B 1 (or 5, or 11, or whatever)
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 165, 125, 55
+Wheels Gold, Metallic Light Brown
+Tire Smoke 165, 125, 55
+Plate 11
+Headlights 8
+Interiors Metallic Cream, Gold
+
+Pearling suggestions:
+For the dark Gold Metal look, set your RGB to R 71, G 57, B 27. Then adjust the Value slider of your paint downwards. with a Metal texture and Metallic Taxi Yellow Pearl (most pearl), Matte Yellow Pearl (medium amount), or Worn Taxi Yellow Pearl (least amount of pearl) in order to look correct. What looks best will vary by car.
+
+
+---
+
+
+Gold71 aka Rockstar's Gold Metal is
+R 71
+G 57
+B 27
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 165, 90, 0
+Wheels Gold, Metallic Light Brown
+Tire Smoke 255, 190, 72
+Plate 11
+Headlights 8
+Interiors Metallic Cream, Gold
+
+Pearling suggestion:
+For the default Gold Metal look, combine with a Brushed Metal or Metal texture and Worn Taxi Yellow Pearl in order to look correct. Can also be used with Matte texture. On some cars this color can be overlaid with Chrome texture to look *very* nice When pearled correctly  (looks like literal crap on others, or without a pearl). 
+
+
+------------------
+
+
+Greens
+
+
+------------------
+
+
+Green10 / 20 / 30 etc is
+R 0
+G 10 (or 20, or 30, or whatever)
+B 0
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 0, 255, 0
+Wheels White, Metallic Green, Racing Green
+Tire Smoke 0, 255, 0
+Plate 12
+Headlights 6
+Interiors 
+
+Pearling suggestions:
+Matte Green Pearl for maximum green
+
+Metallic Green Pearl for a more gold-tinted green
+
+
+---
+
+
+Newport Green (Green with Blue Pearl)
+R 0
+G 25
+B 0
+
+On some cars you will need to use an Aqua paint color (equal amounts Blue and Green) or a Metal or similar texture to get this to mix correctly
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 170, 0, 255
+Wheels White, Gasoline Green Blue
+Tire Smoke 185, 0, 255
+Plate 12
+Headlights 5
+Interiors 
+
+Pearling suggestions:
+Blue Pearl for a crisp Newport Green
+
+
+---
+
+
+Green255 / NeonGreen255 - Color Changing
+R 120
+G 255
+B 0
+
+Paints to use as a Primary/Secondary alongside this:
+Yellow 255, White, Black, Black Chrome with White Pearl
+
+Neons 95, 255, 0
+Wheels White, Green (the Brightest Green), Yellow Bird
+Tire Smoke 180, 255, 60
+Plate 12 or 11
+Headlights 6 or 7
+Interiors 
+
+Pearling suggestions:
+So bright that most Pearls won't show up well anyway, but Yellow Bird or White do ok, or you could go with a Green, ofc. Yellow Bird Pearl also adds a distinct touch of Red at night to Matte textures
+
+Color Changing:
+Make your Primary paint Yellow 255, 255, 0, and make your Secondary a Neon Green 255 with the Red set around 120 - 140. 120 is more visible Green, 140 is less visible Green, You can do this without the Yellow Primary but it won't look as noticeable. To maximize this effect it needs to be done on a car with very visible Primary and Secondary paints, when done properly the Green will look very Yellow in sunlight and very Green in darkness
+
+
+---
+
+
+Olive Drab Green
+Rockstar's Olive Drab can be paired with a Yellow to make a Bronze effect
+
+
+------------------
+
+
+Greys
+
+
+------------------
+
+
+Grey43 (Mouse cars)
+R 23
+G 30
+B 43
+
+You know those people who wear Mouse masks? Yeah, I dunno either, but if you want to make one of them happy try making them a car in a dark Grey Chameleon texture with a Salmon Pink Pearl. When done right the Grey should be just bright enough to be clearly identifiable as Grey, and the Pink should sort of ripple out of it, see 'Krieger Grey45Black0SalmonPinkPearl' for an example. This won't look good on all cars, though. If they offer you cheese in return it's considered impolite in Mouse society to refuse the cheese
+
+Neons 255, 150, 170
+Wheels Salmon Pink
+Tire Smoke 225, 150, 170
+Plates 7
+Headlights 11
+Interiors 
+
+
+------------------
+
+
+Oranges
+
+
+------------------
+
+
+Orange255
+R 255
+G 130
+B 0
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 255, 100, 0
+Wheels White, Matte Orange, Bright Orange
+Tire Smoke 255, 165, 60
+Plates 11
+Headlights 9
+Interiors 
+
+Pearling suggestions:
+Bright Orange Pearl
+
+
+---
+
+
+Orange160,255,0 - Color Changing
+R 160
+G 255
+B 0
+
+Paints to use as a Primary/Secondary alongside this:
+Yellow 255
+
+Neons 255, 90, 0
+Wheels White, Race Yellow, Metallic Taxi Yellow
+Tire Smoke 255, 180, 60
+Plates 11
+Headlights 8
+Interiors 
+
+Pearling suggestions:
+So bright that most Pearls won't show up well anyway
+
+Color Changing:
+Make your Primary paint Hot Yellow 255, 255, 0, and make your Secondary a Neon Orange 160, 255, 0 with the Red set around 140 - 160. 140 is more visible Orange, 160 is less visible Orange. You can do this without the Hot Yellow Primary but it won't look as noticeable. To maximize this effect it needs to be done on a car with very visible Primary and Secondary paints, when done properly the Orange will look very Yellow in sunlight and very Orange in darkness
+
+
+---
+
+
+Oranges Darker/Redder 
+Neons 255, 55, 0
+Wheels White, Metallic Orange, Sunrise Orange 
+Tire Smoke 255, 85, 0
+Plates 11
+Headlights 9
+Interiors 
+
+Pearling suggestions:
+Metallic Orange Pearl
+
+Sunrise Orange Pearl
+
+
+------------------
+
+
+Pinks
+
+
+------------------
+
+
+Hot Pink
+R 60+
+G
+B 60+
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 255, 0, 255
+Wheels White, Hot Pink
+Tire Smoke 255, 0, 255
+Plates 7
+Headlights 12
+Interiors 
+
+Pearling suggestions:
+Hot Pink Pearl
+
+
+---
+
+
+Pink30 is
+R 30
+G 0
+B 30
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons
+Wheels
+Tire Smoke
+Plates
+Headlights
+Interiors 
+
+Pearling suggestions:
+Any Pink Pearl
+
+Taxi Yellow Pearl
+
+Purple Pearl
+
+Util Bright Red Pearl
+
+Metallic Orange Pearl
+
+
+---
+
+
+Pink40 is
+R 40
+G 24
+B 40
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons
+Wheels
+Tire Smoke
+Plates
+Headlights
+Interiors
+
+Pearling Suggestions:
+
+Any Pink Pearl
+
+
+---
+
+
+Pink68 is
+R 51
+G 0
+B 68
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons
+Wheels
+Tire Smoke
+Plates
+Headlights
+Interiors
+
+Pearling suggestions:
+Any Pink Pearl
+
+Util Bright Red Pearl
+
+Metallic Orange Pearl
+
+
+---
+
+
+Salmon Pink
+Use Rockstar's Salmon Pink on both Primary and Secondary with a Metal texture (or any other texture, really, but Metal looks nice), top off with a Salmon Pink Pearl, and you have a simple-to-make car that can be given to people who are into soft pinks
+
+
+------------------
+
+
+Purples
+
+------------------
+
+
+Purple33 is
+R 18
+G 0
+B 33
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 60, 0, 255
+Wheels White, Metallic Purple
+Tire Smoke 120, 0, 255
+Plates 10
+Headlights 13
+Interiors
+
+Pearling suggestions:
+Bright Orange Pearl
+
+
+---
+
+
+Purple51 is
+R 14
+G 13
+B 51
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 60, 0, 255
+Wheels White, Metallic Purple
+Tire Smoke 120, 0, 255
+Plates 10
+Headlights 13
+Interiors 
+
+Pearling suggestions:
+Any Pink Pearl
+
+Metallic Orange Pearl
+
+
+---
+
+
+Purple60 is
+R 15
+G 0
+B 60
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 60, 0, 255
+Wheels White, Metallic Purple
+Tire Smoke 120, 0, 255
+Plates 10
+Headlights 13
+Interiors 
+
+Pearling suggestions:
+Blue Pearl
+
+Any Pink Pearl
+
+Metallic or Matte Orange Pearl
+
+
+---
+
+
+Purple76, 78 etc is
+R 32
+G 9
+B 76 (or 78 or whatever)
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 60, 0, 255
+Wheels White, Metallic Purple
+Tire Smoke 120, 0, 255
+Plates 10
+Headlights 13
+Interiors 
+
+Pearling suggestions:
+Any Pink Pearl
+
+Metallic Orange Pearl
+
+
+---
+
+
+Purple145 (may sometimes be mis-labeled as Blue145 or Blacklight145) is usually
+R 45
+G 0
+B 145
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 60, 0, 255
+Wheels White, Metallic Purple
+Tire Smoke 120, 0, 255
+Plates 10
+Headlights 13
+Interiors 
+
+Pearling suggestions:
+Blue Pearl
+
+Metallic Orange Pearl
+
+White Pearl
+
+Util Red Pearl (makes a Hotter Pink than Hot Pink Pearl)
+
+Any Pink Pearl
+
+
+---
+
+
+Purple80.0.255
+R 80
+G varies, but very low
+B 255
+
+This is a very popular neon Purple primarily used for Colored Chrome, bright Mattes and similar
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 60, 0, 255
+Wheels White, Metallic Purple
+Tire Smoke 120, 0, 255
+Plates 10
+Headlights 13
+Interiors 
+
+Pearling suggestions:
+Util Bright Red
+
+Hot Pink Pearl
+
+
+---
+
+
+Purple116.15.255
+R 116
+G varies, but very low
+B 255
+
+This is a very popular bright neon Purple tinted towards Pink, primarily used for Colored Chrome, bright Mattes and similar
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 60, 0, 255
+Wheels White, Metallic Purple
+Tire Smoke 120, 0, 255
+Plates 10
+Headlights 13
+Interiors 
+
+Pearling suggestions:
+Util Bright Red
+
+Hot Pink Pearl
+
+
+---
+
+
+Purple140,0,255 - Color Changing
+R 140
+G 0
+B 255
+
+Paints to use as a Primary/Secondary alongside this:
+Hot Pink 255
+
+Neons 90, 0, 2550
+Wheels White, Pinks, Purples
+Tire Smoke 180, 60, 255
+Plate 7 or 10
+Headlights 12 or 13
+Interiors 
+
+Pearling suggestions:
+So bright that most Pearls won't show up well anyway, but you could go with a Pink
+
+Color Changing:
+Make your Primary paint Hot Pink 255, 0, 255, and make your Secondary a Neon Purple 140, 0, 255 with the Red set around 120 - 140. 120 is more visible Purple, 140 is less visible Purple. You can do this without the Hot Pink Primary but it won't look as noticeable. To maximize this effect it needs to be done on a car with very visible Primary and Secondary paints, when done properly the Purple will look very Pink in sunlight and very Purple in darkness
+
+
+------------------
+
+
+Reds
+
+
+------------------
+
+
+Red20 / Red30 / Red36 etc is
+R 20 (or 30, or 36, or whatever)
+G 0
+B 0
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 255, 0, 0
+Wheels White, Util Bright Red
+Tire Smoke 255, 0, 0
+Plates 6
+Headlights 10
+Interiors 
+
+Pearling suggestions:
+Util Bright Red Pearl
+
+Metallic Orange Pearl
+
+Matte Red 36 is usually paired with a Vermillion Pink, Salmon Pink or Sunrise Orange Pearl
+
+Metal Red 36 is usually paired with Pinks, Whites, Reds, and the brightest Oranges
+
+
+---
+
+
+Strawberry Red (Red with Hot Pink Pearl)
+R 25 (or 30, or 36, or whatever)
+G 0
+B 0
+
+Neons 255, 0, 55
+Wheels White, Candy Red
+Tire Smoke 255, 0, 85
+Plates 6
+Headlights 10
+Interiors 
+
+Pearling suggestions: 
+Hot Pink Pearl
+
+
+------------------
+
+
+Rust Liveries - Use a Matte texture
+R 25 (Value adjust this RGB to find what looks best on the car)
+G 6
+B 3
+
+Paints to use as a Primary/Secondary alongside this:
+
+Rust Liveries Dark (still finalizing this one)
+Neons 183, 63, 101
+Wheels Worn Dark Red
+Tire Smoke 165, 72, 57
+Plates 11
+Headlights 9
+Interiors 
+
+Rust Liveries Light (still finalizing this one)
+Neons 186, 109, 87
+Wheels Worn Red
+Tire Smoke 198, 145, 130
+Plates 11
+Headlights 9
+
+Pearling Suggestions: 
+Worn Golden Red Pearl
+
+Worn Red Pearl
+
+
+------------------
+
+
+
+Whites
+
+
+------------------
+
+
+White191 is
+R 193
+G 191
+B 255
+
+This is usually best done with either a glossy or Metal texture. When combined with a Diamond Blue or White Pearl it can give an effect similar to porcelain or pearl, while on some cars it looks something like the hull of a spaceship. When used in combination with a Gold Metal textured or Brushed Gold Metal textured secondary paint, it can make certain cars look like jewelry/bling. It won't look good on all cars, though
+
+
+---
+
+
+White255 is
+R 255
+G 255
+B 255
+
+Neons 255, 255, 255
+Wheels White
+Tire Smoke 255, 255, 255
+Plates 7
+Headlights 2
+Interiors 
+
+
+------------------
+
+
+Yellows
+
+
+------------------
+
+
+Yellow255 is
+R 255
+G 220
+B 0
+
+Paints to use as a Primary/Secondary alongside this:
+
+Neons 255, 200, 0
+Wheels White, Race Taxi Yellow
+Tire Smoke 255, 200, 0
+Plates 11
+Headlights 8
+Interiors 
+
+Pearling Suggestions:
+Metallic Race Yellow Pearl for less Green, Yellow Bird for more Green, Metallic Taxi Yellow for more Orange

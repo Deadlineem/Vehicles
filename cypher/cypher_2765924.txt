@@ -1,0 +1,86 @@
+Model: cypher
+Plate Style: 0
+Plate Text: 01PVP058
+Primary Colour: 112
+Secondary Colour: 0
+Pearl Colour: 111
+Wheel Colour: 88
+Wheel Type: 7
+Spoiler: 14
+Front Bumper: 12
+Rear Bumper: 5
+Sideskirt: 9
+Exhaust: 8
+Chassis: 9
+Grille: 13
+Hood: 14
+Fender: 2
+Right Fender: 5
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 40
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 2
+Trim: 9
+Ornaments: 2
+Dashboard: 4
+Dial: 1
+Seats: 0
+Door Speaker: 11
+Steering Wheel: 16
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 12
+Air Filter: 0
+Struts: 17
+Arch Cover: 9
+Aerials: 8
+Trim2: 7
+Tank: 4
+Left Door: 0
+Right Door: 0
+Livery: 1
+Lightbar: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #52efaf
+Custom Secondary Colour: #52efaf
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 27
+Roof Livery: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

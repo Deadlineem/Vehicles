@@ -1,0 +1,59 @@
+Model: cypher
+Plate Style: 0
+Plate Text: CARMEET 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 134
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 12
+Rear Bumper: 5
+Sideskirt: 6
+Exhaust: 8
+Chassis: 0
+Grille: 1
+Hood: 0
+Fender: 2
+Right Fender: 0
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 19
+Vanity Plates: 2
+Trim: 0
+Ornaments: 0
+Dashboard: 1
+Dial: 1
+Seats: 2
+Door Speaker: 11
+Steering Wheel: 16
+Engine Block: 12
+Struts: 17
+Arch Cover: 9
+Aerials: 0
+Trim2: 1
+Tank: 1
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 6
+Custom Primary Colour: #0f1e68
+Custom Secondary Colour: #0f1e68
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 27
+Dashboard Colour: 156
+Tyres Mode: 1

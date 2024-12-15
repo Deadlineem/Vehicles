@@ -1,0 +1,48 @@
+Model: monstrociti
+Plate Style: 0
+Plate Text: 64RAP815
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 111
+Wheel Colour: 88
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 3
+Exhaust: 5
+Chassis: 0
+Grille: 0
+Hood: 1
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 50
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 111
+Trim2: 0
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 5
+Custom Primary Colour: #0550ff
+Custom Secondary Colour: #0550ff
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 29
+Dashboard Colour: 134
+Tyres Mode: 2
+Extra 1: No
+Extra 2: No
+Extra 3: No

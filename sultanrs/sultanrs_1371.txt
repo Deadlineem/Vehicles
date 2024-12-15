@@ -1,0 +1,58 @@
+Model: sultanrs
+Plate Style: 0
+Plate Text: 83UPD200
+Primary Colour: 135
+Secondary Colour: 137
+Pearl Colour: 135
+Wheel Colour: 135
+Wheel Type: 8
+Spoiler: 15
+Front Bumper: 15
+Rear Bumper: 0
+Sideskirt: 2
+Exhaust: 3
+Chassis: 5
+Grille: 0
+Hood: 8
+Fender: 3
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 34
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 60
+Trim: 1
+Ornaments: 45
+Dashboard: 5
+Dial: 6
+Seats: 7
+Door Speaker: 14
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 8
+Struts: 12
+Arch Cover: 1
+Aerials: 0
+Trim2: 1
+Windows: 3
+Livery: 8
+Tyre Smoke Colour: #cb3694
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff05be
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 137
+Dashboard Colour: 74
+Tyres Mode: 2

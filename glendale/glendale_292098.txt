@@ -1,0 +1,40 @@
+Model: glendale
+Plate Style: 5
+Plate Text:  YO KEY 
+Primary Colour: 107
+Secondary Colour: 0
+Pearl Colour: 110
+Wheel Colour: 105
+Wheel Type: 12
+Spoiler: 0
+Front Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 6
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 29
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: #cfc0a5
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 8
+Dashboard Colour: 0
+Tyres Mode: 2

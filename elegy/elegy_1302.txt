@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 81
+Wheel Colour: 121
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 3
+Rear Bumper: 0
+Sideskirt: 5
+Exhaust: 8
+Chassis: 4
+Grille: 0
+Hood: 0
+Fender: 2
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 55
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 108
+Plate Holder: 1
+Vanity Plates: 2
+Trim: 0
+Dashboard: 1
+Dial: 15
+Seats: 3
+Door Speaker: 1
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 4
+Left Door: 1
+Livery: 1
+Tyre Smoke Colour: #010101
+Window Tint: 3
+Custom Primary Colour: #16001e
+Custom Secondary Colour: #16001e
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 63
+Dashboard Colour: 134
+Tyres Mode: 1

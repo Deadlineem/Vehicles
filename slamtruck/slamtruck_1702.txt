@@ -1,0 +1,40 @@
+Model: slamtruck
+Plate Style: 0
+Plate Text: XU41TNEM
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 0
+Wheel Type: 10
+Front Bumper: 7
+Sideskirt: 0
+Exhaust: 3
+Grille: 9
+Hood: 4
+Right Fender: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 17
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 25
+Back Wheels: 0
+Livery: 4
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #4305ff
+Custom Secondary Colour: #4305ff
+Neon Colour: #3f00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 156
+Tyres Mode: 1

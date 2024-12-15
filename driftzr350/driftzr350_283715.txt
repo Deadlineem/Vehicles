@@ -1,0 +1,60 @@
+Model: driftzr350
+Plate Style: 5
+Plate Text:   M4CK  
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 70
+Wheel Colour: 111
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 3
+Rear Bumper: 1
+Sideskirt: 13
+Exhaust: 8
+Chassis: 1
+Grille: 5
+Hood: 1
+Fender: 1
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 57
+Vanity Plates: 4
+Trim: 4
+Dashboard: 3
+Dial: 2
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 8
+Engine Block: 0
+Air Filter: 6
+Struts: 6
+Arch Cover: 2
+Aerials: 0
+Trim2: 0
+Left Door: 5
+Right Door: 3
+Livery: 6
+Tyre Smoke Colour: #000000
+Window Tint: 5
+Custom Primary Colour: #8072ff
+Custom Secondary Colour: #8072ff
+Neon Colour: #dedeff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 64
+Dashboard Colour: 134
+Tyres Mode: 1

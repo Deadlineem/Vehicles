@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 0
+Plate Text: NGZSLIDE
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 1
+Wheel Type: 11
+Spoiler: 7
+Front Bumper: 3
+Rear Bumper: 0
+Sideskirt: 5
+Exhaust: 1
+Chassis: 1
+Grille: 0
+Hood: 5
+Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 118
+Plate Holder: 3
+Vanity Plates: 3
+Trim: 1
+Dashboard: 1
+Dial: 0
+Seats: 1
+Door Speaker: 11
+Steering Wheel: 12
+Engine Block: 1
+Air Filter: 1
+Struts: 12
+Arch Cover: 0
+Aerials: 7
+Trim2: 0
+Tank: 5
+Windows: 1
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #ffffff
+Neon Colour: #00ffff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 63
+Dashboard Colour: 0
+Tyres Mode: 1

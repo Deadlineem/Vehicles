@@ -1,0 +1,39 @@
+Model: osiris
+Plate Style: 5
+Plate Text:   UWU   
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 159
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 1
+Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 47
+Livery: -1
+Tyre Smoke Colour: #ff0000
+Window Tint: 4
+Custom Primary Colour: #380027
+Custom Secondary Colour: #380027
+Neon Colour: #ffffff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

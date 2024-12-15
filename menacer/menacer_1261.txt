@@ -1,0 +1,41 @@
+Model: menacer
+Plate Style: 1
+Plate Text: 86EUR029
+Primary Colour: 117
+Secondary Colour: 12
+Pearl Colour: 28
+Wheel Colour: 0
+Wheel Type: 8
+Front Bumper: 10
+Rear Bumper: 2
+Sideskirt: 9
+Exhaust: 7
+Chassis: 1
+Grille: 2
+Hood: 20
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 148
+Livery: 27
+Tyre Smoke Colour: #6b0000
+Window Tint: 1
+Custom Primary Colour: #6b0000
+Custom Secondary Colour: #000000
+Neon Colour: #5e0001
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

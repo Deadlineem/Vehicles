@@ -1,0 +1,38 @@
+Model: tropos
+Plate Style: 5
+Plate Text:  BLEHH  
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 124
+Wheel Colour: 156
+Wheel Type: 5
+Spoiler: 0
+Exhaust: 1
+Grille: 0
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 40
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #603417
+Custom Secondary Colour: #603417
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 2

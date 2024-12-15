@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 1
+Plate Text: 0CJZD968
+Primary Colour: 0
+Secondary Colour: 149
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 21
+Front Bumper: 0
+Rear Bumper: 19
+Sideskirt: 0
+Exhaust: 18
+Grille: 0
+Hood: 0
+Fender: 0
+Right Fender: 5
+Roof: 0
+Engine: 4
+Brakes: 0
+Transmission: 3
+Horns: 21
+Suspension: 5
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 112
+Vanity Plates: 0
+Trim: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Arch Cover: 1
+Aerials: 0
+Trim2: 0
+Livery: 14
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #4600ff
+Custom Secondary Colour: 
+Neon Colour: #00ff8c
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 5
+Tyres Mode: 1

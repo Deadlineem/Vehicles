@@ -1,0 +1,39 @@
+Model: comet2
+Plate Style: 2
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 140
+Wheel Colour: 64
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 2
+Exhaust: 1
+Chassis: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 55
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 171
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #001321
+Custom Secondary Colour: #ff0000
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

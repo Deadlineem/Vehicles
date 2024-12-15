@@ -1,0 +1,44 @@
+Model: omnisegt
+Plate Style: 1
+Plate Text: SNB ATHN
+Primary Colour: 111
+Secondary Colour: 12
+Pearl Colour: 92
+Wheel Colour: 156
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 2
+Sideskirt: 1
+Chassis: 0
+Grille: 3
+Hood: 0
+Fender: 2
+Right Fender: 0
+Roof: 9
+Engine: 4
+Brakes: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 26
+Trim2: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #19362f
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

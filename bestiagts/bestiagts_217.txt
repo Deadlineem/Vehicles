@@ -1,0 +1,39 @@
+Model: bestiagts
+Plate Style: 0
+Plate Text:   BRN   
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 3
+Sideskirt: 3
+Exhaust: 1
+Hood: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 15
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #003530
+Custom Secondary Colour: #040035
+Neon Colour: #00ff37
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 4

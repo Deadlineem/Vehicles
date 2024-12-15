@@ -1,0 +1,41 @@
+Model: turismor
+Plate Style: 1
+Plate Text:  SAINT  
+Primary Colour: 107
+Secondary Colour: 118
+Pearl Colour: 89
+Wheel Colour: 0
+Wheel Type: 9
+Spoiler: 19
+Front Bumper: 6
+Rear Bumper: 1
+Sideskirt: 4
+Exhaust: 8
+Chassis: 3
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 33
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 57
+Livery: 1
+Tyre Smoke Colour: #cfc0a5
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #9b4d00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

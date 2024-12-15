@@ -1,0 +1,43 @@
+Model: furia
+Plate Style: 5
+Plate Text:   UWU   
+Primary Colour: 50
+Secondary Colour: 50
+Pearl Colour: 10
+Wheel Colour: 1
+Wheel Type: 0
+Front Bumper: 1
+Rear Bumper: 8
+Sideskirt: 3
+Exhaust: 4
+Chassis: 2
+Grille: 0
+Hood: 8
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 34
+Livery: 0
+Tyre Smoke Colour: #99ffa8
+Window Tint: 4
+Custom Primary Colour: #122e2b
+Custom Secondary Colour: #122e2b
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 113
+Dashboard Colour: 111
+Tyres Mode: 2

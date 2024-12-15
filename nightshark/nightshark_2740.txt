@@ -1,0 +1,41 @@
+Model: nightshark
+Plate Style: 1
+Plate Text: 8BXQL715
+Primary Colour: 153
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 8
+Front Bumper: 2
+Rear Bumper: 2
+Exhaust: 2
+Chassis: 3
+Grille: 8
+Hood: 8
+Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 0
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 15
+Livery: 22
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #ff0000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

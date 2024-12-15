@@ -1,0 +1,48 @@
+Model: monstrociti
+Plate Style: 0
+Plate Text: 64ESB715
+Primary Colour: 121
+Secondary Colour: 48
+Pearl Colour: 1
+Wheel Colour: 141
+Wheel Type: 4
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 1
+Chassis: 1
+Grille: 3
+Hood: 0
+Fender: 0
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 0
+Trim2: 1
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: #eae6de
+Custom Secondary Colour: #371c25
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 29
+Dashboard Colour: 134
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes
+Extra 3: No

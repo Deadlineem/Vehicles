@@ -1,0 +1,44 @@
+Model: xa21
+Plate Style: 0
+Plate Text: KEKTRAM 
+Primary Colour: 0
+Secondary Colour: 140
+Pearl Colour: 140
+Wheel Colour: 140
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 2
+Exhaust: 9
+Chassis: 3
+Grille: 0
+Hood: 1
+Fender: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 36
+Suspension: 4
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #080808
+Custom Secondary Colour: #04ca2b
+Neon Colour: #20e059
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 7
+Dashboard Colour: 0
+Tyres Mode: 1

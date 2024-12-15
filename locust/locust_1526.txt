@@ -1,0 +1,40 @@
+Model: locust
+Plate Style: 0
+Plate Text: 67QHJ038
+Primary Colour: 51
+Secondary Colour: 88
+Pearl Colour: 3
+Wheel Colour: 156
+Wheel Type: 10
+Spoiler: 6
+Front Bumper: 5
+Sideskirt: 6
+Exhaust: 5
+Chassis: 0
+Hood: 3
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 4
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 22
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #0995ec
+Custom Secondary Colour: #2c88f6
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 14
+Dashboard Colour: 39
+Tyres Mode: 1

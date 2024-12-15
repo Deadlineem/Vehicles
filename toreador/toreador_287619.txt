@@ -1,0 +1,39 @@
+Model: toreador
+Plate Style: 1
+Plate Text:  SOPHIE 
+Primary Colour: 27
+Secondary Colour: 27
+Pearl Colour: 112
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 9
+Front Bumper: 9
+Rear Bumper: 9
+Grille: 9
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 46
+Livery: 4
+Tyre Smoke Colour: #fcee00
+Window Tint: 0
+Custom Primary Colour: #ffd859
+Custom Secondary Colour: #ffd859
+Neon Colour: #ff9605
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 132
+Tyres Mode: 1

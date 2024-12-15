@@ -1,0 +1,45 @@
+Model: drafter
+Plate Style: 0
+Plate Text: 23TYJ400
+Primary Colour: 52
+Secondary Colour: 128
+Pearl Colour: 52
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 3
+Sideskirt: 3
+Exhaust: 4
+Chassis: 0
+Grille: 2
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 28
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,86 @@
+Model: sultanrs
+Plate Style: 0
+Plate Text: 4FZMJ191
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 122
+Wheel Type: 10
+Spoiler: 15
+Front Bumper: 9
+Rear Bumper: 6
+Sideskirt: 0
+Exhaust: 0
+Chassis: 5
+Grille: 4
+Hood: 9
+Fender: 6
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 15
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 1
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 1
+Ornaments: 7
+Dashboard: 4
+Dial: 1
+Seats: 4
+Door Speaker: 14
+Steering Wheel: 7
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 3
+Air Filter: 7
+Struts: 6
+Arch Cover: 1
+Aerials: 0
+Trim2: 1
+Tank: 0
+Left Door: 1
+Right Door: 0
+Livery: 0
+Lightbar: 2
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #817fff
+Custom Secondary Colour: #817fff
+Neon Colour: #837fff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Roof Livery: 0
+Dashboard Colour: 136
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

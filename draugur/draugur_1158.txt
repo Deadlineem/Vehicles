@@ -1,0 +1,44 @@
+Model: draugur
+Plate Style: 5
+Plate Text: 30SEY914
+Primary Colour: 120
+Secondary Colour: 12
+Pearl Colour: 5
+Wheel Colour: 111
+Wheel Type: 10
+Spoiler: 3
+Front Bumper: 18
+Rear Bumper: 2
+Sideskirt: 10
+Exhaust: 9
+Chassis: 6
+Grille: 6
+Fender: 5
+Right Fender: 6
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 61
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #ff00ff
+Custom Secondary Colour: #ff00ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

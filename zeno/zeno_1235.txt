@@ -1,0 +1,42 @@
+Model: zeno
+Plate Style: 0
+Plate Text: 16YSW416
+Primary Colour: 36
+Secondary Colour: 0
+Pearl Colour: 138
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 3
+Front Bumper: 13
+Rear Bumper: 13
+Sideskirt: 13
+Exhaust: 14
+Hood: 12
+Fender: 2
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 22
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

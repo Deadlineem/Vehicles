@@ -1,0 +1,48 @@
+Model: coureur
+Plate Style: 0
+Plate Text: 04VJZ418
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 44
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 6
+Rear Bumper: 0
+Sideskirt: 17
+Chassis: 2
+Grille: 9
+Hood: 20
+Fender: 6
+Right Fender: 7
+Roof: 16
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 58
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 10
+Front Wheels: 87
+Shifter Leavers: 0
+Speakers: 0
+Trim2: 2
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1
+Extra 1: Yes

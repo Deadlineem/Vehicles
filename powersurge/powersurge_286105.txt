@@ -1,0 +1,41 @@
+Model: powersurge
+Plate Style: 1
+Plate Text: 07OQZ711
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 12
+Wheel Colour: 156
+Wheel Type: 6
+Spoiler: 1
+Front Bumper: 2
+Rear Bumper: 2
+Chassis: 2
+Grille: 7
+Hood: 6
+Right Fender: 1
+Roof: 15
+Engine: 5
+Brakes: 3
+Horns: 58
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 59
+Back Wheels: 59
+Livery: 0
+Tyre Smoke Colour: #010101
+Window Tint: 6
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 154
+Dashboard Colour: 156
+Tyres Mode: 1

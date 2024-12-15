@@ -1,0 +1,48 @@
+Model: monstrociti
+Plate Style: 0
+Plate Text: 00VLT493
+Primary Colour: 70
+Secondary Colour: 65
+Pearl Colour: 70
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 3
+Chassis: 1
+Grille: 2
+Hood: 0
+Fender: 2
+Roof: 4
+Engine: 3
+Brakes: 0
+Transmission: 2
+Horns: 49
+Suspension: 2
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 31
+Trim2: 2
+Livery: 4
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #df1326
+Custom Secondary Colour: #87e5c6
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 2
+Extra 1: Yes
+Extra 2: Yes
+Extra 3: No

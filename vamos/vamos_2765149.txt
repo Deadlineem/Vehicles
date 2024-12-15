@@ -1,0 +1,43 @@
+Model: vamos
+Plate Style: 0
+Plate Text: V3X884
+Primary Colour: 0
+Secondary Colour: 120
+Pearl Colour: 140
+Wheel Colour: 0
+Wheel Type: 1
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Exhaust: 4
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 19
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #001e41
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 2
+Dashboard Colour: 156
+Tyres Mode: 2

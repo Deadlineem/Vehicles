@@ -1,0 +1,55 @@
+Model: sultan3
+Plate Style: 0
+Plate Text: 07ARJ840
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 116
+Wheel Type: 3
+Spoiler: 2
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 3
+Exhaust: 7
+Chassis: 0
+Grille: 4
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 37
+Trim: 0
+Dashboard: 5
+Dial: 15
+Seats: 1
+Engine Block: 3
+Air Filter: 7
+Struts: 12
+Arch Cover: 0
+Aerials: 0
+Trim2: 1
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 6
+Custom Primary Colour: #ffe100
+Custom Secondary Colour: #ffe100
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Dashboard Colour: 160
+Tyres Mode: 1

@@ -1,0 +1,45 @@
+Model: issi7
+Plate Style: 0
+Plate Text: 68TIK189
+Primary Colour: 0
+Secondary Colour: 117
+Pearl Colour: 88
+Wheel Colour: 54
+Wheel Type: 9
+Spoiler: 0
+Front Bumper: 6
+Rear Bumper: 3
+Sideskirt: 3
+Exhaust: 4
+Grille: 0
+Hood: 7
+Fender: 3
+Right Fender: 0
+Roof: 2
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 8
+Front Wheels: 110
+Livery: 10
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #191700
+Custom Secondary Colour: #ffe900
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1
+Extra 1: Yes

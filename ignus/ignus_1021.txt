@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 0
+Plate Text: 66XGW728
+Primary Colour: 146
+Secondary Colour: 67
+Pearl Colour: 140
+Wheel Colour: 145
+Wheel Type: 8
+Spoiler: 13
+Front Bumper: 17
+Rear Bumper: 6
+Sideskirt: 10
+Exhaust: 1
+Hood: 17
+Roof: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 171
+Livery: 10
+Tyre Smoke Colour: #ff6105
+Window Tint: 1
+Custom Primary Colour: #00080f
+Custom Secondary Colour: #95b2db
+Neon Colour: #0f03ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 17
+Dashboard Colour: 156
+Tyres Mode: 1

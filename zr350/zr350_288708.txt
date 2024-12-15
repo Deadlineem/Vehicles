@@ -1,0 +1,60 @@
+Model: zr350
+Plate Style: 7
+Plate Text:   UWU   
+Primary Colour: 64
+Secondary Colour: 64
+Pearl Colour: 68
+Wheel Colour: 8
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 26
+Vanity Plates: 0
+Trim: 0
+Dashboard: 0
+Dial: 2
+Seats: 0
+Door Speaker: 3
+Steering Wheel: 12
+Engine Block: 2
+Air Filter: 2
+Struts: 12
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Left Door: 0
+Right Door: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #b27100
+Custom Secondary Colour: #b27100
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 112
+Tyres Mode: 1

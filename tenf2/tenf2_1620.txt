@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 5
+Plate Text: RS8 V12 
+Primary Colour: 0
+Secondary Colour: 30
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 9
+Spoiler: 25
+Front Bumper: 18
+Rear Bumper: 18
+Sideskirt: 6
+Exhaust: 22
+Grille: 2
+Hood: 17
+Fender: 7
+Right Fender: 8
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 217
+Vanity Plates: 8
+Trim: 2
+Dashboard: 1
+Seats: 0
+Door Speaker: 11
+Steering Wheel: 2
+Arch Cover: 0
+Aerials: 0
+Trim2: 4
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: 
+Neon Colour: #ff6a00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 156
+Tyres Mode: 1

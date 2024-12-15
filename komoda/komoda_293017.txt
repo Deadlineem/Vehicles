@@ -1,0 +1,43 @@
+Model: komoda
+Plate Style: 5
+Plate Text:   UWU   
+Primary Colour: 142
+Secondary Colour: 142
+Pearl Colour: 72
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 2
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 8
+Exhaust: 2
+Hood: 0
+Fender: 0
+Right Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 34
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 4
+Dashboard Colour: 0
+Tyres Mode: 2

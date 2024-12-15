@@ -1,0 +1,41 @@
+Model: turismor
+Plate Style: 1
+Plate Text: H  HH  H
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 10
+Front Bumper: 12
+Rear Bumper: 1
+Sideskirt: 12
+Exhaust: 8
+Chassis: 3
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 150
+Livery: 7
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #ffffff
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,44 @@
+Model: torero2
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 120
+Secondary Colour: 12
+Pearl Colour: 89
+Wheel Colour: 31
+Wheel Type: 9
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 4
+Sideskirt: 11
+Exhaust: 7
+Chassis: 1
+Grille: 9
+Hood: 0
+Fender: 1
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 9
+Front Wheels: 124
+Livery: 9
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ba5d00
+Custom Secondary Colour: #ff6400
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,44 @@
+Model: gp1
+Plate Style: 1
+Plate Text:  8WWPT3 
+Primary Colour: 33
+Secondary Colour: 12
+Pearl Colour: 47
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 9
+Front Bumper: 7
+Rear Bumper: 0
+Sideskirt: 3
+Exhaust: 13
+Chassis: 4
+Grille: 1
+Hood: 10
+Fender: 3
+Right Fender: 2
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 24
+Livery: -1
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 111
+Tyres Mode: 1

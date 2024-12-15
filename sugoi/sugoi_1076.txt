@@ -1,0 +1,43 @@
+Model: sugoi
+Plate Style: 0
+Plate Text: 46EEK572
+Primary Colour: 91
+Secondary Colour: 73
+Pearl Colour: 76
+Wheel Colour: 88
+Wheel Type: 12
+Spoiler: 6
+Front Bumper: 6
+Rear Bumper: 5
+Sideskirt: 6
+Exhaust: 2
+Grille: 5
+Hood: 11
+Fender: 3
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 0
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 10
+Front Wheels: 0
+Livery: 10
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ffc82d
+Custom Secondary Colour: #ffc82d
+Neon Colour: #969600
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 4
+Dashboard Colour: 0
+Tyres Mode: 1

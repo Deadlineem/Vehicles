@@ -1,0 +1,39 @@
+Model: shinobi
+Plate Style: 1
+Plate Text: 0CJZD968
+Primary Colour: 112
+Secondary Colour: 68
+Pearl Colour: 0
+Wheel Colour: 11
+Wheel Type: 6
+Front Bumper: 0
+Sideskirt: 0
+Exhaust: 4
+Chassis: 0
+Hood: 0
+Engine: 4
+Brakes: 4
+Transmission: 0
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 6, Custom
+Back Wheels: 6, Custom
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

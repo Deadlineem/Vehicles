@@ -1,0 +1,42 @@
+Model: comet7
+Plate Style: 1
+Plate Text:  8W5533 
+Primary Colour: 38
+Secondary Colour: 12
+Pearl Colour: 91
+Wheel Colour: 2
+Wheel Type: 11
+Spoiler: 4
+Front Bumper: 8
+Rear Bumper: 8
+Sideskirt: 8
+Exhaust: 2
+Hood: 9
+Fender: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 26
+Vanity Plates: 3
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

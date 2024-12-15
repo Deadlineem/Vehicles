@@ -1,0 +1,63 @@
+Model: yosemite3
+Plate Style: 0
+Plate Text: 81YHL151
+Primary Colour: 11
+Secondary Colour: 3
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 5
+Front Bumper: 11
+Rear Bumper: 4
+Sideskirt: 1
+Exhaust: 1
+Chassis: 3
+Grille: 4
+Hood: 13
+Fender: 5
+Right Fender: 7
+Roof: 5
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 204
+Ornaments: 0
+Dial: 0
+Seats: 0
+Door Speaker: 9
+Steering Wheel: 0
+Shifter Leavers: 0
+Trunk: 0
+Engine Block: 3
+Air Filter: 5
+Arch Cover: 5
+Aerials: 3
+Trim2: 1
+Tank: 7
+Windows: 4
+Unk47: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2
+Extra 1: No
+Extra 2: No
+Extra 3: No

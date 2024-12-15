@@ -1,0 +1,38 @@
+Model: coquette2
+Plate Style: 1
+Plate Text: 20ARB551
+Primary Colour: 118
+Secondary Colour: 118
+Pearl Colour: 70
+Wheel Colour: 134
+Wheel Type: 8
+Front Bumper: 4
+Rear Bumper: 3
+Exhaust: 4
+Chassis: 1
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 41
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 108
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #8c5ae6
+Custom Secondary Colour: #8c5ae6
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

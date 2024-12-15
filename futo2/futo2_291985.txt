@@ -1,0 +1,59 @@
+Model: futo2
+Plate Style: 1
+Plate Text: SNB ATHN
+Primary Colour: 111
+Secondary Colour: 0
+Pearl Colour: 51
+Wheel Colour: 109
+Wheel Type: 11
+Spoiler: 2
+Front Bumper: 1
+Rear Bumper: 1
+Sideskirt: 3
+Exhaust: 4
+Chassis: 5
+Grille: 2
+Hood: 6
+Fender: 0
+Right Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 26
+Plate Holder: 3
+Vanity Plates: 2
+Trim: 1
+Dashboard: 5
+Door Speaker: 12
+Steering Wheel: 12
+Engine Block: 4
+Air Filter: 7
+Struts: 12
+Arch Cover: 0
+Trim2: 0
+Tank: 3
+Left Door: 3
+Right Door: 7
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 9
+Dashboard Colour: 35
+Tyres Mode: 1

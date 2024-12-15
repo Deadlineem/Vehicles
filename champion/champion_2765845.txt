@@ -1,0 +1,46 @@
+Model: champion
+Plate Style: 0
+Plate Text:  0 KMH  
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 4
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 1
+Chassis: 1
+Grille: 2
+Hood: 0
+Right Fender: 1
+Roof: 3
+Engine: 5
+Brakes: 4
+Transmission: 4
+Horns: 25
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 107
+Trim2: 2
+Tank: 0
+Livery: 7
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #5b0077
+Custom Secondary Colour: #000000
+Neon Colour: #ff0001
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 64
+Dashboard Colour: 134
+Tyres Mode: 2

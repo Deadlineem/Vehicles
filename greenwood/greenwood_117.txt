@@ -1,0 +1,47 @@
+Model: greenwood
+Plate Style: 1
+Plate Text:  HONZA  
+Primary Colour: 0
+Secondary Colour: 117
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 11
+Front Bumper: 4
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 12
+Chassis: 1
+Grille: 2
+Fender: 2
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 13
+Front Wheels: 78
+Air Filter: 10
+Arch Cover: 5
+Trim2: 2
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #5a0bff
+Custom Secondary Colour: #5a0bff
+Neon Colour: #5a0aff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

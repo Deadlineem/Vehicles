@@ -1,0 +1,60 @@
+Model: remus
+Plate Style: 1
+Plate Text:  0 MPH  
+Primary Colour: 0
+Secondary Colour: 111
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 9
+Front Bumper: 4
+Rear Bumper: 2
+Sideskirt: 3
+Exhaust: 13
+Chassis: 5
+Grille: 6
+Hood: 9
+Fender: 7
+Right Fender: 1
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 3
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 121
+Vanity Plates: 7
+Trim: 3
+Dashboard: 5
+Dial: 15
+Seats: 7
+Door Speaker: 12
+Steering Wheel: 15
+Trunk: 2
+Engine Block: 3
+Air Filter: 8
+Struts: 11
+Arch Cover: 5
+Trim2: 4
+Tank: 5
+Right Door: 1
+Livery: 8
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 111
+Tyres Mode: 1

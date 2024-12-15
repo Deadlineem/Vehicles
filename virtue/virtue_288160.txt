@@ -1,0 +1,47 @@
+Model: virtue
+Plate Style: 1
+Plate Text: 82GVY726
+Primary Colour: 158
+Secondary Colour: 158
+Pearl Colour: 160
+Wheel Colour: 37
+Wheel Type: 12
+Spoiler: 4
+Front Bumper: 3
+Rear Bumper: 2
+Sideskirt: 10
+Chassis: 1
+Grille: 3
+Hood: 0
+Fender: 0
+Right Fender: 1
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 0
+Horns: 1
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 104
+Trim: 0
+Aerials: 2
+Trim2: 2
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

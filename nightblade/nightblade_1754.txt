@@ -1,0 +1,40 @@
+Model: nightblade
+Plate Style: 1
+Plate Text: 8LMNT624
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 27
+Wheel Type: 6
+Front Bumper: 2
+Sideskirt: 2
+Exhaust: 4
+Chassis: 0
+Fender: 2
+Roof: 4
+Engine: 0
+Brakes: 3
+Transmission: 3
+Horns: 1
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 4
+Back Wheels: 4
+Livery: 1
+Tyre Smoke Colour: #e20606
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

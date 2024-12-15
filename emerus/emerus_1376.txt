@@ -1,0 +1,40 @@
+Model: emerus
+Plate Style: 0
+Plate Text: 7NZJH643
+Primary Colour: 7
+Secondary Colour: 27
+Pearl Colour: 70
+Wheel Colour: 140
+Wheel Type: 12
+Spoiler: 21
+Sideskirt: 11
+Exhaust: 5
+Grille: 3
+Fender: 1
+Roof: 6
+Engine: 2
+Brakes: 0
+Transmission: 3
+Horns: 45
+Armor: 0
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 4
+Front Wheels: 0
+Livery: 9
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #323b47
+Custom Secondary Colour: #690000
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 14
+Dashboard Colour: 131
+Tyres Mode: 1
+Extra 1: No

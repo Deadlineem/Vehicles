@@ -1,0 +1,42 @@
+Model: sm722
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 81
+Wheel Colour: 145
+Wheel Type: 10
+Spoiler: 21
+Front Bumper: 0
+Rear Bumper: 4
+Sideskirt: 10
+Exhaust: 4
+Chassis: 4
+Grille: 3
+Hood: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 34
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 78
+Livery: 3
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #ffffff
+Neon Colour: #1d007f
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 156
+Tyres Mode: 1

@@ -1,0 +1,43 @@
+Model: deviant
+Plate Style: 1
+Plate Text:  HONZA  
+Primary Colour: 0
+Secondary Colour: 117
+Pearl Colour: 0
+Wheel Colour: 5
+Wheel Type: 8
+Spoiler: 10
+Front Bumper: 5
+Rear Bumper: 4
+Exhaust: 0
+Grille: 11
+Hood: 4
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 48
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 77
+Livery: 0
+Tyre Smoke Colour: #5a0cff
+Window Tint: 0
+Custom Primary Colour: #5a0cff
+Custom Secondary Colour: #5a0cff
+Neon Colour: #5a01ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 2
+Dashboard Colour: 156
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No

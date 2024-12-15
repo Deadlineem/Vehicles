@@ -1,0 +1,45 @@
+Model: issi8
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 88
+Wheel Colour: 33
+Wheel Type: 9
+Spoiler: 12
+Front Bumper: 3
+Rear Bumper: 4
+Sideskirt: 5
+Exhaust: 1
+Chassis: 11
+Grille: 0
+Hood: 1
+Fender: 0
+Right Fender: 1
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 9
+Front Wheels: 119
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #300400
+Custom Secondary Colour: #300400
+Neon Colour: #ff3c00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

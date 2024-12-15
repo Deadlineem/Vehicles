@@ -1,0 +1,46 @@
+Model: stingertt
+Plate Style: 1
+Plate Text: 3VFHQ546
+Primary Colour: 30
+Secondary Colour: 12
+Pearl Colour: 36
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 3
+Front Bumper: 2
+Rear Bumper: 7
+Sideskirt: 14
+Exhaust: 7
+Chassis: 0
+Grille: 7
+Hood: 0
+Fender: 8
+Right Fender: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 11
+Trim2: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffffff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

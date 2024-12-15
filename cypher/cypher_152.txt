@@ -1,0 +1,59 @@
+Model: cypher
+Plate Style: 1
+Plate Text: 22CRB990
+Primary Colour: 72
+Secondary Colour: 10
+Pearl Colour: 88
+Wheel Colour: 0
+Wheel Type: 9
+Spoiler: 5
+Front Bumper: 1
+Rear Bumper: 3
+Sideskirt: 1
+Exhaust: 2
+Chassis: 0
+Grille: 2
+Hood: 8
+Fender: 0
+Right Fender: 5
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 93
+Vanity Plates: 0
+Trim: 0
+Ornaments: 2
+Dashboard: 0
+Dial: 1
+Seats: 6
+Door Speaker: 8
+Steering Wheel: 14
+Engine Block: 7
+Struts: 17
+Arch Cover: 4
+Aerials: 0
+Trim2: 6
+Tank: 1
+Livery: 1
+Tyre Smoke Colour: #ff7f00
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: #000000
+Neon Colour: #ff9605
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 135
+Tyres Mode: 1

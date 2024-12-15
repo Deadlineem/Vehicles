@@ -1,0 +1,54 @@
+Model: dominator8
+Plate Style: 1
+Plate Text: 82JXC491
+Primary Colour: 64
+Secondary Colour: 120
+Pearl Colour: 68
+Wheel Colour: 156
+Wheel Type: 1
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 5
+Sideskirt: 4
+Exhaust: 4
+Chassis: 0
+Grille: 1
+Hood: 15
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Vanity Plates: 0
+Trim: 0
+Door Speaker: 2
+Steering Wheel: 0
+Engine Block: 6
+Air Filter: 14
+Struts: 7
+Arch Cover: 0
+Aerials: 0
+Tank: 3
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 103
+Dashboard Colour: 111
+Tyres Mode: 1

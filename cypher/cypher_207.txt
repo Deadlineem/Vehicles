@@ -1,0 +1,59 @@
+Model: cypher
+Plate Style: 2
+Plate Text: 46EEK572
+Primary Colour: 20
+Secondary Colour: 36
+Pearl Colour: 30
+Wheel Colour: 64
+Wheel Type: 8
+Spoiler: 14
+Front Bumper: 10
+Rear Bumper: 3
+Sideskirt: 7
+Exhaust: 8
+Chassis: 8
+Grille: 11
+Hood: 12
+Fender: 1
+Right Fender: 5
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 39
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 107
+Vanity Plates: 0
+Trim: 2
+Ornaments: 2
+Dashboard: 1
+Dial: 1
+Seats: 0
+Door Speaker: 4
+Steering Wheel: 15
+Engine Block: 12
+Struts: 17
+Arch Cover: 9
+Aerials: 6
+Trim2: 7
+Tank: 1
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #00012f
+Custom Secondary Colour: 
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 62
+Dashboard Colour: 0
+Tyres Mode: 1

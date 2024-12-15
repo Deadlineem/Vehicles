@@ -1,0 +1,45 @@
+Model: gauntlet3
+Plate Style: 0
+Plate Text:  
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 138
+Wheel Colour: 0
+Wheel Type: 1
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Grille: 0
+Hood: 5
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 20
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: #641e00
+Custom Secondary Colour: #641e00
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 2

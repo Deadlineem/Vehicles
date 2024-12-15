@@ -1,0 +1,52 @@
+Model: weevil2
+Plate Style: 2
+Plate Text: 5HSLX903
+Primary Colour: 64
+Secondary Colour: 64
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 6
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 4
+Exhaust: 2
+Chassis: 4
+Grille: 0
+Hood: 0
+Fender: 8
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 184
+Trim: 10
+Door Speaker: 0
+Steering Wheel: 15
+Shifter Leavers: 9
+Arch Cover: 0
+Aerials: 0
+Left Door: 1
+Right Door: 0
+Livery: 0
+Tyre Smoke Colour: #36e4ff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 64
+Tyres Mode: 1

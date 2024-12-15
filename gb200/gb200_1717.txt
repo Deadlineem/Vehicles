@@ -1,0 +1,44 @@
+Model: gb200
+Plate Style: 2
+Plate Text: GATEAUX 
+Primary Colour: 0
+Secondary Colour: 117
+Pearl Colour: 140
+Wheel Colour: 62
+Wheel Type: 9
+Spoiler: 3
+Front Bumper: 3
+Rear Bumper: 0
+Sideskirt: 1
+Exhaust: 1
+Chassis: 0
+Grille: 0
+Hood: 6
+Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 146
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #00194c
+Custom Secondary Colour: #280000
+Neon Colour: #001fff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 158
+Dashboard Colour: 134
+Tyres Mode: 1

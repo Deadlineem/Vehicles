@@ -1,0 +1,86 @@
+Model: slamvan3
+Plate Style: 1
+Plate Text: 47OOJ935
+Primary Colour: 109
+Secondary Colour: 109
+Pearl Colour: 159
+Wheel Colour: 156
+Wheel Type: 10
+Spoiler: 1
+Front Bumper: 1
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 5
+Chassis: 0
+Grille: 2
+Hood: 4
+Fender: 0
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 9
+Back Wheels: 0
+Plate Holder: 13
+Vanity Plates: 16
+Trim: 3
+Ornaments: 25
+Dashboard: 2
+Dial: 14
+Seats: 0
+Door Speaker: 11
+Steering Wheel: 16
+Shifter Leavers: 15
+Plaques: 22
+Speakers: 0
+Trunk: 0
+Hydraulics: 4
+Engine Block: 4
+Air Filter: 5
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 2
+Left Door: 1
+Right Door: 0
+Livery: 1
+Lightbar: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #2c2100
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Roof Livery: 0
+Dashboard Colour: 0
+Tyres Mode: 0
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

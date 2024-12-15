@@ -1,0 +1,57 @@
+Model: kanjosj
+Plate Style: 1
+Plate Text: 4LSDJ255
+Primary Colour: 92
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 18
+Front Bumper: 5
+Rear Bumper: 6
+Sideskirt: 9
+Exhaust: 6
+Chassis: 8
+Grille: 14
+Hood: 10
+Fender: 4
+Right Fender: 2
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 15, Custom
+Trim: 1
+Dashboard: 5
+Seats: 4
+Door Speaker: 12
+Steering Wheel: 13
+Engine Block: 5
+Air Filter: 4
+Struts: 12
+Aerials: 6
+Trim2: 8
+Unk47: 6
+Livery: 7
+Tyre Smoke Colour: #72cc72
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #4b9906
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 3: Yes

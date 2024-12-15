@@ -1,0 +1,44 @@
+Model: italigto
+Plate Style: 0
+Plate Text: DERROCE 
+Primary Colour: 31
+Secondary Colour: 117
+Pearl Colour: 28
+Wheel Colour: 88
+Wheel Type: 8
+Spoiler: 7
+Front Bumper: 7
+Rear Bumper: 4
+Sideskirt: 5
+Exhaust: 4
+Chassis: 1
+Grille: 0
+Hood: 1
+Fender: 1
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 148
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: #980f10
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 28
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,44 @@
+Model: fcr2
+Plate Style: 8
+Plate Text: 40JAZ748
+Primary Colour: 118
+Secondary Colour: 120
+Pearl Colour: 157
+Wheel Colour: 3
+Wheel Type: 6
+Spoiler: 1
+Front Bumper: 6
+Rear Bumper: 2
+Exhaust: 3
+Fender: 5
+Right Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Back Wheels: 0
+Door Speaker: 0
+Engine Block: 5
+Air Filter: 2
+Tank: 2
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #354158
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 157
+Dashboard Colour: 128
+Tyres Mode: 1

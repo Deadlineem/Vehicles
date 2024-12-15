@@ -1,0 +1,40 @@
+Model: slamtruck
+Plate Style: 0
+Plate Text:   LSC   
+Primary Colour: 73
+Secondary Colour: 112
+Pearl Colour: 70
+Wheel Colour: 0
+Wheel Type: 5
+Front Bumper: 5
+Sideskirt: 1
+Exhaust: 0
+Grille: 2
+Hood: 3
+Right Fender: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 19, Custom
+Back Wheels: 4
+Livery: 12
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

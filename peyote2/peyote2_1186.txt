@@ -1,0 +1,44 @@
+Model: peyote2
+Plate Style: 0
+Plate Text: 41TMR685
+Primary Colour: 28
+Secondary Colour: 0
+Pearl Colour: 29
+Wheel Colour: 0
+Wheel Type: 8
+Exhaust: 11
+Chassis: 5
+Grille: 5
+Hood: 17
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 38
+Back Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #6c35ce
+Custom Secondary Colour: #6c35ce
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 2
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: Yes
+Extra 3: No
+Extra 4: No
+Extra 8: No

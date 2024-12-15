@@ -1,0 +1,40 @@
+Model: tempesta
+Plate Style: 0
+Plate Text: 48QJF436
+Primary Colour: 88
+Secondary Colour: 88
+Pearl Colour: 88
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 3
+Front Bumper: 1
+Sideskirt: 3
+Exhaust: 1
+Chassis: 1
+Hood: 8
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 14
+Livery: -1
+Tyre Smoke Colour: #36e4ff
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

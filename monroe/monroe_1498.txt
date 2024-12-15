@@ -1,0 +1,35 @@
+Model: monroe
+Plate Style: 0
+Plate Text: 26ODY883
+Primary Colour: 111
+Secondary Colour: 0
+Pearl Colour: 51
+Wheel Colour: 156
+Wheel Type: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 35
+Livery: -1
+Tyre Smoke Colour: #141414
+Window Tint: 0
+Custom Primary Colour: #003022
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 2
+Extra 11: No

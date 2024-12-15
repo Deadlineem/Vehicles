@@ -1,0 +1,41 @@
+Model: infernus2
+Plate Style: 5
+Plate Text:  BLEHH  
+Primary Colour: 71
+Secondary Colour: 71
+Pearl Colour: 136
+Wheel Colour: 158
+Wheel Type: 0
+Spoiler: 2
+Sideskirt: 0
+Exhaust: 0
+Chassis: 1
+Grille: 0
+Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 40
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #351c35
+Custom Secondary Colour: #351c35
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 107
+Dashboard Colour: 65
+Tyres Mode: 2

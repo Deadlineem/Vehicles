@@ -1,0 +1,42 @@
+Model: comet7
+Plate Style: 5
+Plate Text:   777   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 107
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 5
+Rear Bumper: 6
+Sideskirt: 5
+Exhaust: 5
+Hood: 0
+Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 4
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 0
+Front Wheels: 108
+Vanity Plates: 0
+Livery: 0
+Tyre Smoke Colour: #ffc1b5
+Window Tint: 1
+Custom Primary Colour: #ffc1b5
+Custom Secondary Colour: #ffc1b5
+Neon Colour: #ffe5b4
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 134
+Tyres Mode: 1

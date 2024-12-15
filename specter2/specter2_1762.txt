@@ -1,0 +1,46 @@
+Model: specter2
+Plate Style: 2
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 140
+Wheel Colour: 70
+Wheel Type: 10
+Spoiler: 17
+Front Bumper: 9
+Rear Bumper: 7
+Sideskirt: 7
+Exhaust: 0
+Chassis: 2
+Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 1
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 32
+Dashboard: 1
+Dial: 4
+Seats: 1
+Door Speaker: 4
+Steering Wheel: 14
+Livery: 7
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: #4a83f7
+Custom Secondary Colour: #f7d9b9
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

@@ -1,0 +1,45 @@
+Model: tenf
+Plate Style: 1
+Plate Text:    R8   
+Primary Colour: 120
+Secondary Colour: 117
+Pearl Colour: 89
+Wheel Colour: 89
+Wheel Type: 8
+Spoiler: 23
+Front Bumper: 4
+Rear Bumper: 12
+Sideskirt: 6
+Exhaust: 7
+Chassis: 4
+Grille: 9
+Hood: 3
+Fender: 0
+Right Fender: 2
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 7
+Front Wheels: 78
+Livery: 9
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #f59f0b
+Custom Secondary Colour: #f59f0b
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 156
+Tyres Mode: 1

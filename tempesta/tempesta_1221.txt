@@ -1,0 +1,40 @@
+Model: tempesta
+Plate Style: 0
+Plate Text: 83FLF204
+Primary Colour: 158
+Secondary Colour: 158
+Pearl Colour: 70
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 4
+Front Bumper: 2
+Sideskirt: 3
+Exhaust: 1
+Chassis: 1
+Hood: 8
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 13
+Front Wheels: 81
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #57415b
+Custom Secondary Colour: #57415b
+Neon Colour: #3200ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

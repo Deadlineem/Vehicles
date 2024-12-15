@@ -1,0 +1,57 @@
+Model: kanjosj
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 28
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 17
+Front Bumper: 3
+Rear Bumper: 1
+Sideskirt: 4
+Exhaust: 3
+Chassis: 8
+Grille: 4
+Hood: 16
+Fender: 4
+Right Fender: 1
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 143
+Trim: 0
+Dashboard: 1
+Seats: 1
+Door Speaker: 1
+Steering Wheel: 2
+Engine Block: 6
+Air Filter: 4
+Struts: 20
+Aerials: 0
+Trim2: 0
+Right Door: 0
+Livery: 9
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #260000
+Custom Secondary Colour: #260000
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 37
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 3: No

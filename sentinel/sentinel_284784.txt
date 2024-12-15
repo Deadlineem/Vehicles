@@ -1,0 +1,45 @@
+Model: sentinel
+Plate Style: 0
+Plate Text: 09FPH428
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 140
+Wheel Colour: 65
+Wheel Type: 11
+Spoiler: 4
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 2
+Exhaust: 3
+Chassis: 8
+Hood: 0
+Fender: 0
+Right Fender: 3
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 4
+Front Wheels: 49
+Livery: 11
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #7096ff
+Custom Secondary Colour: #ffffbf
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 10: No

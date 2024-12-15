@@ -1,0 +1,44 @@
+Model: lm87
+Plate Style: 1
+Plate Text: 29SNX215
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 23
+Front Bumper: 8
+Rear Bumper: 2
+Sideskirt: 3
+Exhaust: 10
+Grille: 1
+Hood: 1
+Fender: 4
+Right Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 4
+Front Wheels: 0
+Livery: 8
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #696464
+Custom Secondary Colour: #696464
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 37
+Tyres Mode: 2
+Extra 1: No

@@ -1,0 +1,41 @@
+Model: infernus2
+Plate Style: 0
+Plate Text: QD7C6Z1J
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 112
+Wheel Type: 7
+Spoiler: 1
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Grille: 0
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #351c35
+Custom Secondary Colour: #351c35
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 65
+Tyres Mode: 1

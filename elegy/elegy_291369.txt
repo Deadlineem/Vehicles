@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 5
+Plate Text:   K3Y   
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 59
+Wheel Colour: 159
+Wheel Type: 3
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 2
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 9
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 22
+Plate Holder: 1
+Vanity Plates: 0
+Trim: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 1
+Steering Wheel: 0
+Engine Block: 3
+Air Filter: 8
+Struts: 12
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Left Door: 0
+Livery: 0
+Tyre Smoke Colour: #ff7f00
+Window Tint: 4
+Custom Primary Colour: #455c56
+Custom Secondary Colour: #455c56
+Neon Colour: #5eff01
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 28
+Tyres Mode: 2

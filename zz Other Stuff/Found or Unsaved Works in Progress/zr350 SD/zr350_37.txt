@@ -1,0 +1,60 @@
+Model: zr350
+Plate Style: 1
+Plate Text: SNB ATHN
+Primary Colour: 71
+Secondary Colour: 71
+Pearl Colour: 135
+Wheel Colour: 115
+Wheel Type: 0
+Spoiler: 1
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 11
+Exhaust: 6
+Chassis: 0
+Grille: 0
+Hood: 9
+Fender: 0
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 0
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 11
+Vanity Plates: 1
+Trim: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Aerials: 2
+Trim2: 0
+Left Door: 0
+Right Door: 3
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: #2d1547
+Custom Secondary Colour: #2d1547
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 7
+Tyres Mode: 1

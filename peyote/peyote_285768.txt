@@ -1,0 +1,43 @@
+Model: peyote
+Plate Style: 7
+Plate Text:  0 MPH  
+Primary Colour: 9
+Secondary Colour: 0
+Pearl Colour: 6
+Wheel Colour: 112
+Wheel Type: 8
+Front Bumper: 1
+Rear Bumper: 1
+Exhaust: 1
+Chassis: 2
+Grille: 1
+Hood: 3
+Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 28
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 91
+Livery: -1
+Tyre Smoke Colour: #81ffd0
+Window Tint: 0
+Custom Primary Colour: #89ffd6
+Custom Secondary Colour: 
+Neon Colour: #01a95a
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: No

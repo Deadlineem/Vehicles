@@ -1,0 +1,40 @@
+Model: manchez
+Plate Style: 0
+Plate Text: ADYELMRJ
+Primary Colour: 0
+Secondary Colour: 5
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 6
+Front Bumper: 2
+Rear Bumper: 0
+Exhaust: 3
+Chassis: 0
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Back Wheels: 0
+Livery: 9
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #32ffff
+Custom Secondary Colour: 
+Neon Colour: #32ffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

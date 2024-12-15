@@ -1,0 +1,37 @@
+Model: ellie
+Plate Style: 0
+Plate Text: 60AHL940
+Primary Colour: 147
+Secondary Colour: 27
+Pearl Colour: 135
+Wheel Colour: 0
+Wheel Type: 1
+Front Bumper: 0
+Exhaust: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 18
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

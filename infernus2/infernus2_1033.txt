@@ -1,0 +1,41 @@
+Model: infernus2
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 12
+Pearl Colour: 18
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 2
+Sideskirt: 3
+Exhaust: 3
+Chassis: 2
+Grille: 1
+Fender: 3
+Roof: 2
+Engine: 2
+Brakes: 0
+Transmission: 1
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 148
+Livery: -1
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: #260000
+Custom Secondary Colour: #000000
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

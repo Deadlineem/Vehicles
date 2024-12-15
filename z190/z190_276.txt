@@ -1,0 +1,45 @@
+Model: z190
+Plate Style: 5
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 110
+Pearl Colour: 161
+Wheel Colour: 5
+Wheel Type: 2
+Spoiler: 10
+Front Bumper: 14
+Rear Bumper: 11
+Sideskirt: 17
+Exhaust: 3
+Chassis: 11
+Grille: 11
+Hood: 3
+Fender: 9
+Right Fender: 9
+Roof: 12
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 4
+Front Wheels: 6
+Livery: 0
+Tyre Smoke Colour: #9900ff
+Window Tint: 6
+Custom Primary Colour: #090821
+Custom Secondary Colour: #000000
+Neon Colour: #9900ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 109
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,45 @@
+Model: sultan2
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 89
+Secondary Colour: 89
+Pearl Colour: 88
+Wheel Colour: 89
+Wheel Type: 8
+Spoiler: 16
+Front Bumper: 5
+Rear Bumper: 4
+Sideskirt: 3
+Exhaust: 6
+Chassis: 1
+Grille: 4
+Hood: 4
+Fender: 0
+Right Fender: 4
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 2
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 107
+Livery: 2
+Tyre Smoke Colour: #e20606
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,58 @@
+Model: sultanrs
+Plate Style: 0
+Plate Text: 01CEV285
+Primary Colour: 111
+Secondary Colour: 31
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 16
+Front Bumper: 12
+Rear Bumper: 5
+Sideskirt: 4
+Exhaust: 3
+Chassis: 4
+Grille: 1
+Hood: 10
+Fender: 3
+Roof: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 16
+Trim: 1
+Ornaments: 15
+Dashboard: 5
+Dial: 6
+Seats: 6
+Door Speaker: 13
+Steering Wheel: 12
+Engine Block: 3
+Air Filter: 7
+Struts: 10
+Arch Cover: 5
+Aerials: 1
+Trim2: 0
+Windows: 2
+Livery: 6
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

@@ -1,0 +1,44 @@
+Model: vstr
+Plate Style: 1
+Plate Text: 02YA475 
+Primary Colour: 67
+Secondary Colour: 12
+Pearl Colour: 70
+Wheel Colour: 11
+Wheel Type: 11
+Spoiler: 8
+Front Bumper: 3
+Sideskirt: 2
+Exhaust: 2
+Chassis: 1
+Grille: 0
+Hood: 4
+Fender: 0
+Right Fender: 4
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 27
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

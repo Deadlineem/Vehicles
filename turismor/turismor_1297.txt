@@ -1,0 +1,37 @@
+Model: turismor
+Plate Style: 0
+Plate Text: 80EKM912
+Primary Colour: 34
+Secondary Colour: 120
+Pearl Colour: 36
+Wheel Colour: 120
+Wheel Type: 7
+Spoiler: 1
+Exhaust: 3
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 26
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #26030b
+Custom Secondary Colour: #000000
+Neon Colour: #00b4ff
+Neon Front: No
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

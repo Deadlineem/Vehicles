@@ -1,0 +1,57 @@
+Model: kanjosj
+Plate Style: 0
+Plate Text: REALVAMP
+Primary Colour: 0
+Secondary Colour: 111
+Pearl Colour: 0
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 18
+Front Bumper: 7
+Rear Bumper: 6
+Sideskirt: 9
+Exhaust: 6
+Chassis: 7
+Grille: 8
+Hood: 0
+Fender: 0
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 78
+Trim: 0
+Dashboard: 4
+Seats: 5
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 6
+Air Filter: 4
+Struts: 20
+Aerials: 4
+Trim2: 6
+Right Door: 1
+Livery: 10
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 37
+Dashboard Colour: 0
+Tyres Mode: 4
+Extra 3: Yes

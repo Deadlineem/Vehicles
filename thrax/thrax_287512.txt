@@ -1,0 +1,42 @@
+Model: thrax
+Plate Style: 5
+Plate Text: ECLIPSE 
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 57
+Wheel Colour: 60
+Wheel Type: 8
+Spoiler: 8
+Front Bumper: 0
+Rear Bumper: 3
+Sideskirt: 5
+Exhaust: 1
+Chassis: 3
+Grille: 4
+Hood: 14
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 5
+Front Wheels: 55
+Livery: 0
+Tyre Smoke Colour: #65ffd3
+Window Tint: 6
+Custom Primary Colour: #455b55
+Custom Secondary Colour: #2e3d39
+Neon Colour: #65ffd3
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 52
+Dashboard Colour: 57
+Tyres Mode: 1

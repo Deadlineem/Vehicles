@@ -1,0 +1,44 @@
+Model: jugular
+Plate Style: 1
+Plate Text:   JAG   
+Primary Colour: 16
+Secondary Colour: 89
+Pearl Colour: 89
+Wheel Colour: 89
+Wheel Type: 11
+Spoiler: 1
+Front Bumper: 3
+Rear Bumper: 2
+Sideskirt: 3
+Exhaust: 2
+Grille: 1
+Hood: 7
+Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 15
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #0f0038
+Custom Secondary Colour: 
+Neon Colour: #ffee00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 89
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No

@@ -1,0 +1,44 @@
+Model: brioso2
+Plate Style: 0
+Plate Text: 19DNQ253
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 24
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 5
+Rear Bumper: 1
+Sideskirt: 3
+Exhaust: 3
+Chassis: 1
+Hood: 1
+Fender: 0
+Right Fender: 0
+Roof: 11
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 13
+Front Wheels: 7
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 6
+Custom Primary Colour: #474dff
+Custom Secondary Colour: #474dff
+Neon Colour: #4a47ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 156
+Tyres Mode: 1

@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 4
+Plate Text: ZENTORIN
+Primary Colour: 0
+Secondary Colour: 131
+Pearl Colour: 136
+Wheel Colour: 136
+Wheel Type: 8
+Spoiler: 28
+Front Bumper: 2
+Rear Bumper: 14
+Sideskirt: 2
+Exhaust: 4
+Grille: 0
+Hood: 11
+Fender: 1
+Right Fender: 0
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 57
+Vanity Plates: 5
+Trim: 0
+Dashboard: 4
+Seats: 4
+Door Speaker: 0
+Steering Wheel: 0
+Arch Cover: 1
+Aerials: 0
+Trim2: 2
+Livery: 6
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: #f69799
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 141
+Dashboard Colour: 4
+Tyres Mode: 1

@@ -1,0 +1,60 @@
+Model: zr350
+Plate Style: 1
+Plate Text:  TOKYO  
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 1
+Front Bumper: 6
+Rear Bumper: 0
+Sideskirt: 14
+Exhaust: 5
+Chassis: 5
+Grille: 0
+Hood: 13
+Fender: 3
+Right Fender: 3
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 8, Custom
+Vanity Plates: 8
+Trim: 3
+Dashboard: 4
+Dial: 4
+Seats: 8
+Door Speaker: 14
+Steering Wheel: 15
+Engine Block: 2
+Air Filter: 8
+Struts: 12
+Arch Cover: 2
+Aerials: 8
+Trim2: 2
+Windows: 0
+Unk47: 0
+Livery: 6
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #ffffff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 32
+Dashboard Colour: 0
+Tyres Mode: 1

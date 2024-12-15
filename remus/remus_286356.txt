@@ -1,0 +1,86 @@
+Model: remus
+Plate Style: 0
+Plate Text: 67MRT834
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 18
+Wheel Colour: 1
+Wheel Type: 11
+Spoiler: 2
+Front Bumper: 6
+Rear Bumper: 1
+Sideskirt: 3
+Exhaust: 2
+Chassis: 2
+Grille: 4
+Hood: 9
+Fender: 5
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 41
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 110
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 3
+Trim: 1
+Ornaments: 0
+Dashboard: 5
+Dial: 15
+Seats: 7
+Door Speaker: 11
+Steering Wheel: 16
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 1
+Air Filter: 10
+Struts: 12
+Arch Cover: 5
+Aerials: 0
+Trim2: 4
+Tank: 5
+Left Door: 0
+Right Door: 0
+Livery: 4
+Lightbar: 2
+Tyre Smoke Colour: #ff002e
+Window Tint: 1
+Custom Primary Colour: #7affb6
+Custom Secondary Colour: #7affb6
+Neon Colour: #7affb6
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Roof Livery: -1
+Dashboard Colour: 111
+Tyres Mode: 2
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

@@ -1,0 +1,39 @@
+Model: deveste
+Plate Style: 0
+Plate Text: 58TQC996
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 1
+Wheel Type: 8
+Spoiler: 9
+Front Bumper: 4
+Rear Bumper: 5
+Exhaust: 8
+Chassis: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 101
+Livery: 5
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #00ffd4
+Custom Secondary Colour: #00ffd4
+Neon Colour: #00ffd4
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

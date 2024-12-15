@@ -1,0 +1,44 @@
+Model: coquette4
+Plate Style: 0
+Plate Text: TEST GIR
+Primary Colour: 120
+Secondary Colour: 0
+Pearl Colour: 18
+Wheel Colour: 156
+Wheel Type: 9
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Grille: 0
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 18
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 0
+Livery: 2
+Tyre Smoke Colour: #ff0072
+Window Tint: 1
+Custom Primary Colour: #ff0072
+Custom Secondary Colour: #ff0072
+Neon Colour: #ff0072
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes

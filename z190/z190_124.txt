@@ -1,0 +1,45 @@
+Model: z190
+Plate Style: 1
+Plate Text:  JAPAN  
+Primary Colour: 31
+Secondary Colour: 0
+Pearl Colour: 27
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 17
+Front Bumper: 11
+Rear Bumper: 1
+Sideskirt: 6
+Exhaust: 1
+Chassis: 11
+Grille: 0
+Hood: 5
+Fender: 7
+Right Fender: 9
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 9
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 103
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

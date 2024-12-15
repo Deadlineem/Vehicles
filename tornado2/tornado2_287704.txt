@@ -1,0 +1,41 @@
+Model: tornado2
+Plate Style: 5
+Plate Text:   K3Y   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 157
+Wheel Colour: 0
+Wheel Type: 2
+Front Bumper: 0
+Exhaust: 0
+Hood: 0
+Fender: 0
+Right Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 26
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 18
+Livery: 0
+Tyre Smoke Colour: #e5b0a7
+Window Tint: 4
+Custom Primary Colour: #1a5b89
+Custom Secondary Colour: #fbf4e4
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2
+Extra 10: Yes
+Extra 11: Yes
+Extra 12: Yes

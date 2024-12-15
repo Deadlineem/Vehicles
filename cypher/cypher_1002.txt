@@ -1,0 +1,59 @@
+Model: cypher
+Plate Style: 0
+Plate Text: 01PVP058
+Primary Colour: 112
+Secondary Colour: 0
+Pearl Colour: 111
+Wheel Colour: 88
+Wheel Type: 7
+Spoiler: 14
+Front Bumper: 12
+Rear Bumper: 5
+Sideskirt: 9
+Exhaust: 8
+Chassis: 9
+Grille: 13
+Hood: 14
+Fender: 2
+Right Fender: 5
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 40
+Vanity Plates: 2
+Trim: 9
+Ornaments: 2
+Dashboard: 4
+Dial: 1
+Seats: 0
+Door Speaker: 11
+Steering Wheel: 16
+Engine Block: 12
+Struts: 17
+Arch Cover: 9
+Aerials: 8
+Trim2: 7
+Tank: 4
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #52efaf
+Custom Secondary Colour: #9e4dfb
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 27
+Dashboard Colour: 156
+Tyres Mode: 1

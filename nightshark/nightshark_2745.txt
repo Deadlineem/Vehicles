@@ -1,0 +1,41 @@
+Model: nightshark
+Plate Style: 5
+Plate Text: JADYELMR
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 5
+Wheel Type: 8
+Front Bumper: 1
+Rear Bumper: 2
+Exhaust: 2
+Chassis: 1
+Grille: 7
+Hood: 8
+Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 2
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 113
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #32ffff
+Custom Secondary Colour: #32ffff
+Neon Colour: #32ffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,55 @@
+Model: comet6
+Plate Style: 1
+Plate Text:  MENGO  
+Primary Colour: 120
+Secondary Colour: 111
+Pearl Colour: 5
+Wheel Colour: 81
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 8
+Rear Bumper: 5
+Sideskirt: 10
+Exhaust: 5
+Chassis: 7
+Hood: 10
+Fender: 3
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 113
+Plate Holder: 2
+Vanity Plates: 4
+Trim: 2
+Dashboard: 2
+Seats: 2
+Door Speaker: 12
+Steering Wheel: 0
+Arch Cover: 5
+Aerials: 0
+Trim2: 0
+Left Door: 2
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #3505ff
+Custom Secondary Colour: #3505ff
+Neon Colour: #3505ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 111
+Tyres Mode: 1

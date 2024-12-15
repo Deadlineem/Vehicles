@@ -1,0 +1,44 @@
+Model: openwheel1
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 140
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 4
+Front Bumper: 2
+Sideskirt: 2
+Exhaust: 3
+Engine: 4
+Brakes: 4
+Transmission: 3
+Horns: 53
+Suspension: 4
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 13
+Front Wheels: 173
+Livery: 0
+Tyre Smoke Colour: #57c44c
+Window Tint: 0
+Custom Primary Colour: #2d00ff
+Custom Secondary Colour: #2d00ff
+Neon Colour: #ff3e00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 8
+Dashboard Colour: 156
+Tyres Mode: 1
+Extra 1: No
+Extra 2: Yes
+Extra 3: Yes
+Extra 4: Yes
+Extra 5: Yes
+Extra 6: Yes

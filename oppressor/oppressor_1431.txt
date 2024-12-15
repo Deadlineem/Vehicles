@@ -1,0 +1,41 @@
+Model: oppressor
+Plate Style: 0
+Plate Text: 40XBR962
+Primary Colour: 0
+Secondary Colour: 120
+Pearl Colour: 35
+Wheel Colour: 156
+Wheel Type: 6
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Chassis: 0
+Hood: 0
+Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 0
+Transmission: 0
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 55
+Back Wheels: 55
+Livery: 40
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 0
+Plate Text: 69SFU512
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 89
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 22
+Front Bumper: 8
+Rear Bumper: 16
+Sideskirt: 4
+Exhaust: 20
+Grille: 0
+Hood: 0
+Fender: 2
+Right Fender: 8
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 57
+Vanity Plates: 17
+Trim: 7
+Dashboard: 4
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Arch Cover: 1
+Aerials: 0
+Trim2: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #36b058
+Custom Secondary Colour: #36b058
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Dashboard Colour: 0
+Tyres Mode: 1

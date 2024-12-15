@@ -1,0 +1,38 @@
+Model: dune3
+Plate Style: 1
+Plate Text: 21ZNC533
+Primary Colour: 158
+Secondary Colour: 158
+Pearl Colour: 158
+Wheel Colour: 0
+Wheel Type: 9
+Sideskirt: 2
+Chassis: 2
+Right Fender: 1
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 3
+Front Wheels: 217
+Livery: 40
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 4

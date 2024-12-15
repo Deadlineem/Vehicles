@@ -1,0 +1,59 @@
+Model: futo2
+Plate Style: 1
+Plate Text: 41VHG446
+Primary Colour: 89
+Secondary Colour: 13
+Pearl Colour: 88
+Wheel Colour: 89
+Wheel Type: 11
+Spoiler: 2
+Front Bumper: 7
+Rear Bumper: 2
+Sideskirt: 3
+Exhaust: 4
+Chassis: 4
+Grille: 1
+Hood: 15
+Fender: 3
+Right Fender: 2
+Roof: 2
+Engine: 4
+Brakes: 2
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 28
+Plate Holder: 3
+Vanity Plates: 0
+Trim: 1
+Dashboard: 5
+Door Speaker: 9
+Steering Wheel: 15
+Engine Block: 4
+Air Filter: 5
+Struts: 7
+Arch Cover: 0
+Trim2: 3
+Tank: 2
+Left Door: 3
+Right Door: 7
+Livery: 2
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

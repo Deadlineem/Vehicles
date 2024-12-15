@@ -1,0 +1,43 @@
+Model: deviant
+Plate Style: 0
+Plate Text: 45HLP196
+Primary Colour: 0
+Secondary Colour: 120
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 3
+Front Bumper: 0
+Rear Bumper: 0
+Exhaust: 0
+Grille: 11
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 7
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #3d3401
+Custom Secondary Colour: #3d3401
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: Yes

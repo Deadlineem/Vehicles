@@ -1,0 +1,56 @@
+Model: vectre
+Plate Style: 5
+Plate Text:  DOOBIE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 18
+Front Bumper: 9
+Rear Bumper: 0
+Sideskirt: 6
+Exhaust: 3
+Chassis: 7
+Hood: 6
+Fender: 0
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 8
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 30
+Vanity Plates: 0
+Trim: 1
+Dashboard: 3
+Seats: 7
+Door Speaker: 0
+Steering Wheel: 16
+Engine Block: 1
+Air Filter: 0
+Struts: 20
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Unk47: 0
+Livery: 10
+Tyre Smoke Colour: #080808
+Window Tint: 1
+Custom Primary Colour: #080808
+Custom Secondary Colour: #080808
+Neon Colour: #2301ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

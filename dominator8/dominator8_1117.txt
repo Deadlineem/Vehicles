@@ -1,0 +1,54 @@
+Model: dominator8
+Plate Style: 0
+Plate Text: 95ANX620
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 18
+Wheel Colour: 24
+Wheel Type: 8
+Spoiler: 9
+Front Bumper: 2
+Rear Bumper: 5
+Sideskirt: 6
+Exhaust: 6
+Chassis: 5
+Grille: 3
+Hood: 12
+Fender: 5
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 122
+Vanity Plates: 6
+Trim: 1
+Door Speaker: 14
+Steering Wheel: 16
+Engine Block: 6
+Air Filter: 14
+Struts: 12
+Arch Cover: 8
+Aerials: 5
+Tank: 3
+Livery: 0
+Tyre Smoke Colour: #5a01fa
+Window Tint: 0
+Custom Primary Colour: #5a01fa
+Custom Secondary Colour: #6500fa
+Neon Colour: #5a01ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

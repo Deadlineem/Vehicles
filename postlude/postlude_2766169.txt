@@ -1,0 +1,53 @@
+Model: postlude
+Plate Style: 5
+Plate Text: 88VQQ153
+Primary Colour: 120
+Secondary Colour: 12
+Pearl Colour: 7
+Wheel Colour: 111
+Wheel Type: 10
+Spoiler: 13
+Front Bumper: 5
+Rear Bumper: 5
+Exhaust: 18
+Chassis: 5
+Hood: 19
+Fender: 5
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 61
+Vanity Plates: 7
+Trim: 3
+Dashboard: 5
+Seats: 0
+Door Speaker: 14
+Steering Wheel: 16
+Engine Block: 6
+Struts: 15
+Arch Cover: 5
+Windows: 0
+Unk47: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #ffff00
+Custom Secondary Colour: #191900
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,46 @@
+Model: elegy2
+Plate Style: 3
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 161
+Wheel Colour: 1
+Wheel Type: 0
+Spoiler: 5
+Front Bumper: 1
+Rear Bumper: 3
+Sideskirt: 4
+Exhaust: 2
+Chassis: 0
+Grille: 1
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 4
+Front Wheels: 21
+Livery: -1
+Tyre Smoke Colour: #0044ff
+Window Tint: 1
+Custom Primary Colour: #a9a9a9
+Custom Secondary Colour: #a9a9a9
+Neon Colour: #0044ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 10: Yes
+Extra 11: Yes

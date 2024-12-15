@@ -1,0 +1,55 @@
+Model: comet6
+Plate Style: 5
+Plate Text:   K3Y   
+Primary Colour: 111
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 28
+Wheel Type: 7
+Spoiler: 18
+Front Bumper: 1
+Rear Bumper: 5
+Sideskirt: 8
+Exhaust: 0
+Chassis: 7
+Hood: 6
+Fender: 1
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Plate Holder: 0
+Vanity Plates: 3
+Trim: 2
+Dashboard: 7
+Seats: 4
+Door Speaker: 14
+Steering Wheel: 15
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Left Door: 0
+Livery: 7
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: 
+Custom Secondary Colour: #f0f0f0
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 33
+Dashboard Colour: 0
+Tyres Mode: 2

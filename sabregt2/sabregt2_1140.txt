@@ -1,0 +1,55 @@
+Model: sabregt2
+Plate Style: 0
+Plate Text: 40VJU283
+Primary Colour: 142
+Secondary Colour: 0
+Pearl Colour: 81
+Wheel Colour: 67
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 4
+Rear Bumper: 1
+Exhaust: 3
+Chassis: 2
+Grille: 2
+Hood: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 81
+Back Wheels: 0
+Plate Holder: 13
+Vanity Plates: 16
+Trim: 14
+Ornaments: 45
+Dial: 14
+Steering Wheel: 16
+Shifter Leavers: 15
+Plaques: 22
+Speakers: 2
+Trunk: 5
+Hydraulics: 4
+Engine Block: 7
+Air Filter: 4
+Livery: 6
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #184142
+Custom Secondary Colour: #184142
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

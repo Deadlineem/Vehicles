@@ -1,0 +1,44 @@
+Model: yosemite2
+Plate Style: 0
+Plate Text:   LSC2  
+Primary Colour: 69
+Secondary Colour: 112
+Pearl Colour: 74
+Wheel Colour: 0
+Wheel Type: 1
+Spoiler: 8
+Front Bumper: 11
+Rear Bumper: 0
+Sideskirt: 5
+Exhaust: 1
+Chassis: 3
+Grille: 4
+Hood: 0
+Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

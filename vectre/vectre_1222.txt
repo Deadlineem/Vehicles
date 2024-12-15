@@ -1,0 +1,56 @@
+Model: vectre
+Plate Style: 1
+Plate Text: 0XWVH962
+Primary Colour: 73
+Secondary Colour: 73
+Pearl Colour: 73
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 7
+Front Bumper: 0
+Rear Bumper: 7
+Sideskirt: 10
+Exhaust: 1
+Chassis: 0
+Hood: 9
+Fender: 1
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 3
+Front Wheels: 27
+Vanity Plates: 0
+Trim: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 1
+Steering Wheel: 15
+Engine Block: 4
+Air Filter: 9
+Struts: 18
+Arch Cover: 5
+Aerials: 0
+Trim2: 0
+Unk47: 0
+Livery: 9
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 73
+Dashboard Colour: 73
+Tyres Mode: 1

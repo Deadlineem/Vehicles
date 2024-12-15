@@ -1,0 +1,49 @@
+Model: italigtb2
+Plate Style: 5
+Plate Text: 45VMQ024
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 10
+Spoiler: 13
+Front Bumper: 17
+Rear Bumper: 3
+Sideskirt: 2
+Exhaust: 4
+Chassis: 3
+Hood: 13
+Fender: 3
+Right Fender: 3
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 1
+Dashboard: 5
+Dial: 8
+Seats: 6
+Door Speaker: 13
+Steering Wheel: 16
+Aerials: 3
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #5500ff
+Custom Secondary Colour: #6b00ff
+Neon Colour: #3c00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 38
+Dashboard Colour: 134
+Tyres Mode: 2

@@ -1,0 +1,41 @@
+Model: turismor
+Plate Style: 2
+Plate Text: ARTEN   
+Primary Colour: 64
+Secondary Colour: 83
+Pearl Colour: 53
+Wheel Colour: 81
+Wheel Type: 7
+Spoiler: 18
+Front Bumper: 12
+Rear Bumper: 1
+Sideskirt: 12
+Exhaust: 8
+Chassis: 3
+Roof: 2
+Engine: 3
+Brakes: 3
+Transmission: 3
+Horns: 3
+Suspension: 4
+Armor: 4
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 13
+Livery: 6
+Tyre Smoke Colour: #fcee00
+Window Tint: 1
+Custom Primary Colour: #f99d27
+Custom Secondary Colour: 
+Neon Colour: #00ff8c
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,44 @@
+Model: jubilee
+Plate Style: 2
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 28
+Wheel Colour: 70
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 15
+Rear Bumper: 9
+Sideskirt: 9
+Exhaust: 1
+Chassis: 1
+Hood: 6
+Right Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 88
+Trim2: 2
+Tank: 1
+Livery: 7
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #1c0000
+Custom Secondary Colour: #1c0b00
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

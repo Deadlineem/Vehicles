@@ -1,0 +1,56 @@
+Model: euros
+Plate Style: 0
+Plate Text: 06CQX034
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 3
+Rear Bumper: 3
+Sideskirt: 12
+Exhaust: 6
+Chassis: 8
+Hood: 20
+Fender: 7
+Roof: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 5
+Front Wheels: 110
+Vanity Plates: 7
+Trim: 1
+Dashboard: 3
+Seats: 8
+Door Speaker: 15
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 10
+Struts: 20
+Arch Cover: 0
+Aerials: 6
+Trim2: 15
+Unk47: 0
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 6
+Custom Primary Colour: #4bbc00
+Custom Secondary Colour: #4bbc00
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Dashboard Colour: 111
+Tyres Mode: 1

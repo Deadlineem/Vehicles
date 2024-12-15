@@ -1,0 +1,45 @@
+Model: rebla
+Plate Style: 1
+Plate Text: SNB SUVT
+Primary Colour: 7
+Secondary Colour: 120
+Pearl Colour: 54
+Wheel Colour: 11
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 8
+Rear Bumper: 2
+Sideskirt: 5
+Exhaust: 7
+Chassis: 0
+Grille: 9
+Hood: 4
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 11
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 2

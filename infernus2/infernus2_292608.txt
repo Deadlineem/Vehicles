@@ -1,0 +1,41 @@
+Model: infernus2
+Plate Style: 10
+Plate Text: 48YOU782
+Primary Colour: 142
+Secondary Colour: 142
+Pearl Colour: 148
+Wheel Colour: 90
+Wheel Type: 0
+Spoiler: 1
+Sideskirt: 1
+Exhaust: 0
+Chassis: 6
+Grille: 0
+Fender: 2
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 21
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #0c0d18
+Custom Secondary Colour: #0c0d18
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

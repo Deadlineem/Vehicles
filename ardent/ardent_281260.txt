@@ -1,0 +1,41 @@
+Model: ardent
+Plate Style: 0
+Plate Text: 89SLO636
+Primary Colour: 88
+Secondary Colour: 0
+Pearl Colour: 87
+Wheel Colour: 112
+Wheel Type: 10
+Spoiler: 3
+Front Bumper: 5
+Rear Bumper: 1
+Exhaust: 1
+Hood: 6
+Fender: 2
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 58
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 36
+Livery: 40
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 93
+Tyres Mode: 1

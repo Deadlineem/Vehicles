@@ -1,0 +1,32 @@
+Model: voltic2
+Plate Style: 1
+Plate Text: 25ZFY650
+Primary Colour: 160
+Secondary Colour: 160
+Pearl Colour: 160
+Wheel Colour: 134
+Wheel Type: 8
+Engine: 4
+Brakes: 3
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 10
+Front Wheels: 60
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #f92c4c
+Custom Secondary Colour: #f92c4c
+Neon Colour: #f92c4c
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 5
+Dashboard Colour: 0
+Tyres Mode: 1

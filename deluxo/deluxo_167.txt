@@ -1,0 +1,41 @@
+Model: deluxo
+Plate Style: 0
+Plate Text: SEIRUDS 
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 132
+Wheel Type: 8
+Spoiler: 8
+Front Bumper: 3
+Sideskirt: 1
+Exhaust: 2
+Grille: 5
+Hood: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 15
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 77
+Livery: 23
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #6a00ff
+Custom Secondary Colour: #6a00ff
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 19
+Dashboard Colour: 156
+Tyres Mode: 1

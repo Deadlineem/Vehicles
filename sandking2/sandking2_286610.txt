@@ -1,0 +1,44 @@
+Model: sandking2
+Plate Style: 7
+Plate Text:  0 MPH  
+Primary Colour: 1
+Secondary Colour: 1
+Pearl Colour: 18
+Wheel Colour: 91
+Wheel Type: 8
+Front Bumper: 4
+Sideskirt: 2
+Chassis: 3
+Grille: 2
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 1
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 3
+Front Wheels: 177
+Livery: -1
+Tyre Smoke Colour: #f3ff00
+Window Tint: 1
+Custom Primary Colour: #3000ff
+Custom Secondary Colour: #fffe00
+Neon Colour: #fffe00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 11: No
+Extra 12: No

@@ -1,0 +1,45 @@
+Model: eudora
+Plate Style: 5
+Plate Text:         
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 111
+Wheel Colour: 36
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 4
+Rear Bumper: 7
+Sideskirt: 0
+Exhaust: 2
+Chassis: 2
+Grille: 9
+Hood: 4
+Fender: 1
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 47
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 31
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 5
+Custom Primary Colour: #ef6604
+Custom Secondary Colour: #ef6604
+Neon Colour: #ff3e00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 38
+Dashboard Colour: 156
+Tyres Mode: 1

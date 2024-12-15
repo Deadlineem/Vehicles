@@ -1,0 +1,50 @@
+Model: comet3
+Plate Style: 1
+Plate Text: 64FAW312
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 89
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 3
+Sideskirt: 0
+Exhaust: 3
+Chassis: 0
+Hood: 1
+Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 6
+Front Wheels: 44
+Trim: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Struts: 0
+Aerials: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #65ff65
+Custom Secondary Colour: #65ff65
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 4
+Tyres Mode: 1

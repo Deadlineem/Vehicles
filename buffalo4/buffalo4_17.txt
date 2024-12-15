@@ -1,0 +1,48 @@
+Model: buffalo4
+Plate Style: 0
+Plate Text: 29KEI579
+Primary Colour: 111
+Secondary Colour: 0
+Pearl Colour: 111
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 15
+Front Bumper: 8
+Rear Bumper: 2
+Sideskirt: 4
+Exhaust: 8
+Chassis: 1
+Grille: 5
+Hood: 4
+Fender: 1
+Right Fender: 1
+Roof: 13
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 71
+Ornaments: 6
+Trim2: 2
+Tank: 1
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #c6574b
+Custom Secondary Colour: #c6574b
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

@@ -1,0 +1,58 @@
+Model: sultanrs
+Plate Style: 2
+Plate Text: 84TFX949
+Primary Colour: 138
+Secondary Colour: 138
+Pearl Colour: 88
+Wheel Colour: 88
+Wheel Type: 7
+Spoiler: 10
+Front Bumper: 12
+Rear Bumper: 5
+Sideskirt: 3
+Exhaust: 5
+Chassis: 4
+Grille: 4
+Hood: 10
+Fender: 2
+Roof: 5
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 4
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 17
+Trim: 1
+Ornaments: 0
+Dashboard: 4
+Dial: 5
+Seats: 7
+Door Speaker: 6
+Steering Wheel: 16
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Windows: 0
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

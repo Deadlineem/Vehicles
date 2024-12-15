@@ -1,0 +1,45 @@
+Model: sultan2
+Plate Style: 1
+Plate Text:  BENAMO 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 135
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 16
+Front Bumper: 5
+Rear Bumper: 4
+Sideskirt: 4
+Exhaust: 9
+Chassis: 4
+Grille: 4
+Hood: 15
+Fender: 1
+Right Fender: 5
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 17
+Livery: 0
+Tyre Smoke Colour: #dc00ff
+Window Tint: 1
+Custom Primary Colour: #140028
+Custom Secondary Colour: #000000
+Neon Colour: #140064
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 159
+Tyres Mode: 1

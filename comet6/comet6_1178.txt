@@ -1,0 +1,86 @@
+Model: comet6
+Plate Style: 0
+Plate Text: 80XUI537
+Primary Colour: 0
+Secondary Colour: 10
+Pearl Colour: 0
+Wheel Colour: 56
+Wheel Type: 0
+Spoiler: 10
+Front Bumper: 8
+Rear Bumper: 8
+Sideskirt: 9
+Exhaust: 5
+Chassis: 7
+Grille: 0
+Hood: 10
+Fender: 3
+Right Fender: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 5
+Front Wheels: 18, Custom
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 4
+Trim: 1
+Ornaments: 0
+Dashboard: 6
+Dial: 0
+Seats: 4
+Door Speaker: 14
+Steering Wheel: 14
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 4
+Aerials: 4
+Trim2: 3
+Tank: 0
+Windows: 3
+Unk47: 0
+Livery: 13
+Unk49: 2
+Tyre Smoke Colour: #72cc72
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #00ff8c
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Roof Livery: -1
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

@@ -1,0 +1,45 @@
+Model: corsita
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 27
+Wheel Type: 7
+Spoiler: 0
+Front Bumper: 8
+Rear Bumper: 4
+Sideskirt: 12
+Exhaust: 5
+Chassis: 3
+Grille: 7
+Hood: 3
+Fender: 9
+Right Fender: 0
+Roof: 18
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 0
+Livery: 10
+Tyre Smoke Colour: #00c3ff
+Window Tint: 1
+Custom Primary Colour: #232323
+Custom Secondary Colour: #232323
+Neon Colour: #00c3ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 154
+Dashboard Colour: 156
+Tyres Mode: 1

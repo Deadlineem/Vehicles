@@ -1,0 +1,44 @@
+Model: astron
+Plate Style: 4
+Plate Text: TAN1SHA 
+Primary Colour: 28
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 0
+Front Bumper: 7
+Rear Bumper: 7
+Sideskirt: 2
+Exhaust: 2
+Chassis: 7
+Grille: 2
+Hood: 7
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 4
+Transmission: 4
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 5
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

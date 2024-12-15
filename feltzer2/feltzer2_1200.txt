@@ -1,0 +1,39 @@
+Model: feltzer2
+Plate Style: 0
+Plate Text: 68RVU970
+Primary Colour: 28
+Secondary Colour: 28
+Pearl Colour: 36
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 1
+Rear Bumper: 1
+Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 50
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #7a69f6
+Custom Secondary Colour: #6c683c
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

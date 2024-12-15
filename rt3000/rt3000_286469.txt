@@ -1,0 +1,55 @@
+Model: rt3000
+Plate Style: 1
+Plate Text: SNB ATHN
+Primary Colour: 8
+Secondary Colour: 0
+Pearl Colour: 53
+Wheel Colour: 156
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 10
+Exhaust: 9
+Grille: 2
+Hood: 8
+Fender: 2
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 26
+Vanity Plates: 2
+Trim: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 5
+Air Filter: 9
+Struts: 12
+Arch Cover: 5
+Left Door: 2
+Right Door: 2
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #74abaa
+Custom Secondary Colour: #74abaa
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 0
+Tyres Mode: 1

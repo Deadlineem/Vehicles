@@ -1,0 +1,46 @@
+Model: specter2
+Plate Style: 1
+Plate Text: 5HSLX903
+Primary Colour: 30
+Secondary Colour: 30
+Pearl Colour: 36
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 5
+Front Bumper: 9
+Rear Bumper: 9
+Sideskirt: 9
+Exhaust: 4
+Chassis: 4
+Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 23
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Livery: 2
+Tyre Smoke Colour: #36e4ff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 53
+Tyres Mode: 1

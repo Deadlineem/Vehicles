@@ -1,0 +1,36 @@
+Model: rcbandito
+Plate Style: 4
+Plate Text: 01JTI049
+Primary Colour: 0
+Secondary Colour: 156
+Pearl Colour: 10
+Wheel Colour: 111
+Wheel Type: 8
+Chassis: 19
+Fender: 1
+Right Fender: 2
+Engine: 4
+Brakes: 3
+Horns: 58
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 46
+Struts: 3
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #000000
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 73
+Tyres Mode: 1

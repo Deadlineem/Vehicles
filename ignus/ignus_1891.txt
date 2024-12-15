@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 1
+Plate Text:  JAMBO  
+Primary Colour: 49
+Secondary Colour: 158
+Pearl Colour: 92
+Wheel Colour: 109
+Wheel Type: 7
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 6
+Sideskirt: 10
+Exhaust: 2
+Hood: 7
+Roof: 9
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 5
+Livery: 2
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #5eff01
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 17
+Dashboard Colour: 156
+Tyres Mode: 1

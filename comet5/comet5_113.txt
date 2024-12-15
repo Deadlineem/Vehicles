@@ -1,0 +1,43 @@
+Model: comet5
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 12
+Pearl Colour: 140
+Wheel Colour: 64
+Wheel Type: 10
+Spoiler: 1
+Front Bumper: 2
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 0
+Chassis: 2
+Hood: 0
+Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 7
+Front Wheels: 109
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #005aff
+Custom Secondary Colour: #b2b200
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

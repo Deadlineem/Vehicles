@@ -1,0 +1,44 @@
+Model: coquette4
+Plate Style: 2
+Plate Text: 89CYQ172
+Primary Colour: 70
+Secondary Colour: 61
+Pearl Colour: 0
+Wheel Colour: 135
+Wheel Type: 11
+Spoiler: 8
+Front Bumper: 5
+Rear Bumper: 4
+Sideskirt: 3
+Exhaust: 6
+Chassis: 3
+Grille: 3
+Hood: 6
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 178
+Livery: 8
+Tyre Smoke Colour: #8466e2
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes

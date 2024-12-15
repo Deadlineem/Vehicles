@@ -1,0 +1,31 @@
+Model: raiju
+Plate Style: 0
+Plate Text: 02KHP135
+Primary Colour: 6
+Secondary Colour: 6
+Pearl Colour: 55
+Wheel Colour: 57
+Wheel Type: 8
+Engine: 4
+Brakes: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 108
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #000a00
+Custom Secondary Colour: #000000
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

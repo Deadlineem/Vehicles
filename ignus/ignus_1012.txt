@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 0
+Plate Text: 44EVH397
+Primary Colour: 131
+Secondary Colour: 120
+Pearl Colour: 0
+Wheel Colour: 111
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 0
+Rear Bumper: 6
+Sideskirt: 12
+Exhaust: 5
+Hood: 4
+Roof: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 54
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 107
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,57 @@
+Model: calico
+Plate Style: 0
+Plate Text: 37XMW463
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 1
+Wheel Type: 8
+Spoiler: 21
+Front Bumper: 25
+Rear Bumper: 2
+Sideskirt: 6
+Exhaust: 10
+Chassis: 7
+Grille: 0
+Hood: 24
+Fender: 2
+Roof: 18
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 55
+Plate Holder: 1
+Dashboard: 0
+Seats: 5
+Door Speaker: 0
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 8
+Struts: 11
+Arch Cover: 0
+Aerials: 3
+Trim2: 2
+Tank: 1
+Right Door: 0
+Livery: 0
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 5
+Dashboard Colour: 111
+Tyres Mode: 1

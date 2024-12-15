@@ -1,0 +1,38 @@
+Model: krieger
+Plate Style: 1
+Plate Text: 42SXE026
+Primary Colour: 158
+Secondary Colour: 154
+Pearl Colour: 137
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 0
+Sideskirt: 0
+Exhaust: 0
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 51
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 42
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #3a0033
+Custom Secondary Colour: #3a0033
+Neon Colour: #ff0000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No

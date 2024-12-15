@@ -1,0 +1,34 @@
+Model: nokota
+Plate Style: 0
+Plate Text: EDFZJG7K
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 18
+Wheel Colour: 119
+Wheel Type: 0
+Front Bumper: 2
+Sideskirt: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: 6
+Tyre Smoke Colour: #99e8ff
+Window Tint: 3
+Custom Primary Colour: #000000
+Custom Secondary Colour: #ff1616
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 0
+Tyres Mode: 2

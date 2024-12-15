@@ -1,0 +1,45 @@
+Model: panthere
+Plate Style: 2
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 140
+Wheel Colour: 70
+Wheel Type: 9
+Spoiler: 9
+Front Bumper: 6
+Rear Bumper: 7
+Sideskirt: 19
+Exhaust: 5
+Chassis: 0
+Grille: 3
+Hood: 0
+Fender: 6
+Right Fender: 0
+Roof: 4
+Engine: 5
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 183
+Livery: 10
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #ffbe00
+Custom Secondary Colour: #ffbe00
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

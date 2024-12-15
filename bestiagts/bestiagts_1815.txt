@@ -1,0 +1,39 @@
+Model: bestiagts
+Plate Style: 1
+Plate Text:  BE4STY 
+Primary Colour: 40
+Secondary Colour: 57
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 1
+Front Bumper: 1
+Sideskirt: 0
+Exhaust: 0
+Hood: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

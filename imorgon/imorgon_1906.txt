@@ -1,0 +1,46 @@
+Model: imorgon
+Plate Style: 4
+Plate Text: 23PPQ084
+Primary Colour: 41
+Secondary Colour: 68
+Pearl Colour: 36
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 1
+Exhaust: 5
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 1
+Armor: 5
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 18
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 9
+Dashboard Colour: 0
+Tyres Mode: 2
+Extra 1: No

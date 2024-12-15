@@ -1,0 +1,37 @@
+Model: infernus
+Plate Style: 5
+Plate Text:  BLEHH  
+Primary Colour: 34
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 8
+Wheel Type: 3
+Spoiler: 0
+Exhaust: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 23
+Livery: -1
+Tyre Smoke Colour: #aa7d0b
+Window Tint: 4
+Custom Primary Colour: #49111d
+Custom Secondary Colour: #13181f
+Neon Colour: #aa7d0b
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2
+Extra 1: Yes

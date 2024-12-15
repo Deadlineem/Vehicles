@@ -1,0 +1,42 @@
+Model: comet7
+Plate Style: 0
+Plate Text: 84ZVT381
+Primary Colour: 64
+Secondary Colour: 68
+Pearl Colour: 66
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 2
+Front Bumper: 1
+Rear Bumper: 10
+Sideskirt: 4
+Exhaust: 4
+Hood: 0
+Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 27
+Vanity Plates: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #070b1a
+Custom Secondary Colour: #070b1a
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Dashboard Colour: 0
+Tyres Mode: 2

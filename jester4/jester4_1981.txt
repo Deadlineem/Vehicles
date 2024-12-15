@@ -1,0 +1,59 @@
+Model: jester4
+Plate Style: 3
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 161
+Wheel Colour: 35
+Wheel Type: 11
+Spoiler: 10
+Front Bumper: 11
+Rear Bumper: 10
+Sideskirt: 8
+Exhaust: 13
+Chassis: 0
+Grille: 6
+Hood: 0
+Fender: 2
+Right Fender: 0
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 20
+Vanity Plates: 3
+Trim: 11
+Ornaments: 2
+Dashboard: 4
+Dial: 4
+Seats: 0
+Door Speaker: 8
+Steering Wheel: 16
+Engine Block: 5
+Air Filter: 9
+Struts: 17
+Arch Cover: 0
+Trim2: 0
+Tank: 0
+Livery: 4
+Tyre Smoke Colour: #fff600
+Window Tint: 1
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #ff0000
+Neon Colour: #fff600
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 27
+Dashboard Colour: 156
+Tyres Mode: 1

@@ -1,0 +1,42 @@
+Model: caracara2
+Plate Style: 0
+Plate Text: 44ZAK444
+Primary Colour: 134
+Secondary Colour: 120
+Pearl Colour: 120
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 7
+Rear Bumper: 4
+Exhaust: 2
+Grille: 2
+Hood: 5
+Fender: 1
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 181
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #005a96
+Custom Secondary Colour: 
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 156
+Tyres Mode: 1

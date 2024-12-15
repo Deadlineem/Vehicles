@@ -1,0 +1,38 @@
+Model: bobcatxl
+Plate Style: 5
+Plate Text:         
+Primary Colour: 64
+Secondary Colour: 68
+Pearl Colour: 111
+Wheel Colour: 122
+Wheel Type: 10
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 7
+Suspension: 4
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 61
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #053fff
+Custom Secondary Colour: #053fff
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 10: Yes
+Extra 11: No
+Extra 12: No

@@ -1,0 +1,41 @@
+Model: infernus2
+Plate Style: 3
+Plate Text: 68NLK061
+Primary Colour: 71
+Secondary Colour: 71
+Pearl Colour: 136
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 1
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Grille: 0
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #351c35
+Custom Secondary Colour: #351c35
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 107
+Dashboard Colour: 65
+Tyres Mode: 1

@@ -1,0 +1,44 @@
+Model: italirsx
+Plate Style: 1
+Plate Text: 88KHK402
+Primary Colour: 43
+Secondary Colour: 43
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 12
+Sideskirt: 7
+Exhaust: 8
+Chassis: 5
+Grille: 3
+Hood: 13
+Right Fender: 1
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 0
+Livery: 11
+Tyre Smoke Colour: #e20606
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 31
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,44 @@
+Model: italigto
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 89
+Wheel Colour: 0
+Wheel Type: 9
+Spoiler: 5
+Front Bumper: 4
+Rear Bumper: 2
+Sideskirt: 1
+Exhaust: 4
+Chassis: 0
+Grille: 0
+Hood: 1
+Fender: 2
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 56
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 57
+Livery: 4
+Tyre Smoke Colour: #010101
+Window Tint: 2
+Custom Primary Colour: #ffc300
+Custom Secondary Colour: #ffc300
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

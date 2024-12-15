@@ -1,0 +1,86 @@
+Model: vectre
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 41
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 13
+Front Bumper: 1
+Rear Bumper: 0
+Sideskirt: 4
+Exhaust: 4
+Chassis: 0
+Grille: 0
+Hood: 3
+Fender: 1
+Right Fender: 0
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 27
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 124
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dashboard: 2
+Dial: 0
+Seats: 8
+Door Speaker: 2
+Steering Wheel: 12
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 1
+Air Filter: 10
+Struts: 19
+Arch Cover: 1
+Aerials: 0
+Trim2: 4
+Tank: 0
+Left Door: 0
+Right Door: 0
+Livery: 1
+Lightbar: 2
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #9b847d
+Custom Secondary Colour: #9b847d
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Roof Livery: 0
+Dashboard Colour: 112
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

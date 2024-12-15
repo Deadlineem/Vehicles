@@ -1,0 +1,37 @@
+Model: ellie
+Plate Style: 8
+Plate Text:   WOOF  
+Primary Colour: 78
+Secondary Colour: 0
+Pearl Colour: 5
+Wheel Colour: 0
+Wheel Type: 9
+Front Bumper: 0
+Exhaust: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 4
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 21
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: #324654
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 2

@@ -1,0 +1,60 @@
+Model: zr350
+Plate Style: 0
+Plate Text: 72FMY904
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 0
+Wheel Colour: 122
+Wheel Type: 8
+Spoiler: 16
+Front Bumper: 6
+Rear Bumper: 2
+Sideskirt: 14
+Exhaust: 9
+Chassis: 5
+Grille: 5
+Hood: 1
+Fender: 1
+Right Fender: 1
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 77
+Vanity Plates: 8
+Trim: 8
+Dashboard: 4
+Dial: 4
+Seats: 0
+Door Speaker: 14
+Steering Wheel: 16
+Engine Block: 2
+Air Filter: 8
+Struts: 12
+Arch Cover: 2
+Aerials: 8
+Trim2: 2
+Windows: 0
+Unk47: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #32ff77
+Custom Secondary Colour: #32ff77
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 32
+Dashboard Colour: 156
+Tyres Mode: 1

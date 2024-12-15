@@ -1,0 +1,41 @@
+Model: pfister811
+Plate Style: 1
+Plate Text:  MENGO  
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 140
+Wheel Colour: 111
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 5
+Rear Bumper: 1
+Sideskirt: 2
+Exhaust: 3
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 2
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 107
+Livery: 0
+Tyre Smoke Colour: #6859cc
+Window Tint: 1
+Custom Primary Colour: #6859cc
+Custom Secondary Colour: #6859cc
+Neon Colour: #6859cc
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1
+Extra 1: Yes

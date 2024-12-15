@@ -1,0 +1,41 @@
+Model: blista2
+Plate Style: 3
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 3
+Pearl Colour: 161
+Wheel Colour: 1
+Wheel Type: 1
+Spoiler: 2
+Sideskirt: 1
+Exhaust: 2
+Chassis: 0
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 6
+Front Wheels: 4
+Livery: -1
+Tyre Smoke Colour: #ff007f
+Window Tint: 6
+Custom Primary Colour: #494943
+Custom Secondary Colour: #000000
+Neon Colour: #ff007f
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 2: Yes

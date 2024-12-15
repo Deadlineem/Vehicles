@@ -1,0 +1,45 @@
+Model: corsita
+Plate Style: 0
+Plate Text: 06FGL042
+Primary Colour: 77
+Secondary Colour: 21
+Pearl Colour: 5
+Wheel Colour: 122
+Wheel Type: 0
+Spoiler: 2
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 2
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #275190
+Custom Secondary Colour: #1e232f
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 154
+Dashboard Colour: 156
+Tyres Mode: 1

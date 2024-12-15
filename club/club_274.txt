@@ -1,0 +1,46 @@
+Model: club
+Plate Style: 5
+Plate Text:   XUMA  
+Primary Colour: 0
+Secondary Colour: 10
+Pearl Colour: 0
+Wheel Colour: 134
+Wheel Type: 10
+Spoiler: 10
+Front Bumper: 8
+Rear Bumper: 5
+Sideskirt: 2
+Exhaust: 9
+Chassis: 6
+Grille: 5
+Hood: 8
+Fender: 2
+Right Fender: 6
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 13
+Livery: 14
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 4
+Extra 1: Yes

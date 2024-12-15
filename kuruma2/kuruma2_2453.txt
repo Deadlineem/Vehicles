@@ -1,0 +1,39 @@
+Model: kuruma2
+Plate Style: 1
+Plate Text: 82DJN316
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 121
+Wheel Type: 8
+Spoiler: 5
+Front Bumper: 3
+Sideskirt: 5
+Exhaust: 3
+Chassis: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 205
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #413370
+Custom Secondary Colour: #413370
+Neon Colour: #8367e0
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

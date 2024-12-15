@@ -1,0 +1,48 @@
+Model: btype3
+Plate Style: 1
+Plate Text:  GOAWAY 
+Primary Colour: 131
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 2
+Spoiler: 2
+Front Bumper: 1
+Rear Bumper: 1
+Sideskirt: 1
+Chassis: 2
+Grille: 1
+Hood: 3
+Fender: 2
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 35
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 10
+Arch Cover: 1
+Aerials: 1
+Trim2: 3
+Left Door: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

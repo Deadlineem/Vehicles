@@ -1,0 +1,42 @@
+Model: torero
+Plate Style: 0
+Plate Text:   KEYY  
+Primary Colour: 134
+Secondary Colour: 134
+Pearl Colour: 0
+Wheel Colour: 1
+Wheel Type: 1
+Spoiler: 3
+Front Bumper: 0
+Rear Bumper: 0
+Exhaust: 2
+Grille: 1
+Hood: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

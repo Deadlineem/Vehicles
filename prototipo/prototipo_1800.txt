@@ -1,0 +1,38 @@
+Model: prototipo
+Plate Style: 0
+Plate Text: M4K3B4NK
+Primary Colour: 111
+Secondary Colour: 147
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 2
+Front Bumper: 3
+Sideskirt: 3
+Exhaust: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 35
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

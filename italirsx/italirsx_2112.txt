@@ -1,0 +1,44 @@
+Model: italirsx
+Plate Style: 0
+Plate Text:    XD   
+Primary Colour: 72
+Secondary Colour: 122
+Pearl Colour: 8
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 19
+Front Bumper: 5
+Rear Bumper: 2
+Sideskirt: 6
+Exhaust: 5
+Chassis: 5
+Grille: 2
+Hood: 13
+Right Fender: 2
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 11
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: #161629
+Custom Secondary Colour: #161629
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 18
+Dashboard Colour: 156
+Tyres Mode: 1

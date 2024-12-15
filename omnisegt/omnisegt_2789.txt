@@ -1,0 +1,44 @@
+Model: omnisegt
+Plate Style: 0
+Plate Text: 22HRJ728
+Primary Colour: 117
+Secondary Colour: 12
+Pearl Colour: 18
+Wheel Colour: 150
+Wheel Type: 8
+Spoiler: 8
+Front Bumper: 6
+Rear Bumper: 4
+Sideskirt: 3
+Chassis: 1
+Grille: 3
+Hood: 2
+Fender: 2
+Right Fender: 0
+Roof: 3
+Engine: 4
+Brakes: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 107
+Trim2: 1
+Livery: 2
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #b096ff
+Custom Secondary Colour: #000000
+Neon Colour: #ab96ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 154
+Dashboard Colour: 156
+Tyres Mode: 1

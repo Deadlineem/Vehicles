@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 1
+Plate Text: 9SRDH481
+Primary Colour: 32
+Secondary Colour: 32
+Pearl Colour: 2
+Wheel Colour: 122
+Wheel Type: 12
+Spoiler: 6
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 3
+Chassis: 0
+Grille: 2
+Hood: 0
+Fender: 1
+Roof: 0
+Engine: 2
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 9
+Plate Holder: 1
+Vanity Plates: 3
+Trim: 0
+Dashboard: 1
+Dial: 1
+Seats: 0
+Door Speaker: 1
+Steering Wheel: 2
+Engine Block: 2
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 5
+Windows: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 4
+Tyres Mode: 1

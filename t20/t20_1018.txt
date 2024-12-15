@@ -1,0 +1,39 @@
+Model: t20
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 89
+Wheel Colour: 88
+Wheel Type: 10
+Front Bumper: 0
+Rear Bumper: 1
+Sideskirt: 1
+Exhaust: 3
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 117
+Livery: 0
+Tyre Smoke Colour: #ff3b00
+Window Tint: 1
+Custom Primary Colour: #ff3b00
+Custom Secondary Colour: #ff3b00
+Neon Colour: #bf3600
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 7
+Tyres Mode: 1

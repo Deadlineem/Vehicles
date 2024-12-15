@@ -1,0 +1,42 @@
+Model: thrax
+Plate Style: 1
+Plate Text: BURNTOUT
+Primary Colour: 131
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 9
+Front Bumper: 4
+Rear Bumper: 3
+Sideskirt: 2
+Exhaust: 9
+Chassis: 1
+Grille: 7
+Hood: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 14
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 122
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 65
+Tyres Mode: 1

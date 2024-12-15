@@ -1,0 +1,46 @@
+Model: club
+Plate Style: 5
+Plate Text:    WOAH 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 147
+Wheel Colour: 44
+Wheel Type: 8
+Spoiler: 1
+Front Bumper: 7
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 8
+Chassis: 1
+Grille: 2
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 41
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 139
+Livery: 0
+Tyre Smoke Colour: #ff0000
+Window Tint: 6
+Custom Primary Colour: #ff0000
+Custom Secondary Colour: #ff0000
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 134
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes

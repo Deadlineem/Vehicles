@@ -1,0 +1,50 @@
+Model: faction3
+Plate Style: 0
+Plate Text: 66IUW706
+Primary Colour: 0
+Secondary Colour: 111
+Pearl Colour: 135
+Wheel Colour: 88
+Wheel Type: 1
+Exhaust: 1
+Hood: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Back Wheels: 4
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 5
+Ornaments: 0
+Dial: 0
+Steering Wheel: 5
+Shifter Leavers: 1
+Plaques: 19
+Speakers: 2
+Trunk: 1
+Engine Block: 3
+Air Filter: 5
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2
+Extra 2: Yes
+Extra 3: No

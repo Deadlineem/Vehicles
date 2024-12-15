@@ -1,0 +1,44 @@
+Model: astron
+Plate Style: 9
+Plate Text: 20KYS200
+Primary Colour: 45
+Secondary Colour: 21
+Pearl Colour: 111
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 2
+Exhaust: 2
+Chassis: 2
+Grille: 0
+Hood: 0
+Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 4
+Transmission: 4
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 13
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #8f1e17
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

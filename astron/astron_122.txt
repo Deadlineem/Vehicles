@@ -1,0 +1,44 @@
+Model: astron
+Plate Style: 1
+Plate Text: PORSCHE 
+Primary Colour: 111
+Secondary Colour: 0
+Pearl Colour: 111
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 8
+Rear Bumper: 6
+Sideskirt: 8
+Exhaust: 4
+Chassis: 7
+Grille: 0
+Hood: 13
+Fender: 0
+Roof: 0
+Engine: 5
+Brakes: 4
+Transmission: 4
+Horns: 0
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 21
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

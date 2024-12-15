@@ -1,0 +1,59 @@
+Model: previon
+Plate Style: 0
+Plate Text: 81LXH534
+Primary Colour: 86
+Secondary Colour: 0
+Pearl Colour: 6
+Wheel Colour: 118
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 4
+Exhaust: 4
+Chassis: 0
+Grille: 3
+Hood: 9
+Fender: 2
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Vanity Plates: 0
+Trim: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 4
+Steering Wheel: 1
+Engine Block: 2
+Air Filter: 22
+Struts: 5
+Arch Cover: 6
+Aerials: 0
+Left Door: 0
+Right Door: 0
+Livery: 10
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #58688e
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 32
+Dashboard Colour: 156
+Tyres Mode: 1

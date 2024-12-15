@@ -1,0 +1,39 @@
+Model: entity2
+Plate Style: 0
+Plate Text: 83WOW893
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 18
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 5
+Front Bumper: 0
+Rear Bumper: 3
+Exhaust: 3
+Hood: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 51
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 107
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 6
+Custom Primary Colour: #4d0068
+Custom Secondary Colour: #4d0068
+Neon Colour: #120035
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 7
+Dashboard Colour: 89
+Tyres Mode: 1

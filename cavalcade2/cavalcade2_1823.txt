@@ -1,0 +1,37 @@
+Model: cavalcade2
+Plate Style: 0
+Plate Text: 63DYR448
+Primary Colour: 0
+Secondary Colour: 6
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 3
+Engine: 2
+Brakes: 2
+Transmission: 1
+Horns: 0
+Suspension: 4
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 23
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1
+Extra 10: Yes
+Extra 11: No
+Extra 12: No

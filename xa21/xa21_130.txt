@@ -1,0 +1,44 @@
+Model: xa21
+Plate Style: 1
+Plate Text:  JAGUAR 
+Primary Colour: 0
+Secondary Colour: 145
+Pearl Colour: 145
+Wheel Colour: 148
+Wheel Type: 7
+Spoiler: 9
+Front Bumper: 6
+Rear Bumper: 6
+Sideskirt: 7
+Exhaust: 10
+Chassis: 3
+Grille: 14
+Hood: 12
+Fender: 10
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 12
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 13
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #0d1116
+Custom Secondary Colour: #621276
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 145
+Dashboard Colour: 145
+Tyres Mode: 1

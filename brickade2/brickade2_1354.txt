@@ -1,0 +1,40 @@
+Model: brickade2
+Plate Style: 0
+Plate Text:         
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 159
+Wheel Colour: 132
+Wheel Type: 8
+Chassis: 1
+Right Fender: 1
+Engine: 0
+Brakes: 2
+Transmission: 0
+Horns: 39
+Suspension: 0
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 108
+Arch Cover: 1
+Livery: 7
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #076666
+Custom Secondary Colour: #076666
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes
+Extra 3: Yes

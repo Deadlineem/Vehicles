@@ -1,0 +1,86 @@
+Model: vectre
+Plate Style: 0
+Plate Text:  0 MPH  
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 81
+Wheel Type: 10
+Spoiler: 18
+Front Bumper: 6
+Rear Bumper: 4
+Sideskirt: 14
+Exhaust: 5
+Chassis: 7
+Grille: 0
+Hood: 3
+Fender: 3
+Right Fender: 0
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 17
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 4
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 5
+Trim: 1
+Ornaments: 0
+Dashboard: 2
+Dial: 0
+Seats: 7
+Door Speaker: 0
+Steering Wheel: 12
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 1
+Air Filter: 10
+Struts: 20
+Arch Cover: 1
+Aerials: 0
+Trim2: 7
+Tank: 0
+Left Door: 0
+Right Door: 1
+Livery: 9
+Lightbar: 2
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #ff87ff
+Custom Secondary Colour: #ff87ff
+Neon Colour: #ff87ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Roof Livery: 0
+Dashboard Colour: 112
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

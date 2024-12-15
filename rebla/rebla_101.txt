@@ -1,0 +1,45 @@
+Model: rebla
+Plate Style: 0
+Plate Text: 69HGQ196
+Primary Colour: 22
+Secondary Colour: 30
+Pearl Colour: 4
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 8
+Front Bumper: 8
+Rear Bumper: 3
+Sideskirt: 8
+Exhaust: 7
+Chassis: 5
+Grille: 9
+Hood: 13
+Fender: 7
+Right Fender: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 1
+Livery: 10
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #b61137
+Custom Secondary Colour: #fd19d2
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 4
+Dashboard Colour: 0
+Tyres Mode: 1

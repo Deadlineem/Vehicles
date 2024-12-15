@@ -1,0 +1,45 @@
+Model: drafter
+Plate Style: 5
+Plate Text:   K3Y   
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 28
+Wheel Colour: 2
+Wheel Type: 12
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 3
+Sideskirt: 2
+Exhaust: 5
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 26
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #26030b
+Custom Secondary Colour: #26030b
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1

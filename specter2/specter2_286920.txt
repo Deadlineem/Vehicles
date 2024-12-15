@@ -1,0 +1,46 @@
+Model: specter2
+Plate Style: 5
+Plate Text:   K3Y   
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 74
+Wheel Colour: 5
+Wheel Type: 12
+Spoiler: 0
+Front Bumper: 7
+Rear Bumper: 7
+Sideskirt: 1
+Exhaust: 1
+Chassis: 0
+Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 27
+Dashboard: 0
+Dial: 0
+Seats: 1
+Door Speaker: 0
+Steering Wheel: 15
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 4
+Custom Primary Colour: #213d51
+Custom Secondary Colour: #213d51
+Neon Colour: #0215ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 64
+Tyres Mode: 2

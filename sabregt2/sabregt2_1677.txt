@@ -1,0 +1,55 @@
+Model: sabregt2
+Plate Style: 0
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 140
+Wheel Colour: 0
+Wheel Type: 9
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 0
+Exhaust: 0
+Chassis: 0
+Grille: 2
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 98
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dial: 0
+Steering Wheel: 0
+Shifter Leavers: 0
+Plaques: 22
+Speakers: 2
+Trunk: 3
+Hydraulics: 4
+Engine Block: 7
+Air Filter: 4
+Livery: 8
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #160066
+Custom Secondary Colour: #160066
+Neon Colour: #6400ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

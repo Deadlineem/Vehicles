@@ -1,0 +1,33 @@
+Model: alkonost
+Plate Style: 0
+Plate Text: 42GCH637
+Primary Colour: 131
+Secondary Colour: 0
+Pearl Colour: 135
+Wheel Colour: 122
+Wheel Type: 10
+Front Bumper: 0
+Right Fender: 0
+Engine: 0
+Brakes: 0
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 101
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #3205ff
+Custom Secondary Colour: #3205ff
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

@@ -1,0 +1,50 @@
+Model: banshee2
+Plate Style: 3
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 0
+Pearl Colour: 161
+Wheel Colour: 111
+Wheel Type: 11
+Spoiler: 1
+Front Bumper: 4
+Sideskirt: 4
+Exhaust: 4
+Grille: 3
+Hood: 4
+Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 20
+Ornaments: 43
+Dashboard: 3
+Seats: 0
+Door Speaker: 11
+Steering Wheel: 16
+Engine Block: 4
+Struts: 11
+Livery: 4
+Tyre Smoke Colour: #fff200
+Window Tint: 3
+Custom Primary Colour: #5050ff
+Custom Secondary Colour: #ffffff
+Neon Colour: #fff200
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 31
+Dashboard Colour: 134
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes

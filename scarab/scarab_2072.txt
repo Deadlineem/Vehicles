@@ -1,0 +1,46 @@
+Model: scarab
+Plate Style: 0
+Plate Text: 87FHK197
+Primary Colour: 9
+Secondary Colour: 5
+Pearl Colour: 4
+Wheel Colour: 111
+Wheel Type: 10
+Front Bumper: 8
+Sideskirt: 11
+Exhaust: 4
+Chassis: 3
+Grille: 2
+Right Fender: 5
+Roof: 7
+Engine: 4
+Brakes: 3
+Horns: 58
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 50
+Ornaments: 6
+Plaques: 7
+Air Filter: 4
+Struts: 3
+Arch Cover: 6
+Aerials: 3
+Tank: 2
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #af2401
+Custom Secondary Colour: #5dc4aa
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 156
+Tyres Mode: 1

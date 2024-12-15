@@ -1,0 +1,37 @@
+Model: seven70
+Plate Style: 7
+Plate Text: 66EGO667
+Primary Colour: 16
+Secondary Colour: 21
+Pearl Colour: 24
+Wheel Colour: 2
+Wheel Type: 7
+Spoiler: 0
+Sideskirt: 1
+Exhaust: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #1e2429
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 113
+Dashboard Colour: 137
+Tyres Mode: 1

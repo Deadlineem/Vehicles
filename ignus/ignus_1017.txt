@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 0
+Plate Text: 74KJ6G8V
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 140
+Wheel Colour: 81
+Wheel Type: 8
+Spoiler: 4
+Front Bumper: 17
+Rear Bumper: 6
+Sideskirt: 7
+Exhaust: 4
+Hood: 17
+Roof: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 115
+Livery: 6
+Tyre Smoke Colour: #0000ff
+Window Tint: 6
+Custom Primary Colour: #4e00ff
+Custom Secondary Colour: #4e00ff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 17
+Dashboard Colour: 156
+Tyres Mode: 1

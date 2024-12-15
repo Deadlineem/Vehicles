@@ -1,0 +1,45 @@
+Model: corsita
+Plate Style: 1
+Plate Text: 3ZGSK123
+Primary Colour: 135
+Secondary Colour: 135
+Pearl Colour: 0
+Wheel Colour: 140
+Wheel Type: 7
+Spoiler: 5
+Front Bumper: 0
+Rear Bumper: 3
+Sideskirt: 2
+Exhaust: 1
+Chassis: 0
+Grille: 5
+Hood: 4
+Fender: 2
+Right Fender: 0
+Roof: 17
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 5
+Livery: 10
+Tyre Smoke Colour: #ff7fff
+Window Tint: 2
+Custom Primary Colour: #ff7fff
+Custom Secondary Colour: #ff7fff
+Neon Colour: #ff7fff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

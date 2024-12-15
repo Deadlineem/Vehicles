@@ -1,0 +1,48 @@
+Model: patriot3
+Plate Style: 0
+Plate Text: 18JSY607
+Primary Colour: 120
+Secondary Colour: 12
+Pearl Colour: 18
+Wheel Colour: 111
+Wheel Type: 8
+Spoiler: 3
+Front Bumper: 10
+Rear Bumper: 7
+Sideskirt: 10
+Exhaust: 6
+Chassis: 1
+Grille: 16
+Hood: 7
+Fender: 7
+Right Fender: 1
+Roof: 9
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 77
+Ornaments: 9
+Trim2: 2
+Tank: 1
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #32bbff
+Custom Secondary Colour: #3277ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 134
+Tyres Mode: 1

@@ -1,0 +1,43 @@
+Model: cheetah2
+Plate Style: 1
+Plate Text:         
+Primary Colour: 112
+Secondary Colour: 0
+Pearl Colour: 53
+Wheel Colour: 115
+Wheel Type: 11
+Spoiler: 3
+Front Bumper: 4
+Rear Bumper: 0
+Sideskirt: 5
+Exhaust: 0
+Hood: 4
+Fender: 1
+Right Fender: 4
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 41
+Suspension: 3
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 21
+Livery: -1
+Tyre Smoke Colour: #ff00f6
+Window Tint: 1
+Custom Primary Colour: #e34234
+Custom Secondary Colour: #e34234
+Neon Colour: #e23f34
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 0
+Tyres Mode: 1

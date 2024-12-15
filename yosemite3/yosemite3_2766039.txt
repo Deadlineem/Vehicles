@@ -1,0 +1,86 @@
+Model: yosemite3
+Plate Style: 0
+Plate Text: 98CFG477
+Primary Colour: 0
+Secondary Colour: 1
+Pearl Colour: 10
+Wheel Colour: 145
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 14
+Rear Bumper: 3
+Sideskirt: 0
+Exhaust: 5
+Chassis: 0
+Grille: 5
+Hood: 11
+Fender: 1
+Right Fender: 5
+Roof: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 3
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 23
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dashboard: 0
+Dial: 0
+Seats: 2
+Door Speaker: 0
+Steering Wheel: 3
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 1
+Hydraulics: 0
+Engine Block: 4
+Air Filter: 5
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 1
+Left Door: 0
+Right Door: 0
+Livery: 0
+Lightbar: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #110015
+Custom Secondary Colour: 
+Neon Colour: #002aff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Roof Livery: 0
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes
+Extra 3: Yes
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

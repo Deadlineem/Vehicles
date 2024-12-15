@@ -1,0 +1,59 @@
+Model: jester4
+Plate Style: 0
+Plate Text: 88RVM995
+Primary Colour: 119
+Secondary Colour: 158
+Pearl Colour: 5
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 10
+Front Bumper: 12
+Rear Bumper: 5
+Sideskirt: 7
+Exhaust: 7
+Chassis: 2
+Grille: 8
+Hood: 12
+Fender: 2
+Right Fender: 5
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 9
+Suspension: 4
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 2
+Front Wheels: 14
+Vanity Plates: 1
+Trim: 1
+Ornaments: 2
+Dashboard: 1
+Dial: 2
+Seats: 3
+Door Speaker: 5
+Steering Wheel: 15
+Engine Block: 4
+Air Filter: 7
+Struts: 17
+Arch Cover: 3
+Trim2: 0
+Tank: 5
+Livery: 8
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #5e646b
+Custom Secondary Colour: #47391b
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 27
+Dashboard Colour: 156
+Tyres Mode: 1

@@ -1,0 +1,71 @@
+Model: sultan3
+Plate Style: 1
+Plate Text: 49AOJ164
+Primary Colour: 73
+Secondary Colour: 73
+Pearl Colour: 73
+Wheel Colour: 99
+Wheel Type: 11
+Spoiler: 16
+Front Bumper: 2
+Rear Bumper: 4
+Sideskirt: 3
+Exhaust: 7
+Chassis: 0
+Grille: 4
+Hood: 9
+Fender: 0
+Right Fender: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 2
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 83
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 1
+Ornaments: 0
+Dashboard: 0
+Dial: 6
+Seats: 1
+Door Speaker: 0
+Steering Wheel: 0
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 1
+Air Filter: 6
+Struts: 12
+Arch Cover: 0
+Aerials: 0
+Trim2: 2
+Tank: 0
+Windows: 0
+Unk47: 0
+Livery: 10
+Unk49: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 73
+Roof Livery: 0
+Dashboard Colour: 28
+Tyres Mode: 1

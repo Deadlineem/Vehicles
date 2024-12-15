@@ -1,0 +1,40 @@
+Model: tempesta
+Plate Style: 1
+Plate Text:  DULION 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 134
+Wheel Type: 11
+Spoiler: 3
+Front Bumper: 2
+Sideskirt: 0
+Exhaust: 0
+Chassis: 1
+Hood: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 6
+Front Wheels: 21
+Livery: -1
+Tyre Smoke Colour: #78ff1e
+Window Tint: 1
+Custom Primary Colour: #78ff23
+Custom Secondary Colour: #78ff23
+Neon Colour: #0a003c
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 1
+Plate Text: R32 ZTHR
+Primary Colour: 52
+Secondary Colour: 52
+Pearl Colour: 90
+Wheel Colour: 122
+Wheel Type: 0
+Spoiler: 5
+Front Bumper: 5
+Rear Bumper: 0
+Sideskirt: 3
+Exhaust: 8
+Chassis: 0
+Grille: 2
+Hood: 2
+Fender: 3
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 4
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 14
+Plate Holder: 1
+Vanity Plates: 3
+Trim: 0
+Dashboard: 4
+Dial: 5
+Seats: 7
+Door Speaker: 8
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 8
+Struts: 9
+Arch Cover: 2
+Aerials: 11
+Trim2: 0
+Tank: 3
+Left Door: 2
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 70
+Tyres Mode: 2

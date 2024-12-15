@@ -1,0 +1,43 @@
+Model: penumbra
+Plate Style: 3
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 161
+Wheel Colour: 35
+Wheel Type: 12
+Spoiler: 4
+Front Bumper: 1
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 2
+Chassis: 0
+Grille: 1
+Hood: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 28
+Livery: 9
+Tyre Smoke Colour: #00b2ff
+Window Tint: 1
+Custom Primary Colour: #feffff
+Custom Secondary Colour: #feffff
+Neon Colour: #00b2ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

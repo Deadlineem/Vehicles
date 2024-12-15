@@ -1,0 +1,39 @@
+Model: veto
+Plate Style: 5
+Plate Text: MILCHAIT
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 107
+Wheel Type: 10
+Spoiler: 2
+Front Bumper: 6
+Exhaust: 8
+Chassis: 0
+Grille: 11
+Right Fender: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 14
+Front Wheels: 139
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 6
+Custom Primary Colour: #007777
+Custom Secondary Colour: #007777
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 35
+Tyres Mode: 1

@@ -1,0 +1,45 @@
+Model: schlagen
+Plate Style: 1
+Plate Text:   UWU   
+Primary Colour: 161
+Secondary Colour: 0
+Pearl Colour: 118
+Wheel Colour: 3
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 0
+Sideskirt: 3
+Exhaust: 1
+Chassis: 0
+Grille: 0
+Hood: 1
+Fender: 0
+Right Fender: 2
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 3
+Armor: 0
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 33
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #630101
+Custom Secondary Colour: #630101
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 2

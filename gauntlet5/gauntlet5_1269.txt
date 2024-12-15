@@ -1,0 +1,59 @@
+Model: gauntlet5
+Plate Style: 0
+Plate Text: KEPLER  
+Primary Colour: 105
+Secondary Colour: 105
+Pearl Colour: 105
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 8
+Front Bumper: 13
+Rear Bumper: 5
+Sideskirt: 8
+Exhaust: 10
+Chassis: 2
+Grille: 6
+Hood: 12
+Fender: 7
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 107
+Vanity Plates: 3
+Trim: 0
+Ornaments: 6
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Plaques: 6
+Engine Block: 0
+Arch Cover: 6
+Aerials: 0
+Trim2: 0
+Tank: 5
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 4
+Tyres Mode: 1

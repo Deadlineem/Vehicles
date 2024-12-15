@@ -1,0 +1,43 @@
+Model: toros
+Plate Style: 1
+Plate Text:   URUS  
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 3
+Spoiler: 8
+Front Bumper: 9
+Rear Bumper: 4
+Sideskirt: 6
+Exhaust: 6
+Grille: 14
+Hood: 9
+Fender: 1
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 1
+Livery: 0
+Tyre Smoke Colour: #ffbf00
+Window Tint: 1
+Custom Primary Colour: #ffbf00
+Custom Secondary Colour: #ffbf00
+Neon Colour: #ffbf00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 2
+Dashboard Colour: 156
+Tyres Mode: 1

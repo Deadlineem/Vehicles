@@ -1,0 +1,49 @@
+Model: italigtb2
+Plate Style: 1
+Plate Text:  28AT9  
+Primary Colour: 72
+Secondary Colour: 12
+Pearl Colour: 70
+Wheel Colour: 1
+Wheel Type: 12
+Spoiler: 12
+Front Bumper: 5
+Rear Bumper: 3
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Hood: 10
+Fender: 3
+Right Fender: 0
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 11
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Aerials: 1
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

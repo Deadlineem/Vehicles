@@ -1,0 +1,46 @@
+Model: sentinel
+Plate Style: 0
+Plate Text: 21ODZ006
+Primary Colour: 2
+Secondary Colour: 0
+Pearl Colour: 5
+Wheel Colour: 156
+Wheel Type: 10
+Spoiler: 30
+Front Bumper: 13
+Rear Bumper: 8
+Sideskirt: 13
+Exhaust: 6
+Chassis: 8
+Hood: 20
+Fender: 0
+Right Fender: 3
+Roof: 5
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 58
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 107
+Speakers: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #bca91e
+Custom Secondary Colour: #bca91e
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 10: No

@@ -1,0 +1,59 @@
+Model: jester4
+Plate Style: 0
+Plate Text:    XYZ  
+Primary Colour: 111
+Secondary Colour: 0
+Pearl Colour: 27
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 3
+Front Bumper: 10
+Rear Bumper: 11
+Sideskirt: 9
+Exhaust: 7
+Chassis: 9
+Grille: 6
+Hood: 12
+Fender: 2
+Right Fender: 5
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 10
+Front Wheels: 14
+Vanity Plates: 3
+Trim: 0
+Ornaments: 2
+Dashboard: 4
+Dial: 4
+Seats: 8
+Door Speaker: 11
+Steering Wheel: 13
+Engine Block: 5
+Air Filter: 9
+Struts: 17
+Arch Cover: 3
+Trim2: 2
+Tank: 8
+Livery: 5
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: #f0f0f0
+Custom Secondary Colour: #080808
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 27
+Dashboard Colour: 156
+Tyres Mode: 1

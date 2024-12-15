@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 1
+Plate Text: 5HSLX903
+Primary Colour: 27
+Secondary Colour: 0
+Pearl Colour: 88
+Wheel Colour: 0
+Wheel Type: 11
+Spoiler: 9
+Front Bumper: 6
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 22
+Grille: 0
+Hood: 17
+Fender: 1
+Right Fender: 5
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 17
+Vanity Plates: 3
+Trim: 1
+Dashboard: 1
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Arch Cover: 1
+Aerials: 0
+Trim2: 1
+Livery: 15
+Tyre Smoke Colour: #36e4ff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0f03ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 111
+Tyres Mode: 1

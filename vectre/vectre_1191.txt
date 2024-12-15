@@ -1,0 +1,56 @@
+Model: vectre
+Plate Style: 0
+Plate Text: 23KFR212
+Primary Colour: 89
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 89
+Wheel Type: 11
+Spoiler: 13
+Front Bumper: 1
+Rear Bumper: 6
+Sideskirt: 13
+Exhaust: 3
+Chassis: 8
+Hood: 12
+Fender: 3
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 7
+Front Wheels: 179
+Vanity Plates: 10
+Trim: 1
+Dashboard: 3
+Seats: 7
+Door Speaker: 15
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 10
+Struts: 20
+Arch Cover: 0
+Aerials: 0
+Trim2: 11
+Right Door: 2
+Livery: 11
+Tyre Smoke Colour: #fcee00
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 111
+Tyres Mode: 1

@@ -1,0 +1,37 @@
+Model: nero
+Plate Style: 1
+Plate Text: 42HKO475
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 12
+Front Bumper: 2
+Sideskirt: 0
+Exhaust: 5
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 14
+Livery: -1
+Tyre Smoke Colour: #141414
+Window Tint: 3
+Custom Primary Colour: #411d18
+Custom Secondary Colour: #411d18
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 65
+Tyres Mode: 1

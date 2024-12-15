@@ -1,0 +1,86 @@
+Model: tornado5
+Plate Style: 1
+Plate Text:         
+Primary Colour: 0
+Secondary Colour: 145
+Pearl Colour: 5
+Wheel Colour: 145
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 3
+Sideskirt: 0
+Exhaust: 4
+Chassis: 0
+Grille: 0
+Hood: 4
+Fender: 0
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 58
+Back Wheels: 0
+Plate Holder: 13
+Vanity Plates: 3
+Trim: 9
+Ornaments: 1
+Dashboard: 6
+Dial: 10
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 9
+Shifter Leavers: 0
+Plaques: 22
+Speakers: 0
+Trunk: 3
+Hydraulics: 6
+Engine Block: 1
+Air Filter: 4
+Struts: 0
+Arch Cover: 5
+Aerials: 3
+Trim2: 6
+Tank: 3
+Left Door: 0
+Right Door: 0
+Livery: 8
+Lightbar: 2
+Tyre Smoke Colour: #8466e2
+Window Tint: 0
+Custom Primary Colour: #000000
+Custom Secondary Colour: 
+Neon Colour: #2301ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 145
+Roof Livery: 1
+Dashboard Colour: 135
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

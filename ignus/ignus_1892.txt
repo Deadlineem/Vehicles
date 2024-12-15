@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 0
+Plate Text: 42BXI072
+Primary Colour: 0
+Secondary Colour: 55
+Pearl Colour: 55
+Wheel Colour: 158
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 17
+Rear Bumper: 6
+Sideskirt: 3
+Exhaust: 5
+Hood: 16
+Roof: 9
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 210
+Livery: 7
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 8
+Dashboard Colour: 156
+Tyres Mode: 1

@@ -1,0 +1,37 @@
+Model: nero
+Plate Style: 1
+Plate Text:         
+Primary Colour: 71
+Secondary Colour: 12
+Pearl Colour: 88
+Wheel Colour: 145
+Wheel Type: 9
+Front Bumper: 1
+Sideskirt: 1
+Exhaust: 0
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 15
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 88
+Livery: 0
+Tyre Smoke Colour: #0000e2
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: #1a182e
+Neon Colour: #0a0014
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 145
+Dashboard Colour: 132
+Tyres Mode: 1

@@ -1,0 +1,43 @@
+Model: neo
+Plate Style: 0
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 135
+Wheel Colour: 145
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 7
+Rear Bumper: 3
+Sideskirt: 4
+Exhaust: 13
+Chassis: 7
+Grille: 2
+Hood: 1
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 58
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 171
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #251d33
+Custom Secondary Colour: #005dea
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 145
+Dashboard Colour: 132
+Tyres Mode: 1

@@ -1,0 +1,60 @@
+Model: dominator7
+Plate Style: 1
+Plate Text:  G4O5T  
+Primary Colour: 142
+Secondary Colour: 142
+Pearl Colour: 0
+Wheel Colour: 142
+Wheel Type: 11
+Spoiler: 12
+Front Bumper: 5
+Rear Bumper: 8
+Sideskirt: 18
+Exhaust: 3
+Chassis: 5
+Grille: 3
+Hood: 0
+Fender: 0
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 1
+Transmission: 1
+Horns: 54
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 111
+Trim: 2
+Dashboard: 4
+Dial: 5
+Seats: 5
+Door Speaker: 14
+Steering Wheel: 15
+Engine Block: 4
+Air Filter: 25
+Struts: 16
+Arch Cover: 1
+Aerials: 0
+Trim2: 0
+Tank: 1
+Left Door: 0
+Right Door: 11
+Livery: 9
+Tyre Smoke Colour: #8466e2
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #2301ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 146
+Dashboard Colour: 145
+Tyres Mode: 1

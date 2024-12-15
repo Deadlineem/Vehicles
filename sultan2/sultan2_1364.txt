@@ -1,0 +1,45 @@
+Model: sultan2
+Plate Style: 0
+Plate Text: UTU GAY 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 2
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 4
+Sideskirt: 0
+Exhaust: 9
+Chassis: 5
+Grille: 1
+Hood: 14
+Fender: 0
+Right Fender: 3
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 10
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #00008b
+Custom Secondary Colour: #00008b
+Neon Colour: #00008b
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 160
+Tyres Mode: 4

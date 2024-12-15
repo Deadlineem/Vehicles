@@ -1,0 +1,55 @@
+Model: rt3000
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 105
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 3
+Front Bumper: 3
+Rear Bumper: 0
+Exhaust: 4
+Grille: 0
+Hood: 4
+Fender: 7
+Right Fender: 1
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 42
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 116
+Vanity Plates: 4
+Trim: 1
+Dashboard: 2
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 4
+Left Door: 0
+Right Door: 8
+Livery: 5
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #ffeb8c
+Custom Secondary Colour: #000000
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 134
+Tyres Mode: 1

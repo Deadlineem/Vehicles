@@ -1,0 +1,38 @@
+Model: insurgent3
+Plate Style: 0
+Plate Text: V2D04LLQ
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 135
+Wheel Colour: 0
+Wheel Type: 10
+Chassis: 1
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 1
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 71
+Livery: 26
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: #0c000c
+Custom Secondary Colour: #0c000c
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No

@@ -1,0 +1,44 @@
+Model: viseris
+Plate Style: 9
+Plate Text:  K1771T 
+Primary Colour: 88
+Secondary Colour: 147
+Pearl Colour: 88
+Wheel Colour: 156
+Wheel Type: 1
+Spoiler: 5
+Front Bumper: 0
+Rear Bumper: 2
+Sideskirt: 3
+Exhaust: 5
+Chassis: 1
+Grille: 4
+Hood: 2
+Fender: 2
+Roof: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 3
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 26
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

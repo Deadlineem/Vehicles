@@ -1,0 +1,42 @@
+Model: autarch
+Plate Style: 2
+Plate Text: 20SBT663
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 135
+Wheel Colour: 145
+Wheel Type: 10
+Spoiler: 9
+Front Bumper: 4
+Rear Bumper: 1
+Sideskirt: 2
+Exhaust: 0
+Hood: 6
+Fender: 0
+Right Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 77
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #3a004c
+Custom Secondary Colour: #3a004c
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

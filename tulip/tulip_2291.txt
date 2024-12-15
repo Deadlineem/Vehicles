@@ -1,0 +1,39 @@
+Model: tulip
+Plate Style: 0
+Plate Text: 42OVG022
+Primary Colour: 112
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 1
+Spoiler: 4
+Front Bumper: 0
+Rear Bumper: 1
+Exhaust: 4
+Hood: 11
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 1
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 3, Custom
+Livery: 4
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

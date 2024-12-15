@@ -1,0 +1,46 @@
+Model: stingertt
+Plate Style: 1
+Plate Text: KHOTHOS 
+Primary Colour: 83
+Secondary Colour: 83
+Pearl Colour: 127
+Wheel Colour: 156
+Wheel Type: 9
+Spoiler: 9
+Front Bumper: 1
+Rear Bumper: 8
+Sideskirt: 19
+Exhaust: 7
+Chassis: 1
+Grille: 5
+Hood: 15
+Fender: 13
+Right Fender: 1
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 51
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 3
+Front Wheels: 20
+Trim2: 2
+Livery: 3
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

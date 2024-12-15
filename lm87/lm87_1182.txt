@@ -1,0 +1,44 @@
+Model: lm87
+Plate Style: 1
+Plate Text:  ATOMIC 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 132
+Wheel Type: 10
+Spoiler: 3
+Front Bumper: 11
+Rear Bumper: 3
+Sideskirt: 4
+Exhaust: 10
+Grille: 2
+Hood: 6
+Fender: 3
+Right Fender: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 33
+Livery: 6
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #2176ff
+Custom Secondary Colour: #ffffff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 37
+Tyres Mode: 1
+Extra 1: Yes

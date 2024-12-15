@@ -1,0 +1,38 @@
+Model: technical3
+Plate Style: 0
+Plate Text: 00LQP540
+Primary Colour: 132
+Secondary Colour: 12
+Pearl Colour: 18
+Wheel Colour: 134
+Wheel Type: 8
+Chassis: 3
+Grille: 5
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 58
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 85
+Livery: 37
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #fd4b79
+Custom Secondary Colour: #7b53b3
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

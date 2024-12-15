@@ -1,0 +1,56 @@
+Model: vectre
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 41
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 13
+Front Bumper: 1
+Rear Bumper: 0
+Sideskirt: 4
+Exhaust: 4
+Chassis: 0
+Hood: 3
+Fender: 1
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 27
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 124
+Vanity Plates: 0
+Trim: 0
+Dashboard: 2
+Seats: 8
+Door Speaker: 2
+Steering Wheel: 12
+Engine Block: 1
+Air Filter: 10
+Struts: 19
+Arch Cover: 1
+Aerials: 0
+Trim2: 4
+Right Door: 0
+Livery: 1
+Tyre Smoke Colour: #9b847d
+Window Tint: 1
+Custom Primary Colour: #9b847d
+Custom Secondary Colour: #ffffff
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 112
+Tyres Mode: 1

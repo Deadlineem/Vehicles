@@ -1,0 +1,44 @@
+Model: viseris
+Plate Style: 1
+Plate Text: 44TRM452
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 138
+Wheel Colour: 122
+Wheel Type: 11
+Spoiler: 5
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 2
+Exhaust: 1
+Chassis: 3
+Grille: 5
+Hood: 1
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 41
+Suspension: 3
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 113
+Livery: -1
+Tyre Smoke Colour: #0099ff
+Window Tint: 1
+Custom Primary Colour: #0d0c41
+Custom Secondary Colour: #0d0c41
+Neon Colour: #0c0c3f
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 0
+Tyres Mode: 1

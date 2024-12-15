@@ -1,0 +1,44 @@
+Model: zentorno
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 123
+Wheel Colour: 103
+Wheel Type: 9
+Spoiler: 7
+Front Bumper: 1
+Rear Bumper: 1
+Sideskirt: 2
+Exhaust: 8
+Chassis: 2
+Grille: 1
+Hood: 4
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 117
+Livery: 0
+Tyre Smoke Colour: #ff0000
+Window Tint: 1
+Custom Primary Colour: #160800
+Custom Secondary Colour: #160800
+Neon Colour: #ff3500
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

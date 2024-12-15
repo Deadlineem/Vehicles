@@ -1,0 +1,41 @@
+Model: infernus2
+Plate Style: 7
+Plate Text:  0 KPH  
+Primary Colour: 120
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 2
+Sideskirt: 3
+Exhaust: 3
+Chassis: 6
+Grille: 6
+Fender: 3
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 4
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 14
+Front Wheels: 114
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #c0c0c0
+Custom Secondary Colour: #808080
+Neon Colour: #0f03ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 65
+Tyres Mode: 1

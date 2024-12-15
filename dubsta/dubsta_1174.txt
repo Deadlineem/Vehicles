@@ -1,0 +1,46 @@
+Model: dubsta
+Plate Style: 5
+Plate Text:   XUMA  
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 150
+Wheel Type: 10
+Spoiler: 1
+Front Bumper: 6
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 2
+Grille: 2
+Hood: 0
+Fender: 1
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 14
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #ff0000
+Custom Secondary Colour: #ff0000
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 10: No
+Extra 11: Yes
+Extra 12: No

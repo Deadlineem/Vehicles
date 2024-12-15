@@ -1,0 +1,71 @@
+Model: winky
+Plate Style: 1
+Plate Text: 89ZRM062
+Primary Colour: 52
+Secondary Colour: 0
+Pearl Colour: 59
+Wheel Colour: 0
+Wheel Type: 4
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 2
+Sideskirt: 6
+Exhaust: 4
+Chassis: 0
+Grille: 4
+Hood: 4
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 1
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 2, Custom
+Back Wheels: 0, Custom
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Windows: 0
+Unk47: 0
+Livery: 4
+Unk49: 2
+Tyre Smoke Colour: #72cc72
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Roof Livery: 0
+Dashboard Colour: 132
+Tyres Mode: 1

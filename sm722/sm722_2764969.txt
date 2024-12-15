@@ -1,0 +1,42 @@
+Model: sm722
+Plate Style: 5
+Plate Text:   BOSS  
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 0
+Wheel Type: 8
+Spoiler: 21
+Front Bumper: 6
+Rear Bumper: 7
+Sideskirt: 12
+Exhaust: 5
+Chassis: 4
+Grille: 9
+Hood: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 119
+Livery: 6
+Tyre Smoke Colour: #000000
+Window Tint: 6
+Custom Primary Colour: #ff5d00
+Custom Secondary Colour: #ff5d00
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Dashboard Colour: 156
+Tyres Mode: 1

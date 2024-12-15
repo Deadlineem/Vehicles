@@ -1,0 +1,41 @@
+Model: menacer
+Plate Style: 1
+Plate Text: 0CJZD968
+Primary Colour: 154
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 4
+Front Bumper: 14
+Rear Bumper: 8
+Sideskirt: 16
+Exhaust: 12
+Chassis: 1
+Grille: 9
+Hood: 18
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 6
+Livery: 30
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

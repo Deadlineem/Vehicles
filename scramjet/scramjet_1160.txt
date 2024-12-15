@@ -1,0 +1,33 @@
+Model: scramjet
+Plate Style: 5
+Plate Text:   NYCX  
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 147
+Wheel Colour: 147
+Wheel Type: 8
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 41
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 91
+Livery: 0
+Tyre Smoke Colour: #010101
+Window Tint: 6
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000000
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 147
+Dashboard Colour: 147
+Tyres Mode: 1

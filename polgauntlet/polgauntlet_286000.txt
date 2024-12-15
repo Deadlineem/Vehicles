@@ -1,0 +1,52 @@
+Model: polgauntlet
+Plate Style: 4
+Plate Text: 20EQD586
+Primary Colour: 0
+Secondary Colour: 111
+Pearl Colour: 4
+Wheel Colour: 1
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 0
+Sideskirt: 1
+Exhaust: 2
+Chassis: 1
+Grille: 2
+Hood: 4
+Fender: 2
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 29
+Arch Cover: 6
+Aerials: 7
+Trim2: 3
+Livery: 3
+Tyre Smoke Colour: #0011ff
+Window Tint: 1
+Custom Primary Colour: #080808
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 2
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: Yes
+Extra 3: No
+Extra 4: No

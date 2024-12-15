@@ -1,0 +1,38 @@
+Model: technical3
+Plate Style: 1
+Plate Text: 85SUD043
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 89
+Wheel Colour: 52
+Wheel Type: 8
+Chassis: 3
+Grille: 4
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 3
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 78
+Livery: 40
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #333333
+Custom Secondary Colour: #db0000
+Neon Colour: #ff0000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

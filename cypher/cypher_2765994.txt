@@ -1,0 +1,86 @@
+Model: cypher
+Plate Style: 3
+Plate Text:  NABXES 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 11
+Rear Bumper: 4
+Sideskirt: 8
+Exhaust: 8
+Chassis: 9
+Grille: 12
+Hood: 13
+Fender: 1
+Right Fender: 0
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 15
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 2
+Trim: 4
+Ornaments: 2
+Dashboard: 4
+Dial: 1
+Seats: 8
+Door Speaker: 11
+Steering Wheel: 3
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 12
+Air Filter: 0
+Struts: 17
+Arch Cover: 8
+Aerials: 6
+Trim2: 6
+Tank: 3
+Left Door: 0
+Right Door: 0
+Livery: 13
+Lightbar: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ff99ff
+Custom Secondary Colour: #ff99ff
+Neon Colour: #ff8cff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 27
+Roof Livery: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

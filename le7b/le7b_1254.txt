@@ -1,0 +1,37 @@
+Model: le7b
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 161
+Wheel Colour: 111
+Wheel Type: 0
+Spoiler: 1
+Exhaust: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 6
+Front Wheels: 0
+Livery: 1
+Tyre Smoke Colour: #0077ff
+Window Tint: 1
+Custom Primary Colour: #096009
+Custom Secondary Colour: #000000
+Neon Colour: #0077ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: Yes

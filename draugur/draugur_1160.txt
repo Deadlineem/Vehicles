@@ -1,0 +1,44 @@
+Model: draugur
+Plate Style: 0
+Plate Text: 29HVC514
+Primary Colour: 117
+Secondary Colour: 120
+Pearl Colour: 88
+Wheel Colour: 156
+Wheel Type: 9
+Spoiler: 0
+Front Bumper: 12
+Rear Bumper: 2
+Sideskirt: 8
+Exhaust: 9
+Chassis: 1
+Grille: 4
+Fender: 5
+Right Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 35
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 124
+Livery: 4
+Tyre Smoke Colour: #8466e2
+Window Tint: 0
+Custom Primary Colour: #2b0e00
+Custom Secondary Colour: 
+Neon Colour: #0f03ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,42 @@
+Model: verlierer2
+Plate Style: 0
+Plate Text:  TERROR 
+Primary Colour: 72
+Secondary Colour: 32
+Pearl Colour: 32
+Wheel Colour: 156
+Wheel Type: 12
+Spoiler: 1
+Front Bumper: 3
+Sideskirt: 0
+Exhaust: 1
+Chassis: 0
+Hood: 0
+Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 21
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

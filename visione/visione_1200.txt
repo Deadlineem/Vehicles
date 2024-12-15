@@ -1,0 +1,39 @@
+Model: visione
+Plate Style: 0
+Plate Text: 11ZAK121
+Primary Colour: 43
+Secondary Colour: 134
+Pearl Colour: 34
+Wheel Colour: 35
+Wheel Type: 7
+Spoiler: 4
+Front Bumper: 3
+Rear Bumper: 5
+Exhaust: 0
+Hood: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 11
+Front Wheels: 0
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: #ff0019
+Neon Colour: #e60a14
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

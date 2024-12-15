@@ -1,0 +1,60 @@
+Model: remus
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 88
+Wheel Colour: 88
+Wheel Type: 10
+Spoiler: 12
+Front Bumper: 2
+Rear Bumper: 2
+Sideskirt: 4
+Exhaust: 0
+Chassis: 0
+Grille: 6
+Hood: 6
+Fender: 2
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 41
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 118
+Vanity Plates: 2
+Trim: 0
+Dashboard: 0
+Dial: 0
+Seats: 3
+Door Speaker: 1
+Steering Wheel: 16
+Trunk: 2
+Engine Block: 1
+Air Filter: 1
+Struts: 7
+Arch Cover: 4
+Trim2: 4
+Tank: 5
+Right Door: 1
+Livery: 2
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #140900
+Custom Secondary Colour: #000000
+Neon Colour: #ff9600
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 88
+Tyres Mode: 1

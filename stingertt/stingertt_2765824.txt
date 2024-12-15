@@ -1,0 +1,48 @@
+Model: stingertt
+Plate Style: 1
+Plate Text: 65UYD391
+Primary Colour: 89
+Secondary Colour: 12
+Pearl Colour: 88
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 9
+Front Bumper: 1
+Rear Bumper: 1
+Sideskirt: 14
+Exhaust: 5
+Chassis: 0
+Grille: 1
+Hood: 15
+Fender: 8
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 53
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 10
+Shifter Leavers: 0
+Speakers: 0
+Trim2: 0
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff9605
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 11
+Dashboard Colour: 0
+Tyres Mode: 1

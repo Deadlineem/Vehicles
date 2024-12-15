@@ -1,0 +1,43 @@
+Model: komoda
+Plate Style: 1
+Plate Text: 48HQW158
+Primary Colour: 3
+Secondary Colour: 10
+Pearl Colour: 2
+Wheel Colour: 11
+Wheel Type: 0
+Spoiler: 23
+Front Bumper: 12
+Rear Bumper: 4
+Sideskirt: 17
+Exhaust: 4
+Hood: 15
+Fender: 3
+Right Fender: 1
+Roof: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 4, Custom
+Livery: 9
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,37 @@
+Model: fmj
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 88
+Wheel Colour: 46
+Wheel Type: 10
+Spoiler: 2
+Front Bumper: 1
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 66
+Livery: -1
+Tyre Smoke Colour: #010101
+Window Tint: 1
+Custom Primary Colour: #210000
+Custom Secondary Colour: #ffffff
+Neon Colour: #ff3200
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

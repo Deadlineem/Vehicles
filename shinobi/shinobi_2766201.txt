@@ -1,0 +1,39 @@
+Model: shinobi
+Plate Style: 1
+Plate Text: PINGUWU 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 161
+Wheel Colour: 39
+Wheel Type: 6
+Front Bumper: 1
+Sideskirt: 0
+Exhaust: 1
+Chassis: 0
+Hood: 1
+Engine: 5
+Brakes: 4
+Transmission: 4
+Horns: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 10
+Front Wheels: 44
+Back Wheels: 44
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 6
+Custom Primary Colour: #ff0000
+Custom Secondary Colour: #ff0000
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

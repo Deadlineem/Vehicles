@@ -1,0 +1,43 @@
+Model: taipan
+Plate Style: 0
+Plate Text: 60LOZ957
+Primary Colour: 89
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 1
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 4
+Exhaust: 5
+Chassis: 0
+Hood: 6
+Fender: 1
+Roof: 4
+Engine: 0
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #141414
+Window Tint: 3
+Custom Primary Colour: #c6bb02
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

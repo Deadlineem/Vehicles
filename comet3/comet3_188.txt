@@ -1,0 +1,50 @@
+Model: comet3
+Plate Style: 0
+Plate Text: ATLANT1S
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 84
+Wheel Colour: 9
+Wheel Type: 11
+Spoiler: 2
+Front Bumper: 14
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Hood: 2
+Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 20
+Trim: 0
+Dashboard: 1
+Dial: 1
+Seats: 0
+Door Speaker: 6
+Steering Wheel: 9
+Struts: 5
+Aerials: 0
+Livery: 0
+Tyre Smoke Colour: #a9c9e8
+Window Tint: 3
+Custom Primary Colour: #080e19
+Custom Secondary Colour: #080e19
+Neon Colour: #383838
+Neon Front: No
+Neon Back: No
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 9
+Dashboard Colour: 134
+Tyres Mode: 1

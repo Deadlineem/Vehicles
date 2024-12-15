@@ -1,0 +1,44 @@
+Model: jester3
+Plate Style: 0
+Plate Text: DERROCE 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 136
+Wheel Colour: 145
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 2
+Rear Bumper: 0
+Sideskirt: 2
+Exhaust: 4
+Chassis: 4
+Grille: 2
+Hood: 2
+Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 0
+Front Wheels: 91
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #0e0019
+Custom Secondary Colour: #0e0019
+Neon Colour: #090626
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 7
+Dashboard Colour: 89
+Tyres Mode: 1

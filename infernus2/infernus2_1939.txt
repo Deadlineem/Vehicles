@@ -1,0 +1,41 @@
+Model: infernus2
+Plate Style: 0
+Plate Text: 47ZAK639
+Primary Colour: 64
+Secondary Colour: 35
+Pearl Colour: 35
+Wheel Colour: 136
+Wheel Type: 12
+Spoiler: 2
+Sideskirt: 2
+Exhaust: 2
+Chassis: 5
+Grille: 2
+Fender: 2
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 11
+Front Wheels: 134
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #c31e32
+Custom Secondary Colour: 
+Neon Colour: #c81e32
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 65
+Tyres Mode: 1

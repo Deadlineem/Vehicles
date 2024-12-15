@@ -1,0 +1,42 @@
+Model: zeno
+Plate Style: 1
+Plate Text: 81GGR299
+Primary Colour: 45
+Secondary Colour: 1
+Pearl Colour: 67
+Wheel Colour: 122
+Wheel Type: 12
+Spoiler: 4
+Front Bumper: 13
+Rear Bumper: 13
+Sideskirt: 17
+Exhaust: 20
+Hood: 8
+Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 46
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 20
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #ffffff
+Neon Colour: #ffffff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

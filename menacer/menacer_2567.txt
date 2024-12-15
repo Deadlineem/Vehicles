@@ -1,0 +1,41 @@
+Model: menacer
+Plate Style: 0
+Plate Text: 20CFB108
+Primary Colour: 32
+Secondary Colour: 12
+Pearl Colour: 25
+Wheel Colour: 156
+Wheel Type: 0
+Front Bumper: 13
+Rear Bumper: 3
+Sideskirt: 8
+Exhaust: 7
+Chassis: 1
+Grille: 6
+Hood: 13
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Livery: 18
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

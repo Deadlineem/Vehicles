@@ -1,0 +1,58 @@
+Model: sentinel4
+Plate Style: 5
+Plate Text:   K3Y   
+Primary Colour: 161
+Secondary Colour: 147
+Pearl Colour: 33
+Wheel Colour: 4
+Wheel Type: 12
+Spoiler: 10
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 1
+Exhaust: 9
+Chassis: 0
+Grille: 2
+Hood: 0
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 29
+Trim: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 5
+Air Filter: 5
+Struts: 12
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Left Door: 0
+Right Door: 0
+Livery: 0
+Tyre Smoke Colour: #141414
+Window Tint: 0
+Custom Primary Colour: #350802
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 112
+Tyres Mode: 2

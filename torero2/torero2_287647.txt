@@ -1,0 +1,44 @@
+Model: torero2
+Plate Style: 0
+Plate Text: 93GVM751
+Primary Colour: 53
+Secondary Colour: 27
+Pearl Colour: 92
+Wheel Colour: 0
+Wheel Type: 5
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 12
+Chassis: 7
+Grille: 9
+Hood: 3
+Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 98
+Dashboard Colour: 132
+Tyres Mode: 1

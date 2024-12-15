@@ -1,0 +1,37 @@
+Model: faction
+Plate Style: 3
+Plate Text:   GNX   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 9
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 40
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #3f4228
+Custom Secondary Colour: #3f4228
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2
+Extra 2: Yes
+Extra 3: No
+Extra 5: No

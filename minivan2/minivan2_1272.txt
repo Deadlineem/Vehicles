@@ -1,0 +1,52 @@
+Model: minivan2
+Plate Style: 0
+Plate Text: 68HYO893
+Primary Colour: 145
+Secondary Colour: 112
+Pearl Colour: 70
+Wheel Colour: 145
+Wheel Type: 8
+Spoiler: 0
+Exhaust: 1
+Grille: 1
+Roof: 2
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 67
+Back Wheels: 4
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 4
+Ornaments: 0
+Dial: 1
+Seats: 3
+Door Speaker: 1
+Steering Wheel: 2
+Shifter Leavers: 12
+Plaques: 22
+Trunk: 3
+Hydraulics: 3
+Engine Block: 4
+Air Filter: 1
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

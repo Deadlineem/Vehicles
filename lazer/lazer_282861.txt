@@ -1,0 +1,28 @@
+Model: lazer
+Plate Style: 4
+Plate Text: 01NKE535
+Primary Colour: 121
+Secondary Colour: 21
+Pearl Colour: 112
+Wheel Colour: 122
+Wheel Type: 10
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 61
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #0550ff
+Custom Secondary Colour: #0550ff
+Neon Colour: #1012ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

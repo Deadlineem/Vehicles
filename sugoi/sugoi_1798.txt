@@ -1,0 +1,43 @@
+Model: sugoi
+Plate Style: 4
+Plate Text: DERROCE 
+Primary Colour: 12
+Secondary Colour: 117
+Pearl Colour: 89
+Wheel Colour: 137
+Wheel Type: 8
+Spoiler: 6
+Front Bumper: 9
+Rear Bumper: 4
+Sideskirt: 3
+Exhaust: 0
+Grille: 7
+Hood: 0
+Fender: 3
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 120
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ff65fc
+Custom Secondary Colour: #ffffff
+Neon Colour: #ff32ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 4
+Dashboard Colour: 0
+Tyres Mode: 1

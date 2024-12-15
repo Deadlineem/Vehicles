@@ -1,0 +1,39 @@
+Model: visione
+Plate Style: 0
+Plate Text: 93WTI414
+Primary Colour: 34
+Secondary Colour: 0
+Pearl Colour: 158
+Wheel Colour: 5
+Wheel Type: 8
+Spoiler: 5
+Front Bumper: 5
+Rear Bumper: 4
+Exhaust: 4
+Hood: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 6
+Front Wheels: 54
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: -1
+Custom Primary Colour: #fbbf9f
+Custom Secondary Colour: #fbbf9f
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

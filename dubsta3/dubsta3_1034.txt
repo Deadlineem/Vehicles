@@ -1,0 +1,39 @@
+Model: dubsta3
+Plate Style: 5
+Plate Text: TALIBAN 
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 4
+Front Bumper: 6
+Rear Bumper: 2
+Grille: 2
+Hood: 0
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 1
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 10
+Front Wheels: 34
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #d2b48c
+Custom Secondary Colour: #d2b48c
+Neon Colour: #d2b48c
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

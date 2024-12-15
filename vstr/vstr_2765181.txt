@@ -1,0 +1,44 @@
+Model: vstr
+Plate Style: 4
+Plate Text: RAMPAGE 
+Primary Colour: 155
+Secondary Colour: 0
+Pearl Colour: 4
+Wheel Colour: 134
+Wheel Type: 11
+Spoiler: 1
+Front Bumper: 1
+Sideskirt: 4
+Exhaust: 17
+Chassis: 0
+Grille: 1
+Hood: 8
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 2
+Brakes: 2
+Transmission: 0
+Horns: 4
+Suspension: 0
+Armor: 1
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: No
+Unk21: Yes
+Headlights: 1
+Front Wheels: 28
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #2c0859
+Custom Secondary Colour: #a1d564
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 4
+Dashboard Colour: 0
+Tyres Mode: 1

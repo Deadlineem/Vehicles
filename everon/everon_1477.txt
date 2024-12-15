@@ -1,0 +1,42 @@
+Model: everon
+Plate Style: 4
+Plate Text:   MOD   
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 4
+Spoiler: 0
+Front Bumper: 10
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 1
+Hood: 6
+Right Fender: 7
+Roof: 12
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 13, Custom
+Livery: 6
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: #7a1200
+Custom Secondary Colour: #ce4cfd
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

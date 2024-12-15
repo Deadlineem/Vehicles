@@ -1,0 +1,43 @@
+Model: komoda
+Plate Style: 0
+Plate Text: 41BBA717
+Primary Colour: 38
+Secondary Colour: 104
+Pearl Colour: 37
+Wheel Colour: 27
+Wheel Type: 1
+Spoiler: 24
+Front Bumper: 3
+Rear Bumper: 2
+Sideskirt: 15
+Exhaust: 2
+Hood: 17
+Fender: 3
+Right Fender: 2
+Roof: 7
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 18, Custom
+Livery: 9
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2

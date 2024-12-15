@@ -1,0 +1,44 @@
+Model: italirsx
+Plate Style: 1
+Plate Text:  MENGO  
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 70
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 20
+Front Bumper: 5
+Rear Bumper: 14
+Sideskirt: 9
+Exhaust: 6
+Chassis: 5
+Grille: 7
+Hood: 13
+Right Fender: 0
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 108
+Livery: 0
+Tyre Smoke Colour: #48007f
+Window Tint: 0
+Custom Primary Colour: #48007f
+Custom Secondary Colour: #48007f
+Neon Colour: #0026ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,33 @@
+Model: scramjet
+Plate Style: 5
+Plate Text:         
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 135
+Wheel Colour: 135
+Wheel Type: 8
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 52
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 11
+Front Wheels: 109
+Livery: 8
+Tyre Smoke Colour: #000000
+Window Tint: 5
+Custom Primary Colour: #c18383
+Custom Secondary Colour: #c18383
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 158
+Dashboard Colour: 134
+Tyres Mode: 1

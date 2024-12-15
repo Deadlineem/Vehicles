@@ -1,0 +1,86 @@
+Model: sheava
+Plate Style: 0
+Plate Text:  LILITH 
+Primary Colour: 120
+Secondary Colour: 12
+Pearl Colour: 74
+Wheel Colour: 89
+Wheel Type: 7
+Spoiler: 4
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 1
+Chassis: 3
+Grille: 4
+Hood: 1
+Fender: 8
+Right Fender: 5
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 1
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 8
+Dashboard: 4
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 4
+Struts: 3
+Arch Cover: 3
+Aerials: 1
+Trim2: 0
+Tank: 2
+Left Door: 0
+Right Door: 0
+Livery: 0
+Lightbar: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #f99d27
+Custom Secondary Colour: #f99d27
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Roof Livery: 0
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No
+Extra 5: No
+Extra 6: No
+Extra 7: No
+Extra 8: No
+Extra 9: No
+Extra 10: No
+Extra 11: No
+Extra 12: No
+Extra 13: Yes
+Extra 14: Yes
+Extra 15: Yes

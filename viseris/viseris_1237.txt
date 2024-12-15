@@ -1,0 +1,44 @@
+Model: viseris
+Plate Style: 0
+Plate Text: 61QSL741
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 88
+Wheel Colour: 112
+Wheel Type: 9
+Spoiler: 3
+Front Bumper: 3
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 3
+Chassis: 2
+Grille: 0
+Hood: 3
+Fender: 2
+Roof: 0
+Engine: 3
+Brakes: 2
+Transmission: 0
+Horns: 0
+Suspension: 3
+Armor: 4
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 8
+Front Wheels: 119
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #1c1700
+Custom Secondary Colour: 
+Neon Colour: #dedeff
+Neon Front: No
+Neon Back: No
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

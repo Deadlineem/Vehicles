@@ -1,0 +1,41 @@
+Model: ignus
+Plate Style: 1
+Plate Text:  BALLS  
+Primary Colour: 31
+Secondary Colour: 37
+Pearl Colour: 65
+Wheel Colour: 158
+Wheel Type: 7
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 44
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #7b1a22
+Window Tint: 0
+Custom Primary Colour: #7b1a22
+Custom Secondary Colour: #c2944f
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 158
+Dashboard Colour: 159
+Tyres Mode: 1

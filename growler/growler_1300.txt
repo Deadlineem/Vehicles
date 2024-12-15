@@ -1,0 +1,57 @@
+Model: growler
+Plate Style: 5
+Plate Text:  CLUEY  
+Primary Colour: 0
+Secondary Colour: 10
+Pearl Colour: 136
+Wheel Colour: 147
+Wheel Type: 12
+Spoiler: 5
+Front Bumper: 2
+Rear Bumper: 4
+Sideskirt: 2
+Exhaust: 17
+Chassis: 11
+Grille: 1
+Hood: 6
+Fender: 2
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 40
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 116
+Plate Holder: 0
+Vanity Plates: 8
+Trim: 5
+Dashboard: 0
+Dial: 3
+Seats: 0
+Door Speaker: 11
+Steering Wheel: 12
+Struts: 0
+Aerials: 0
+Windows: 0
+Unk47: 4
+Livery: 0
+Tyre Smoke Colour: #8466e2
+Window Tint: 1
+Custom Primary Colour: #4432fb
+Custom Secondary Colour: #4432fb
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 81
+Dashboard Colour: 81
+Tyres Mode: 1

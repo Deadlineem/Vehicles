@@ -1,0 +1,44 @@
+Model: rhinehart
+Plate Style: 5
+Plate Text:  0 MPH  
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 10
+Wheel Colour: 140
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 5
+Sideskirt: 2
+Exhaust: 4
+Chassis: 0
+Grille: 4
+Hood: 0
+Fender: 2
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 60
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #00d4ff
+Custom Secondary Colour: #00d4ff
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

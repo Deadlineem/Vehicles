@@ -1,0 +1,44 @@
+Model: omnisegt
+Plate Style: 0
+Plate Text: 36PLG990
+Primary Colour: 120
+Secondary Colour: 0
+Pearl Colour: 18
+Wheel Colour: 112
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 3
+Sideskirt: 3
+Chassis: 0
+Grille: 3
+Hood: 0
+Fender: 2
+Right Fender: 0
+Roof: 8
+Engine: 4
+Brakes: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 91
+Trim2: 0
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #272826
+Custom Secondary Colour: #000000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 70
+Dashboard Colour: 156
+Tyres Mode: 1

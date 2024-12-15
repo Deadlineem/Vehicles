@@ -1,0 +1,40 @@
+Model: tempesta
+Plate Style: 1
+Plate Text: DEEZNUTS
+Primary Colour: 91
+Secondary Colour: 91
+Pearl Colour: 88
+Wheel Colour: 122
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 0
+Sideskirt: 3
+Exhaust: 1
+Chassis: 0
+Hood: 4
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 6
+Front Wheels: 118
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ddff03
+Custom Secondary Colour: #ddff03
+Neon Colour: #5eff01
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

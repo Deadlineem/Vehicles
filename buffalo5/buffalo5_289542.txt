@@ -1,0 +1,47 @@
+Model: buffalo5
+Plate Style: 3
+Plate Text: CATCH ME
+Primary Colour: 3
+Secondary Colour: 89
+Pearl Colour: 5
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 8
+Front Bumper: 5
+Rear Bumper: 3
+Sideskirt: 1
+Chassis: 0
+Grille: 2
+Hood: 0
+Fender: 2
+Right Fender: 0
+Roof: 9
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 4
+Ornaments: 1
+Trim2: 1
+Right Door: 6
+Livery: 8
+Tyre Smoke Colour: #ffffff
+Window Tint: 6
+Custom Primary Colour: #776127
+Custom Secondary Colour: #32ef87
+Neon Colour: #ff000c
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

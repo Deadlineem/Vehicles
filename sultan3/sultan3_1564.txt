@@ -1,0 +1,55 @@
+Model: sultan3
+Plate Style: 1
+Plate Text:   MAZ   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 148
+Wheel Type: 10
+Spoiler: 16
+Front Bumper: 5
+Rear Bumper: 4
+Sideskirt: 4
+Exhaust: 8
+Chassis: 5
+Grille: 4
+Hood: 2
+Fender: 2
+Right Fender: 7
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 40
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 6
+Trim: 0
+Dashboard: 5
+Dial: 15
+Seats: 5
+Engine Block: 3
+Air Filter: 7
+Struts: 12
+Arch Cover: 5
+Aerials: 7
+Trim2: 4
+Livery: 3
+Tyre Smoke Colour: #ff00ff
+Window Tint: 0
+Custom Primary Colour: #ff00ff
+Custom Secondary Colour: #23221d
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 160
+Tyres Mode: 1

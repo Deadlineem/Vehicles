@@ -1,0 +1,55 @@
+Model: sabregt2
+Plate Style: 2
+Plate Text: 83YFU574
+Primary Colour: 71
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 9
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 1
+Exhaust: 1
+Chassis: 0
+Grille: 2
+Hood: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 41
+Back Wheels: 0
+Plate Holder: 7
+Vanity Plates: 0
+Trim: 8
+Ornaments: 0
+Dial: 1
+Steering Wheel: 13
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 1
+Trunk: 2
+Hydraulics: 4
+Engine Block: 7
+Air Filter: 4
+Livery: 8
+Tyre Smoke Colour: #8466e2
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #2301ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 145
+Dashboard Colour: 71
+Tyres Mode: 1

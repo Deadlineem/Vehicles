@@ -1,0 +1,46 @@
+Model: zhaba
+Plate Style: 0
+Plate Text:   GH3ST 
+Primary Colour: 160
+Secondary Colour: 120
+Pearl Colour: 55
+Wheel Colour: 125
+Wheel Type: 10
+Spoiler: 6
+Front Bumper: 1
+Rear Bumper: 0
+Sideskirt: 8
+Exhaust: 9
+Chassis: 0
+Grille: 6
+Fender: 2
+Right Fender: 2
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 2
+Horns: 10
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 20
+Livery: 30
+Tyre Smoke Colour: #72cc72
+Window Tint: 1
+Custom Primary Colour: #00ff7f
+Custom Secondary Colour: #00ff7f
+Neon Colour: #5eff01
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 2
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: No
+Extra 3: Yes

@@ -1,0 +1,43 @@
+Model: deviant
+Plate Style: 1
+Plate Text:         
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 89
+Wheel Colour: 1
+Wheel Type: 11
+Spoiler: 3
+Front Bumper: 5
+Rear Bumper: 1
+Exhaust: 2
+Grille: 0
+Hood: 2
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 41
+Suspension: 5
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 29
+Livery: 1
+Tyre Smoke Colour: #ee00ff
+Window Tint: 1
+Custom Primary Colour: #133363
+Custom Secondary Colour: #133363
+Neon Colour: #133260
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: Yes

@@ -1,0 +1,58 @@
+Model: sentinel4
+Plate Style: 5
+Plate Text: 40LWW587
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 111
+Wheel Type: 8
+Spoiler: 19
+Front Bumper: 15
+Rear Bumper: 17
+Sideskirt: 12
+Exhaust: 11
+Chassis: 5
+Grille: 11
+Hood: 19
+Fender: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 108
+Trim: 3
+Dashboard: 5
+Seats: 0
+Door Speaker: 15
+Steering Wheel: 16
+Engine Block: 6
+Air Filter: 10
+Struts: 12
+Arch Cover: 7
+Aerials: 6
+Trim2: 16
+Tank: 3
+Windows: 0
+Unk47: 0
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #7fff00
+Custom Secondary Colour: #7f1500
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1

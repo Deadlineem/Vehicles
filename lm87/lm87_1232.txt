@@ -1,0 +1,44 @@
+Model: lm87
+Plate Style: 1
+Plate Text: 25BJZ247
+Primary Colour: 73
+Secondary Colour: 1
+Pearl Colour: 70
+Wheel Colour: 81
+Wheel Type: 8
+Spoiler: 23
+Front Bumper: 9
+Rear Bumper: 2
+Sideskirt: 3
+Exhaust: 10
+Grille: 2
+Hood: 7
+Fender: 0
+Right Fender: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 32
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 186
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #3200ff
+Custom Secondary Colour: #3200ff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 37
+Tyres Mode: 1
+Extra 1: No

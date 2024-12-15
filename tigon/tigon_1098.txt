@@ -1,0 +1,40 @@
+Model: tigon
+Plate Style: 0
+Plate Text: 40DIF784
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 88
+Wheel Colour: 28
+Wheel Type: 9
+Spoiler: 11
+Front Bumper: 5
+Rear Bumper: 3
+Sideskirt: 3
+Exhaust: 5
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 88
+Livery: 10
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #280004
+Custom Secondary Colour: #280004
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1

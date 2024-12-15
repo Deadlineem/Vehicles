@@ -1,0 +1,39 @@
+Model: tulip
+Plate Style: 0
+Plate Text: 87MSQ534
+Primary Colour: 0
+Secondary Colour: 120
+Pearl Colour: 7
+Wheel Colour: 0
+Wheel Type: 5
+Spoiler: 2
+Front Bumper: 3
+Rear Bumper: 1
+Exhaust: 1
+Hood: 8
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 0
+Armor: 0
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 3
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 2
+Dashboard Colour: 156
+Tyres Mode: 1

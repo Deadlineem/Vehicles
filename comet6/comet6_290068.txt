@@ -1,0 +1,55 @@
+Model: comet6
+Plate Style: 1
+Plate Text: 61MRE320
+Primary Colour: 5
+Secondary Colour: 0
+Pearl Colour: 150
+Wheel Colour: 27
+Wheel Type: 11
+Spoiler: 17
+Front Bumper: 1
+Rear Bumper: 8
+Sideskirt: 7
+Exhaust: 5
+Chassis: 5
+Hood: 10
+Fender: 2
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 53
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 21
+Plate Holder: 1
+Vanity Plates: 4
+Trim: 2
+Dashboard: 1
+Seats: 2
+Door Speaker: 12
+Steering Wheel: 7
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Left Door: 2
+Livery: 5
+Tyre Smoke Colour: #e20606
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 3
+Dashboard Colour: 32
+Tyres Mode: 1

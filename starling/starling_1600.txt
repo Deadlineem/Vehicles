@@ -1,0 +1,36 @@
+Model: starling
+Plate Style: 0
+Plate Text: 15HKN018
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 136
+Wheel Type: 8
+Front Bumper: 2
+Exhaust: 1
+Right Fender: 4
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 1
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 46
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #546d73
+Custom Secondary Colour: #678468
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

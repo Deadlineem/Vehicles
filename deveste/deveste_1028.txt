@@ -1,0 +1,39 @@
+Model: deveste
+Plate Style: 0
+Plate Text:  PLAG44 
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 4
+Wheel Colour: 1
+Wheel Type: 8
+Spoiler: 3
+Front Bumper: 3
+Rear Bumper: 1
+Exhaust: 1
+Chassis: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 2
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 49
+Livery: 7
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #7cfdc1
+Custom Secondary Colour: #7cfdc1
+Neon Colour: #7cfdc1
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

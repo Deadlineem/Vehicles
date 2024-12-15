@@ -1,0 +1,55 @@
+Model: comet6
+Plate Style: 5
+Plate Text: L      S
+Primary Colour: 3
+Secondary Colour: 1
+Pearl Colour: 135
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 0
+Chassis: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 24
+Suspension: 0
+Armor: 0
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 11
+Front Wheels: 30
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Windows: 0
+Livery: 0
+Tyre Smoke Colour: #ff69b4
+Window Tint: 0
+Custom Primary Colour: #ff69b4
+Custom Secondary Colour: #ff69b4
+Neon Colour: #ff3264
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

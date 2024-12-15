@@ -1,0 +1,45 @@
+Model: vigero2
+Plate Style: 1
+Plate Text:  1UHE30 
+Primary Colour: 64
+Secondary Colour: 84
+Pearl Colour: 68
+Wheel Colour: 95
+Wheel Type: 12
+Spoiler: 6
+Front Bumper: 5
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 7
+Chassis: 3
+Grille: 0
+Hood: 9
+Fender: 3
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 27
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

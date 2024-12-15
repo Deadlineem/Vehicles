@@ -1,0 +1,36 @@
+Model: khanjali
+Plate Style: 1
+Plate Text: 24IRU492
+Primary Colour: 65
+Secondary Colour: 24
+Pearl Colour: 32
+Wheel Colour: 33
+Wheel Type: 9
+Chassis: 1
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Horns: 58
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 3
+Front Wheels: 217
+Vanity Plates: 1
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 137
+Dashboard Colour: 34
+Tyres Mode: 1

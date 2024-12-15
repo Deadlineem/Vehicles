@@ -1,0 +1,39 @@
+Model: turismo2
+Plate Style: 1
+Plate Text: DEEZNUTS
+Primary Colour: 28
+Secondary Colour: 0
+Pearl Colour: 28
+Wheel Colour: 28
+Wheel Type: 10
+Spoiler: 2
+Front Bumper: 1
+Sideskirt: 1
+Exhaust: 4
+Hood: 7
+Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 62
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ff0000
+Custom Secondary Colour: #ffffff
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

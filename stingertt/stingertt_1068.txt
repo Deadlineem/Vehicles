@@ -1,0 +1,46 @@
+Model: stingertt
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 12
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 8
+Front Bumper: 1
+Rear Bumper: 8
+Sideskirt: 6
+Exhaust: 4
+Chassis: 1
+Grille: 0
+Hood: 0
+Fender: 9
+Right Fender: 1
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 6
+Suspension: 1
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 14
+Trim2: 2
+Livery: 4
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #f0c850
+Custom Secondary Colour: #f0c850
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

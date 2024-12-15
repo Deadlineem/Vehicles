@@ -1,0 +1,45 @@
+Model: drafter
+Plate Style: 1
+Plate Text: 8GKQW672
+Primary Colour: 120
+Secondary Colour: 111
+Pearl Colour: 0
+Wheel Colour: 137
+Wheel Type: 8
+Spoiler: 4
+Front Bumper: 2
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 5
+Chassis: 2
+Grille: 4
+Hood: 5
+Fender: 0
+Right Fender: 2
+Roof: 5
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 5
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 73
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #ff0040
+Custom Secondary Colour: #ff0040
+Neon Colour: #ff0040
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

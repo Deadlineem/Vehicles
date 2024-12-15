@@ -1,0 +1,57 @@
+Model: growler
+Plate Style: 5
+Plate Text:  COSMIC 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 12
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 5
+Sideskirt: 2
+Exhaust: 15
+Chassis: 0
+Grille: 0
+Hood: 6
+Fender: 2
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 12
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 9
+Front Wheels: 30
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Struts: 13
+Aerials: 0
+Windows: 0
+Unk47: 0
+Livery: 7
+Tyre Smoke Colour: #ff7f00
+Window Tint: 1
+Custom Primary Colour: #ff5f1f
+Custom Secondary Colour: #ff5f1f
+Neon Colour: #ff5f1f
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 65
+Tyres Mode: 1

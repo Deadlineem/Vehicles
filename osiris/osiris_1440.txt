@@ -1,0 +1,39 @@
+Model: osiris
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 117
+Pearl Colour: 136
+Wheel Colour: 34
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 0
+Fender: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 1
+Armor: 0
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 155
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #190000
+Custom Secondary Colour: #190000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 1

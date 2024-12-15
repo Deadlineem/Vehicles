@@ -1,0 +1,57 @@
+Model: kanjosj
+Plate Style: 0
+Plate Text: 41LZW709
+Primary Colour: 117
+Secondary Colour: 12
+Pearl Colour: 140
+Wheel Colour: 140
+Wheel Type: 8
+Spoiler: 16
+Front Bumper: 2
+Rear Bumper: 3
+Sideskirt: 8
+Exhaust: 7
+Chassis: 8
+Grille: 10
+Hood: 1
+Fender: 5
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 13
+Front Wheels: 115
+Trim: 1
+Dashboard: 4
+Seats: 1
+Door Speaker: 1
+Steering Wheel: 2
+Engine Block: 6
+Air Filter: 4
+Struts: 20
+Aerials: 6
+Trim2: 5
+Right Door: 0
+Livery: 6
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #0064ff
+Custom Secondary Colour: #0064ff
+Neon Colour: #0064ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 27
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 3: Yes

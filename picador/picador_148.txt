@@ -1,0 +1,46 @@
+Model: picador
+Plate Style: 0
+Plate Text: 54HOP310
+Primary Colour: 2
+Secondary Colour: 0
+Pearl Colour: 4
+Wheel Colour: 134
+Wheel Type: 8
+Spoiler: 6
+Front Bumper: 8
+Rear Bumper: 5
+Sideskirt: 1
+Chassis: 2
+Grille: 2
+Hood: 4
+Fender: 1
+Right Fender: 8
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 1
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 46
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #54bbc2
+Custom Secondary Colour: #54bbc2
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 11: Yes
+Extra 12: No

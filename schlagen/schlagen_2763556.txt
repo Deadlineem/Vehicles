@@ -1,0 +1,45 @@
+Model: schlagen
+Plate Style: 0
+Plate Text: GAMEDROP
+Primary Colour: 147
+Secondary Colour: 147
+Pearl Colour: 135
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 0
+Front Bumper: 3
+Rear Bumper: 6
+Sideskirt: 3
+Exhaust: 4
+Chassis: 0
+Grille: 3
+Hood: 3
+Fender: 0
+Right Fender: 2
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 45
+Suspension: 5
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 38
+Livery: 3
+Tyre Smoke Colour: #cb3694
+Window Tint: 1
+Custom Primary Colour: #080808
+Custom Secondary Colour: #080808
+Neon Colour: #ff05be
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 0
+Tyres Mode: 1

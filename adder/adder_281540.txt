@@ -1,0 +1,37 @@
+Model: adder
+Plate Style: 1
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 0
+Pearl Colour: 161
+Wheel Colour: 156
+Wheel Type: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 4
+Front Wheels: 0
+Livery: -1
+Tyre Smoke Colour: #0400ff
+Window Tint: 6
+Custom Primary Colour: #00000c
+Custom Secondary Colour: #00000c
+Neon Colour: #0400ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 10: Yes
+Extra 12: No

@@ -1,0 +1,42 @@
+Model: thrax
+Plate Style: 1
+Plate Text: 11ZAK010
+Primary Colour: 111
+Secondary Colour: 111
+Pearl Colour: 120
+Wheel Colour: 111
+Wheel Type: 7
+Spoiler: 3
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 2
+Exhaust: 4
+Chassis: 1
+Grille: 6
+Hood: 4
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 20
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 0
+Livery: 8
+Tyre Smoke Colour: #000000
+Window Tint: 2
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #ffffff
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 22
+Dashboard Colour: 65
+Tyres Mode: 1

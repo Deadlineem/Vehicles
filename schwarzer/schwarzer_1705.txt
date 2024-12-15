@@ -1,0 +1,45 @@
+Model: schwarzer
+Plate Style: 0
+Plate Text: 27BGA090
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 156
+Wheel Type: 7
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 1
+Exhaust: 4
+Chassis: 0
+Grille: 1
+Hood: 0
+Roof: 1
+Engine: 2
+Brakes: 0
+Transmission: 0
+Horns: 0
+Suspension: 3
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 31
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 10: No
+Extra 12: Yes

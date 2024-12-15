@@ -1,0 +1,44 @@
+Model: paragon
+Plate Style: 0
+Plate Text: 46EEK572
+Primary Colour: 38
+Secondary Colour: 129
+Pearl Colour: 88
+Wheel Colour: 50
+Wheel Type: 11
+Spoiler: 2
+Front Bumper: 1
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 5
+Chassis: 0
+Grille: 0
+Hood: 8
+Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 0
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 9
+Front Wheels: 0
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 3
+Custom Primary Colour: #bd4800
+Custom Secondary Colour: #005f00
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1

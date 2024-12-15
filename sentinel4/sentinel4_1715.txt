@@ -1,0 +1,58 @@
+Model: sentinel4
+Plate Style: 0
+Plate Text: 41XYE936
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 89
+Wheel Colour: 120
+Wheel Type: 10
+Spoiler: 18
+Front Bumper: 2
+Rear Bumper: 13
+Sideskirt: 7
+Exhaust: 2
+Chassis: 3
+Grille: 10
+Hood: 0
+Fender: 1
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 7
+Front Wheels: 135
+Trim: 2
+Dashboard: 5
+Seats: 3
+Door Speaker: 6
+Steering Wheel: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 7
+Aerials: 0
+Trim2: 0
+Tank: 0
+Left Door: 3
+Right Door: 1
+Livery: 11
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #7f7f00
+Custom Secondary Colour: #7f7f00
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1

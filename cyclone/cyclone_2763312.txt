@@ -1,0 +1,36 @@
+Model: cyclone
+Plate Style: 1
+Plate Text: 86SKA480
+Primary Colour: 70
+Secondary Colour: 0
+Pearl Colour: 111
+Wheel Colour: 122
+Wheel Type: 7
+Spoiler: 5
+Front Bumper: 3
+Sideskirt: 1
+Engine: 4
+Brakes: 3
+Horns: 0
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Livery: 7
+Tyre Smoke Colour: #00aeef
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 112
+Dashboard Colour: 0
+Tyres Mode: 1

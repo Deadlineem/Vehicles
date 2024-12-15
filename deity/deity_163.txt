@@ -1,0 +1,47 @@
+Model: deity
+Plate Style: 1
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 38
+Wheel Colour: 129
+Wheel Type: 10
+Spoiler: 1
+Front Bumper: 1
+Rear Bumper: 3
+Sideskirt: 3
+Exhaust: 11
+Chassis: 1
+Grille: 7
+Hood: 0
+Fender: 2
+Right Fender: 1
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 76
+Trim2: 2
+Tank: 1
+Livery: 8
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #38332e
+Custom Secondary Colour: #000000
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

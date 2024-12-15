@@ -1,0 +1,52 @@
+Model: nero2
+Plate Style: 3
+Plate Text: 61RSS149
+Primary Colour: 1
+Secondary Colour: 27
+Pearl Colour: 89
+Wheel Colour: 156
+Wheel Type: 8
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Exhaust: 3
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 1
+Front Wheels: 111
+Vanity Plates: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 0
+Aerials: 0
+Trim2: 0
+Left Door: 0
+Livery: 6
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #996d2b
+Custom Secondary Colour: #996d2b
+Neon Colour: #ff9605
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No

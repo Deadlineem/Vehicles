@@ -1,0 +1,44 @@
+Model: italirsx
+Plate Style: 0
+Plate Text: DERROCE 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 135
+Wheel Type: 8
+Spoiler: 16
+Front Bumper: 0
+Rear Bumper: 13
+Sideskirt: 2
+Exhaust: 6
+Chassis: 4
+Grille: 6
+Hood: 9
+Right Fender: 1
+Roof: 0
+Engine: 0
+Brakes: 0
+Transmission: 3
+Horns: 45
+Suspension: 0
+Armor: 0
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 13
+Front Wheels: 47
+Livery: 5
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #6a00ff
+Custom Secondary Colour: #ffffff
+Neon Colour: #ff05be
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 18
+Dashboard Colour: 156
+Tyres Mode: 1

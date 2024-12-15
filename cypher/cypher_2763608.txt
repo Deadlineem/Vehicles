@@ -1,0 +1,59 @@
+Model: cypher
+Plate Style: 5
+Plate Text:  BULZO  
+Primary Colour: 141
+Secondary Colour: 70
+Pearl Colour: 70
+Wheel Colour: 70
+Wheel Type: 10
+Spoiler: 10
+Front Bumper: 11
+Rear Bumper: 4
+Sideskirt: 8
+Exhaust: 2
+Chassis: 9
+Grille: 2
+Hood: 4
+Fender: 1
+Right Fender: 3
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 40
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 17
+Vanity Plates: 1
+Trim: 5
+Ornaments: 2
+Dashboard: 4
+Dial: 1
+Seats: 2
+Door Speaker: 7
+Steering Wheel: 16
+Engine Block: 12
+Struts: 17
+Arch Cover: 8
+Aerials: 0
+Trim2: 0
+Tank: 0
+Livery: 4
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 70
+Dashboard Colour: 0
+Tyres Mode: 1

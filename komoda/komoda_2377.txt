@@ -1,0 +1,43 @@
+Model: komoda
+Plate Style: 1
+Plate Text: RY ABOUT
+Primary Colour: 27
+Secondary Colour: 27
+Pearl Colour: 4
+Wheel Colour: 0
+Wheel Type: 9
+Spoiler: 24
+Front Bumper: 12
+Rear Bumper: 4
+Sideskirt: 18
+Exhaust: 4
+Hood: 17
+Fender: 3
+Right Fender: 2
+Roof: 11
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 2
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 52
+Livery: 10
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 4
+Dashboard Colour: 0
+Tyres Mode: 1

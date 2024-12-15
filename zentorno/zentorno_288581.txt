@@ -1,0 +1,44 @@
+Model: zentorno
+Plate Style: 0
+Plate Text: 03NYO018
+Primary Colour: 112
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 10
+Spoiler: 9
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 5
+Exhaust: 8
+Chassis: 1
+Grille: 1
+Hood: 1
+Fender: 1
+Right Fender: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 1
+Livery: 7
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 2

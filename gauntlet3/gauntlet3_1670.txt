@@ -1,0 +1,45 @@
+Model: gauntlet3
+Plate Style: 1
+Plate Text: 43IAJ761
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 1
+Spoiler: 2
+Front Bumper: 2
+Rear Bumper: 3
+Sideskirt: 7
+Exhaust: 5
+Chassis: 6
+Grille: 4
+Hood: 3
+Fender: 1
+Right Fender: 1
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 13
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

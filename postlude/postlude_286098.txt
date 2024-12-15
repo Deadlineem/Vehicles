@@ -1,0 +1,53 @@
+Model: postlude
+Plate Style: 1
+Plate Text: 1VRLX230
+Primary Colour: 6
+Secondary Colour: 6
+Pearl Colour: 54
+Wheel Colour: 37
+Wheel Type: 11
+Spoiler: 0
+Front Bumper: 5
+Rear Bumper: 5
+Exhaust: 3
+Chassis: 0
+Hood: 15
+Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 24
+Vanity Plates: 4
+Trim: 0
+Dashboard: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Engine Block: 3
+Struts: 15
+Arch Cover: 5
+Left Door: 1
+Right Door: 5
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

@@ -1,0 +1,36 @@
+Model: btype2
+Plate Style: 0
+Plate Text: 23TAE057
+Primary Colour: 142
+Secondary Colour: 0
+Pearl Colour: 145
+Wheel Colour: 90
+Wheel Type: 10
+Hood: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 10
+Front Wheels: 119
+Ornaments: 45
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #03f5d9
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

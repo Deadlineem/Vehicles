@@ -1,0 +1,46 @@
+Model: coureur
+Plate Style: 5
+Plate Text:   K3Y   
+Primary Colour: 111
+Secondary Colour: 0
+Pearl Colour: 73
+Wheel Colour: 5
+Wheel Type: 12
+Spoiler: 0
+Front Bumper: 6
+Rear Bumper: 0
+Sideskirt: 8
+Chassis: 1
+Grille: 0
+Hood: 0
+Fender: 1
+Right Fender: 7
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 20
+Trim2: 0
+Livery: 8
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: 
+Custom Secondary Colour: #f0f0f0
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 2
+Extra 1: No

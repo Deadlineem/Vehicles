@@ -1,0 +1,49 @@
+Model: italigtb2
+Plate Style: 0
+Plate Text: 44PGC913
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 111
+Wheel Type: 8
+Spoiler: 13
+Front Bumper: 17
+Rear Bumper: 3
+Sideskirt: 2
+Exhaust: 4
+Chassis: 3
+Hood: 13
+Fender: 3
+Right Fender: 3
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 108
+Dashboard: 5
+Dial: 8
+Seats: 0
+Door Speaker: 13
+Steering Wheel: 16
+Aerials: 3
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #ffffff
+Neon Colour: #ffffff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 38
+Dashboard Colour: 134
+Tyres Mode: 1

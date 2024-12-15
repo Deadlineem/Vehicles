@@ -1,0 +1,286 @@
+*Dreaming's Stand GTAO Vehicles*
+
+Over 6300 high-quality modded vehicles for your Stand Garage, sorted and labeled, including complete instructions for getting started editing cars as well as how to make the texture/paint combinations I use.
+
+These are offered so that Stand users can have a massive library of customized vehicles, either to just spawn and drive/fly or to customize further to their own liking.
+
+There should be enough variety that just about anyone will be able to find many, many things they'll feel proud of driving, so please share these with anyone who wants them, and enjoy!
+
+---
+
+This Standalone Update Features:
+
+Made a color changing Blue paint, made a few cars with it and added them to the Examples folder, created a Template for it.
+
+Made the last two color changing paints (Mint Green fading into Aqua and Pink fading into Hot Pink), but they aren't very good so I made one car out of each and added them to the Examples folder but didn't make a Template for them.
+
+Added a category for Interior colors to the Templates text.
+
+Separated the Brioso from the Brioso Widebodies.
+
+Deleted the LS Car Meet Slamvans.
+
+Moved the non Drift Yosemites from the Drift folder.
+
+Went through every single folder looking for typos, please lmk if you see any I missed.
+
+Made a Strawberry Fire Truck and some Rampant Rockets, Chebureks, Emerusseses, Drift Vorschlaghammers, Kriegers, Buffalo STX's, Dorados, Torosesses, Lalala Coureuseusueseuesses, Coquette D1's, Brioso 300 Widebodies, and more.
+
+---
+
+To install just unzip and place the unzipped file into your stand/vehicles folder, by default this is usually 
+C:\Users\YOURNAME\AppData\Roaming\Stand\Vehicles
+
+To update from a previous date's collection, simply delete the entire old DSGV file, and replace it with the new one.
+
+You are welcome to bundle/repack these cars and distribute them with Stand or any GTAO scripts or GTAO mods, as long as there are no scams, viruses, trojans, or similar malicious intentions involved. Please DO NOT bundle these cars with other people's cheaply made, randomized cars with bad paintjobs, there are way too many of those already. Bundling them with other high-quality car packs is fine.
+
+If you get a 'Path Too Long' or similar error when unzipping, move the zip file to the base folder of your hard drive (meaning C: or D:, or whatever your hard drive is labeled), without any subfolders. This means to put the zip file directly into your C: or D: folder and not in C:\Windows\Downloads or C:\Users\YOURNAME\AppData\Roaming\Stand\Vehicles or any other set of subfolders. Then unzip it to the same location (C: or D: or wherever) that it has been placed in. Once it is unzipped move the unzipped folder into your Stand Vehicles folder.
+
+---
+
+*Spawning a Vehicle*
+
+To spawn a non-customized vehicle, in your Stand menu go to Vehicles tab, then Spawner, then Classes, select a category and then click the name of any vehicle to spawn it. Note that these will spawn without engine, turbo, transmission and similar vanilla upgrades if you have not adjusted your Spawner settings within Stand.
+
+To spawn a customized, pre-made vehicle, in your Stand menu go to Vehicles tab, then Garage, click on DSGV, pick any of the categories that appear, then click the name of the vehicle you want, then click on the exact paintjob you want.
+
+---
+
+*Customizing Bodywork*
+
+Before you fix a car's paint, you'll probably want to edit its body  - its spoiler, frame, bumpers and so on. If you've never edited a certain car before and you want to customize the bodywork, the easiest way to figure out how you want to make it look is to take it into an in-game car repair workshop, such as your Auto Shop business, your CEO Office's car workshop, your MOC, or any Los Santos Customs. These places usually have very good lighting, the camera zooms in to the part you are looking at so you can see it clearly, and it's much less likely for people to attack you, interrupt you, or delete your car while you are working on it. After you've decided how you want to design it you can leave and very quickly edit your vehicle in Stand.
+
+---
+
+*Finish and Value Sliders*
+
+Two things many newcomers miss within Stand's Los Santos Customs menu are the Texture (Finish) and Value Sliders. Finish is straightforward - it's how you select Chrome, Metal, Chameleon and so on.
+
+The Value slider is very useful - Any RGB you have set as your Primary or Secondary paint can be adjusted with the Value slider and it will stay in proper proportion. You can use this to quickly make matching Secondary paints, Neons, or Tire Smoke colors. Set the RGB to the same RGB as your primary, then adjust the Value slider up or down to make it darker or lighter.
+
+---
+
+*Forge LSC Method of Saving Cars to an In-Game Garage*
+
+I suggest that when you finish making or modifying a car, you first save it to your Stand Garage, then re-spawn it, before you forge LSC and save in your in-game garage. If you make or modify a car, but don't save it to your Stand Garage and then re-spawn it before saving it to your in-game garage, whatever you modified may not save right.
+
+In order to save a vehicle to your in-game Garage, spawn the vehicle you want to save.
+
+Edit it to your liking, save it to Stand Garage, then respawn it from Stand Garage.
+
+Before you enter LSC, activate "Forge Model for LSC" in the Stand Vehicles Tab.
+
+Drive into LSC (ignore the word 'Tailgater', 'Ruffian', or any other vehicle name that pops up).
+
+Scroll down to 'Loss and Theft Protection' in LSC and click it.
+
+Once the words Tracker and Full Coverage appear, turn off "Forge Model for LSC" in Stand.
+
+Buy the Tracker.
+
+Either buy the Full Coverage in LSC (may be expensive) or buy it in the Auto Shop for free.
+
+Done!
+
+Note that vehicles with a modded RGB for both the Primary and Secondary paints will often only save with one or the other, not both.
+
+---
+
+*File Naming System Explained*
+
+Banshee 900R Red19ChromeBlack0UtilBrightRedPearl
+Banshee 900R - Red 19 - Chrome Black 0 - Util Bright Red Pearl
+
+Primary paint: Red with a highest RGB value of 19 (so a very dark Red). It doesn't have a texture in front of the color which means it is glossy - most of the time this will be Chameleon texture, but a few are in Classic/Normal or Metallic texture
+
+Secondary paint: Chrome texture colored Black with a highest RGB value of 0 (so the darkest Black)
+
+Pearl: Util Bright Red (which is the brightest Red)
+
+Livery: None
+
+
+Brioso 300 Widebody MetalPurple60ChromeBluePearl 69
+Brioso 300 Widebody - Metal Purple 60 - Chrome - Blue Pearl - 69
+
+Primary paint: Metal texture colored Purple with a highest RGB value of 60 (so a dark Purple)
+
+Secondary paint: Chrome texture with no color change applied
+
+Pearl: Blue (which is the brightest Cyan/Aqua Blue)
+
+Livery: Has a number 69 on it
+
+
+Futo Original White191White191DiamondBluePearl Anime
+White is the only color that gets recorded by its lowest RGB value.
+
+
+When two of the same vehicles have the same highest RGB's their RGB is listed in order, like this:
+
+Motorcycle Reever Blue0,0,145Blue145BluePearl
+This Reever has a Primary RGB of Red 0, Green 0, Blue 145
+
+Motorcycle Reever Blue30,0,145Blue145BluePearl
+This Reever has a Primary RGB of Red 30, Green 0, Blue 145
+
+
+Stripped, Armored, Alt, Mini, Weaponized, SD etc
+
+Vehicles labeled Stripped have had certain parts of their bodywork, armor, or weapons removed.
+
+Vehicles labeled Armored MAY be some degree of bullet-resistant or bulletproof and MAY be able to resist some explosions.
+
+Vehicles labeled Alt are an alternate version of a vehicle with the same paintjob.
+
+Vehicles labeled Mini, DualMini, GL etc have a minigun, dual miniguns, grenade launcher or similar weapons mounted on them.
+
+Vehicles labeled Weaponized have some kind of built in weaponry, usually machine guns, rockets, mines, and so on. Cars that only have a built-in machine gun for the driver were mostly left out of this folder as everyone tends to want something with heavier armor and more firepower for pvp/pve.
+
+Vehicles labeled SD are altered versions of cars I found on Stand Discord.
+
+Vehicles labeled ColorChanging have paints and textures that look different colors in light and darkness.
+
+---
+
+*Example Files Explained*
+
+The 'Basic Textures' Examples folder contains 9 Kriegers, one in each commonly requested texture (Chrome, Various Colored Chromes, Matte, Chameleon, and Colored Metal) that you can drop to quickly get an idea of what you can make.
+
+The 'Black Texture' Examples folder contains 11 Tampas you can drop to see how various Black textures look when paired together.
+
+The 'Dark Gold Metal' Examples folder contains 20 Niobes in a range of combinations of Metal Gold5, Gold15, Gold30, Gold51, and Rockstar's Gold71.
+
+The 'Dark Gold Matte' Examples folder contains 10 Drift Sentinel Classic Widebodies with dark Gold paint in Matte texture.
+
+The 'Colored Metal' Examples folder contains 16 Drift Yosemites made with different RGB's.
+
+The 'Hot Pink Chameleon' Examples folder contains 33 Drift Sentinel Classic Widebodies combining different Shades of Hot Pink with different Pearls.
+
+The 'Color Changing' Examples folder contains various cars painted to look one color in direct sunlight and another in darkness.
+
+---
+
+*Questions I Get Asked*
+
+Did you do all of these yourself?
+
+Except for a few which are upgraded versions of cars I found abandoned or picked up from other modders, I put them all together one by one using Stand and LazScript. No one helped me make and edit them. 
+
+
+How long did it take?
+
+The first 3000 I did very slowly over about 6 months, however most of these were terrible, maybe 800 were worth keeping. The rest only took 3 or 4 months.
+
+
+Did you create all the texture/color combos?
+
+No, I came up with about half of them on my own, the rest were from abandoned cars I found, one or two came from youtube videos. 'Metal Purple 60 with Blue Pearl', 'Pink 30', 'Pink 68', and 'White 191 with Diamond Blue Pearl' are examples of combos I found on a single abandoned car at some point and started using. Blacklight and dark Gold Metal are examples of combos I came up with on my own. I can't name any that came from youtube, those were all so mid I only made one or two cars with them.
+
+
+Did you get any of these cars or ideas from Stand Discord?
+
+I didn't join it until the day I posted this collection. For the update I posted later, I included a few cars from Stand Discord, and labeled them with an 'SD' tag on the end. 'Purple 33' came from Stand Discord.
+
+
+Why did you make this?
+
+It started as just my personal collection and stuff I made for other people. When it was around 800 paintjobs someone mentioned that it was becoming a pretty thorough collection and that other modders would like it, so I began to put effort into expanding it to make it something really nice for everyone. At one point I was making 500 - 700 paintjobs a day, which was like 15 - 18 hours of work, with two 1-hour breaks. If I had known back then how to make them as fast as I can now, there would be over 20 times as many cars here, easily.
+
+
+Which do you think came out best?
+
+The Stripped Future Shock Deathbikes, Shotaros, Tezeracts, Blacklight Insurgent Pick-Up Customs, and Blacklight Alpha Z-1 Planes. The FS Deathbikes and Comet Retro Customs are probably the most fun to make imo.
+
+
+When gifting cars still worked, which were the most popular?
+
+1st: The overwhelmingly most popular was '10F Widebody ChromePurple255Pink118HotPinkPearl Japanese'. 
+2nd: 'Chino Custom MetalGold71ChromeYellowPearlRaceYellowPearl YellowTribal'. 
+3rd: Probably a Scramjet with an Anime livery, any Deluxo, or any Op Mk2. 
+
+
+Which paint combos were the most popular?
+
+1st: Dark Gold Metals with Yellow Pearls.
+2nd: Colored Chromes - Gold with a Yellow Pearl and bright Neon Purples/Hot Pinks with Hot Pink Pearls, especially, but all bright neon Colored Chromes, really.
+3rd: Hard to say, but maybe Rockstar's default Gold Metal 71 with a Worn Yellow Pearl.
+
+
+Do you have any paintjobs you don't share?
+
+I made at least 1000 - 2000 more, but I deleted them because they just weren't good enough. Everything I didn't delete is included here.
+
+
+Will you make me a car?
+
+Use the templates in the 'Color Combos I Use' text to make your own. Remember to set your paint texture correctly *EVERY TIME* before you start making cars, and if you use LazScript, remember that adding a Pearl also changes the color of your Wheels, and vice-versa.
+
+
+Can I add you in GTA?
+
+Why would you want to? I'm very boring. Go make your own cars, or go drive these cars, or go share them with other modders :P
+
+
+Can you sum up the secrets of the universe?
+
+Everything in life is cause and effect, so when we help others, we often create the causes for ourselves to be helped, and when we harm others, we often create the causes for ourselves to be harmed. 
+
+If you think that sounds like BS, try walking around smiling at random people and you will see that they often smile back, while if you walk around acting like you are going to punch random people, even if you don't actually hit anyone, not only do they not smile but sooner or later someone will respond to your aggression by hitting you first, or worse.
+
+So you see, what you put out long enough you begin to get back. "For every action there is an equal and opposite reaction" - that's physics, that's science - you heat a room long enough by radiating heat out from a stove, the room becomes warm and the walls begin to radiate heat back.
+
+What people usually don't realize is that this also often applies to our thoughts, words and emotions, not just our actions.
+
+Don't believe me?
+
+Let me put it like this - would you want, would you pay money, to live with a person that's known for thinking extremely hateful, malicious thoughts about themselves and other people all the time? 
+
+No, because you know they'll end up thinking those nasty thoughts about YOU, too, and then act on them - they'll almost certainly make your life some sort of hell because that's HOW THEY ARE, and those malicious thoughts and feelings they think and feel will easily turn into words they speak, and actions they commit, which screw you over.
+
+Well, look, what you need to understand is that people look at YOU when you are thinking nasty thoughts, saying nasty things, doing nasty things, displaying nasty emotions, *the same way* 
+
+You often lose opportunities with people who would otherwise be benefiting you when you are malicious, careless, thoughtless, and so on around them in the same way that you usually don't go back to someone's house if you find out they're an a**hole.
+
+People see your unpleasant emotional states - your depression, your selfishness, your anger - *just as clearly* as they smell rotting garbage, and it repels them in *just the same way*. 
+
+If you think about it, you'll realize that you often see the emotional states of others clearly like this, too - even if you are autistic, or have trouble sensing people's true motivations, still you tend to sense their *negative* emotional states.
+
+For example, if you are political, you likely often see the emotions of the opposing political parties as completely repellant, like garbage - you change the channel, you find an excuse walk away from the conversation. For you, they stink. For them, they're great.
+
+If you are not political, you probably find that almost all of the emotions people have about politics 'stink' to you like garbage, and repel you, and you generally don't understand why they think and feel that way.
+
+You see? 
+
+How you FEEL and THINK ends up being a big part of how people TREAT YOU, which leads to reinforcing how you FEEL and THINK. 
+
+So people who think of themselves and those around them as losers tend to lose, and people who think of themselves and those around them as winners tend to win, and every self-help bubba and high-school football coach in the world figured this out before most of us computer nerds did.
+
+If we were to see all things in this way, and modify the way we think, feel, act, and talk, we would create a better world, step by step, and stop needing to escape into video games.
+
+However, most people just sit around bad-mouthing each other all day, which deep down only makes everyone more miserable. 
+
+The world sucks for most people because we currently create our societies and culture to be a reflection of our own internal unhappiness - our greed, selfishness, narcissism and so on, and no one can change that but ourselves.
+
+No one can or will permanently change your life for the better except you.
+
+Deciding to love other people more than you hate them is a big step towards learning to love yourself more than you hate yourself, and you will find that when you no longer hate yourself, you no longer feel a need to trash-talk others. 
+
+This is why all of the so-called 'Holy' beings (who you may or may not consider legitimate) of the past taught some doctrine involving love - it's half of what makes us human (the other half being rationality - logic, insight, foresight, and so on).
+
+Having a great deal of love, heart, without having any mind, or rationality, will get you ripped off and abused. Having a lot of mind without any heart will make you into a very smart sort of monster who preys upon others, and finally becomes self-destructive, corrupted, like a fat, dying dragon sitting on a pile of gold it will never spend. 
+
+Many of the businesspeople, bankers, lawyers, and similar professions today - who often make the world a place less worth living in - are examples of what you become when you have 'all mind with no heart', while the every-day suckers they prey upon most, which probably includes some of your friends and family, are generally the ones with very little mind.
+
+You must find a middle way between these extremes of 'no heart' and 'no mind' to find a life worth living within our deeply-corrupted society.
+
+The people that currently are influencing children to lust after their own mothers, carry full-auto glocks they don't know how to use properly, sell drugs, j*rk off to cartoon ponies (or real ones), cheat on their partners, get off on watching their partner cheat, never get married/have kids/own property, have lots of loose sex, wear their pants around their ankles and gucci belts around their necks, misspell all their words, fail at learning anything in school, and to take lots of anti-depressants and Xanax when all of this ruins their lives, are definitely not anyone's friends and are not trying to help you succeed at anything except destroying yourself, and you are a complete tool if you haven't figured this out already.
+
+If you want to destroy multiple generations of young people you don't have to tell them to destroy themselves, you simply convince them that all the popular celebrities do self-destructive crap constantly.
+
+The end result is music and imagery that teaches kids how great it is to kill each other, to name themselves stuff like 'Shiesty', to brag about how much they love ripping off their family and friends, to believe that the greatest achievements in life are the benzos that kick in while getting head from a herpes-ridden thot in a helicopter - if you pay a lot of money to influencers they'll feed that kind of message to kids all day, every day, for years, *decades* even, and you can just sit back and watch while they destroy themselves, and rest secure that those younger generations will never pose any threat to you, your power, and your wealth.
+
+That's how the world actually works, kids.
+
+You better wise up.

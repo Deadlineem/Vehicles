@@ -1,0 +1,39 @@
+Model: toreador
+Plate Style: 0
+Plate Text:  VIRALL 
+Primary Colour: 117
+Secondary Colour: 161
+Pearl Colour: 18
+Wheel Colour: 55
+Wheel Type: 8
+Spoiler: 10
+Front Bumper: 9
+Rear Bumper: 9
+Grille: 10
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 1
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 6
+Front Wheels: 101
+Livery: 2
+Tyre Smoke Colour: #00ffd8
+Window Tint: 4
+Custom Primary Colour: #00ff37
+Custom Secondary Colour: #00ff37
+Neon Colour: #45ff02
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 11
+Dashboard Colour: 0
+Tyres Mode: 1

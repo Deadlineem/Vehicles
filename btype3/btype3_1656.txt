@@ -1,0 +1,48 @@
+Model: btype3
+Plate Style: 5
+Plate Text: SS B 88 
+Primary Colour: 0
+Secondary Colour: 2
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 2
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Chassis: 0
+Grille: 0
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Left Door: 0
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #000002
+Neon Colour: #b302ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 26
+Dashboard Colour: 0
+Tyres Mode: 1

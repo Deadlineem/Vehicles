@@ -1,0 +1,37 @@
+Model: fmj
+Plate Style: 0
+Plate Text: 90KDP842
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 140
+Wheel Colour: 131
+Wheel Type: 8
+Spoiler: 5
+Front Bumper: 3
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 5
+Front Wheels: 107
+Livery: -1
+Tyre Smoke Colour: #106657
+Window Tint: 1
+Custom Primary Colour: #106657
+Custom Secondary Colour: #106657
+Neon Colour: #00fff6
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

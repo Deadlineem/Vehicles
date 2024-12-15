@@ -1,0 +1,57 @@
+Model: calico
+Plate Style: 1
+Plate Text:  MENGO  
+Primary Colour: 120
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 140
+Wheel Type: 8
+Spoiler: 2
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 24
+Exhaust: 9
+Chassis: 7
+Grille: 1
+Hood: 24
+Fender: 3
+Roof: 18
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 2
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 108
+Plate Holder: 0
+Dashboard: 4
+Seats: 7
+Door Speaker: 13
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 8
+Struts: 11
+Arch Cover: 0
+Aerials: 5
+Trim2: 0
+Tank: 0
+Right Door: 0
+Livery: 0
+Tyre Smoke Colour: #00fffa
+Window Tint: 0
+Custom Primary Colour: #00fffa
+Custom Secondary Colour: #00fffa
+Neon Colour: #00fff6
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 3
+Dashboard Colour: 111
+Tyres Mode: 2

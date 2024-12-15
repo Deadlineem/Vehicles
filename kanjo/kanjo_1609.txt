@@ -1,0 +1,49 @@
+Model: kanjo
+Plate Style: 0
+Plate Text: 07XYN668
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 8
+Wheel Colour: 122
+Wheel Type: 5
+Spoiler: 6
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 1
+Exhaust: 2
+Chassis: 0
+Grille: 6
+Hood: 2
+Fender: 0
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 24
+Trim: 0
+Arch Cover: 0
+Windows: 2
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 6
+Custom Primary Colour: #32564f
+Custom Secondary Colour: #32564f
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No

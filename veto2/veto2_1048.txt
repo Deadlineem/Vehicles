@@ -1,0 +1,71 @@
+Model: veto2
+Plate Style: 0
+Plate Text: 05CGZ329
+Primary Colour: 38
+Secondary Colour: 38
+Pearl Colour: 37
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 0
+Exhaust: 11
+Chassis: 3
+Grille: 11
+Hood: 0
+Fender: 0
+Right Fender: 3
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 0
+Horns: 9
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Air Filter: 0
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Trim2: 0
+Tank: 0
+Windows: 0
+Unk47: 0
+Livery: 18
+Unk49: 2
+Tyre Smoke Colour: #ff7f00
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 70
+Roof Livery: 0
+Dashboard Colour: 132
+Tyres Mode: 1

@@ -1,0 +1,46 @@
+Model: club
+Plate Style: 5
+Plate Text:  SPICY  
+Primary Colour: 161
+Secondary Colour: 161
+Pearl Colour: 161
+Wheel Colour: 1
+Wheel Type: 5
+Spoiler: 8
+Front Bumper: 5
+Rear Bumper: 5
+Sideskirt: 1
+Exhaust: 8
+Chassis: 6
+Grille: 5
+Hood: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 49
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 8
+Front Wheels: 10
+Livery: 5
+Tyre Smoke Colour: #5500ff
+Window Tint: 6
+Custom Primary Colour: #0e1b33
+Custom Secondary Colour: #0e1b33
+Neon Colour: #5500ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes

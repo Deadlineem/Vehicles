@@ -1,0 +1,45 @@
+Model: sultan2
+Plate Style: 9
+Plate Text:   UWU   
+Primary Colour: 56
+Secondary Colour: 0
+Pearl Colour: 56
+Wheel Colour: 122
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 2
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 1
+Chassis: 0
+Grille: 3
+Hood: 0
+Fender: 1
+Right Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 55
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 2
+Front Wheels: 35
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 4
+Custom Primary Colour: 
+Custom Secondary Colour: #0f1f15
+Neon Colour: #0215ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 2

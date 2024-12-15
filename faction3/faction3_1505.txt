@@ -1,0 +1,50 @@
+Model: faction3
+Plate Style: 0
+Plate Text: 81UKN529
+Primary Colour: 38
+Secondary Colour: 73
+Pearl Colour: 37
+Wheel Colour: 88
+Wheel Type: 9
+Exhaust: 2
+Hood: 0
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 9
+Back Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 2
+Ornaments: 5
+Dial: 5
+Steering Wheel: 13
+Shifter Leavers: 15
+Plaques: 22
+Speakers: 2
+Trunk: 3
+Engine Block: 4
+Air Filter: 3
+Livery: 3
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #5eff01
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2
+Extra 2: No
+Extra 3: No

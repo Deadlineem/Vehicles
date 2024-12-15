@@ -1,0 +1,46 @@
+Model: impaler3
+Plate Style: 0
+Plate Text: 87PPS210
+Primary Colour: 0
+Secondary Colour: 120
+Pearl Colour: 91
+Wheel Colour: 5
+Wheel Type: 9
+Spoiler: 0
+Front Bumper: 0
+Rear Bumper: 1
+Chassis: 0
+Hood: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 102
+Air Filter: 4
+Struts: 0
+Arch Cover: 0
+Aerials: 0
+Tank: 1
+Livery: 0
+Tyre Smoke Colour: #101410
+Window Tint: 0
+Custom Primary Colour: #101410
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 120
+Dashboard Colour: 120
+Tyres Mode: 1

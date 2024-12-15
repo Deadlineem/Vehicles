@@ -1,0 +1,53 @@
+Model: tenf2
+Plate Style: 1
+Plate Text: NATSUKYY
+Primary Colour: 117
+Secondary Colour: 70
+Pearl Colour: 67
+Wheel Colour: 70
+Wheel Type: 8
+Spoiler: 3
+Front Bumper: 18
+Rear Bumper: 17
+Sideskirt: 16
+Exhaust: 21
+Grille: 0
+Hood: 11
+Fender: 6
+Right Fender: 0
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 39
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 176
+Vanity Plates: 16
+Trim: 1
+Dashboard: 3
+Seats: 2
+Door Speaker: 14
+Steering Wheel: 5
+Arch Cover: 1
+Aerials: 1
+Trim2: 4
+Livery: 2
+Tyre Smoke Colour: #00aeef
+Window Tint: 1
+Custom Primary Colour: #c1bfff
+Custom Secondary Colour: 
+Neon Colour: #2a00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 112
+Dashboard Colour: 74
+Tyres Mode: 1

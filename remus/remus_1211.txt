@@ -1,0 +1,60 @@
+Model: remus
+Plate Style: 0
+Plate Text: MONALISA
+Primary Colour: 0
+Secondary Colour: 62
+Pearl Colour: 2
+Wheel Colour: 6
+Wheel Type: 0
+Spoiler: 16
+Front Bumper: 6
+Rear Bumper: 1
+Sideskirt: 3
+Exhaust: 4
+Chassis: 5
+Grille: 0
+Hood: 8
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 2
+Front Wheels: 47
+Vanity Plates: 7
+Trim: 0
+Dashboard: 5
+Dial: 5
+Seats: 0
+Door Speaker: 1
+Steering Wheel: 14
+Trunk: 0
+Engine Block: 6
+Air Filter: 10
+Struts: 12
+Arch Cover: 0
+Trim2: 0
+Tank: 5
+Unk47: 1
+Livery: 7
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #b36429
+Custom Secondary Colour: 
+Neon Colour: #a500ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 8
+Dashboard Colour: 156
+Tyres Mode: 1

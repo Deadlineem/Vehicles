@@ -1,0 +1,44 @@
+Model: rapidgt3
+Plate Style: 1
+Plate Text:         
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 102
+Wheel Colour: 1
+Wheel Type: 1
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 3
+Sideskirt: 1
+Exhaust: 4
+Chassis: 1
+Grille: 0
+Fender: 1
+Right Fender: 2
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 41
+Suspension: 4
+Armor: 5
+Nitrous: Yes
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 18
+Livery: 2
+Tyre Smoke Colour: #ff4c00
+Window Tint: 1
+Custom Primary Colour: #1d4336
+Custom Secondary Colour: #1d4336
+Neon Colour: #1d4235
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 0
+Tyres Mode: 1

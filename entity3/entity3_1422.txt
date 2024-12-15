@@ -1,0 +1,44 @@
+Model: entity3
+Plate Style: 5
+Plate Text:   FVM   
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 111
+Wheel Colour: 134
+Wheel Type: 8
+Front Bumper: 1
+Rear Bumper: 1
+Sideskirt: 8
+Exhaust: 13
+Grille: 2
+Fender: 2
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 42
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 79
+Shifter Leavers: 0
+Speakers: 0
+Livery: 2
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #3b00ff
+Custom Secondary Colour: #3b00ff
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 89
+Tyres Mode: 1

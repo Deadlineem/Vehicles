@@ -1,0 +1,40 @@
+Model: tampa3
+Plate Style: 0
+Plate Text: 01WEZ417
+Primary Colour: 111
+Secondary Colour: 111
+Pearl Colour: 88
+Wheel Colour: 122
+Wheel Type: 10
+Front Bumper: 1
+Rear Bumper: 1
+Chassis: 0
+Hood: 0
+Right Fender: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 41
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 61
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #28000a
+Custom Secondary Colour: #28000a
+Neon Colour: #dedeff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

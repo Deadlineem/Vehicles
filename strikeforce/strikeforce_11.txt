@@ -1,0 +1,33 @@
+Model: strikeforce
+Plate Style: 0
+Plate Text: 67UQY984
+Primary Colour: 0
+Secondary Colour: 120
+Pearl Colour: 145
+Wheel Colour: 148
+Wheel Type: 9
+Front Bumper: 0
+Right Fender: 4
+Engine: 4
+Brakes: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 122
+Livery: 4
+Tyre Smoke Colour: #000000
+Window Tint: 5
+Custom Primary Colour: #56375b
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 2

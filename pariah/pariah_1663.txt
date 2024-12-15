@@ -1,0 +1,40 @@
+Model: pariah
+Plate Style: 1
+Plate Text: 81BME368
+Primary Colour: 24
+Secondary Colour: 32
+Pearl Colour: 111
+Wheel Colour: 122
+Wheel Type: 8
+Spoiler: 4
+Front Bumper: 6
+Rear Bumper: 2
+Sideskirt: 2
+Hood: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 3
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 13
+Front Wheels: 124
+Livery: 1
+Tyre Smoke Colour: #bf7fff
+Window Tint: 1
+Custom Primary Colour: #b19cd9
+Custom Secondary Colour: #b19cd9
+Neon Colour: #bf7fff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 65
+Tyres Mode: 1

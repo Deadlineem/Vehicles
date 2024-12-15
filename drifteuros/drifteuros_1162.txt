@@ -1,0 +1,56 @@
+Model: drifteuros
+Plate Style: 1
+Plate Text: 25TGN879
+Primary Colour: 111
+Secondary Colour: 35
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 16
+Front Bumper: 0
+Rear Bumper: 3
+Sideskirt: 2
+Exhaust: 4
+Chassis: 4
+Hood: 0
+Fender: 7
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 45, Custom
+Vanity Plates: 5
+Trim: 2
+Dashboard: 2
+Seats: 0
+Door Speaker: 13
+Steering Wheel: 4
+Engine Block: 0
+Air Filter: 1
+Struts: 4
+Arch Cover: 0
+Aerials: 5
+Trim2: 2
+Right Door: 1
+Livery: 13
+Tyre Smoke Colour: #e20606
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 30
+Dashboard Colour: 35
+Tyres Mode: 1

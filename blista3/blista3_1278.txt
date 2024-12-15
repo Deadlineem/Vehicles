@@ -1,0 +1,41 @@
+Model: blista3
+Plate Style: 0
+Plate Text: 47SQF954
+Primary Colour: 120
+Secondary Colour: 134
+Pearl Colour: 10
+Wheel Colour: 121
+Wheel Type: 10
+Spoiler: 3
+Sideskirt: 1
+Exhaust: 3
+Chassis: 1
+Hood: 2
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 1
+Livery: -1
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 2: No

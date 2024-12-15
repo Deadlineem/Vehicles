@@ -1,0 +1,58 @@
+Model: warrener2
+Plate Style: 0
+Plate Text: Y SUNUTU
+Primary Colour: 0
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 6
+Wheel Type: 0
+Spoiler: 0
+Front Bumper: 5
+Rear Bumper: 1
+Exhaust: 8
+Chassis: 0
+Grille: 0
+Hood: 5
+Fender: 2
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 7
+Vanity Plates: 6
+Trim: 6
+Dashboard: 0
+Dial: 4
+Seats: 9
+Door Speaker: 2
+Steering Wheel: 0
+Engine Block: 4
+Air Filter: 4
+Struts: 2
+Arch Cover: 0
+Aerials: 4
+Trim2: 1
+Tank: 0
+Unk47: 0
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #00008b
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 8
+Dashboard Colour: 156
+Tyres Mode: 1

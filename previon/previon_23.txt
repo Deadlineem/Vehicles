@@ -1,0 +1,59 @@
+Model: previon
+Plate Style: 0
+Plate Text: PREVION 
+Primary Colour: 117
+Secondary Colour: 117
+Pearl Colour: 18
+Wheel Colour: 118
+Wheel Type: 10
+Spoiler: 10
+Front Bumper: 4
+Rear Bumper: 2
+Sideskirt: 5
+Exhaust: 7
+Chassis: 5
+Grille: 5
+Hood: 9
+Fender: 2
+Right Fender: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 28
+Vanity Plates: 8
+Trim: 8
+Dashboard: 4
+Dial: 4
+Seats: 0
+Door Speaker: 14
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 25
+Struts: 20
+Arch Cover: 9
+Aerials: 6
+Windows: 1
+Unk47: 0
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 1
+Custom Primary Colour: #3f05ff
+Custom Secondary Colour: #3f05ff
+Neon Colour: #4305ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 32
+Dashboard Colour: 156
+Tyres Mode: 1

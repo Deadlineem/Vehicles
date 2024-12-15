@@ -1,0 +1,57 @@
+Model: peyote3
+Plate Style: 1
+Plate Text: 09AIO297
+Primary Colour: 53
+Secondary Colour: 147
+Pearl Colour: 53
+Wheel Colour: 37
+Wheel Type: 2
+Exhaust: 3
+Chassis: 1
+Grille: 3
+Hood: 4
+Right Fender: 1
+Engine: 0
+Brakes: 0
+Transmission: 0
+Horns: 0
+Armor: 0
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 4, Custom
+Back Wheels: 1
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dial: 0
+Steering Wheel: 0
+Shifter Leavers: 0
+Plaques: 0
+Speakers: 0
+Trunk: 0
+Hydraulics: 0
+Engine Block: 0
+Aerials: 0
+Tank: 0
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 132
+Tyres Mode: 2
+Extra 1: No
+Extra 2: No
+Extra 3: No
+Extra 4: No

@@ -1,0 +1,46 @@
+Model: zhaba
+Plate Style: 5
+Plate Text:  BOBBY  
+Primary Colour: 111
+Secondary Colour: 111
+Pearl Colour: 0
+Wheel Colour: 134
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 1
+Rear Bumper: 1
+Sideskirt: 8
+Exhaust: 9
+Chassis: 1
+Grille: 0
+Fender: 2
+Right Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 2
+Horns: 39
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 7
+Livery: 26
+Tyre Smoke Colour: #460299
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ae7fff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes
+Extra 3: Yes

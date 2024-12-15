@@ -1,0 +1,47 @@
+Model: greenwood
+Plate Style: 5
+Plate Text: 98PVY082
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 111
+Wheel Type: 10
+Spoiler: 11
+Front Bumper: 4
+Rear Bumper: 2
+Sideskirt: 2
+Exhaust: 12
+Chassis: 1
+Grille: 2
+Fender: 11
+Right Fender: 1
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 69
+Air Filter: 10
+Arch Cover: 5
+Trim2: 2
+Livery: 2
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #ffff00
+Custom Secondary Colour: #ffff00
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

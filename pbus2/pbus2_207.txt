@@ -1,0 +1,41 @@
+Model: pbus2
+Plate Style: 5
+Plate Text:     WOAH
+Primary Colour: 117
+Secondary Colour: 0
+Pearl Colour: 89
+Wheel Colour: 134
+Wheel Type: 8
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 41
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 5
+Front Wheels: 108
+Livery: 0
+Tyre Smoke Colour: #82ff96
+Window Tint: 6
+Custom Primary Colour: #7fff96
+Custom Secondary Colour: #7fff96
+Neon Colour: #7fff96
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 50
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes
+Extra 3: Yes
+Extra 4: Yes
+Extra 5: Yes
+Extra 6: Yes
+Extra 7: Yes

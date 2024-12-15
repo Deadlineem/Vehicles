@@ -1,0 +1,40 @@
+Model: slamtruck
+Plate Style: 0
+Plate Text: 04UKY513
+Primary Colour: 0
+Secondary Colour: 89
+Pearl Colour: 89
+Wheel Colour: 89
+Wheel Type: 10
+Front Bumper: 1
+Sideskirt: 2
+Exhaust: 3
+Grille: 9
+Hood: 4
+Right Fender: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 35
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 7
+Front Wheels: 120
+Back Wheels: 0
+Livery: 17
+Tyre Smoke Colour: #fcee00
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ffff00
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

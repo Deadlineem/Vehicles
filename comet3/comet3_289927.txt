@@ -1,0 +1,50 @@
+Model: comet3
+Plate Style: 5
+Plate Text:   K3Y   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 129
+Wheel Type: 12
+Spoiler: 2
+Front Bumper: 0
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 1
+Chassis: 0
+Hood: 0
+Fender: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 11
+Trim: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 0
+Struts: 4
+Aerials: 0
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #012d3d
+Custom Secondary Colour: #012d3d
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 4
+Dashboard Colour: 111
+Tyres Mode: 2

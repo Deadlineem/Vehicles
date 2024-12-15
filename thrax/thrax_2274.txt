@@ -1,0 +1,42 @@
+Model: thrax
+Plate Style: 5
+Plate Text: 25IRR047
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 112
+Wheel Type: 8
+Spoiler: 9
+Front Bumper: 4
+Rear Bumper: 3
+Sideskirt: 5
+Exhaust: 10
+Chassis: 3
+Grille: 8
+Hood: 8
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 107
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 0
+Custom Primary Colour: #ffffff
+Custom Secondary Colour: #ffffff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 116
+Dashboard Colour: 65
+Tyres Mode: 1

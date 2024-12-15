@@ -1,0 +1,45 @@
+Model: nebula
+Plate Style: 0
+Plate Text: 46NUU128
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 10
+Spoiler: 7
+Front Bumper: 8
+Rear Bumper: 1
+Sideskirt: 0
+Exhaust: 3
+Chassis: 0
+Grille: 0
+Hood: 7
+Fender: 0
+Right Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 51
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 44
+Livery: 0
+Tyre Smoke Colour: #000000
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

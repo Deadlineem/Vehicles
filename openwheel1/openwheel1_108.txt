@@ -1,0 +1,44 @@
+Model: openwheel1
+Plate Style: 0
+Plate Text: 80QED170
+Primary Colour: 29
+Secondary Colour: 150
+Pearl Colour: 28
+Wheel Colour: 0
+Wheel Type: 9
+Spoiler: 6
+Front Bumper: 4
+Sideskirt: 4
+Exhaust: 3
+Engine: 4
+Brakes: 4
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 146
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: #a00000
+Custom Secondary Colour: #a00000
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: Yes
+Extra 3: Yes
+Extra 4: Yes
+Extra 5: Yes
+Extra 6: Yes

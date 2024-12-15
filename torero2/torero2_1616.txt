@@ -1,0 +1,44 @@
+Model: torero2
+Plate Style: 0
+Plate Text: 18DSQ884
+Primary Colour: 0
+Secondary Colour: 1
+Pearl Colour: 2
+Wheel Colour: 0
+Wheel Type: 7
+Spoiler: 19
+Front Bumper: 15
+Rear Bumper: 12
+Sideskirt: 17
+Exhaust: 14
+Chassis: 9
+Grille: 11
+Hood: 16
+Fender: 3
+Roof: 15
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 1
+Front Wheels: 40
+Livery: 11
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

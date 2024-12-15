@@ -1,0 +1,45 @@
+Model: vigero2
+Plate Style: 5
+Plate Text:  LUCAS  
+Primary Colour: 120
+Secondary Colour: 0
+Pearl Colour: 10
+Wheel Colour: 74
+Wheel Type: 8
+Spoiler: 3
+Front Bumper: 15
+Rear Bumper: 12
+Sideskirt: 10
+Exhaust: 7
+Chassis: 2
+Grille: 3
+Hood: 24
+Fender: 5
+Right Fender: 4
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 58
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 4
+Front Wheels: 114
+Livery: 1
+Tyre Smoke Colour: #000000
+Window Tint: 6
+Custom Primary Colour: #00f2ff
+Custom Secondary Colour: #00f2ff
+Neon Colour: #00f2ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

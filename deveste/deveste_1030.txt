@@ -1,0 +1,39 @@
+Model: deveste
+Plate Style: 0
+Plate Text: 42JPY403
+Primary Colour: 141
+Secondary Colour: 143
+Pearl Colour: 73
+Wheel Colour: 82
+Wheel Type: 0
+Spoiler: 9
+Front Bumper: 4
+Rear Bumper: 5
+Exhaust: 8
+Chassis: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Suspension: 1
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 3
+Front Wheels: 8
+Livery: 9
+Tyre Smoke Colour: #ffffff
+Window Tint: 2
+Custom Primary Colour: #000108
+Custom Secondary Colour: #080000
+Neon Colour: #0215ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

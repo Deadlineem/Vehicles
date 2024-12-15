@@ -1,0 +1,42 @@
+Model: caracara2
+Plate Style: 0
+Plate Text: C U B A 
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 0
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 1
+Front Bumper: 6
+Rear Bumper: 1
+Exhaust: 2
+Grille: 3
+Hood: 0
+Fender: 2
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 42
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 32
+Livery: 6
+Tyre Smoke Colour: #ff0000
+Window Tint: 4
+Custom Primary Colour: #ff0703
+Custom Secondary Colour: #ff0703
+Neon Colour: #f18e7b
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 156
+Tyres Mode: 1

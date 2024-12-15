@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 0
+Plate Text: 22JNI256
+Primary Colour: 29
+Secondary Colour: 29
+Pearl Colour: 28
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 3
+Front Bumper: 2
+Rear Bumper: 1
+Sideskirt: 2
+Exhaust: 2
+Chassis: 2
+Grille: 3
+Hood: 3
+Fender: 0
+Roof: 3
+Engine: 2
+Brakes: 1
+Transmission: 1
+Horns: 0
+Suspension: 2
+Armor: 2
+Unk17: No
+Turbo: No
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 1
+Front Wheels: 0
+Plate Holder: 0
+Vanity Plates: 0
+Trim: 0
+Dashboard: 0
+Dial: 15
+Seats: 7
+Door Speaker: 14
+Steering Wheel: 0
+Engine Block: 4
+Air Filter: 7
+Struts: 9
+Arch Cover: 6
+Aerials: 11
+Trim2: 2
+Tank: 4
+Windows: 2
+Livery: 8
+Tyre Smoke Colour: #cb3694
+Window Tint: 2
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff0101
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 4
+Tyres Mode: 1
